@@ -12,7 +12,7 @@
     "id": "energy",
     "name": "Radio Energy",
     "streamUrl": "https://pub0302.101.ru:8443/stream/air/aac/64/199",
-    "iconUrl": "https://example.com/logo.png",
+    "imageUrl": "https://example.com/logo.png",
     "genre": "Pop",
     "country": "Russia"
   },
@@ -21,7 +21,7 @@
     "id": "ru2",
     "name": "Радио Рекорд",
     "streamUrl": "https://radiorecord.hostingradio.ru/rr_128",
-    "iconUrl": "https://radiopotok.ru/f/station/256/10.png",
+    "imageUrl": "https://radiopotok.ru/f/station/256/10.png",
     "genre": "Dance",
     "country": "Russia"
   },
@@ -29,7 +29,7 @@
     "id": "ru3",
     "name": "Дорожное Радио",
     "streamUrl": "https://dorognoe.hostingradio.ru:8000/dorognoe_128",
-    "iconUrl": "https://radiopotok.ru/f/station/256/3.png",
+    "imageUrl": "https://radiopotok.ru/f/station/256/3.png",
     "genre": "Retro",
     "country": "Russia"
   },
@@ -37,7 +37,7 @@
     "id": "md1",
     "name": "Radio Noroc",
     "streamUrl": "https://live.radionoroc.md:8443/noroc.mp3",
-    "iconUrl": "https://radionoroc.md/favicon.ico",
+    "imageUrl": "https://radionoroc.md/favicon.ico",
     "genre": "Folk",
     "country": "Moldova"
   },
@@ -45,7 +45,7 @@
     "id": "us1",
     "name": "New York Jazz",
     "streamUrl": "http://85.25.210.3:8100/jazz-128.mp3",
-    "iconUrl": "https://www.nycjazz.com/favicon.ico",
+    "imageUrl": "https://www.nycjazz.com/favicon.ico",
     "genre": "Jazz",
     "country": "USA"
   },
@@ -53,11 +53,12 @@
     "id": "fr1",
     "name": "NRJ France",
     "streamUrl": "https://scdn.nrjaudio.fm/adwapi/php/wm/get.php?id=1",
-    "iconUrl": "https://www.nrj.fr/favicon.ico",
+    "imageUrl": "https://www.nrj.fr/favicon.ico",
     "genre": "Pop",
     "country": "France"
   }
 
 ]
+
 
 
