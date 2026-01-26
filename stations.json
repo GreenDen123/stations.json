@@ -2,8 +2,8 @@
   {
     "id": "ru1",
     "name": "Европа Плюс",
-    "streamUrl": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "iconUrl": "https://radiopotok.ru/f/station/256/1.png",
+    "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3?a5aa305c",
+    "iconUrl": "https://online-red.com/images/radio-logo/europa-plus.png",
     "genre": "Pop",
     "country": "Russia"
   },
@@ -57,4 +57,5 @@
     "genre": "Pop",
     "country": "France"
   }
+
 ]
