@@ -4,32 +4,305 @@
     "name": "Европа Плюс",
     "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3?a5aa305c",
     "imageUrl": "https://admin.europaplus.ru/mf/p/334746/front_channels/000/000032/cover/b2f61bc6896bb1cec5a29a2de38adffa.webp",
-    "genre": "Pop",
-    "country": "Russia"
-  },
-
-  {
-    "id": "energy",
-    "name": "Radio Energy",
-    "streamUrl": "https://pub0302.101.ru:8443/stream/air/aac/64/199",
-    "imageUrl": "https://example.com/logo.png",
-    "genre": "Pop",
+    "genre": "Top Radio",
     "country": "Russia"
   },
 
   {
     "id": "ru2",
-    "name": "Радио Рекорд",
-    "streamUrl": "https://radiorecord.hostingradio.ru/rr_128",
-    "imageUrl": "https://radiopotok.ru/f/station/256/10.png",
-    "genre": "Dance",
+    "name": "Русское Радио",
+    "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp?4b42",
+    "imageUrl": "https://online-red.com/images/radio-logo/RUS-radio.png",
+    "genre": "Top Radio",
+    "country": "Russia"
+  },
+
+  {
+    "id": "ru3",
+    "name": "Авторадио ",
+    "streamUrl": "https://",
+    "imageUrl": "https://online-red.com/images/radio-logo/Avtoradio.png",
+    "genre": "Top Radio",
     "country": "Russia"
   },
   {
-    "id": "ru3",
-    "name": "Дорожное Радио",
-    "streamUrl": "https://dorognoe.hostingradio.ru:8000/dorognoe_128",
-    "imageUrl": "https://radiopotok.ru/f/station/256/3.png",
+    "id": "ru4",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Top Radio",
+    "country": "Russia"
+  },
+  {
+    "id": "ru5",
+    "name": "Хит FM",
+    "streamUrl": "https://hitfm.hostingradio.ru/hitfm128.mp3?d824e56f",
+    "imageUrl": "https://online-red.com/images/radio-logo/hit-fm.png",
+    "genre": "Top Radio",
+    "country": "Russia"
+  },
+  {
+    "id": "ru6",
+    "name": "Радио TOP 100",
+    "streamUrl": "https://ic2.radiosignal.one/top100",
+    "imageUrl": "https://radiopotok.ru/f/station_webp/256/1992.webp",
+    "genre": "Top Radio",
+    "country": "Russia"
+  },
+  
+  {
+    "id": "ru7",
+    "name": "Радио Маруся ФМ",
+    "streamUrl": "https://msk17.radio-holding.ru/marusya_default",
+    "imageUrl": "https://radiopotok.ru/f/station_webp/256/1323.webp",
+    "genre": "Top Radio",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Top Radio",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Top Radio",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Top Radio",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru5",
+    "name": "Русская Волна",
+    "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
+    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
     "genre": "Retro",
     "country": "Russia"
   },
@@ -59,6 +332,7 @@
   }
 
 ]
+
 
 
 
