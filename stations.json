@@ -3,7 +3,7 @@
     "id": "ru1",
     "name": "Европа Плюс",
     "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3?a5aa305c",
-    "imageUrl": "https://admin.europaplus.ru/mf/p/334746/front_channels/000/000032/cover/b2f61bc6896bb1cec5a29a2de38adffa.webp",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/europa-plus.webp",
     "genre": "Pop",
     "country": "Russia"
   },
@@ -11,7 +11,7 @@
     "id": "ru2",
     "name": "Русское Радио",
     "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp?4b42",
-    "imageUrl": "https://online-red.com/images/radio-logo/RUS-radio.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/rus-radio.webp",
     "genre": "Pop",
     "country": "Russia"
   },
@@ -19,7 +19,7 @@
     "id": "ru3",
     "name": "Авторадио ",
     "streamUrl": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
-    "imageUrl": "https://online-red.com/images/radio-logo/Avtoradio.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/avtoradio.webp",
     "genre": "Pop",
     "country": "Russia"
   },
@@ -27,7 +27,7 @@
     "id": "ru4",
     "name": "Русская Волна",
     "streamUrl": "https://ru1.amgradio.ru/RuWave48?adbc",
-    "imageUrl": "https://online-red.com/images/radio-logo/ru-volna.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/russkaya-volna.jpg",
     "genre": "Pop",
     "country": "Russia"
   },
@@ -35,7 +35,7 @@
     "id": "ru5",
     "name": "Хит FM",
     "streamUrl": "https://hitfm.hostingradio.ru/hitfm128.mp3?d824e56f",
-    "imageUrl": "https://online-red.com/images/radio-logo/hit-fm.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/xit-fm.webp",
     "genre": "Pop",
     "country": "Russia"
   },
@@ -59,7 +59,7 @@
     "id": "ru8",
     "name": "Дорожное Радио",
     "streamUrl": "https://dorognoe.hostingradio.ru:8000/dorognoe?08c436b1",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/ru/archive/e/eb/20250514123328%21Dorozhnoe_logo.jpg",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/dorojnoe-radio.webp",
     "genre": "Chanson",
     "country": "Russia"
   }, 
@@ -67,7 +67,7 @@
     "id": "ru9",
     "name": "Ретро FM",
     "streamUrl": "https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8",
-    "imageUrl": "https://online-red.com/images/radio-logo/Retro-FM.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/retro-fm.webp",
     "genre": "Retro",
     "country": "Russia"
   }, 
@@ -75,7 +75,7 @@
     "id": "ru10",
     "name": "Радио Дача",
     "streamUrl": "https://ic1.radiosignal.one/vanya",
-    "imageUrl": "https://101.ru/vardata/modules/channel/image/697742798dc9b.svg",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/radio-dacha.webp",
     "genre": "Pop",
     "country": "Russia"
   }, 
@@ -83,23 +83,23 @@
     "id": "ru11",
     "name": "Радио Шансон",
     "streamUrl": "https://chanson.hostingradio.ru:8041/chanson128.mp3?md5=GHEfRnl0h_VzIPnnjIkgyg&e=1769508759",
-    "imageUrl": "https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/radio-shanson.webp",
     "genre": "Chanson",
     "country": "Russia"
   }, 
   {
     "id": "ru12",
-    "name": "Радио Шансон (Иркутск 105,6 FM)",
-    "streamUrl": "https://live.nts-tv.ru:8443/Shanson?dcba1fc5",
-    "imageUrl": "https://online-red.com/images/radio-logo/chanson-irkutsk.png",
+    "name": "Радио Шансон Плюс",
+    "streamUrl": "https://radio.radioshansonplus.com:8055/radio",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/shanson-plus-11-let.webp",
     "genre": "Chanson",
     "country": "Russia"
   }, 
   {
     "id": "ru13",
     "name": "Юмор FM",
-    "streamUrl": "https://hls-01-gpm.hostingradio.ru/humorfm7/playlist.m3u8",
-    "imageUrl": "https://online-red.com/images/radio-logo/Umor-FM.png",
+    "streamUrl": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/102",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/yumor_fm.webp",
     "genre": "Pop",
     "country": "Russia"
   }, 
@@ -107,7 +107,7 @@
     "id": "ru14",
     "name": "Вести FM",
     "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps?8de6",
-    "imageUrl": "https://online-red.com/images/radio-logo/Vesti.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/vesti-fm.webp",
     "genre": "News",
     "country": "Russia"
   }, 
@@ -115,15 +115,15 @@
     "id": "ru15",
     "name": "Маяк",
     "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps?8d03",
-    "imageUrl": "https://online-red.com/images/radio-logo/mayak.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/radio_mayak_ru.webp",
     "genre": "Retro",
     "country": "Russia"
   }, 
   {
     "id": "ru16",
     "name": "Радио ENERGY",
-    "streamUrl": "https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8",
-    "imageUrl": "https://online-red.com/images/radio-logo/NRJ.png",
+    "streamUrl": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/99",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/energy-arm.png",
     "genre": "Pop",
     "country": "Russia"
   }, 
@@ -131,10 +131,194 @@
     "id": "ru17",
     "name": "Наше Радио",
     "streamUrl": "https://nashe1.hostingradio.ru/nashe-128.mp3?08eb",
-    "imageUrl": "https://online-red.com/images/radio-logo/nashe.png",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/nashe-radio.webp",
     "genre": "Rock",
     "country": "Russia"
   }, 
+  {
+    "id": "ru18",
+    "name": "Радио России",
+    "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-rossii.webp",
+    "genre": "News",
+    "country": "Russia"
+  }, 
+  {
+    "id": "md1",
+    "name": "Love Radio",
+    "streamUrl": "https://stream.mmgmoldova.md:8443/lovefm",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/love-radio-md.webp",
+    "genre": "Pop",
+    "country": "Moldova"
+  }, 
+  {
+    "id": "ru20",
+    "name": "Love Radio",
+    "streamUrl": "https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=BC6D5D509924F0A817FE6409425BEEAC",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/love-radio-md.webp",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru21",
+    "name": "Радио Монте-Карло",
+    "streamUrl": "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
+    "imageUrl": "https://radiopotok.ru/f/station_webp/512/603.webp",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru22",
+    "name": "Радио Рекорд",
+    "streamUrl": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-record.webp",
+    "genre": "Dance",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru23",
+    "name": "Радио 7",
+    "streamUrl": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-7-na-semi-holmah.webp",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru24",
+    "name": "Новое Радио",
+    "streamUrl": "https://stream.newradio.ru/novoe96.aacp",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/novoe-radio.webp",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru25",
+    "name": "Relax FM",
+    "streamUrl": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/200",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/relax-fm.webp",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru26",
+    "name": "MAXIMUM",
+    "streamUrl": "https://maximum.hostingradio.ru/maximum96.aacp",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-maximum.webp",
+    "genre": "Rock",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru27",
+    "name": "Звезда",
+    "streamUrl": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-zvezda.webp",
+    "genre": "Retro",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru28",
+    "name": "Business FM",
+    "streamUrl": "https://bfm.hostingradio.ru/bfm256.mp3",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/business-fm.png",
+    "genre": "Info",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru29",
+    "name": "Комсомольская Правда",
+    "streamUrl": "https://kpradio.hostingradio.ru:8000/128",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/komsomolskaya-pravda.png",
+    "genre": "Info",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru30",
+    "name": "Серебряный Дождь",
+    "streamUrl": "https://silverrain.hostingradio.ru/silver128.mp3",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/serebrianii-dojd.png",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru31",
+    "name": "Спутник",
+    "streamUrl": "https://icecast-rian.cdnvideo.ru/voicerus",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-sputnik-msk.png",
+    "genre": "Info",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru32",
+    "name": "Мир",
+    "streamUrl": "https://icecast-mirtv.cdnvideo.ru/radio_mir_256",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-mir.webp",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru33",
+    "name": "STUDIO 21",
+    "streamUrl": "https://stream.studio21.ru/studio2196.aacp",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/studio-21-radio.png",
+    "genre": "Hip Hop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru34",
+    "name": "Калина Красная",
+    "streamUrl": "https://stream.kalina.fm/kalina96.aacp",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/kalina-krasnaya.png",
+    "genre": "Chanson",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru35",
+    "name": "Радио Гордость",
+    "streamUrl": "https://rgordost.hostingradio.ru/rgordost64.aacp",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-gordost.jpg",
+    "genre": "Pop",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru36",
+    "name": "Радио JAZZ",
+    "streamUrl": "https://nashe1.hostingradio.ru:80/jazz-128.mp3",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/jazz-fm.jpg",
+    "genre": "Jazz",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru37",
+    "name": "Classic JAZZ",
+    "streamUrl": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/classic-jazz.png",
+    "genre": "Jazz",
+    "country": "Russia"
+  }, 
+  {
+    "id": "ru38",
+    "name": "JAZZ Legends",
+    "streamUrl": "https://jfm1.hostingradio.ru:14536/jlstream.mp3",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/jazz-legends.png",
+    "genre": "Jazz",
+    "country": "Russia"
+  },
+  {
+    "id": "md2",
+    "name": "Radio Noroc",
+    "streamUrl": "https://live.radionoroc.md:8443/noroc.mp3",
+    "imageUrl": "https://radionoroc.md/favicon.ico",
+    "genre": "Folk",
+    "country": "Moldova"
+  },
+  {
+    "id": "us1",
+    "name": "New York Jazz",
+    "streamUrl": "http://85.25.210.3:8100/jazz-128.mp3",
+    "imageUrl": "https://www.nycjazz.com/favicon.ico",
+    "genre": "Jazz",
+    "country": "USA"
+  },
   {
     "id": "fr1",
     "name": "NRJ France",
