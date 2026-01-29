@@ -1679,4 +1679,13 @@
     "genre": "genre_manele",
     "country": "country_romania"
   }
+  {
+    "id": "somaFM",
+    "name": "SomaFM",
+    "streamUrl": "http://ice1.somafm.com/groovesalad-128-mp3",
+    "imageUrl": "https://liviurhos.github.io/radio-stations/images/flomanele.png",
+    "genre": "genre_manele",
+    "country": "country_romania"
+  }
 ]
+
