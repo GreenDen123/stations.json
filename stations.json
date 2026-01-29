@@ -1679,4 +1679,13 @@
     "genre": "genre_manele",
     "country": "country_romania"
   }
+  {
+    "id": "SomaFM",
+    "name": "SomaFM",
+    "streamUrl": "http://ice1.somafm.com/groovesalad-128-mp3",
+    "imageUrl": "https://дддддддддддддддддддд.png",
+    "genre": "genre_pop",
+    "country": "country_romania"
+  }
 ]
+
