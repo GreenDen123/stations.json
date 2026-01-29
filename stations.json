@@ -188,7 +188,7 @@
     "name": "Relax FM",
     "streamUrl": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/200",
     "imageUrl": "https://topradio.me/assets/image/radio/180/relax-fm.webp",
-    "genre": "genre_pop",
+    "genre": "genre_relax",
     "country": "country_russia"
   }, 
   {
@@ -1679,16 +1679,4 @@
     "genre": "genre_manele",
     "country": "country_romania"
   }
-  {
-    "id": "SomaFM",
-    "name": "SomaFM",
-    "streamUrl": "http://ice1.somafm.com/groovesalad-128-mp3",
-    "imageUrl": "https://liviurhos.github.io/radio-stations/images/flomanele.png",
-    "genre": "genre_pop",
-    "country": "country_romania"
-  }
-  
 ]
-
-
-
