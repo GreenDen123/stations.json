@@ -960,20 +960,20 @@
     "country": "country_romania"
   },
   {
+    "id": "folk_bg",
+    "name": "Radio Folk BG",
+    "streamUrl": "http://listen.folkbg.net:8001/folkbg",
+    "imageUrl": "https://liviurhos.github.io/radio-stations/images/folkbg.png",
+    "genre": "genre_folk",
+    "country": "country_bulgaria"
+  },
+  {
     "id": "prob_România",
     "name": "Radio ProB România",
     "streamUrl": "https://live.radioprob.ro:8888/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioprob.png",
     "genre": "genre_dance",
     "country": "country_romania"
-  },
-  {
-    "id": "folk_bg",
-    "name": "Radio Folk BG",
-    "streamUrl": "http://listen.folkbg.net:8001/folkbg",
-    "imageUrl": "https://liviurhos.github.io/radio-stations/images/folkbg.png",
-    "genre": "genre_folk",
-    "country": "Bulgaria"
   },
   {
     "id": "one_fm",
@@ -1680,6 +1680,7 @@
     "country": "country_romania"
   }
 ]
+
 
 
 
