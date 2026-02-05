@@ -2272,14 +2272,6 @@
     "country": "country_romania"
   },
   {
-    "id": "folk_bg",
-    "name": "Radio Folk BG",
-    "streamUrl": "http://listen.folkbg.net:8001/folkbg",
-    "imageUrl": "https://liviurhos.github.io/radio-stations/images/folkbg.png",
-    "genre": "genre_folk",
-    "country": "Bulgaria"
-  },
-  {
     "id": "one_fm",
     "name": "One FM",
     "streamUrl": "https://live.onefm.ro/onefm.aacp",
@@ -2920,3 +2912,4 @@
     "country": "country_romania"
   }
 ]
+
