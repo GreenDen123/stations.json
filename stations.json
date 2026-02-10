@@ -290,7 +290,7 @@
   {
     "id": "ru39",
     "name": "Виктор Цой и группа КИНО",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/viktor-czoj-i-gruppa-kino/icecast.audio",
+    "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJhNWU1YjcwNjhmZTE4OTRhMDRiNGRiMzUzYTUwZjg4YSIsIklQIjoiOTQuMjQzLjcxLjQyIiwiVUEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ0LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJSZWYiOiJodHRwczovLzEwMS5ydS8iLCJ1aWRfY2hhbm5lbCI6IjEwMyIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJ0eXBlRGV2aWNlIjoiUEMiLCJCcm93c2VyIjoiQ2hyb21lIiwiQnJvd3NlclZlcnNpb24iOiIxNDQuMC4wLjAiLCJTeXN0ZW0iOiJXaW5kb3dzIDEwIiwiZXhwIjoxNzcwNzU0MjUyfQ.1fXmdY8D6atAvL6WonZ4bTJEGdv_VhmPHxkst6HquYo",
     "imageUrl": "https://topradio.me/assets/image/radio/180/viktor-tcoi.png",
     "genre": "genre_rock",
     "country": "country_russia"
@@ -306,7 +306,7 @@
   {
     "id": "ru41",
     "name": "Disney",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/disney/icecast.audio",
+    "streamUrl": "https://24283.live.streamtheworld.com/DISNEY_ECU_GY.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/180/disney-radio.png",
     "genre": "genre_kids",
     "country": "country_russia"
@@ -338,7 +338,7 @@
   {
     "id": "ru45",
     "name": "Старое Радио Детское",
-    "streamUrl": "https://new.vobook.ru/http://server.audiopedia.su:8000/detskoe128",
+    "streamUrl": "https://www.staroeradio.ru/radio/detskoe128",
     "imageUrl": "https://topradio.me/assets/image/radio/180/star-det.jpg",
     "genre": "genre_kids",
     "country": "country_russia"
@@ -370,7 +370,7 @@
   {
     "id": "ru49",
     "name": "KIDS HITS - Детский Хит",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/kids-hits/icecast.audio",
+    "streamUrl": "http://45.67.32.175/listen/kids-hits/kids-hits",
     "imageUrl": "https://topradio.me/assets/image/radio/180/kids-hits.png",
     "genre": "genre_kids",
     "country": "country_russia"
@@ -394,7 +394,7 @@
   {
     "id": "ru52",
     "name": "Ребячья Республика",
-    "streamUrl": "https://vobook.ru/http://live.radio7.su:9000/deti",
+    "streamUrl": "http://live.radio7.su:9000/deti",
     "imageUrl": "https://topradio.me/assets/image/radio/180/rebiachia-resp.png",
     "genre": "genre_kids",
     "country": "country_russia"
@@ -482,7 +482,7 @@
   {
     "id": "ru63",
     "name": "Юное Радио",
-    "streamUrl": "https://vobook.ru/http://xn--80aibovgem6j.xn--p1ai:8000/live256",
+    "streamUrl": "http://xn--80aibovgem6j.xn--p1ai:8000/live256",
     "imageUrl": "https://topradio.me/assets/image/radio/180/yunoe-radio.webp",
     "genre": "genre_kids",
     "country": "country_russia"
@@ -594,7 +594,7 @@
   {
     "id": "ru78",
     "name": "Радио Ваня",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/vania/icecast.audio",
+    "streamUrl": "https://listen.radio.tomsk.ru/vanya",
     "imageUrl": "https://topradio.me/assets/image/radio/180/radio-vanya.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -634,7 +634,7 @@
     {
     "id": "ru83",
     "name": "Радио Для Двоих",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/fortwo/icecast.audio",
+    "streamUrl": "https://stream02.pcradio.ru/rddfm_ru-med",
     "imageUrl": "https://topradio.me/assets/image/radio/180/radio-dlya-dvoih.jpg",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -668,14 +668,6 @@
     "name": "Континенталь",
     "streamUrl": "https://stream01.radiocon.ru:8443/live",
     "imageUrl": "https://topradio.me/assets/image/radio/180/kontinental.webp",
-    "genre": "genre_pop",
-    "country": "country_russia"
-  },
-  {
-    "id": "ru88",
-    "name": "День",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/den/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-den.jpg",
     "genre": "genre_pop",
     "country": "country_russia"
   },
@@ -768,14 +760,6 @@
     "country": "country_russia"
   },
   {
-    "id": "ru100",
-    "name": "Радио 80",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/r-80-russia/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-80-volg.png",
-    "genre": "genre_retro",
-    "country": "country_russia"
-  },
-  {
     "id": "ru101",
     "name": "Русский Рок",
     "streamUrl": "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
@@ -840,14 +824,6 @@
     "country": "country_russia"
   },
   {
-    "id": "ru109",
-    "name": "Таван Радио",
-    "streamUrl": "https://new.vobook.ru/icecast.ntrk21.ru:8000/tavan",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/tavan-radio.webp",
-    "genre": "genre_folk",
-    "country": "country_russia"
-  },
-  {
     "id": "ru110",
     "name": "Ностальжи",
     "streamUrl": "https://icecast-bulteam.cdnvideo.ru/Nostalgie",
@@ -869,14 +845,6 @@
     "streamUrl": "https://listen9.myradio24.com/6262",
     "imageUrl": "https://topradio.me/assets/image/radio/180/spokoinoe-radio.png",
     "genre": "genre_relax",
-    "country": "country_russia"
-  },
-  {
-    "id": "ru113",
-    "name": "Любимое Радио",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/lybimoe_radio.webp",
-    "genre": "genre_retro",
     "country": "country_russia"
   },
   {
@@ -938,7 +906,7 @@
   {
     "id": "md5",
     "name": "Радио Алла",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/radio-alla/icecast.audio",
+    "streamUrl": "https://pub0102.101.ru:8443/stream/personal/aacp/64/936421",
     "imageUrl": "https://topradio.me/assets/image/radio/180/alla-radio.png",
     "genre": "genre_pop",
     "country": "country_moldova"
@@ -956,14 +924,6 @@
     "name": "Radio Plai",
     "streamUrl": "https://stream.radioplai.md/live",
     "imageUrl": "https://topradio.me/assets/image/radio/180/plai-md.png",
-    "genre": "genre_pop",
-    "country": "country_moldova"
-  },
-  {
-    "id": "md8",
-    "name": "Radio 21",
-    "streamUrl": "https://new.vobook.ru/http://217.26.167.180:8083/Radio21.mp3",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/21-moldova.png",
     "genre": "genre_pop",
     "country": "country_moldova"
   },
@@ -1354,7 +1314,7 @@
   {
     "id": "md57",
     "name": "Radio Dar",
-    "streamUrl": "https://new.vobook.ru/http://188.138.191.214:8000/RadioDarSource",
+    "streamUrl": "https://stream.radioplayer.md:8443/RadioDar",
     "imageUrl": "https://topradio.me/assets/image/radio/180/radio-dar.webp",
     "genre": "genre_pop",
     "country": "country_moldova"
@@ -1421,22 +1381,6 @@
     "streamUrl": "https://stream03.pcradio.biz/Armin_van_buuren-med",
     "imageUrl": "https://topradio.me/assets/image/radio/180/armin-van.jpg",
     "genre": "genre_electronic",
-    "country": "country_usa"
-  },
-  {
-    "id": "usa5",
-    "name": "Radio Sax4Love",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/sax4love/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/Sax4Love.jpg",
-    "genre": "genre_relax",
-    "country": "country_usa"
-  },
-  {
-    "id": "usa6",
-    "name": "Big Blue Swing",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/big-blue-swing/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/big-blue-swing.png",
-    "genre": "genre_jazz",
     "country": "country_usa"
   },
   {
@@ -1512,14 +1456,6 @@
     "country": "country_usa"
   },
   {
-    "id": "usa16",
-    "name": "The 1920 Radio Network",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/the-1920-network/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/The%201920%20Network.png",
-    "genre": "genre_relax",
-    "country": "country_usa"
-  },
-  {
     "id": "usa17",
     "name": "Hot 97.7",
     "streamUrl": "https://kathy.torontocast.com:3785/stream",
@@ -1572,14 +1508,6 @@
     "name": "181.fm Chilled Out",
     "streamUrl": "https://listen.181fm.com/181-chilled_128k.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/180/181-fm-chilled.png",
-    "genre": "genre_relax",
-    "country": "country_usa"
-  },
-  {
-    "id": "usa24",
-    "name": "Echoes of Bluemars Cryosleep",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/echoes-of-bluemars/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/echoes-of-bluemars.jpg",
     "genre": "genre_relax",
     "country": "country_usa"
   },
@@ -1741,14 +1669,6 @@
     "streamUrl": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
     "imageUrl": "https://topradio.me/assets/image/radio/180/day-dee-eurodance-radio.jpg",
     "genre": "genre_dance",
-    "country": "country_usa"
-  },
-  {
-    "id": "usa45",
-    "name": "Davidzon Radio 620 AM",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/davidzon-620-am/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/davidzon-620-am.jpg",
-    "genre": "genre_info",
     "country": "country_usa"
   },
   {
@@ -2214,17 +2134,9 @@
     "imageUrl": "https://topradio.me/assets/image/radio/180/shanson-plus-11-let.webp",
     "genre": "genre_chanson",
     "country": "country_ucraina"
-  },
+  },  
   {
-    "id": "ua24",
-    "name": "Shark",
-    "streamUrl": "https://russia.radiosolo.ru/radio_ru/shark-fm/icecast.audio",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/shark.webp",
-    "genre": "genre_pop",
-    "country": "country_ucraina"
-  },
-  {
-    "id": "kiss_fm_ro",
+    "id": "ro1",
     "name": "Kiss FM România",
     "streamUrl": "https://live.kissfm.ro/kissfm.aacp",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
@@ -2232,7 +2144,7 @@
     "country": "country_romania"
   },
   {
-    "id": "radio_zu",
+    "id": "ro2",
     "name": "Radio ZU",
     "streamUrl": "http://zuicast.digitalag.ro:9420/zu",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radio_zu.png",
@@ -2240,7 +2152,7 @@
     "country": "country_romania"
   },
   {
-    "id": "play_90s_1",
+    "id": "ro3",
     "name": "Play 90's România st.1",
     "streamUrl": "https://live.playradio.org:8443/90HD",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/play_radio.png",
@@ -2248,7 +2160,7 @@
     "country": "country_romania"
   },
   {
-    "id": "play_urban",
+    "id": "ro4",
     "name": "Play Urban",
     "streamUrl": "https://live.playradio.org:8443/UrbanHD",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/playurban.png",
@@ -2256,7 +2168,7 @@
     "country": "country_romania"
   },
   {
-    "id": "pro_music_90s",
+    "id": "ro5",
     "name": "Radio Pro Music 90s",
     "streamUrl": "https://stream.adradio.ro/8414",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/promusic.png",
@@ -2264,7 +2176,7 @@
     "country": "country_romania"
   },
   {
-    "id": "prob_România",
+    "id": "ro6",
     "name": "Radio ProB România",
     "streamUrl": "https://live.radioprob.ro:8888/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioprob.png",
@@ -2272,7 +2184,15 @@
     "country": "country_romania"
   },
   {
-    "id": "one_fm",
+    "id": "ro7",
+    "name": "Radio Folk BG",
+    "streamUrl": "http://listen.folkbg.net:8001/folkbg",
+    "imageUrl": "https://liviurhos.github.io/radio-stations/images/folkbg.png",
+    "genre": "genre_folk",
+    "country": "Bulgaria"
+  },
+  {
+    "id": "ro8",
     "name": "One FM",
     "streamUrl": "https://live.onefm.ro/onefm.aacp",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/onefm.png",
@@ -2280,7 +2200,7 @@
     "country": "country_romania"
   },
   {
-    "id": "deep_house_radio",
+    "id": "ro9",
     "name": "Deep House Radio",
     "streamUrl": "https://streaming-01.xtservers.com:7000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/deephouse.png",
@@ -2288,7 +2208,7 @@
     "country": "country_romania"
   },
   {
-    "id": "dance_fm",
+    "id": "ro10",
     "name": "Dance FM",
     "streamUrl": "https://edge76.rcs-rds.ro/profm/dancefm.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/dancefm.png",
@@ -2296,7 +2216,7 @@
     "country": "country_romania"
   },
   {
-    "id": "radio_bubuiala",
+    "id": "ro11",
     "name": "Radio Bubuiala",
     "streamUrl": "https://ssl.omegahost.ro:8022/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/bubiala.png",
@@ -2304,7 +2224,7 @@
     "country": "country_romania"
   },
   {
-    "id": "radio_tequila",
+    "id": "ro12",
     "name": "Radio Tequila",
     "streamUrl": "https://ssl.servereradio.ro/7000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/tequila.png",
@@ -2312,7 +2232,7 @@
     "country": "country_romania"
   },
   {
-    "id": "mix_music_ro",
+    "id": "ro13",
     "name": "Mix Music Radio România",
     "streamUrl": "http://asculta.mixmusicradio.ro:8890/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/mixmusic.png",
@@ -2320,7 +2240,7 @@
     "country": "country_romania"
   },
   {
-    "id": "tequila_dance",
+    "id": "ro14",
     "name": "Radio Tequila Dance",
     "streamUrl": "https://dance.radiotequila.ro/7000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/tequila.png",
@@ -2328,7 +2248,7 @@
     "country": "country_romania"
   },
   {
-    "id": "tequila_petrecere",
+    "id": "ro15",
     "name": "Radio Tequila Petrecere",
     "streamUrl": "https://petrecere.radiotequila.ro/7000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/tequila.png",
@@ -2336,7 +2256,7 @@
     "country": "country_romania"
   },
   {
-    "id": "atentat",
+    "id": "ro16",
     "name": "Radio A-Tentat",
     "streamUrl": "https://ssl.omegahost.ro/8066/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/atentat.png",
@@ -2344,7 +2264,7 @@
     "country": "country_romania"
   },
   {
-    "id": "hot_style",
+    "id": "ro17",
     "name": "Radio Hot Style",
     "streamUrl": "https://live.radiohot.ro/8000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/hotstyle.png",
@@ -2352,7 +2272,7 @@
     "country": "country_romania"
   },
   {
-    "id": "digi24",
+    "id": "ro18",
     "name": "Digi 24 FM",
     "streamUrl": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/digi24.png",
@@ -2360,7 +2280,7 @@
     "country": "country_romania"
   },
   {
-    "id": "europafm",
+    "id": "ro19",
     "name": "Europa FM",
     "streamUrl": "https://astreaming.edi.ro:8443/EuropaFM_aac",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/europafm.png",
@@ -2368,7 +2288,7 @@
     "country": "country_romania"
   },
   {
-    "id": "profm",
+    "id": "ro20",
     "name": "ProFM",
     "streamUrl": "https://edge76.rcs-rds.ro/profm/profm.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/pro_fm.png",
@@ -2376,7 +2296,7 @@
     "country": "country_romania"
   },
   {
-    "id": "virgin",
+    "id": "ro21",
     "name": "Virgin Radio",
     "streamUrl": "https://astreaming.edi.ro:8443/VirginRadio_aac",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/virginradio.png",
@@ -2384,7 +2304,7 @@
     "country": "country_romania"
   },
   {
-    "id": "magicfm",
+    "id": "ro22",
     "name": "Radio MagicFM",
     "streamUrl": "https://live.magicfm.ro/magicfm.aacp",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/magic_fm.png",
@@ -2392,7 +2312,7 @@
     "country": "country_romania"
   },
   {
-    "id": "rockfm",
+    "id": "ro23",
     "name": "Rock FM",
     "streamUrl": "https://live.rockfm.ro:8443/rockfm.aacp",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/rock_fm.png",
@@ -2400,7 +2320,7 @@
     "country": "country_romania"
   },
   {
-    "id": "fm_manele",
+    "id": "ro24",
     "name": "FM Radio Manele",
     "streamUrl": "https://ssl.servereradio.ro/8054/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/fmradiomanele.png",
@@ -2408,7 +2328,7 @@
     "country": "country_romania"
   },
   {
-    "id": "radio_as",
+    "id": "ro25",
     "name": "Radio AS Petrecere",
     "streamUrl": "https://stream.zeno.fm/zp999wm4tm0uv",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioas.png",
@@ -2416,7 +2336,7 @@
     "country": "country_romania"
   },
   {
-    "id": "impuls",
+    "id": "ro26",
     "name": "Radio Impuls",
     "streamUrl": "https://live.radio-impuls.ro/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioimpuls.png",
@@ -2424,7 +2344,7 @@
     "country": "country_romania"
   },
   {
-    "id": "digi_fm",
+    "id": "ro27",
     "name": "Digi FM",
     "streamUrl": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/digifm.png",
@@ -2432,7 +2352,7 @@
     "country": "country_romania"
   },
   {
-    "id": "popular",
+    "id": "ro28",
     "name": "Radio Popular",
     "streamUrl": "https://livessl.radiopopular.ro:7777/live",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiopopular.png",
@@ -2440,7 +2360,7 @@
     "country": "country_romania"
   },
   {
-    "id": "cafe",
+    "id": "ro29",
     "name": "Radio Cafe",
     "streamUrl": "https://live.radiocafe.ro:8443/",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiocafe.png",
@@ -2448,7 +2368,7 @@
     "country": "country_romania"
   },
   {
-    "id": "national_fm",
+    "id": "ro30",
     "name": "National FM",
     "streamUrl": "https://asculta.nationalfm.ro:9102/nfm2",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/nationalfm.png",
@@ -2456,7 +2376,7 @@
     "country": "country_romania"
   },
   {
-    "id": "manele_vechi",
+    "id": "ro31",
     "name": "Radio Manele Vechi",
     "streamUrl": "https://ssl.servereradio.ro/8054/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/manelevechi.png",
@@ -2464,7 +2384,7 @@
     "country": "country_romania"
   },
   {
-    "id": "disco_mix",
+    "id": "ro32",
     "name": "Radio Disco Mix",
     "streamUrl": "https://play.discomix.ro/8002/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiodiscomix.png",
@@ -2472,7 +2392,7 @@
     "country": "country_romania"
   },
   {
-    "id": "urban_fm",
+    "id": "ro33",
     "name": "Urban FM",
     "streamUrl": "https://urbanfm.ro:8777/live",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/urbanfm.png",
@@ -2480,7 +2400,7 @@
     "country": "country_romania"
   },
   {
-    "id": "chill_fm",
+    "id": "ro34",
     "name": "Chill FM",
     "streamUrl": "https://edge76.rcs-rds.ro/profm/chillfm.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/chillfm.png",
@@ -2488,7 +2408,7 @@
     "country": "country_romania"
   },
   {
-    "id": "hit_fm",
+    "id": "ro35",
     "name": "Radio Hit FM",
     "streamUrl": "https://live.radiohitfm.net/8989/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/hitfm.png",
@@ -2496,7 +2416,7 @@
     "country": "country_romania"
   },
   {
-    "id": "super_fm",
+    "id": "ro36",
     "name": "Super FM",
     "streamUrl": "https://live.superfm.ro/stream.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/superfm.png",
@@ -2504,7 +2424,7 @@
     "country": "country_romania"
   },
   {
-    "id": "vibe_fm",
+    "id": "ro37",
     "name": "Vibe FM",
     "streamUrl": "https://astreaming.vibefm.ro:8443/vibe_ro64",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/vibefm.png",
@@ -2512,7 +2432,7 @@
     "country": "country_romania"
   },
   {
-    "id": "mynele",
+    "id": "ro38",
     "name": "Radio Mynele",
     "streamUrl": "https://live.radiomynele.ro/8000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiomynele.png",
@@ -2520,7 +2440,7 @@
     "country": "country_romania"
   },
   {
-    "id": "guerrilla",
+    "id": "ro39",
     "name": "Radio Guerilla",
     "streamUrl": "https://live.guerrillaradio.ro:8443/guerrilla.aac",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioguerilla.png",
@@ -2528,7 +2448,7 @@
     "country": "country_romania"
   },
   {
-    "id": "manele_wrh",
+    "id": "ro40",
     "name": "Radio Manele",
     "streamUrl": "https://play.wrhradios.com/8044/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiomanele.png",
@@ -2536,15 +2456,7 @@
     "country": "country_romania"
   },
   {
-    "id": "smart_radio",
-    "name": "Smart Radio",
-    "streamUrl": "https://live.smartradio.ro:8443/live",
-    "imageUrl": "https://liviurhos.github.io/radio-stations/images/smartradio.png",
-    "genre": "genre_info",
-    "country": "country_romania"
-  },
-  {
-    "id": "pro_manele",
+    "id": "ro42",
     "name": "Pro Manele",
     "streamUrl": "https://sonica.cloudstreaming.eu/8000/stream;",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/promanele.png",
@@ -2552,7 +2464,7 @@
     "country": "country_romania"
   },
   {
-    "id": "taraf",
+    "id": "ro43",
     "name": "Radio Taraf",
     "streamUrl": "https://ddos.radiotaraf.ro/7100/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiotaraf.png",
@@ -2560,7 +2472,7 @@
     "country": "country_romania"
   },
   {
-    "id": "capital_fm",
+    "id": "ro44",
     "name": "Capital FM România",
     "streamUrl": "https://ssl.omegahost.ro/8020/stream",
     "imageUrl": "https://cdn.instant.audio/images/logos/radio-org-ro/capital-fm.png",
@@ -2568,7 +2480,7 @@
     "country": "country_romania"
   },
   {
-    "id": "vip_diaspora",
+    "id": "ro45",
     "name": "Radio VIP Diaspora",
     "streamUrl": "https://s18.myradiostream.com/13384/listen.mp3?time=1767718750385",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/vipdiaspora.png",
@@ -2576,7 +2488,7 @@
     "country": "country_romania"
   },
   {
-    "id": "electro_manele",
+    "id": "ro46",
     "name": "Electro Manele",
     "streamUrl": "https://stream.radioem.ro/8046/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/electromanele.png",
@@ -2584,7 +2496,7 @@
     "country": "country_romania"
   },
   {
-    "id": "infinit",
+    "id": "ro47",
     "name": "Radio Infinit",
     "streamUrl": "http://86.127.68.115:18000/infinit64.ogg",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioinfinit.png",
@@ -2592,7 +2504,7 @@
     "country": "country_romania"
   },
   {
-    "id": "extravaganta",
+    "id": "ro48",
     "name": "Extravaganta Radio",
     "streamUrl": "https://s3.radio.co/s1492c0564/low",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/extravagantaradio.png",
@@ -2600,7 +2512,7 @@
     "country": "country_romania"
   },
   {
-    "id": "trapanele",
+    "id": "ro49",
     "name": "Radio Trapanele",
     "streamUrl": "https://live.radiotrapanele.ro:8132/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiotrapanele.png",
@@ -2608,7 +2520,7 @@
     "country": "country_romania"
   },
   {
-    "id": "metronom",
+    "id": "ro50",
     "name": "Metronom FM",
     "streamUrl": "https://metronom-fm.ro/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/metronomfm.png",
@@ -2616,7 +2528,7 @@
     "country": "country_romania"
   },
   {
-    "id": "romantic_fm",
+    "id": "ro51",
     "name": "Romantic FM",
     "streamUrl": "https://radio-romantik.ro/listen/radio_romantic/radio.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/romanticfm.png",
@@ -2624,7 +2536,7 @@
     "country": "country_romania"
   },
   {
-    "id": "expert_fm",
+    "id": "ro52",
     "name": "Radio Expert FM",
     "streamUrl": "http://expertfm.zapto.org:8000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/expertfm.png",
@@ -2632,7 +2544,7 @@
     "country": "country_romania"
   },
   {
-    "id": "megahit_dance",
+    "id": "ro53",
     "name": "Radio Mega Hit - Dance",
     "streamUrl": "https://live.radiomegahit.eu:8080/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/megahit.png",
@@ -2640,7 +2552,7 @@
     "country": "country_romania"
   },
   {
-    "id": "megahit_popular",
+    "id": "ro54",
     "name": "Radio Mega Hit - Popular",
     "streamUrl": "https://popular.radiomegahit.eu:9000/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/megahit.png",
@@ -2648,7 +2560,7 @@
     "country": "country_romania"
   },
   {
-    "id": "90_hit",
+    "id": "ro55",
     "name": "Radio 90 Hit",
     "streamUrl": "https://live.90hit.ro:8000/radio.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radio90hit.png",
@@ -2656,7 +2568,7 @@
     "country": "country_romania"
   },
   {
-    "id": "pro_dj",
+    "id": "ro56",
     "name": "PRO Dj Radio",
     "streamUrl": "https://live.prodjradio.net:8065/radio",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/prodj.png",
@@ -2664,7 +2576,7 @@
     "country": "country_romania"
   },
   {
-    "id": "relax_md",
+    "id": "ro57",
     "name": "Radio Relax",
     "streamUrl": "https://stream.dixi.md:9443/RadioRelax",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiorelax.png",
@@ -2672,7 +2584,7 @@
     "country": "country_moldova"
   },
   {
-    "id": "rfi_ro",
+    "id": "ro58",
     "name": "RFI România",
     "streamUrl": "https://asculta.radiorfi.ro/live.mp3",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_RFI_Rom%C3%A2nia.png",
@@ -2680,7 +2592,7 @@
     "country": "country_romania"
   },
   {
-    "id": "ciresarii",
+    "id": "ro59",
     "name": "Radio Ciresarii",
     "streamUrl": "https://s3.radio.co/s6c0a773ad/listen",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiociresarii.png",
@@ -2688,7 +2600,7 @@
     "country": "country_romania"
   },
   {
-    "id": "supra_vibe",
+    "id": "ro60",
     "name": "Supra Vibe Radio",
     "streamUrl": "https://supraviberadio-radiohosting.radioca.st/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/supravibe.png",
@@ -2696,7 +2608,7 @@
     "country": "country_romania"
   },
   {
-    "id": "jazz_fm_ro",
+    "id": "ro61",
     "name": "Jazz FM",
     "streamUrl": "https://s4.radio.co/s1e25bf273/listen",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/jazzfm.png",
@@ -2704,7 +2616,7 @@
     "country": "country_romania"
   },
   {
-    "id": "romance_dance",
+    "id": "ro62",
     "name": "Radio Romance 21 - Eurodance",
     "streamUrl": "https://live.radioromance21.ro:9950/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
@@ -2712,7 +2624,7 @@
     "country": "country_romania"
   },
   {
-    "id": "romance_manele",
+    "id": "ro63",
     "name": "Radio Romance 21 - Manele",
     "streamUrl": "https://manele.radioromance21.ro:8014/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
@@ -2720,7 +2632,7 @@
     "country": "country_romania"
   },
   {
-    "id": "romance_etno",
+    "id": "ro64",
     "name": "Radio Romance 21 - Etno",
     "streamUrl": "https://etno.radioromance21.ro:8012/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
@@ -2728,7 +2640,7 @@
     "country": "country_romania"
   },
   {
-    "id": "focus_fm",
+    "id": "ro65",
     "name": "Focus FM",
     "streamUrl": "http://live.focusfm.ro:8000/focusfmhigh.ogg",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/focusfm.png",
@@ -2736,15 +2648,7 @@
     "country": "country_romania"
   },
   {
-    "id": "trinitas",
-    "name": "Radio Trinitas",
-    "streamUrl": "https://live.radiotrinitas.ro:8003/;",
-    "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiotrinitas.png",
-    "genre": "genre_religious",
-    "country": "country_romania"
-  },
-  {
-    "id": "antena_satelor",
+    "id": "ro67",
     "name": "Antena Satelor",
     "streamUrl": "https://stream4.srr.ro:8443/antena-satelor",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/antenasatelor.png",
@@ -2752,7 +2656,7 @@
     "country": "country_romania"
   },
   {
-    "id": "somes",
+    "id": "ro68",
     "name": "Radio Somes",
     "streamUrl": "https://radio.mediacp.eu/stream/radiosomes",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiosomes.png",
@@ -2760,7 +2664,7 @@
     "country": "country_romania"
   },
   {
-    "id": "pro_popular",
+    "id": "ro69",
     "name": "Radio PRO Popular",
     "streamUrl": "https://sonica.cloudstreaming.eu/9998/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiopropopular.png",
@@ -2768,7 +2672,7 @@
     "country": "country_romania"
   },
   {
-    "id": "dacia",
+    "id": "ro70",
     "name": "Radio Dacia",
     "streamUrl": "https://streaming.napocalive.ro/radio-dacia03",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiodacia.png",
@@ -2776,7 +2680,7 @@
     "country": "country_romania"
   },
   {
-    "id": "badita",
+    "id": "ro71",
     "name": "Radio Badita Popular",
     "streamUrl": "http://89.39.189.29:8000/",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiobadita.png",
@@ -2784,7 +2688,7 @@
     "country": "country_romania"
   },
   {
-    "id": "oltenia",
+    "id": "ro72",
     "name": "Radio Oltenia Craiova",
     "streamUrl": "http://stream2.srr.ro:8370/;",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiooltenia.png",
@@ -2792,7 +2696,7 @@
     "country": "country_romania"
   },
   {
-    "id": "prahova",
+    "id": "ro73",
     "name": "Radio Prahova",
     "streamUrl": "https://streamx.rph.ro:8100/relay",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioprahova.png",
@@ -2800,7 +2704,7 @@
     "country": "country_romania"
   },
   {
-    "id": "timisoara",
+    "id": "ro74",
     "name": "Radio Timisoara",
     "streamUrl": "http://89.238.227.6:8360/;",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiotimisoara.png",
@@ -2808,7 +2712,7 @@
     "country": "country_romania"
   },
   {
-    "id": "iasi",
+    "id": "ro75",
     "name": "Radio Iasi",
     "streamUrl": "http://89.238.227.6:8202/;stream/1",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radioiasi.png",
@@ -2816,7 +2720,7 @@
     "country": "country_romania"
   },
   {
-    "id": "noroc",
+    "id": "ro76",
     "name": "Radio Noroc",
     "streamUrl": "https://stream.noroc.tv/radionoroc_128",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radionoroc.png",
@@ -2824,7 +2728,7 @@
     "country": "country_moldova"
   },
   {
-    "id": "deea",
+    "id": "ro77",
     "name": "Radio Deea",
     "streamUrl": "https://radiocdn.nxthost.com/radio-deea",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiodeea.png",
@@ -2832,7 +2736,7 @@
     "country": "country_romania"
   },
   {
-    "id": "bucuresti_fm",
+    "id": "ro78",
     "name": "Bucuresti FM",
     "streamUrl": "https://stream4.srr.ro:8443/bucuresti-fm",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/bucurestifm.png",
@@ -2840,7 +2744,7 @@
     "country": "country_romania"
   },
   {
-    "id": "gasca_nebuna",
+    "id": "ro79",
     "name": "Radio Gasca Nebuna",
     "streamUrl": "https://stream.zeno.fm/33t7y7n9gwzuv",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/gascanebuna.png",
@@ -2848,7 +2752,7 @@
     "country": "country_romania"
   },
   {
-    "id": "glasul_nordului",
+    "id": "ro80",
     "name": "Glasul Nordului",
     "streamUrl": "https://ssl.asculta.live/8096/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/glasulnordului.png",
@@ -2856,7 +2760,7 @@
     "country": "country_romania"
   },
   {
-    "id": "playmusic_fm",
+    "id": "ro81",
     "name": "PlayMusic FM",
     "streamUrl": "https://free.rcast.net/400",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/playmusic.png",
@@ -2864,7 +2768,7 @@
     "country": "country_romania"
   },
   {
-    "id": "supersonic",
+    "id": "ro82",
     "name": "SuperSonic Radio",
     "streamUrl": "https://s5.radio.co/s08e5c5875/listen",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/supersonic.png",
@@ -2872,7 +2776,7 @@
     "country": "country_romania"
   },
   {
-    "id": "doza_manele",
+    "id": "ro83",
     "name": "Radio Doza Manele",
     "streamUrl": "https://manele.radiodoza.eu/8100/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/dozamanelelor.png",
@@ -2880,7 +2784,7 @@
     "country": "country_romania"
   },
   {
-    "id": "zum",
+    "id": "ro84",
     "name": "Radio Zum",
     "streamUrl": "https://streams.radiozum.md/listen/zum1/ZUM1",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiozum.png",
@@ -2888,7 +2792,7 @@
     "country": "country_moldova"
   },
   {
-    "id": "nova22",
+    "id": "ro85",
     "name": "Radio Nova 22",
     "streamUrl": "https://s2.myradiostream.com/4520/listen.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/nova22.png",
@@ -2896,7 +2800,7 @@
     "country": "country_romania"
   },
   {
-    "id": "crazy",
+    "id": "ro86",
     "name": "Radio Crazy",
     "streamUrl": "https://razvcarp1.radioca.st/;:80/;stream.mp3",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiocrazy.png",
@@ -2904,7 +2808,7 @@
     "country": "country_romania"
   },
   {
-    "id": "flo_manele",
+    "id": "ro87",
     "name": "Radio Flo Manele",
     "streamUrl": "https://live.radioflomanele.ro/8084/stream",
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/flomanele.png",
@@ -2912,4 +2816,3 @@
     "country": "country_romania"
   }
 ]
-
