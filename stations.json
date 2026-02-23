@@ -399,7 +399,7 @@
     "genre": "genre_kids",
     "country": "country_russia"
   },
-    {
+  {
     "id": "ru44",
     "name": "Гамаюн",
     "streamUrl": "https://gamaun.online:8025/radio",
@@ -415,7 +415,7 @@
     "genre": "genre_kids",
     "country": "country_russia"
   },
-    {
+  {
     "id": "ru46",
     "name": "Машенька",
     "streamUrl": "https://sergeisam.fvds.ru:5385/radio",
@@ -431,7 +431,7 @@
     "genre": "genre_kids",
     "country": "country_russia"
   },
-    {
+  {
     "id": "ru48",
     "name": "Baby FM",
     "streamUrl": "https://a5.radioheart.ru:8012/RH1916",
@@ -447,7 +447,7 @@
     "genre": "genre_kids",
     "country": "country_russia"
   },
-    {
+  {
     "id": "ru50",
     "name": "Детский Канал",
     "streamUrl": "https://rr-detskijkanal.hostingradio.ru/detskijkanal96.aacp",
@@ -559,7 +559,7 @@
     "genre": "genre_kids",
     "country": "country_russia"
   },
-    {
+  {
     "id": "ru64",
     "name": "Гимназия FM",
     "streamUrl": "https://radio.tukalinskinfo.ru/radio",
@@ -703,7 +703,7 @@
     "genre": "genre_pop",
     "country": "country_russia"
   },
-    {
+  {
     "id": "ru83",
     "name": "Радио Для Двоих",
     "streamUrl": "https://stream02.pcradio.ru/rddfm_ru-med",
@@ -4424,3 +4424,4 @@
     "country": "country_usa"
   }
 ]
+
