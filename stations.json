@@ -26,7 +26,7 @@
   {
     "id": "bg2",
     "name": "Radio Vega +",
-    "streamUrl": "https://new.vobook.ru/http://88.80.96.25:40070/vega.mp3",
+    "streamUrl": "http://88.80.96.25:40070/vega.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/180/vega-plus.png",
     "genre": "genre_pop",
     "country": "country_bulgaria"
@@ -4424,3 +4424,4 @@
     "country": "country_usa"
   }
 ]
+
