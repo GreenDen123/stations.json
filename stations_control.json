@@ -4422,7 +4422,7 @@
     "imageUrl": "https://images.radiovolna.net/_files/images/stations/9328/he1g59f06d19ed4cb252876225_165x165.webp",
     "genre": "genre_religious",
     "country": "country_usa"
-  }
+  },
   {
     "id": "ger1",
     "name": "Deutschlandfunk",
@@ -6142,7 +6142,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/germany-rbb/STAR%20FM.png",
     "genre": "genre_pop",
     "country": "country_germany"
-  }
+  },
   {
     "id": "fra1",
     "name": "Ici",
@@ -6566,7 +6566,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/france/Virgin%20Radio.png",
     "genre": "genre_pop",
     "country": "country_france"
-  }
+  },
   {
     "id": "uk1",
     "name": "3FM",
@@ -7334,7 +7334,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/wales/BBC%20Radio%20Cymru%202.png",
     "genre": "genre_pop",
     "country": "country_uk"
-  }
+  },
   {
     "id": "gb1",
     "name": "BBC Radio 1",
@@ -8078,7 +8078,7 @@
     "imageUrl": "https://liviurhos.github.io/radio-stations/images/lycaradio.png",
     "genre": "genre_folk",
     "country": "country_uk"
-  }
+  },
   {
     "id": "spa1",
     "name": "Radio Euskadi",
@@ -8606,7 +8606,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/spain-madrid/Cope.png",
     "genre": "genre_pop",
     "country": "country_spain"
-  }
+  },
   {
     "id": "ita1",
     "name": "Rai Radio 1",
@@ -8950,7 +8950,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/italy/Virgin%20Radio.png",
     "genre": "genre_pop",
     "country": "country_italy"
-  }
+  },
   {
     "id": "swi1",
     "name": "SRF 1",
@@ -9494,7 +9494,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/switzerland-it/RTO.png",
     "genre": "genre_pop",
     "country": "country_switzerland"
-  }
+  },
   {
     "id": "net1",
     "name": "NPO Radio 1",
@@ -9918,7 +9918,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/netherlands/Yoursafe%20Radio.png",
     "genre": "genre_pop",
     "country": "country_netherlands"
-  }
+  },
   {
     "id": "bel1",
     "name": "Radio 1",
@@ -10326,7 +10326,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/belgium-fr/Sud%20Radio%20Belgique.png",
     "genre": "genre_pop",
     "country": "country_belgium"
-  }
+  },
   {
     "id": "gre1",
     "name": "ΕΡΤ Πρώτο πρόγραμμα",
@@ -11678,7 +11678,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/greece/thessaloniki/Libero%20107.4.png",
     "genre": "genre_pop",
     "country": "country_greece"
-  }
+  },
   {
     "id": "tur1",
     "name": "TRT Radyo 1",
@@ -12046,7 +12046,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Y%C3%B6n%20Radyo.png",
     "genre": "genre_pop",
     "country": "country_turkey"
-  }
+  },
   {
     "id": "pol1",
     "name": "Polskie Radio 1",
@@ -12230,7 +12230,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/poland/Radio%20VOX%20FM.png",
     "genre": "genre_pop",
     "country": "country_poland"
-  }
+  },
   {
     "id": "cze1",
     "name": "ČRo D-dur",
@@ -12542,7 +12542,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/czech/ZUN%20r%C3%A1dio.png",
     "genre": "genre_pop",
     "country": "country_czech"
-  }
+  },
   {
     "id": "aus1",
     "name": "ORF Ö1",
@@ -12830,7 +12830,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/XXXLutz%20Das%20Radio.png",
     "genre": "genre_pop",
     "country": "country_austria"
-  }
+  },
   {
     "id": "swe1",
     "name": "SR P1",
@@ -12926,7 +12926,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/sweden/Vinyl%20FM.png",
     "genre": "genre_pop",
     "country": "country_sweden"
-  }
+  },
   {
     "id": "nor1",
     "name": "NRK P1",
@@ -13174,7 +13174,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/norway/Vinyl.png",
     "genre": "genre_pop",
     "country": "country_norway"
-  }
+  },
   {
     "id": "fin1",
     "name": "Yle Radio 1",
@@ -13406,7 +13406,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/finland/Top51.png",
     "genre": "genre_pop",
     "country": "country_finland"
-  }
+  },
   {
     "id": "den1",
     "name": "DR P1",
@@ -13598,7 +13598,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/The%20Voice.png",
     "genre": "genre_pop",
     "country": "country_denmark"
-  }
+  },
   {
     "id": "hun1",
     "name": "Kossuth Rádió",
@@ -13686,7 +13686,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/hungary/Szent%20Istv%C3%A1n%20R%C3%A1di%C3%B3.png",
     "genre": "genre_pop",
     "country": "country_hungary"
-  }
+  },
   {
     "id": "por1",
     "name": "Antena 1",
@@ -13766,7 +13766,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/portugal/TSF%20R%C3%A1dio%20Not%C3%ADcias.png",
     "genre": "genre_pop",
     "country": "country_portugal"
-  }
+  },
   {
     "id": "ser1",
     "name": "Radio Beograd 1",
@@ -13950,7 +13950,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/serbia/WTF%20Radio.png",
     "genre": "genre_pop",
     "country": "country_serbia"
-  }
+  },
   {
     "id": "cro1",
     "name": "HR 1",
@@ -14046,7 +14046,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/croatia/Radio%20Kaj.png",
     "genre": "genre_pop",
     "country": "country_croatia"
-  }
+  },
   {
     "id": "slo1",
     "name": "Rádio Slovensko",
@@ -14166,7 +14166,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/slovakia/R%C3%A1dio%20WOW.png",
     "genre": "genre_pop",
     "country": "country_slovakia"
-  }
+  },
   {
     "id": "slo1",
     "name": "ARS",
@@ -14318,7 +14318,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/slovenia/Toti%20Radio.png",
     "genre": "genre_pop",
     "country": "country_slovenia"
-  }
+  },
   {
     "id": "lit1",
     "name": "LRT Radijas",
@@ -14462,7 +14462,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/lithuania/ZIP%20FM.png",
     "genre": "genre_pop",
     "country": "country_lithuania"
-  }
+  },
   {
     "id": "lat1",
     "name": "LR1",
@@ -14590,7 +14590,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/latvia/TOPradio.png",
     "genre": "genre_pop",
     "country": "country_latvia"
-  }
+  },
   {
     "id": "est1",
     "name": "Vikerraadio",
@@ -14694,7 +14694,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/estonia/Star%20FM.png",
     "genre": "genre_pop",
     "country": "country_estonia"
-  }
+  },
   {
     "id": "ire1",
     "name": "RTÉ Radio 1",
@@ -14758,7 +14758,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/ireland/Today%20FM.png",
     "genre": "genre_pop",
     "country": "country_ireland"
-  }
+  },
   {
     "id": "ice1",
     "name": "Rás 1",
@@ -14830,7 +14830,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/iceland/X977.png",
     "genre": "genre_pop",
     "country": "country_iceland"
-  }
+  },
   {
     "id": "isr1",
     "name": "כאן 88",
@@ -14926,7 +14926,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/israel/100FM%20%D7%A8%D7%93%D7%99%D7%95%D7%A1.png",
     "genre": "genre_pop",
     "country": "country_israel"
-  }
+  },
   {
     "id": "arm1",
     "name": "Հայաստանի Հանրային Ռադիո",
@@ -14950,7 +14950,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/armenia/Yerevan%20FM.png",
     "genre": "genre_pop",
     "country": "country_armenia"
-  }
+  },
   {
     "id": "aze1",
     "name": "Azərbaycan Radiosu",
@@ -14974,7 +14974,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/azerbaijan/Media%20FM.png",
     "genre": "genre_pop",
     "country": "country_azerbaijan"
-  }
+  },
   {
     "id": "geo1",
     "name": "რადიო 1",
@@ -15070,7 +15070,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/georgia/Voice%20Of%20Abkhazia.png",
     "genre": "genre_pop",
     "country": "country_georgia_c"
-  }
+  },
   {
     "id": "kaz1",
     "name": "Qazaq radiosy",
@@ -15182,7 +15182,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/kazakhstan/%D0%96%D2%B1%D0%BB%D0%B4%D1%8B%D0%B7%20FM.png",
     "genre": "genre_pop",
     "country": "country_kazakhstan"
-  }
+  },
   {
     "id": "alb1",
     "name": "Radio Tirana 1",
@@ -15286,7 +15286,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/albania/Top%20Albania%20Radio.png",
     "genre": "genre_pop",
     "country": "country_albania"
-  }
+  },
   {
     "id": "bos1",
     "name": "BHR1",
@@ -15414,7 +15414,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/bosnia/RTRS.png",
     "genre": "genre_pop",
     "country": "country_bosnia"
-  }
+  },
   {
     "id": "nor1",
     "name": "МР1",
@@ -15470,7 +15470,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/macedonia/Metropolis%20Radio.png",
     "genre": "genre_pop",
     "country": "country_north_macedonia"
-  }
+  },
   {
     "id": "mon1",
     "name": "RCG",
@@ -15558,7 +15558,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/montenegro/TDI%20Radio.png",
     "genre": "genre_pop",
     "country": "country_montenegro"
-  }
+  },
   {
     "id": "kos1",
     "name": "Radio Kosova 1",
@@ -15606,7 +15606,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/kosovo/Radio%20Prishtina.png",
     "genre": "genre_pop",
     "country": "country_kosovo"
-  }
+  },
   {
     "id": "lux1",
     "name": "RTL Radio Lëtzebuerg",
@@ -15662,7 +15662,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/luxembourg/radio%20100%2C7.png",
     "genre": "genre_pop",
     "country": "country_luxembourg"
-  }
+  },
   {
     "id": "mal1",
     "name": "Radju Malta",
@@ -15830,7 +15830,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/malta/Smash%20Radio%20104.6FM.png",
     "genre": "genre_pop",
     "country": "country_malta"
-  }
+  },
   {
     "id": "mon1",
     "name": "Hits 1",
@@ -15878,7 +15878,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/monaco/Riviera%20Radio.png",
     "genre": "genre_pop",
     "country": "country_monaco"
-  }
+  },
   {
     "id": "and1",
     "name": "Ràdio Nacional d'Andorra",
@@ -15934,7 +15934,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/andorra/R%C3%A0dio%20Valira.png",
     "genre": "genre_pop",
     "country": "country_andorra"
-  }
+  },
   {
     "id": "cyp1",
     "name": "ΡΙΚ ΠΡΩΤΟ",
@@ -16174,7 +16174,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/cyprus/Super%20Sport%20FM.png",
     "genre": "genre_sport",
     "country": "country_cyprus"
-  }
+  },
   {
     "id": "gib1",
     "name": "BFBS Gibraltar",
@@ -16206,7 +16206,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/gibraltar/Radio%20Gibraltar%20Plus.png",
     "genre": "genre_pop",
     "country": "country_gibraltar"
-  }
+  },
   {
     "id": "ala1",
     "name": "SR P1",
@@ -16278,7 +16278,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/aland/Steel%20FM.png",
     "genre": "genre_pop",
     "country": "country_aland"
-  }
+  },
   {
     "id": "far1",
     "name": "FM1",
@@ -16318,7 +16318,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/faroe/VoxPop.png",
     "genre": "genre_pop",
     "country": "country_faroe"
-  }
+  },
   {
     "id": "gre1",
     "name": "Kalaallit Nunaata Radioa",
@@ -16334,7 +16334,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/greenland/Nanoq%20FM.png",
     "genre": "genre_pop",
     "country": "country_greenland"
-  }
+  },
   {
     "id": "alg1",
     "name": "Chaîne 1",
@@ -16374,7 +16374,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/algier/Radio%20Coran.png",
     "genre": "genre_pop",
     "country": "country_algeria"
-  }
+  },
   {
     "id": "egy1",
     "name": "ERTU Al Quran al Kareem",
@@ -16446,7 +16446,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/egypt/NRJ%20Egypt.png",
     "genre": "genre_pop",
     "country": "country_egypt"
-  }
+  },
   {
     "id": "sau1",
     "name": "إذاعة الرياض",
@@ -16534,7 +16534,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/saudi/%D8%A7%D8%B0%D8%A7%D8%B9%D8%A9%20UFM.png",
     "genre": "genre_pop",
     "country": "country_saudi_arabia"
-  }
+  },
   {
     "id": "tun1",
     "name": "Mosaïque FM",
@@ -16566,7 +16566,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/tunis/RTT%20Radio%20Nationale.jpg",
     "genre": "genre_pop",
     "country": "country_tunisia"
-  }
+  },
   {
     "id": "ira1",
     "name": "إذاعة الكفيل",
@@ -16598,7 +16598,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/iraq/Sumer%20FM.png",
     "genre": "genre_pop",
     "country": "country_iraq"
-  }
+  },
   {
     "id": "jor1",
     "name": "اذاعة القرآن الكريم",
@@ -16710,7 +16710,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/westbank/%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%20%D8%B1%D8%A7%D9%85%20%D8%A7%D9%84%D9%84%D9%87%20%D9%84%D9%84%D9%82%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.png",
     "genre": "genre_pop",
     "country": "country_jordan"
-  }
+  },
   {
     "id": "leb1",
     "name": "Radio Liban",
@@ -16814,7 +16814,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/lebanon/Virgin%20Radio%20Lebanon.png",
     "genre": "genre_pop",
     "country": "country_lebanon"
-  }
+  },
   {
     "id": "syr1",
     "name": "اذاعة دمشق",
@@ -16846,7 +16846,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/syria/Ninar%20FM.png",
     "genre": "genre_pop",
     "country": "country_syria"
-  }
+  },
   {
     "id": "chi1",
     "name": "中国之声",
@@ -16862,7 +16862,7 @@
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/china/CNR.png",
     "genre": "genre_pop",
     "country": "country_china"
-  }
+  },
   {
     "id": "uzb1",
     "name": "Oriat Dono",
