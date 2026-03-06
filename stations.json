@@ -4422,7 +4422,7 @@
     "imageUrl": "https://images.radiovolna.net/_files/images/stations/9328/he1g59f06d19ed4cb252876225_165x165.webp",
     "genre": "genre_religious",
     "country": "country_usa"
-  }
+  },
   {
     "id": "ger1",
     "name": "Deutschlandfunk",
@@ -7680,4 +7680,5 @@
     "country": "country_switzerland"
   }
 ]
+
 
