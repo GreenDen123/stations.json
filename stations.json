@@ -7229,7 +7229,7 @@
     "streamUrl": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/switzerland-de/SRF%203.png",
     "genre": "genre_pop",
-    "country": ""
+    "country": "country_switzerland"
   },
   {
     "id": "swi4",
@@ -7680,3 +7680,4 @@
     "country": "country_switzerland"
   }
 ]
+
