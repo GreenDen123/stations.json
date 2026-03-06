@@ -8470,5 +8470,2013 @@
     "imageUrl": "https://pcradio.ru/images/stations/627dae2d39c5f.jpg",
     "genre": "genre_pop",
     "country": "country_brazil"
+  },
+  {
+    "id": "net1",
+    "name": "NPO Radio 1",
+    "streamUrl": "https://icecast.omroep.nl/radio1-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/RysxF4qph6.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net2",
+    "name": "NPO Radio 2",
+    "streamUrl": "http://icecast.omroep.nl/radio2-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mu7sS2MwkC.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net3",
+    "name": "NPO 3FM",
+    "streamUrl": "http://icecast.omroep.nl/3fm-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kqduTGaxvj.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net4",
+    "name": "NPO Klassiek",
+    "streamUrl": "http://icecast.omroep.nl/radio4-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pU4F5RWC7g.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net5",
+    "name": "NPO Radio 5",
+    "streamUrl": "http://icecast.omroep.nl/radio5-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/TVJ5MhkAXj.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net6",
+    "name": "NPO BLEND",
+    "streamUrl": "https://icecast.omroep.nl/npoblend-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/416/npo-blend.4a2f6ae8.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net7",
+    "name": "NPO Campus",
+    "streamUrl": "https://icecast.omroep.nl/3fm-serioustalent-mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/netherlands/NPO%20Campus.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net8",
+    "name": "NPO FunX",
+    "streamUrl": "http://icecast.omroep.nl/funx-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pxgxz3ezvduy.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net9",
+    "name": "NPO Soul & Jazz",
+    "streamUrl": "http://icecast.omroep.nl/radio6-bb-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/814/npo-soul-jazz.7662aca8.png",
+    "genre": "genre_jazz",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net10",
+    "name": "NPO SterrenNL",
+    "streamUrl": "http://icecast.omroep.nl/radio2-sterrennl-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/LdJDT7Sxk8.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net11",
+    "name": "100% NL",
+    "streamUrl": "http://stream.100p.nl/100pctnl.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/W6PLSVapJV.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net12",
+    "name": "4EVER49 Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49_SC",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/netherlands/4EVER49%20Radio.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net13",
+    "name": "Arrow Classic Rock",
+    "streamUrl": "https://stream.player.arrow.nl/arrow",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zqXFGKgCM4.png",
+    "genre": "genre_clasic",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net15",
+    "name": "BNR Nieuwsradio",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIOAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/831/bnr-nieuws-radio.19b23b25.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net16",
+    "name": "CREAM",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/CREAMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/885/cream.c9c20558.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net17",
+    "name": "GOD Radio",
+    "streamUrl": "https://stream.wildfm.nl/GOD_Radio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/curydf2xxe7j.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net18",
+    "name": "GLXY.RADIO",
+    "streamUrl": "https://mediaserv73.live-streams.nl:18044/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uwCMVdUQ64.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net19",
+    "name": "Grand Prix Radio",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIOAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vbngjama89hu.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net20",
+    "name": "Groot Nieuws Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wqZY82pCB6.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net21",
+    "name": "Groot Nieuws Radio Non-stop",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOPAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2fkjkewmh4zu.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net22",
+    "name": "JOE",
+    "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/650/joe-70s-80s.b2344eb5.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net23",
+    "name": "Joy Radio",
+    "streamUrl": "https://stream.joyradio.nl/joyradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/415/joy-radio.075ec72e.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net24",
+    "name": "KINK",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/945/kink.92b5bc97.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net25",
+    "name": "KINK 80s",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/462/kink-dna.7ea7050c.jpg",
+    "genre": "genre_retro",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net26",
+    "name": "KINK DISTORTION",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/632/kink-distortion.b451ba18.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net27",
+    "name": "Magic FM",
+    "streamUrl": "https://stream.magicfm.nl/magicfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/065/magic-fm2.334b65e7.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net28",
+    "name": "NH Radio",
+    "streamUrl": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JV5KAQuzaZ.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net29",
+    "name": "538",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/043/radio-538.53bceac7.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net30",
+    "name": "538 Classics",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/043/radio-538.53bceac7.png",
+    "genre": "genre_clasic",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net31",
+    "name": "538 NON-STOP",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9QY9p4mULm.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net32",
+    "name": "One World Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NLAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/157/538-tomorrowland-one-world-radio.d853060f.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net33",
+    "name": "Qmusic",
+    "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/795/qmusic.b25d3a6d.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net34",
+    "name": "Qmusic 90s & 00s",
+    "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_90s00s_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/044/qmusic-90s-00s.7036d180.png",
+    "genre": "genre_retro",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net35",
+    "name": "Qmusic Foute Uur",
+    "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_high.aac",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/netherlands/Qmusic%20Foute%20Uur.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net36",
+    "name": "Qmusic Non-Stop",
+    "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/757/qmusic-nonstop.f472d132.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net37",
+    "name": "Qmusic Top 40",
+    "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/759/qmusic-top-40.8a4574b2.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net38",
+    "name": "Radio 10",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6H4dvDjjST.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net39",
+    "name": "Radio 10 60's & 70's Hits",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/BE25hugjwC.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net40",
+    "name": "Radio 10 80's",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/HeZzAVLcZ4.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net41",
+    "name": "Radio Maria",
+    "streamUrl": "https://stream.radiomaria.nl/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Gx3J6VqnxD.png",
+    "genre": "genre_religious",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net42",
+    "name": "RadioNL",
+    "streamUrl": "http://stream.radionl.fm/radionl",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/616/radio-nl.81224c73.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net43",
+    "name": "Radio Nordzee",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/043/radio-noordzee-200-puur-hollands.a4b88e0a.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net44",
+    "name": "Radio Veronica",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/874/radio-veronica.3b797947.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net45",
+    "name": "Radio Veronica Goud van Oud",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/DAB01_AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/874/radio-veronica.3b797947.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net46",
+    "name": "Radio Veronica Non-Stop",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/DAB02_AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/141/veronica-vintage.3e73e2b6.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net47",
+    "name": "Sky Radio",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/FBShfnjhkn.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net48",
+    "name": "Sky Radio Non-Stop Hits",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/87ek7rmgr3m3.jpg",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net49",
+    "name": "SLAM!",
+    "streamUrl": "http://stream.slam.nl/slam",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/040/slam.4482f664.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net50",
+    "name": "Sublime FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/941/sublime-.a4407b24.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net51",
+    "name": "Tukker FM",
+    "streamUrl": "https://stream.tukkerfm.nl/tukkerfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/219/tukker-fm.4ddd5023.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net52",
+    "name": "Vibe Radio",
+    "streamUrl": "https://stream.viberadio.nl/viberadio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zmpgenjw4hs9.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "net53",
+    "name": "Yoursafe Radio",
+    "streamUrl": "https://radiostream.yoursafe.nl/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/354/yoursafe-radio.1b9de87d.png",
+    "genre": "genre_pop",
+    "country": "country_netherlands"
+  },
+  {
+    "id": "bel1",
+    "name": "Radio 1",
+    "streamUrl": "http://icecast.vrtcdn.be/radio1-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yeD5X7FMM5.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel2",
+    "name": "Radio 2",
+    "streamUrl": "http://icecast.vrtcdn.be/ra2ant-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/157/radio-2-unwind.b6639758.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel3",
+    "name": "Radio Bene",
+    "streamUrl": "http://icecast.vrtcdn.be/radio2_benebene-high.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/belgium-nl/Radio%20Bene.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel4",
+    "name": "Klara",
+    "streamUrl": "http://icecast.vrtcdn.be/klara-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ujvRH9es5t.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel5",
+    "name": "Klara Continuo",
+    "streamUrl": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/T8Ye8HSWvT.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel6",
+    "name": "MNM",
+    "streamUrl": "http://icecast.vrtcdn.be/mnm-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/GcbLwvaxPU.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel7",
+    "name": "MNM Hits",
+    "streamUrl": "https://icecast.vrtcdn.be/mnm_hits-high.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/belgium-nl/MNM%20Hits.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel8",
+    "name": "Studio Brussel",
+    "streamUrl": "http://icecast.vrtcdn.be/stubru-high.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/belgium-nl/Studio%20Brussel.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel9",
+    "name": "De Tijdloze",
+    "streamUrl": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/df7r5pdnzahf.jpg",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel11",
+    "name": "JOE",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOEAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/332/joefm.e4dfa2ae.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel12",
+    "name": "JOE 80s & 90s",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/x7fzbddfxjqy.png",
+    "genre": "genre_retro",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel13",
+    "name": "JOE Easy",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/157/joe-easy.4a1b8918.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel14",
+    "name": "JOE Gold",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-gold.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/676/joe-gold.3c141cbc.png",
+    "genre": "genre_retro",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel15",
+    "name": "MENTpop",
+    "streamUrl": "https://n40a-eu.rcs.revma.com/kw48bmezaxnwv?rj-ttl=5&rj-tok=AAABnMLqlt8AzUh2z9niPedtqQ",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/413/ment-tv.1c0322ae.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel16",
+    "name": "Play Nostalgie",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELINGAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/A22WCeRDQG.jpg",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel17",
+    "name": "Nostalgie Plus",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUSAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/BaBTREjm5C.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel18",
+    "name": "NRJ België",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIEAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/MB7MEHQsKv.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel19",
+    "name": "One World Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/511/one-world-radio.ba0008b5.jpg",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel20",
+    "name": "Qmusic",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/673/qmusic-belgium.1e21387c.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel21",
+    "name": "Q-Allstars",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/560/q-allstars2.c489c636.jpg",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel22",
+    "name": "Q-Foute Radio",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/432/q-foute-radio.7e50c490.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel23",
+    "name": "Radio Maria",
+    "streamUrl": "https://stream.radiomaria.be:8443/RadioMaria-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/hyG9uzHxH9.png",
+    "genre": "genre_religious",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel24",
+    "name": "RTBF Mix",
+    "streamUrl": "https://radios.rtbf.be/rtbfmix-64.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/158/rtbf-mix.d857f3b7.jpg",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel25",
+    "name": "Stadsradio Vlaanderen",
+    "streamUrl": "http://randstad.wirelessbelgie.be:8330/stream.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/belgium-nl/Stadsradio%20Vlaanderen.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel26",
+    "name": "TOPradio",
+    "streamUrl": "https://str.topradio.be/topradio.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/695/top-radio.54bf9514.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel27",
+    "name": "TOP2",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/695/top-radio.54bf9514.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel28",
+    "name": "Willy",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/809/willy.fc7aaaed.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel29",
+    "name": "Willy Class X",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/273/willy-class-x.6e08c506.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel30",
+    "name": "La Première",
+    "streamUrl": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/113/rtbf-la-premiere.c613f5df.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel31",
+    "name": "Classic 21",
+    "streamUrl": "https://radios.rtbf.be/classic21-64.aac",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/belgium-fr/Classic%2021.png",
+    "genre": "genre_clasic",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel32",
+    "name": "Musiq 3",
+    "streamUrl": "https://radios.rtbf.be/musiq3-128.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/813/rtbf-musiq-3.34866e25.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel33",
+    "name": "Jam",
+    "streamUrl": "https://radios.rtbf.be/jam-64.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/322/rtbf-jam.ae419954.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel34",
+    "name": "Tarmac",
+    "streamUrl": "https://radios.rtbf.be/tarmac-64.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/530/tarmac.6e46ac08.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel35",
+    "name": "Tipik",
+    "streamUrl": "https://radios.rtbf.be/pure-64.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/815/rtbf-tipik-fm.a66d6915.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel36",
+    "name": "Vivacité",
+    "streamUrl": "https://redbeemedia.streamabc.net/redbm-vivabxl-mp3-160-6153830?sABC=69nnoo2r%230%23r2r59nqr6438436508384p11n220qq5n%23zg&aw_0_1st.playerid=mt&amsparams=playerid:mt;skey:1772796718",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/114/rtbf-vivacite.1b287226.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel37",
+    "name": "VivaPlus",
+    "streamUrl": "https://redbeemedia.streamabc.net/redbm-vivaplus-mp3-160-4904728?sABC=69nnoo85%230%23r2r59nqr6438436508384p11n220qq5n%23zg&aw_0_1st.playerid=mt&amsparams=playerid:mt;skey:1772796805",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/512/rtbf-viva-plus.e1bb13b7.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel38",
+    "name": "Viva Sport",
+    "streamUrl": "http://redbeemedia.streamabc.net/redbm-vivasport-aac-128-5229443?sABC=69nnoos0%230%2318s65123s954709p92980n6r753q915p%23ecj&aw_0_1st.playerid=rpw&amsparams=playerid:rpw;skey:1772796912",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/eMJJcMdK8E.png",
+    "genre": "genre_sport",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel39",
+    "name": "RCF Sud Belgique",
+    "streamUrl": "https://rcf.streamakaci.com/rcfsudbe.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/xvy4gpccbsej.jpg",
+    "genre": "genre_religious",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel40",
+    "name": "Bel RTL",
+    "streamUrl": "https://belrtl.ice.infomaniak.ch/belrtl-mp3-128",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/156/bel-rtl.d144741a.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel41",
+    "name": "BRF1",
+    "streamUrl": "https://streaming.brf.be/brf1-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JtubJ72NPk.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel42",
+    "name": "BRF2",
+    "streamUrl": "https://streaming.brf.be/brf2-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/WXS6vka9fT.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel43",
+    "name": "Fun Radio",
+    "streamUrl": "http://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/406/fun-radio-belgique.77f8bb84.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel44",
+    "name": "LN Radio",
+    "streamUrl": "https://stream.rcs.revma.com/anew1ctrgzzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/b4f97R82W4.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel45",
+    "name": "Nostalgie",
+    "streamUrl": "https://stream.rcs.revma.com/5gd04cwptg0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sNGKnGQMxA.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel46",
+    "name": "Nostalgie Plus",
+    "streamUrl": "https://stream.rcs.revma.com/s9mkgtsqtg0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/BaBTREjm5C.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel47",
+    "name": "NRJ Belgique",
+    "streamUrl": "https://stream.rcs.revma.com/xh00fwuptg0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pvqrVKZBWh.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel48",
+    "name": "NRJ Plus",
+    "streamUrl": "https://stream.rcs.revma.com/1a6hdnzbebuvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/b862RHxNya.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel49",
+    "name": "Radio Contact",
+    "streamUrl": "https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/157/radio-contact.e810f51f.jpg",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel50",
+    "name": "Radio Contact MAX",
+    "streamUrl": "https://contactmax.ice.infomaniak.ch/contactmax-128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/443/contact-max.f736d70c.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "bel51",
+    "name": "Sud Radio Belgique",
+    "streamUrl": "https://stream.ceit.be/sudradio-belgique",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/belgium-fr/Sud%20Radio%20Belgique.png",
+    "genre": "genre_pop",
+    "country": "country_belgium"
+  },
+  {
+    "id": "gre1",
+    "name": "ΕΡΤ Πρώτο πρόγραμμα",
+    "streamUrl": "http://radiostreaming.ert.gr/ert-proto",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dczbdnx6xgsp.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre2",
+    "name": "ΕΡΤ Δεύτερο Πρόγραμμα",
+    "streamUrl": "http://radiostreaming.ert.gr/ert-deftero",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/n2XeundVg5.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre3",
+    "name": "ΕΡΤ Τρίτο Πρόγραμμα",
+    "streamUrl": "http://radiostreaming.ert.gr/ert-trito",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/lgze3sz2zfd5.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre4",
+    "name": "ΕΡΑ Σπορ",
+    "streamUrl": "http://radiostreaming.ert.gr/ert-erasport",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/078/era-spor-eraspor.3d04dc23.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre6",
+    "name": "Χρώμα FM",
+    "streamUrl": "http://hroma1058thess.live24.gr/hroma1058thess",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/514/xroma-fm-1021-khroma-fm.a0e0f0f2.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre7",
+    "name": "KISS",
+    "streamUrl": "https://kissfm.live24.gr/kissfmathens",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/797/929-kiss.f80d2ddf.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre8",
+    "name": "Μελωδια",
+    "streamUrl": "https://stream.radiojar.com/melodia992",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/297/melodia-1024-fm.c1360470.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre10",
+    "name": "ΣΚΑΪ",
+    "streamUrl": "https://skai.live24.gr/skai1003",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/UgZFhUBL3n.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre11",
+    "name": "ΣΠΟΡ FM",
+    "streamUrl": "https://sportfm.live24.gr/sportfm7712",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/512/athletic-radio-1042-fm.bbd5a6c3.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre12",
+    "name": "InKefalonia 89.2",
+    "streamUrl": "https://sp3.streams.ovh/8096/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/R7NBGGQ9EB.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre13",
+    "name": "Ionian Galaxy 90.8",
+    "streamUrl": "https://srv.radiocaster.gr/9302/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/U2wTeGHwk3.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre14",
+    "name": "ΕΡΤ Ζακύνθου 93.2",
+    "streamUrl": "https://radiostreaming.ert.gr/ert-zakynthos",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ggXYR2NgLc.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre15",
+    "name": "Νησί 93.9",
+    "streamUrl": "https://sp3.streams.ovh/8054/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/an8tkssfn4hr.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre16",
+    "name": "Cosmos 96.5",
+    "streamUrl": "https://sp3.streams.ovh/8064/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/QN84hXJg3h.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre17",
+    "name": "Palmos 98.3",
+    "streamUrl": "https://netradio.live24.gr/palmos983",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/YEzY4jvQMe.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre18",
+    "name": "100.6 KISS",
+    "streamUrl": "https://listen-kissfm1006.sharp-stream.com/kissfm1006hqprem.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ZrCUZAAtcF.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre19",
+    "name": "En Lefko 87.7",
+    "streamUrl": "https://stream.rcs.revma.com/kwste9dz1duvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/869/en-lefko-electronica-en-leuko.fb38137f.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre20",
+    "name": "HiT 88.9",
+    "streamUrl": "https://stream.rcs.revma.com/r0yaerez1duvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/s9wubw6zagux.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre21",
+    "name": "Music 89.2",
+    "streamUrl": "https://netradio.live24.gr/music892",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/174/music-892-fm.d29aacd8.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre22",
+    "name": "ΔΡΟΜΟΣ 89.8",
+    "streamUrl": "https://stream.rcs.revma.com/10q3enqxbfhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/m5kem2ydjqvu.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre23",
+    "name": "Κανάλι Ένα 90.4",
+    "streamUrl": "https://netradio.live24.gr/kanali1peiraia",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ytqacvgutztp.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre24",
+    "name": "best 92.6",
+    "streamUrl": "https://best.live24.gr/best1222",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xqagjqzmfa6v.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre25",
+    "name": "ΕΡΤ Κόσμος 93.6",
+    "streamUrl": "https://radiostreaming.ert.gr/ert-kosmos",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9nexukgjebty.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre27",
+    "name": "RED 96.3",
+    "streamUrl": "https://stream.rcs.revma.com/e4d84zez1duvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/584/red-fm-80s.9d980abb.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre29",
+    "name": "easy 97.2",
+    "streamUrl": "https://stream.rcs.revma.com/4vr91u5r4a0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/795/easy-972-fm.a657fc1c.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre30",
+    "name": "Love 97.5",
+    "streamUrl": "https://netradio.live24.gr/loveradio-1000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vubCXR78cZ.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre31",
+    "name": "Αθήνα 9,84 98.3",
+    "streamUrl": "https://athina984.live24.gr/athina984",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/PfeqhYEmg5.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre32",
+    "name": "Nostos 100.6",
+    "streamUrl": "https://neos.win:37878/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aapvejzdcmd3.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre33",
+    "name": "δίεση 101.3",
+    "streamUrl": "https://stream.rcs.revma.com/gkfwrhqxbfhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/TDttZAzQ9f.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre34",
+    "name": "Sfera 102.2",
+    "streamUrl": "https://sfera.live24.gr/sfera4132",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/FGXgNFcbJd.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre36",
+    "name": "Αρτ FM 102.7",
+    "streamUrl": "https://radio.webmonster.gr:8030/artfm906hi",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5jmagvtxdgqz.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre37",
+    "name": "Happy 104",
+    "streamUrl": "https://ath10400fm-radioplayer.live24.gr/ath10400fm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/542dp5snkshs.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre38",
+    "name": "Rebel 105.2",
+    "streamUrl": "https://netradio.live24.gr/rebel1052",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/207/rebel-fm-1052.f5ce0d9d.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre39",
+    "name": "105.5 ΣΤΟ ΚΟΚΚΙΝΟ",
+    "streamUrl": "https://stream.radiojar.com/red-source",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/QPcjgxNeCg.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre40",
+    "name": "FM 106.5",
+    "streamUrl": "https://shoutcast.k-planet.eu/9400/stream;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/FXkAQGMc7S.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre41",
+    "name": "Zeppelin 106.7",
+    "streamUrl": "https://radiostreaming.ert.gr/ert-zeppelin",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/883/zeppelin-1067-fm.f3d797cb.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre42",
+    "name": "blue space 107.2",
+    "streamUrl": "https://sp1.19cloudsnetwork.gr/8008/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/770/blue-space-1072-fm.695b4125.png",
+    "genre": "genre_relax",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre43",
+    "name": "UniWA Radio 1287",
+    "streamUrl": "https://stream.zeno.fm/1102n26rcg8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/683/vanilla-radio.9c6253bc.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre44",
+    "name": "Pirate Radio GR",
+    "streamUrl": "https://live.piratefm.net/top",
+    "imageUrl": "https://piratefm.net/storagee/2023/02/Pirate-Radio-GR-Logo.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre45",
+    "name": "Παλμός 94.1",
+    "streamUrl": "https://tls-chrome.live24.gr/1688?",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bmbpctsfx9zf.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre46",
+    "name": "Radio Alpha Omega",
+    "streamUrl": "http://live.radioalphaomega.com:4008/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xjub3fntlkwc.gif",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre47",
+    "name": "Ράδιο Αλήθεια",
+    "streamUrl": "https://radio.webhosting4u.gr/stream/alithia",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/449/radio-alithia-eu.de2c3517.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre48",
+    "name": "Ράδιο Μαστίχα",
+    "streamUrl": "https://radiomastixa.top:48000/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/448/radio-mastixa-radio-mastikha.c94f834b.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre49",
+    "name": "Sfera",
+    "streamUrl": "https://netradio.live24.gr/sfera989",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/3jMCHmRsuQ.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre52",
+    "name": "DeeJay 89.6",
+    "streamUrl": "https://sp3.streams.ovh/8089/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/a9sxerh5gsqb.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre53",
+    "name": "4u Radio 90.7",
+    "streamUrl": "https://netradio.live24.gr/4uradio931",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/374/4u-radio.64a7b814.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre54",
+    "name": "KISS 91.1",
+    "streamUrl": "https://rdst.win:59110/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gpcPrLtyX3.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre55",
+    "name": "Studio 3 92.7",
+    "streamUrl": "https://sh.onweb.gr/8408/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/GZUxUyKjDt.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre56",
+    "name": "Hit 93.5",
+    "streamUrl": "https://radio.escape-media.gr:8008/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/czvgbrsyxsq8.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre57",
+    "name": "Melody 94.9",
+    "streamUrl": "http://i2.streams.ovh:7121/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/svshcrjpw3ww.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre61",
+    "name": "Studio E 103.0",
+    "streamUrl": "http://music.1host.gr:9045/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/GZUxUyKjDt.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre64",
+    "name": "Nitro Radio 106.7",
+    "streamUrl": "https://politisradios.live24.gr/streameenitro",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/176/nitro-radio2.ca521541.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre65",
+    "name": "Radio Amore 87.5",
+    "streamUrl": "https://sh.onweb.gr:7072/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/833/radio-amore-amore-875.70e06db8.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre66",
+    "name": "Γαύδος 88.8",
+    "streamUrl": "https://sc2.streamwithq.com:2000/stream/GavdosFm/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ewKxZ6yem3.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre67",
+    "name": "Ραδιο Παλαιοχωρα 89.3",
+    "streamUrl": "http://s6.onweb.gr:8068/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/2b8354b4-9238-49b8-a44a-aed794d9593b.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre68",
+    "name": "Zarpa Radio 89.6",
+    "streamUrl": "https://sh.onweb.gr/8454/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/46443.v3.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre69",
+    "name": "Δίκτυο FM 91.5",
+    "streamUrl": "https://eu10.fastcast4u.com:7800/1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/181/diktyo-radio.60a753c1.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre70",
+    "name": "Radio Faros 91.8",
+    "streamUrl": "http://s3.onweb.gr:8012/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mgbej6sammck.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre71",
+    "name": "Ράδιο Ριζίτες 92.4",
+    "streamUrl": "http://s1.onweb.gr:8040/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/klt7dkjtxx7j.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre72",
+    "name": "easy 93.2",
+    "streamUrl": "https://solid48.streamupsolutions.com/proxy/lhlamody?mp=/;type=mp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eph3CpYHMD.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre73",
+    "name": "Ράδιο Ένταση 93.5",
+    "streamUrl": "https://entasistream.tuc.gr:8000/main.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mjedbdkqvpyk.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre74",
+    "name": "Original 94.4",
+    "streamUrl": "http://eu10.fastcast4u.com:8990/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ge6grdzapymf.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre75",
+    "name": "D-code 96.2",
+    "streamUrl": "https://s15.myradiostream.com/:13980/listen.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zw9nt6a2yjqp.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre76",
+    "name": "Αντέννα Δυτ. Κρήτης 97.1",
+    "streamUrl": "https://sc2.streamwithq.com:8008/;stream.mp3",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/1955e3fa-432b-4fa4-992a-a43ad2a3e9ad.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre77",
+    "name": "Star 97.7",
+    "streamUrl": "https://solid55.streamupsolutions.com/proxy/vkpzhens/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4djlcrwabtxg.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre78",
+    "name": "Magic FM 98.2",
+    "streamUrl": "https://netradio.live24.gr/magic982",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rhf99xmzuxn8.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre79",
+    "name": "Chania Radio 99.6",
+    "streamUrl": "https://sh.onweb.gr/8434/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/NFtuvq2nkP.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre80",
+    "name": "max 100.2",
+    "streamUrl": "https://solid9.streamupsolutions.com/proxy/abuyunbd?mp=/;type=mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/T6JD79bEzW.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre81",
+    "name": "myradio 104.6",
+    "streamUrl": "https://streaming.myradio1046.fm/myradio1046",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jz8yp9ama5yd.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre83",
+    "name": "Δρόμος 105.4",
+    "streamUrl": "https://sc2.streamwithq.com:8124/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/AAFdfnqSky.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre84",
+    "name": "top fm 106.5",
+    "streamUrl": "http://sc2.streamwithq.com:8086/;stream.nsv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/FXkAQGMc7S.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre85",
+    "name": "AFN Souda Bay 107.3",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SDBAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cdk3j2yankcm.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre86",
+    "name": "Κρήτη FM",
+    "streamUrl": "http://s3.onweb.gr:8878/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/fbaef4b4-78f4-4cba-b934-2c55e8e3ecd6.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre87",
+    "name": "Κρητικόραμα",
+    "streamUrl": "http://prech.kritikorama.eu:9382/prech",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qmvhuxdnn3v6.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre89",
+    "name": "Ερωτόκριτος FM 87.9",
+    "streamUrl": "http://stream2.proradio.gr:8004/erotokritos",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Kt7vpu7qSB.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre90",
+    "name": "Fly 88.1",
+    "streamUrl": "http://eco.onestreaming.com:8602/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tk64e4fmydt2.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre91",
+    "name": "Radio me 88.4",
+    "streamUrl": "https://eco.onestreaming.com/proxy/radiome/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/et2n7XwT7E.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre92",
+    "name": "Κρητικός 88,7",
+    "streamUrl": "http://dione.shoutca.st:8443/;",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/3a50ba8e-746f-48bc-832f-96238aa3e68d.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre93",
+    "name": "Radio Family 89.5",
+    "streamUrl": "https://www.fmlive.gr/8002/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/u9ubwsjtxquh.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre94",
+    "name": "super 90.4",
+    "streamUrl": "https://super904-spirosb.radioca.st/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/p5g6gkdj4cad.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre96",
+    "name": "Ράδιο Ανάμνηση 91.0",
+    "streamUrl": "https://netradio.live24.gr/radioanamnisi910",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/557798e0-7bad-48cd-b744-bbdc127d7d14.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre97",
+    "name": "Traffic FM 91.8",
+    "streamUrl": "http://s5.onweb.gr:8506/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/17492.v5.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre98",
+    "name": "ΣΚΑΙ Κρήτης 92.1",
+    "streamUrl": "https://sc2.streamwithq.com:2000/stream/SkaiKritis",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/1fadebd5-e317-4943-8f19-9340ec0e105e.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre99",
+    "name": "up 92.9",
+    "streamUrl": "https://netradio.live24.gr/lampsi929herakleio",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/60066535-d42c-4852-8a3f-c5137bb6b061.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre100",
+    "name": "KISS 96.1",
+    "streamUrl": "https://antares.dribbcast.com/proxy/kiss961?mp=/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/9fd08a1b-26dc-4dc5-a13c-deb4d6fe0e53.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre101",
+    "name": "Ράδιο 98.4",
+    "streamUrl": "https://cast4.my-control-panel.com/proxy/anastas2/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/690/radio-984-fm.a43c21cb.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre102",
+    "name": "Sfera 98.7",
+    "streamUrl": "https://i5.streams.ovh:2200/sc/web100/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/b32a066d-45bf-4b2b-906e-0b972fd0a236.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre103",
+    "name": "ο Εύδιος Λιμήν 101.9",
+    "streamUrl": "https://eco.onestreaming.com/proxy/imga/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/353f306a-9da5-4b81-9d27-a265096dbcdf.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre104",
+    "name": "Love Radio Κρήτης 102.8",
+    "streamUrl": "https://loveradio-her.live24.gr/loveradio-her2",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/990/love-radio-kretes-1028.e1418313.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre105",
+    "name": "Λατώ FM 103.3",
+    "streamUrl": "https://stream.latofm.gr/latofm",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/bfb886b5-9c87-4ac6-bd81-8a727ddd8ebc.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre106",
+    "name": "Mousiko Kanali 105.1",
+    "streamUrl": "https://stream1.mousikokanali.gr/mc",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6b2mlqf4dxdg.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre107",
+    "name": "Music Club 105.8",
+    "streamUrl": "https://antares.dribbcast.com/proxy/music1058?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cnqdz5rbj3ry.jpeg",
+    "genre": "genre_dance",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre108",
+    "name": "Υδρόγειος 106.9",
+    "streamUrl": "https://netradio.live24.gr/ydrogeios1069her",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/fbaa3aa2-aea5-4dd2-9a07-c50c853945ed.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre109",
+    "name": "derti 107.7",
+    "streamUrl": "https://i5.streams.ovh:2200/sc/web101/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4swxyvjhngqx.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre110",
+    "name": "Μελωδία 88.3",
+    "streamUrl": "https://stream.rcs.revma.com/melodia992",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/28753a17-28e8-45ac-a222-7f4436b30a8a.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre111",
+    "name": "Alpha Radio 88.6",
+    "streamUrl": "https://stream3.proradio.gr/listen/alpharadio/alpharadio",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/1a592eef-447a-474b-84b1-706b6d4832a5.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre112",
+    "name": "Ena Radio 90.5",
+    "streamUrl": "https://rdst.win:48000/stream?type=.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/898/ena-radio-905-fm.273bb77f.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre114",
+    "name": "Love Radio 91.7",
+    "streamUrl": "https://i5.streams.ovh:14036/live",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/332958c8-1792-4502-9a83-19c7cf66d617.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre115",
+    "name": "Cosmos 93.2",
+    "streamUrl": "https://neos.win:59320/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/CUyvfuEHvL.jpeg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre116",
+    "name": "Πρωινή FM 93.7",
+    "streamUrl": "http://62.103.31.151:8000/stream",
+    "imageUrl": "https://images.radiovolna.net/_files/images/stations/428316/34885cfe59384e78bf7e278b3fc0a055_165x165.webp",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre117",
+    "name": "ΕΡΤ Καβάλας 96.3",
+    "streamUrl": "https://radiostreaming.ert.gr/ert-kavala",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/43aa711f-e33f-4839-9d8a-41a8214f8835.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre118",
+    "name": "Stoxos FM 98.9",
+    "streamUrl": "http://s3.onweb.gr:8016/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sx4a39yeh8kt.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre119",
+    "name": "Λελέβωσε 101.3",
+    "streamUrl": "https://tls-chrome.live24.gr/972",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/869ad87b-add4-465f-ab92-cf4aa027e0f5.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre120",
+    "name": "KavalaNews 102.8",
+    "streamUrl": "https://sp3.streams.ovh/8052/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/0c6a1209-1091-424a-bb7b-46b55df3604e.png",
+    "genre": "genre_news",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre121",
+    "name": "Παλμός 103.2",
+    "streamUrl": "https://netradio.live24.gr/palmos1032",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/d6bac4fa-f4ed-4d7b-9efa-3ecf0684f034.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre122",
+    "name": "Λάμψη 105.7",
+    "streamUrl": "https://stream3.proradio.gr/listen/lampsi/lampsifm",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/876ceb82-42fa-4204-b93c-dab6d43b4708.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre123",
+    "name": "Ράδιο Μακεδόνισσα 106.4",
+    "streamUrl": "https://netradio.live24.gr/makedonissa1064",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/19543ad5-c761-49fe-8c5f-af944d5868a8.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre124",
+    "name": "Capital 107",
+    "streamUrl": "https://neos.win:59350/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/61846fae-57fe-4e1c-ae8f-dcdc0df765f4.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre125",
+    "name": "ΕΡΤ Β.Αιγαίου",
+    "streamUrl": "https://radiostreaming.ert.gr/ert-aigaiou",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/1e7a6dd3-2b97-47ee-ace2-380972b64ea3.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre126",
+    "name": "Αίολος",
+    "streamUrl": "https://eco.onestreaming.com/proxy/aeolos/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/b25d9db3-6ddc-4e70-bc78-e0f7ad8220ff.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre127",
+    "name": "astra 93.2",
+    "streamUrl": "https://eco.onestreaming.com/proxy/astra/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/8ac42a2e-28e0-43c7-9230-5bded9dbcc75.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre128",
+    "name": "Love Radio",
+    "streamUrl": "https://solid1.streamupsolutions.com/proxy/apzxhsah?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/729/2-love-radio.ce1529db.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre129",
+    "name": "Ράδιο Καλλονή",
+    "streamUrl": "https://solid55.streamupsolutions.com/proxy/pelsssbw?mp=/;type=mp3",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/575fc57d-5399-4f3d-b0c6-75a28d5c1a90.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre130",
+    "name": "Ράδιο Μυτιλήνη",
+    "streamUrl": "https://cast5.magicstreams.gr/sc/radiomitilini90/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/c15c1e7c-502a-45ee-b868-393d9956b63b.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre131",
+    "name": "Ρυθμός 91.6",
+    "streamUrl": "https://cast5.magicstreams.gr/sc/rythmos916/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/0348155b-068a-4728-a4ec-658c39e6619a.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre132",
+    "name": "ΣΚΑΪ ΑΙΓΑΙΟΥ",
+    "streamUrl": "http://live.isol.biz:8500/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/8a01d301-ea5c-4b64-bc6c-a56027f0f8be.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre133",
+    "name": "SLAM!",
+    "streamUrl": "https://eco.onestreaming.com/proxy/slam/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/b6521e89-100a-4c8b-b611-0679cb677e66.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre134",
+    "name": "Στο Νησί 99",
+    "streamUrl": "https://eco.onestreaming.com/proxy/stonisi99/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/2a6904e2-d653-4deb-8e2a-c2500cd88970.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre135",
+    "name": "Radio 1 88.0",
+    "streamUrl": "http://111.gr:8000/;",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/4d4142bb-7a2d-4f22-8ea4-396194c029d5.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre136",
+    "name": "Ρόδος FM 90.7",
+    "streamUrl": "https://i.streams.ovh:9327/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/952ef0d2-ed2f-4a60-af70-b36bf860726c.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre137",
+    "name": "Ράδιο Λυχνάρι 91.4",
+    "streamUrl": "https://eco.onestreaming.com/proxy/lyxnari/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/67df9a42-33f9-4ce0-842a-d39310db1a9c.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre138",
+    "name": "ΕΡΤ Νοτίου Αιγαίου 93.1",
+    "streamUrl": "https://radiostreaming.ert.gr/ert-rodos",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/a014e2fe-d9ef-4b25-8e06-25e03af8220b.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre139",
+    "name": "Kosmos 93.8",
+    "streamUrl": "https://netradio.live24.gr/kosmos938rodos",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/25963152-e2bc-403e-ba5c-b7226050b027.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre140",
+    "name": "Rythmos 94.5",
+    "streamUrl": "https://netradio.live24.gr/rythmos945rodos",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/QBVaWqYSsK.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre141",
+    "name": "Notos News 97.8",
+    "streamUrl": "https://i.streams.ovh:9331/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",
+    "genre": "genre_news",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre142",
+    "name": "Radio Galaxy 99",
+    "streamUrl": "https://solid1.streamupsolutions.com/proxy/tfcgioyq?mp=/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/99def176-7da3-4869-875c-35f2ea77330e.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre143",
+    "name": "Real Voice 99.5",
+    "streamUrl": "https://radio.streamings.gr/proxy/realvoice995?mp=/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/1552b723-f3d3-49e7-89f0-0a182c70d3c0.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre145",
+    "name": "Αρχάγγελος 101.7",
+    "streamUrl": "https://eco.onestreaming.com/proxy/arhagelos/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/d8b5ba1e-c19d-4ab0-b5a5-7bc8c1c7d64f.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre146",
+    "name": "TOP FM 102.4",
+    "streamUrl": "https://eco.onestreaming.com/proxy/topfm/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/f1b75bd2-1bfd-4358-a26e-cb84876e61b9.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre147",
+    "name": "BEST FM 103.1",
+    "streamUrl": "https://softloop.gr/8004/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/5e6dc61d-0ba2-4c26-a8b1-18b32ec1a115.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre148",
+    "name": "Μελωδία Ρόδου 103.7",
+    "streamUrl": "https://eco.onestreaming.com/proxy/melodiarodou/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/2c234fed-8856-4146-954d-766fc1d94748.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre149",
+    "name": "Box Radio 104.9",
+    "streamUrl": "https://feelgood.radioca.st/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/5f7d0d38-fbd5-4c48-a882-6ecf15692e83.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre152",
+    "name": "Ζοο 90.8",
+    "streamUrl": "https://metromedia.live24.gr/zoo908thess",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/fe26f041-be92-4ffd-a611-570bc126a6bc.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre153",
+    "name": "RSO 91.7",
+    "streamUrl": "https://rso917greece.radioca.st/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/6a566456-f0bf-4e71-9caa-bd75db09e414.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre154",
+    "name": "Karamela 92.3",
+    "streamUrl": "https://netradio.live24.gr/924fm-thess",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/8c047aec-2510-4fbe-b75f-18c34324cb95.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre155",
+    "name": "Ράδιο Θεσσαλονίκη 94.5",
+    "streamUrl": "https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/4f967b66-7ba0-4dd2-af9f-4d59390add4a.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre156",
+    "name": "Metropolis 95.5",
+    "streamUrl": "http://metropolis.live24.gr/metropolis955thess",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/73fc95ae-ab99-4b2d-8fa3-e0310ca554dd.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre157",
+    "name": "Μινόρε 96.1",
+    "streamUrl": "https://eu3.fastcast4u.com/proxy/nmarog00?mp=/1",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/ddcce531-9ede-4cf7-b98f-084cf800a3c2.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre158",
+    "name": "96.8 Velvet",
+    "streamUrl": "https://metromedia.live24.gr/velvet968thess",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/7a97377a-8e42-4571-8663-d224832bb263.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre160",
+    "name": "Τρανζίστορ 100.3",
+    "streamUrl": "https://metromedia.live24.gr/tranzistor1003thess",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/12e25622-e83b-4c40-813c-c79a4e5e5824.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre161",
+    "name": "Yellow Radio 100.7",
+    "streamUrl": "https://ice.greekstream.net/yellow",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/bbb4b423-2750-4b44-98c7-b70ae7b9b7c9.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre162",
+    "name": "Plus 102.6",
+    "streamUrl": "https://plusradio.gr/stream1",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/e90b7fc0-fa82-48e4-bf32-6c1e95941ed7.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre163",
+    "name": "Focus FM 103.6",
+    "streamUrl": "https://ice.greekstream.net/focusfm",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/226fbd60-24ce-41ec-a81d-cf3aa63d5771.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre164",
+    "name": "FLY 104",
+    "streamUrl": "https://imagine2.radioca.st/stream",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre165",
+    "name": "Shook 104.4",
+    "streamUrl": "https://sh.onweb.gr/8812/;/chillout.mp3",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/7642cd7d-9df3-437f-93fd-1757d418c790.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre166",
+    "name": "105.5 ROCK",
+    "streamUrl": "https://radio.1055rock.gr:31056/live",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/200d45ee-9c83-47b1-ac59-3aeeafbb7e41.jpg",
+    "genre": "genre_rock",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre167",
+    "name": "City 106.1",
+    "streamUrl": "https://radio.lancom.gr:9012/stream5",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/15a5adf4-d212-4326-a011-1765e05c54da.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre168",
+    "name": "Music 107.1",
+    "streamUrl": "https://netradio.live24.gr/music1071thess",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/1ff5bff9-25d8-4730-99bd-f05122c51e16.png",
+    "genre": "genre_pop",
+    "country": "country_greece"
+  },
+  {
+    "id": "gre169",
+    "name": "Libero 107.4",
+    "streamUrl": "https://radio.libero.fm:10750/live",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/2b036053-b3b0-469f-8ff6-248f0e3a3d5a.jpg",
+    "genre": "genre_pop",
+    "country": "country_greece"
   }
 ]
