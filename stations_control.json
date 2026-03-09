@@ -12171,7 +12171,7 @@
     "id": "pol16",
     "name": "RadioZET",
     "streamUrl": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/poland/Radio%20Zet.png",
+    "imageUrl": "https://github.com/GreenDen123/stations.json/blob/main/images-europe/poland/Radio%20Zet.png",
     "genre": "genre_pop",
     "country": "country_poland"
   },
@@ -16880,3 +16880,4 @@
     "country": "country_uzbekistan"
   }
 ]
+
