@@ -10478,5 +10478,1621 @@
     "imageUrl": "https://resources.live24.gr/resources/images/stations/2b036053-b3b0-469f-8ff6-248f0e3a3d5a.jpg",
     "genre": "genre_pop",
     "country": "country_greece"
+  },
+  {
+    "id": "pol1",
+    "name": "Polskie Radio 1",
+    "streamUrl": "http://mp3.polskieradio.pl:8900/;.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/258/polskie-radio-program-i-pr1-jedynka.44d36729.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol2",
+    "name": "Polskie Radio 2",
+    "streamUrl": "http://stream3.polskieradio.pl:8952/;.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/259/polskie-radio-program-ii-pr2-dwojka.f001dc78.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol3",
+    "name": "Polskie Radio 3",
+    "streamUrl": "http://mp3.polskieradio.pl:8904/;.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/260/polskie-radio-program-iii-pr3-trojka.00c2edf5.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol4",
+    "name": "Polskie Radio 4",
+    "streamUrl": "http://stream3.polskieradio.pl:8906/;.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/261/polskie-radio-czworka.a7062b22.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol5",
+    "name": "Polskie Radio 24",
+    "streamUrl": "http://stream3.polskieradio.pl:8080/;.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/776/polskie-radio-24.1499c208.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol9",
+    "name": "Antyradio",
+    "streamUrl": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/789/antyradio.7bbc4249.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol10",
+    "name": "ESKA",
+    "streamUrl": "http://waw.ic.smcdn.pl/2380-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/938/radio-eska.5fe77e51.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol11",
+    "name": "ESKA 2",
+    "streamUrl": "https://waw.ic.smcdn.pl/1380-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/894/radio-wawa.e24f3457.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol12",
+    "name": "ESKA ROCK",
+    "streamUrl": "https://waw.ic.smcdn.pl/5990-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/927/radio-muzofm.29c0cbd0.png",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol13",
+    "name": "Meloradio",
+    "streamUrl": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/831/meloradio.0f1a9513.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol14",
+    "name": "Radio Maryja",
+    "streamUrl": "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/038/radio-maryja.76b6d2cb.png",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol15",
+    "name": "Radio Plus",
+    "streamUrl": "https://pl04.cdn.eurozet.pl/plu-waw.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/185/radio-plus-polska.8e5f5d63.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol16",
+    "name": "RadioZET",
+    "streamUrl": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/608/radio-zet.8fe59cd4.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol18",
+    "name": "Radio Złote Przeboje",
+    "streamUrl": "https://radiostream.pl/tuba9-1.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/231/radio-zlote-przeboje.5d593229.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol19",
+    "name": "RMF FM",
+    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol20",
+    "name": "RMF MAXX",
+    "streamUrl": "https://rs201-krk.rmfstream.pl/RMFMAXXX48",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/108/rmf-maxx-wloclawek.d620ed37.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol21",
+    "name": "RMF Classic",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/RMFCLASSIC48",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/872/rmf-classic.1a0c50f0.png",
+    "genre": "genre_clasic",
+    "country": "country_poland"
+  },
+  {
+    "id": "pol22",
+    "name": "TOK FM",
+    "streamUrl": "https://radiostream.pl/tuba10-1.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/893/tok-fm.23f26493.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "cze1",
+    "name": "ČRo D-dur",
+    "streamUrl": "https://rozhlas.stream/ddur_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sFzFfYw72B.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze2",
+    "name": "ČRo Dvojka",
+    "streamUrl": "http://amp.cesnet.cz:8000/cro2-256.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Djr8LJMPsA.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze3",
+    "name": "ČRo Jazz",
+    "streamUrl": "https://rozhlas.stream/jazz_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ewy9Y9kDtm.png",
+    "genre": "genre_jazz",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze4",
+    "name": "ČRo Plus",
+    "streamUrl": "https://rozhlas.stream/plus_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/CfqqJRT6r5.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze5",
+    "name": "ČRo Pohoda",
+    "streamUrl": "https://rozhlas.stream/pohoda_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/848/cesky-rozhlas-pohoda.12822ab6.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze6",
+    "name": "ČRo Radiožurnál",
+    "streamUrl": "http://amp.cesnet.cz:8000/cro1-256.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/082/cro-radiozurnal.44b063d4.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze7",
+    "name": "ČRo Radiožurnál Sport",
+    "streamUrl": "https://rozhlas.stream/radiozurnal_sport_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5pgmchxxdnbh.png",
+    "genre": "genre_sport",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze8",
+    "name": "ČRo Brno",
+    "streamUrl": "https://rozhlas.stream/brno_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dezYpW3p4w.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze9",
+    "name": "ČRo České Budějovice",
+    "streamUrl": "https://rozhlas.stream/ceske_budejovice_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mg4L6py3Ct.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze10",
+    "name": "ČRo Liberec",
+    "streamUrl": "https://rozhlas.stream/liberec_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/KTxLxNdvd4.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze11",
+    "name": "ČRo Pardubice",
+    "streamUrl": "https://rozhlas.stream/pardubice_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kzbNQNCaAx.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze12",
+    "name": "ČRo Plzeň",
+    "streamUrl": "https://rozhlas.stream/plzen_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/t8ubUcdUYn.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze13",
+    "name": "ČRo Střední Čechy",
+    "streamUrl": "https://rozhlas.stream/region_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/896/cro-region-stredocesky.68bbd619.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze14",
+    "name": "ČRo Vltava",
+    "streamUrl": "http://amp.cesnet.cz:8000/cro3-256.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kXXzj6M6SU.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze15",
+    "name": "Radio Wave",
+    "streamUrl": "https://rozhlas.stream/radio_wave_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8xnMk8YQaS.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze16",
+    "name": "Rádio Junior",
+    "streamUrl": "https://rozhlas.stream/radio_junior_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/EtWH2jA8mx.png",
+    "genre": "genre_kids",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze17",
+    "name": "Rádio Praha",
+    "streamUrl": "https://rozhlas.stream/radio_dab_praha_high.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/153/classic-praha.a62cf508.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze18",
+    "name": "Country Radio",
+    "streamUrl": "http://icecast4.play.cz/country128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/154/country-radio.30989fa7.png",
+    "genre": "genre_folk",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze19",
+    "name": "Český Impuls",
+    "streamUrl": "https://icecast6.play.cz/cesky-impuls.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/014/cesky-impuls.b61b6ac6.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze20",
+    "name": "DAB PLUS TOP 40",
+    "streamUrl": "https://icecast6.play.cz/dabplus-top40.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/354/on-top-40.a29cb454.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze21",
+    "name": "Evropa 2",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4eYJ2UArA8.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze22",
+    "name": "Fajn Rádio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/FAJN_RADIO_128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/581/fajn-radio.9c8d9e9c.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze23",
+    "name": "Frekvence 1",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8hASE9L98a.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze24",
+    "name": "HEY Radio",
+    "streamUrl": "https://icecast3.play.cz/hey-radio128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/292/hey-radio.a36edeef.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze25",
+    "name": "Hitrádio City",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CITY_PRAHAAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/060/hitradio-city-osmdesatka.6f7bced7.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze26",
+    "name": "Radio 1",
+    "streamUrl": "https://stream.rcs.revma.com/stk8hrvb938uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cRPYXGnPpV.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze27",
+    "name": "Rádio 7",
+    "streamUrl": "https://icecast1.play.cz/radio7cz128.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9fDLwQwn6R.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze28",
+    "name": "Rádio Beat",
+    "streamUrl": "https://stream.rcs.revma.com/3d47nqvb938uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tXKLn6sC3T.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze29",
+    "name": "Rádio Blaník",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/065/radio-blanik.4f6994c4.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze30",
+    "name": "Rádio Bonton",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BONTONAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/YGcw56fYWx.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze31",
+    "name": "Rádio Impuls",
+    "streamUrl": "http://icecast1.play.cz:80/impuls128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/176/radio-impuls.f863f452.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze32",
+    "name": "Radio Kiss",
+    "streamUrl": "http://icecast4.play.cz/kiss128.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/czech/Kiss.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze33",
+    "name": "Radio Proglas",
+    "streamUrl": "https://icecast1.play.cz/proglas96aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6h8wd3nGun.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze34",
+    "name": "Radio SPIN",
+    "streamUrl": "https://stream.rcs.revma.com/xcvkqtvb938uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wUu233dBjB.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze36",
+    "name": "Rock Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIOAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Jhh6CF6xV3.png",
+    "genre": "genre_rock",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze37",
+    "name": "RockZone",
+    "streamUrl": "https://icecast5.play.cz/rockzone128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zJnxZgEgxX.png",
+    "genre": "genre_rock",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze38",
+    "name": "Signál Rádio",
+    "streamUrl": "https://stream.rcs.revma.com/9sw1nuvb938uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sRWSGkqy3k.jpg",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "cze39",
+    "name": "ZUN rádio",
+    "streamUrl": "https://icecast9.play.cz/zun192.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/UYyHpMNXvQ.png",
+    "genre": "genre_pop",
+    "country": "country_czech"
+  },
+  {
+    "id": "aus1",
+    "name": "ORF Ö1",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/oe1-q2a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/471/o1.e81f25f6.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus2",
+    "name": "Radio Wien",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/wie-q2a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/seRuZBshjC.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus3",
+    "name": "Hitradio Ö3",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/474/hitradio-o3.a0f84a69.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus4",
+    "name": "Antenne HIT",
+    "streamUrl": "https://frontend.streamonkey.net/antennehit-live",
+    "imageUrl": "https://www.radioguide.fm/uploads/images/radiostation/hit-radio-antenne.jpg",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus5",
+    "name": "Antenne Österreich",
+    "streamUrl": "https://frontend.streamonkey.net/antoesterreich-live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/488/antenne-osterreich.3187a817.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus6",
+    "name": "Beats Radio",
+    "streamUrl": "https://stream.klassikradio.de/beats-at/mp3-192/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/294/beats-radio-osterreich.6f56b799.jpg",
+    "genre": "genre_hiphop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus8",
+    "name": "ERF Süd",
+    "streamUrl": "http://stream.erf.at/erfplus_320",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/260/erf-pop-austria.6dcde4a8.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus9",
+    "name": "FM4",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/FM4.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus10",
+    "name": "Flash 90s",
+    "streamUrl": "https://stream.flash90s.at/flash90s/mp3-320/",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/Flash%2090s.png",
+    "genre": "genre_retro",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus11",
+    "name": "jö.live",
+    "streamUrl": "https://live.stream.maxfive.com/max5-joelive",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xkercd9bsyvk.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus12",
+    "name": "Klassik Radio Digital",
+    "streamUrl": "https://live.streams.klassikradio.de/klassikradio-oesterreich",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/672/klassik-radio-osterreich.d3f58dbb.png",
+    "genre": "genre_clasic",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus13",
+    "name": "kronehit",
+    "streamUrl": "https://secureonair.krone.at/kronehit-hp.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/829/kronehit.178c92e7.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus14",
+    "name": "Life Radio",
+    "streamUrl": "https://liferadio.streamabc.net/lfr-lr-mp3-128-9299368",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/Life%20Radio.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus15",
+    "name": "LoungeFM",
+    "streamUrl": "https://s35.derstream.net/digital.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2Ys78XnzeR.jpg",
+    "genre": "genre_relax",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus16",
+    "name": "Mein Kinderradio",
+    "streamUrl": "https://stream01.zogl.net:8907/stream",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/Mein%20Kinderradio.png",
+    "genre": "genre_kids",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus19",
+    "name": "radio 88.6",
+    "streamUrl": "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/Radio%2088.6.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus20",
+    "name": "Radio Arabella",
+    "streamUrl": "https://frontend.streams.arabella.at/arabella-wien",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/HN8pCrfXse.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus21",
+    "name": "Arabella HOT",
+    "streamUrl": "https://frontend.streams.arabella.at/arabella-hot",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/743/arabella-hot.a647e160.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus22",
+    "name": "Arabella MAGIC",
+    "streamUrl": "https://frontend.streams.arabella.at/arabella-magic",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/499/arabella-magic.cc059452.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus23",
+    "name": "Radio Flamingo",
+    "streamUrl": "https://live.antenne.at/rf",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/558/radio-flamingo.917e4aef.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus24",
+    "name": "Radio Bollerwagen",
+    "streamUrl": "https://stream.ffn.de/radiobollerwagen/mp3-192",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/germany-nds/Radio%20Bollerwagen.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus25",
+    "name": "Radio GÖD",
+    "streamUrl": "https://radiogoed.securestream.kapper.net/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uFWGSZabHb.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus26",
+    "name": "Radio Maria Österreich",
+    "streamUrl": "http://live.radiomaria.at:8000/rma",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sUCVVvW9ER.png",
+    "genre": "genre_religious",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus27",
+    "name": "Radio ONE",
+    "streamUrl": "https://stream.radiotechnikum.at/TECHONE",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/722/radio-one-austria.20165753.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus28",
+    "name": "Radio SOL",
+    "streamUrl": "https://stream.radiosol.at/webstream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qb3cj4gnpqa9.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus29",
+    "name": "Radio klassik Stephansdom",
+    "streamUrl": "https://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/radio%20klassik%20Stephansdom.png",
+    "genre": "genre_clasic",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus30",
+    "name": "ROCK ANTENNE Österreich",
+    "streamUrl": "https://s4-webradio.rockantenne.at/rockantenne-oesterreich",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/473/rock-antenne-osterreich.f42ce9a9.png",
+    "genre": "genre_rock",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus31",
+    "name": "Rot Weiss Rot",
+    "streamUrl": "https://secureonair.krone.at/rwr.aac",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/Rot%20Weiss%20Rot.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus32",
+    "name": "Super 80s",
+    "streamUrl": "https://secureonair.krone.at/super80s.aac",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/Super%2080s.png",
+    "genre": "genre_retro",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus33",
+    "name": "Superfly.fm",
+    "streamUrl": "https://web.stream.superfly.fm/superfly-live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/485/superfly-983-fm.892a3e17.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus34",
+    "name": "VM1",
+    "streamUrl": "https://radiovm1.fluidstream.eu/radiovm1.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/921/vm1.7568d60f.jpg",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus35",
+    "name": "WELLE 1",
+    "streamUrl": "https://live.welle1.at:19000/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5VEYGXtkwk.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "aus36",
+    "name": "XXXLutz Das Radio",
+    "streamUrl": "https://stream.xxxlutz-dasradio.at/live/mp3-192/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/205/xxxlutz-radio.73085e5b.png",
+    "genre": "genre_pop",
+    "country": "country_austria"
+  },
+  {
+    "id": "nor1",
+    "name": "NRK P1",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/MTWbPpBe6m.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor2",
+    "name": "NRK P1+",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1pluss",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Es756Tgh6y.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor3",
+    "name": "NRK P2",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p2",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/fA99ELAKhH.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor4",
+    "name": "NRK P3",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/RDAqLBkVn9.jpg",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor5",
+    "name": "NRK Klassisk",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/klassisk",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Nr8a4pN7rZ.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor6",
+    "name": "NRK Nyheter",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/nyheter",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/778/nrk-alltid-nyheter.84fb9ff8.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor7",
+    "name": "NRK Folkemusikk",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/RrGyNAFRbF.png",
+    "genre": "genre_folk",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor8",
+    "name": "NRK Sámi Radio",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/sapmi",
+    "imageUrl": "https://images.radiovolna.net/_files/images/stations/4788/lpkb595b8dcacbd87415947814_165x165.webp",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor9",
+    "name": "NRK Jazz",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/jazz",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/czswp4Wg93.png",
+    "genre": "genre_jazz",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor10",
+    "name": "NRK P13",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p13",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/T3rFHeYwqv.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor11",
+    "name": "NRK mP3",
+    "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gNPZW9m5p9.jpg",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor12",
+    "name": "P4",
+    "streamUrl": "https://p4.p4groupaudio.com/P04_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/245/p4.30641271.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor13",
+    "name": "P5 Hits",
+    "streamUrl": "https://p5.p4groupaudio.com/P05_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/243/p5-hits.695bbaa9.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor14",
+    "name": "P6 Rock",
+    "streamUrl": "https://p6.p4groupaudio.com/P06_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/850/p6-rock.dce91ff2.png",
+    "genre": "genre_rock",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor15",
+    "name": "P7 Klem",
+    "streamUrl": "https://p7.p4groupaudio.com/P07_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/244/p7-klem-fm.09865719.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor16",
+    "name": "P8 Pop",
+    "streamUrl": "https://p8.p4groupaudio.com/P08_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/240/p8-pop.074786a4.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor17",
+    "name": "P9 Retro",
+    "streamUrl": "https://p9.p4groupaudio.com/P09_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/239/p9-retro.84ac205a.png",
+    "genre": "genre_retro",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor18",
+    "name": "P10 Country",
+    "streamUrl": "https://p10.p4groupaudio.com/P10_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/237/p10-country.2be1d12e.png",
+    "genre": "genre_folk",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor19",
+    "name": "P11 Dance",
+    "streamUrl": "https://p11.p4groupaudio.com/P11_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/382/p11-dance.44a9d13d.png",
+    "genre": "genre_dance",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor20",
+    "name": "P12 Hitmix",
+    "streamUrl": "https://p12.p4groupaudio.com/P12_MM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/236/p11-bandit.f7d08bf4.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor21",
+    "name": "NRJ Norge",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/simulcast2_no.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/659/kiss-norway.4b7c161e.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor22",
+    "name": "P24-7 FUN",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/station10_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/590/big-hiphop-rnb.2a17cda8.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor23",
+    "name": "P24-7 Hot Country",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/norskpop_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/501/norsk-pop.c2ae87db.png",
+    "genre": "genre_folk",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor24",
+    "name": "P24-7 KOS",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/p247kos_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/417/p24-7-kos.539ef1af.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor25",
+    "name": "P24-7 Mix",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/p247mix_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/277/p24-7mix.fc3a8c2b.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor26",
+    "name": "Podplay",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/podplay_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/podcasts/735/pod-play.jpg",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor27",
+    "name": "Radio 1",
+    "streamUrl": "http://live-bauerno.sharp-stream.com/radio1_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/812/radio-1-norge.a050c16f.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor28",
+    "name": "Radio Norge",
+    "streamUrl": "http://live-bauerno.sharp-stream.com/radionorge_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/168/radio-norge.7b8f564e.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor29",
+    "name": "Radio ROCK",
+    "streamUrl": "http://live-bauerno.sharp-stream.com/radiorock_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/008/radio-rock.b0443598.png",
+    "genre": "genre_rock",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor30",
+    "name": "Topp 40",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/top40_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/511/topp-40.6b6b4cb8.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "nor31",
+    "name": "Vinyl",
+    "streamUrl": "https://live-bauerno.sharp-stream.com/vinyl_no_aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/318/radio-vinyl.b04c8680.png",
+    "genre": "genre_pop",
+    "country": "country_norway"
+  },
+  {
+    "id": "fin7",
+    "name": "Basso",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cXJarEwGaT.jpg",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin10",
+    "name": "ENERGY",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/finland/Energy.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin13",
+    "name": "Iskelmä",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/TaCHJ9pQts.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin14",
+    "name": "Järviradio",
+    "streamUrl": "https://jarviradio.radiotaajuus.fi:9000/jr",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sQs8T9xEGT.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin15",
+    "name": "Kasari",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zgn423s3fsmg.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin17",
+    "name": "POPfm",
+    "streamUrl": "https://stream.madmenmedia.se/popfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/480/popfm-finland.52678f79.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin18",
+    "name": "Radio City",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/radiocity/radiocity_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/434/radio-city.d12d1427.jpg",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin19",
+    "name": "Radio Classic",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/classic/classic_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bzmnm4yqhnwq.jpg",
+    "genre": "genre_clasic",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin20",
+    "name": "Radio Dei",
+    "streamUrl": "http://isojako.radiodei.fi:8000/yleisohjelma",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/z72e3AJAvt.jpg",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin21",
+    "name": "Radio Nostalgia",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/MQpAqqYNZ4.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin22",
+    "name": "Radio Nova",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/612/radio-nova.6ff71084.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin23",
+    "name": "Radio Patmos",
+    "streamUrl": "https://s3.yesstreaming.net:7011/radio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/s6c4ww6pebrg.jpeg",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin24",
+    "name": "Radio POOKI",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/radiopooki/radiopooki_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/D4r77hEekx.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin27",
+    "name": "SuomiRäp",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/suomirap/suomirap_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zaqfal7ymncp.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin28",
+    "name": "SuomiRock",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/suomirock/suomirock_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/959/suomirock-finland.eef50bce.png",
+    "genre": "genre_rock",
+    "country": "country_finland"
+  },
+  {
+    "id": "fin29",
+    "name": "Top51",
+    "streamUrl": "https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/finland/Top51.png",
+    "genre": "genre_pop",
+    "country": "country_finland"
+  },
+  {
+    "id": "den1",
+    "name": "DR P1",
+    "streamUrl": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/DR%20P1.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den2",
+    "name": "DR P2",
+    "streamUrl": "http://live-icy.gss.dr.dk/A/A04L.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/DR%20P2.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den3",
+    "name": "DR P3",
+    "streamUrl": "http://live-icy.gss.dr.dk/A/A05L.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/DR%20P3.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den4",
+    "name": "DR P4",
+    "streamUrl": "http://live-icy.gss.dr.dk/A/A08L.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/DR%20P4.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den5",
+    "name": "DR P5",
+    "streamUrl": "http://live-icy.gss.dr.dk/A/A25L.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/DR%20P5.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den6",
+    "name": "DR P6",
+    "streamUrl": "http://live-icy.gss.dr.dk/A/A29H.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/DR%20P6.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den7",
+    "name": "DR P8",
+    "streamUrl": "http://live-icy.gss.dr.dk/A/A22H.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/denmark/DR%20P8.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den8",
+    "name": "Classic FM",
+    "streamUrl": "https://netradio.classicfm.dk/cla8d",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wffux9ksvhcm.jpg",
+    "genre": "genre_clasic",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den9",
+    "name": "Classic Rock",
+    "streamUrl": "https://netradio.classicfm.dk/classicrock",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/679/classic-rock-station.3a3fd1f7.png",
+    "genre": "genre_clasic",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den10",
+    "name": "mix 7",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/Mix7.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/3lr9cenjrzux.jpg",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den11",
+    "name": "myROCK",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/439/myrock.8f9d957e.jpg",
+    "genre": "genre_rock",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den12",
+    "name": "NOVA",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4SkxQh4mwS.jpg",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den13",
+    "name": "PodRadio",
+    "streamUrl": "https://stream.rcs.revma.com/czgf2408w33vv",
+    "imageUrl": "https://play-lh.googleusercontent.com/zMULJtf2rFSJseoMNxILCcLpswghX7jJM8MebZkzE5ZnKzJFNBQYHEHw4NZ_W63CBN5A=w480-h960-rw",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den14",
+    "name": "Pop FM",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/086/pop-fm.016d7c00.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den15",
+    "name": "Pop FM 80'er",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/popfm80.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/hmpru8q4znst.jpg",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den16",
+    "name": "Planet Rock",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP40.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wtbpk7whtdpp.png",
+    "genre": "genre_rock",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den17",
+    "name": "Radio 100",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kvLCgXqn8a.jpg",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den18",
+    "name": "Radio ALFA",
+    "streamUrl": "https://radioserver.dk/alfamidt",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/571/radio-alfa.f19ed9f0.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den19",
+    "name": "Radio Mars",
+    "streamUrl": "https://radio2.digidi.net/listen/mars/radio_mid.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/738/radio-mars2.44b6721e.jpg",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den20",
+    "name": "Radio Soft",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/024/radio-soft.9d193171.jpg",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den21",
+    "name": "Radio Vinyl",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ahtdfrfwjywa.jpg",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den22",
+    "name": "RADIO4",
+    "streamUrl": "https://netradio.radio4.dk/radio4",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/000/radio4.34c0b493.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den23",
+    "name": "Skala.fm",
+    "streamUrl": "https://netradio.skala.fm/ska8d",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2vYTL8Ug99.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "den24",
+    "name": "The Voice",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ru9rkery59.png",
+    "genre": "genre_pop",
+    "country": "country_denmark"
+  },
+  {
+    "id": "ser9",
+    "name": "Hit FM",
+    "streamUrl": "https://streaming.hitfm.rs/hit.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/94hDaR4g7Z.png",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "ser10",
+    "name": "Karolina",
+    "streamUrl": "https://streaming.karolina.rs/karolina.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/znupud8rkjsw.png",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "ser11",
+    "name": "Naxi Radio",
+    "streamUrl": "https://naxi64ssl.streaming.rs:9162/;stream.nsv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/G8Bnz8sucB.png",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "ser12",
+    "name": "Play Radio",
+    "streamUrl": "https://stream.playradio.rs:8443/play.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/668/play-radio-b92.9e8b9e1b.png",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "ser13",
+    "name": "Radio AS FM",
+    "streamUrl": "https://asfmonair-masterasfm.radioca.st/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/798/radio-as-fm.98173346.jpg",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "ser14",
+    "name": "Radio Lola",
+    "streamUrl": "https://streaming.karolina.rs/radiolola.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/581/radio-lola.e3a325dc.png",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "ser22",
+    "name": "TDI Radio",
+    "streamUrl": "https://streaming.tdiradio.com/tdiradio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2Y4vSJwhwd.jpg",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "ser23",
+    "name": "WTF Radio",
+    "streamUrl": "https://live.wtfradio.rs/wtfradio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/atvm2wnmtpnt.png",
+    "genre": "genre_pop",
+    "country": "country_serbia"
+  },
+  {
+    "id": "por1",
+    "name": "Antena 1",
+    "streamUrl": "https://radiocast.rtp.pt/antena180a.mp3",
+    "imageUrl": "https://www.radio.net/100/antena-1.png?version=1bbbfd2c411a24938a1a7af42d47b41b2c8fa54d",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por2",
+    "name": "Antena 2",
+    "streamUrl": "https://radiocast.rtp.pt/antena280a.mp3",
+    "imageUrl": "https://www.radio.net/100/antena2pt.png?version=8479b6c1f81adc941e05e95fc545e4aeb92731df",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por3",
+    "name": "Antena 3",
+    "streamUrl": "https://radiocast.rtp.pt/antena180a.mp3",
+    "imageUrl": "https://www.radio.net/100/rtpantena3.png?version=655dd6d79ace2aa6a7e8b2eb6ebdafac6ddb573f",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por4",
+    "name": "Cidade FM",
+    "streamUrl": "https://stream-icy.bauermedia.pt/cidade.mp3",
+    "imageUrl": "https://www.radio.net/100/cidadefm.png?version=03ca4694949f04b4e11417ba71ac4ddd5dde16db",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por5",
+    "name": "Mega Hits",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC_SC",
+    "imageUrl": "https://www.radio.net/100/megahitspt.png?version=d12d34c07f21a2d3c0a429373aca53892f18bc8b",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por6",
+    "name": "M80 Rádio",
+    "streamUrl": "https://stream-icy.bauermedia.pt/m80.mp3",
+    "imageUrl": "https://www.radio.net/100/m80-pop.png?version=8596f4f16621b9ba65f1ee55c13ff5cf7fa5a42d",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por7",
+    "name": "Rádio Comercial",
+    "streamUrl": "https://stream-icy.bauermedia.pt/comercial.mp3",
+    "imageUrl": "https://www.radio.net/100/radiocomercial.png?version=29143a826d5df39aae863c593500c208e4d8b15d",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por8",
+    "name": "Rádio Renascença",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC_SC",
+    "imageUrl": "https://www.radio.net/100/renascenca.png?version=9b20f5860aadd3bad00a51d22354514824c83d25",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por9",
+    "name": "RFM",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
+    "imageUrl": "https://www.radio.net/100/rfmpt.png?version=3652544fa7c43d235aea771eb7a032cbb0c7b90e",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "por10",
+    "name": "TSF Rádio Notícias",
+    "streamUrl": "https://directo.tsf.pt/tsfdirecto.mp3",
+    "imageUrl": "https://www.radio.net/100/tsfnoticias.png?version=f7adcad4f07ac29f37cd3b16028cc10de38efabb",
+    "genre": "genre_pop",
+    "country": "country_portugal"
+  },
+  {
+    "id": "cro1",
+    "name": "HR 1",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/SUvCuXE5Nt.png",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro2",
+    "name": "HR 2",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/VPgYkRaJwF.png",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro3",
+    "name": "HR 3",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ErVh6SD2ux.png",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro4",
+    "name": "HR Klasik",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/HR_CLASSICSAAC_SC",
+    "imageUrl": "https://www.radio.net/podcast-images/100/klasiklaten.jpeg?version=3e9c6beea849689c3b29534b44dd33fa4d4c5a37",
+    "genre": "genre_clasic",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro5",
+    "name": "bravo!",
+    "streamUrl": "http://c5.hostingcentar.com:8059/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ryvgrqtaxdzs.webp",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro6",
+    "name": "CMC Radio",
+    "streamUrl": "https://radio-stream.cmc.com.hr:9011/live",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/croatia/CMC%20Radio.png",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro7",
+    "name": "EXTRA FM",
+    "streamUrl": "http://streams.extrafm.hr:8110/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/753/extra-fm-936.45c09ab5.jpg",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro8",
+    "name": "Happy FM",
+    "streamUrl": "http://c5.hostingcentar.com:8446/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/501/happy-fm-croatia.9b9564f8.png",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro9",
+    "name": "Hrvatski Katolički Radio",
+    "streamUrl": "http://stream.hkr.hr:8000/hkr.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/549/hrvatski-katolicki-radio.638996cf.jpg",
+    "genre": "genre_religious",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro11",
+    "name": "Otvoreni",
+    "streamUrl": "https://stream2.otvoreni.hr/otvoreni",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wSGYWxvtqZ.jpg",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "cro12",
+    "name": "Radio Kaj",
+    "streamUrl": "http://s8.iqstreaming.com:8050/stream",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/croatia/Radio%20Kaj.png",
+    "genre": "genre_pop",
+    "country": "country_croatia"
+  },
+  {
+    "id": "slo1",
+    "name": "Rádio Slovensko",
+    "streamUrl": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "imageUrl": "https://www.radio.net/100/sroslovensko.png?version=f928c37af019f55243af3e77461f499d67c22273",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo2",
+    "name": "Rádio Devin",
+    "streamUrl": "https://icecast.stv.livebox.sk/devin_128.mp3",
+    "imageUrl": "https://www.radio.net/assets/images/station_avatar.svg",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo3",
+    "name": "Rádio_FM",
+    "streamUrl": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "imageUrl": "https://www.radio.net/100/radiofm.png?version=99a8f69c433aa1ea70d6d366ea8c34e4df305211",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo4",
+    "name": "Rádio Patria",
+    "streamUrl": "https://icecast.stv.livebox.sk/patria_128.mp3",
+    "imageUrl": "https://www.radio.net/100/radiopatriask.png?version=4a32aabbb2408c6e54ba024554318406fc04d414",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo5",
+    "name": "Rádio Regina",
+    "streamUrl": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+    "imageUrl": "https://www.radio.net/100/radioreginakosicesk.png?version=b6e33f2bc2152dd9c41f7db85e4365d27c0b6444",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo6",
+    "name": "Europa 2",
+    "streamUrl": "https://stream.bauermedia.sk/europa2.mp3",
+    "imageUrl": "https://www.radio.net/100/europa2.png?version=23a40e9fdab847d9c236ec43b3a6abb69be746be",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo8",
+    "name": "Rádio 7",
+    "streamUrl": "https://play.radio7.sk/128",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/26701.v7.png",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo9",
+    "name": "Rádio Best FM",
+    "streamUrl": "https://stream3.bestfm.sk:8000/160.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/26692.v2.png",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo10",
+    "name": "Rádio Expres",
+    "streamUrl": "https://stream.bauermedia.sk/128.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/26686.v5.png",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo11",
+    "name": "Rádio Melody",
+    "streamUrl": "https://stream.bauermedia.sk/melody-hi.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/26694.v10.png",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo12",
+    "name": "Rádio Košice",
+    "streamUrl": "https://stream.21.sk/radiokosice-128.mp3",
+    "imageUrl": "https://www.radio.net/100/radiokosicesk.png?version=a52f3cad030d61b7ee1ab7b7e392ef9c51a20093",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo13",
+    "name": "Rádio Lumen",
+    "streamUrl": "https://audio.lumen.sk/live128.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/26883.v4.png",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
+  },
+  {
+    "id": "slo14",
+    "name": "Rádio Vlna",
+    "streamUrl": "https://stream.radiovlna.sk/vlna-hi.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/78954.v7.png",
+    "genre": "genre_pop",
+    "country": "country_slovakia"
   }
 ]
