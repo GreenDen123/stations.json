@@ -12094,5 +12094,645 @@
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/78954.v7.png",
     "genre": "genre_pop",
     "country": "country_slovakia"
+  },
+  {
+    "id": "slo1",
+    "name": "ARS",
+    "streamUrl": "https://mp3.rtvslo.si/ars",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/26497.v4.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo2",
+    "name": "Radio Prvi",
+    "streamUrl": "https://mp3.rtvslo.si/ra1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/110598.v10.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo3",
+    "name": "Radio Si",
+    "streamUrl": "http://mp3.rtvslo.si/rsi",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/26427.v5.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo4",
+    "name": "Val 202",
+    "streamUrl": "https://mp3.rtvslo.si/val202",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/25109.v4.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo5",
+    "name": "Hitradio Center",
+    "streamUrl": "http://stream3.radiocenter.si:8000/;center/1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/26033.v3.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo6",
+    "name": "Radio 1",
+    "streamUrl": "http://live3.infonetmedia.si/Radio1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/25124.v2.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo8",
+    "name": "Radio 1 Rock",
+    "streamUrl": "http://stream3.radiocenter.si:9032/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/l68cg9zddt3d.jpeg",
+    "genre": "genre_rock",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo9",
+    "name": "Radio Aktual",
+    "streamUrl": "https://live.radio.si/Aktual",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/glsaajsbh2wq.jpg",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo11",
+    "name": "Radio City",
+    "streamUrl": "https://stream1.radiocity.si/CityMp3128.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ZKu9xfkpxD.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo12",
+    "name": "Radio Ekspres",
+    "streamUrl": "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/724/radio-ekspres-1064-fm.5e95b2f6.jpg",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo13",
+    "name": "Radio NET FM",
+    "streamUrl": "http://reflector.radionet.si:8000/stream.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yzrzwprugw8v.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo14",
+    "name": "Radio Ognjišče",
+    "streamUrl": "https://live.radio.si/ognjisce.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eygzun6l4kg5.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo15",
+    "name": "Radio Salomon",
+    "streamUrl": "https://live.radio.si/Salomon",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aAaFPKmn3R.jpg",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo16",
+    "name": "Radio Študent",
+    "streamUrl": "https://kruljo.radiostudent.si:8001/hiq",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sgpVBkTxuR.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo17",
+    "name": "Radio Veseljak",
+    "streamUrl": "https://live.radio.si/Veseljak",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6ad95nvagt9p.png",
+    "genre": "genre_pop",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "slo18",
+    "name": "Rock Radio",
+    "streamUrl": "http://stream.rockradio.si:9034/rock",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/l68cg9zddt3d.jpeg",
+    "genre": "genre_rock",
+    "country": "country_slovenia"
+  },
+  {
+    "id": "lit4",
+    "name": "extra FM",
+    "streamUrl": "https://n06a-eu.rcs.revma.com/8cwskd80zxcwv?rj-ttl=5&rj-tok=AAABnNcrRJIAFdWFpulnuGN1Qg",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/30142.v4.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit5",
+    "name": "Gold FM",
+    "streamUrl": "https://stream.goldfm.lt/goldfm.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/30275.v3.png",
+    "genre": "genre_retro",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit6",
+    "name": "Lietus",
+    "streamUrl": "https://stream.m-1.fm/lietus/aacp64",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/29960.v3.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit7",
+    "name": "M-1",
+    "streamUrl": "https://stream.m-1.fm/m1/aacp64",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/30130.v2.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit8",
+    "name": "M-1 Plius",
+    "streamUrl": "https://radio.m-1.fm/m1plius/aacp64",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/30014.v2.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit9",
+    "name": "Marijos Radijas",
+    "streamUrl": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/29919.v5.png",
+    "genre": "genre_religious",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit10",
+    "name": "Power Hit Radio",
+    "streamUrl": "https://stream.powerhitradio.lt/PHR_AAC",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/29972.v11.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit11",
+    "name": "Pūkas",
+    "streamUrl": "http://212.95.45.82:8000/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/30005.v5.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit12",
+    "name": "Pūkas 2",
+    "streamUrl": "http://212.95.39.164:8074/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/30005.v5.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit13",
+    "name": "Radiocentras",
+    "streamUrl": "https://stream1.rc.lt/rc128.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/lithuania/Radiocentras.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit14",
+    "name": "Radio R",
+    "streamUrl": "https://stream1.relaxfm.lt/rrb128.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/29953.v8.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit15",
+    "name": "Relax FM",
+    "streamUrl": "https://stream2.relaxfm.lt/relaxfm128.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/29977.v6.png",
+    "genre": "genre_relax",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit16",
+    "name": "XFM",
+    "streamUrl": "http://88.119.151.74:8001/xfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/30238.v3.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit17",
+    "name": "Žinių Radijas",
+    "streamUrl": "https://netradio.ziniur.lt/ziniur.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/29991.v2.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lit18",
+    "name": "ZIP FM",
+    "streamUrl": "https://transliacija.zipfm.lt/zipfm128.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/30184.v8.png",
+    "genre": "genre_pop",
+    "country": "country_lithuania"
+  },
+  {
+    "id": "lat7",
+    "name": "EHR",
+    "streamUrl": "https://stream.ehrhiti.lv:8000/ehr.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/29406.v8.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat8",
+    "name": "EHR SuperHits",
+    "streamUrl": "https://stream.ehrhiti.lv:8000/Stream_21.aac",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/latvia/EHR%20Superhits.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat9",
+    "name": "Latvijas Kristīgais Radio",
+    "streamUrl": "http://shoutcast.lkr.lv:7007/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/29499.v6.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat10",
+    "name": "Radio Marija",
+    "streamUrl": "http://195.122.25.178:8000/;stream.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/latvia/Radio%20Marija.png",
+    "genre": "genre_religious",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat11",
+    "name": "Radio Skonto",
+    "streamUrl": "https://stream.radioskonto.lv:8443/stereo",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/29320.v9.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat12",
+    "name": "Radio SWH",
+    "streamUrl": "http://80.232.162.149:8000/swh96mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/29504.v7.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat13",
+    "name": "Radio SWH Rock",
+    "streamUrl": "https://live.radioswh.lv:8443/rockmp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/29511.v5.png",
+    "genre": "genre_rock",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat14",
+    "name": "Radio TEV",
+    "streamUrl": "http://stream.radiotev.lv:8002/radiov",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/29906.v6.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat15",
+    "name": "Star FM",
+    "streamUrl": "https://live.advailo.com/audio/mp3/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/141404.v2.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "lat16",
+    "name": "TOPradio",
+    "streamUrl": "https://topradio.live.advailo.com/topradio/aac/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/29426.v7.png",
+    "genre": "genre_pop",
+    "country": "country_latvia"
+  },
+  {
+    "id": "est1",
+    "name": "Vikerraadio",
+    "streamUrl": "http://icecast.err.ee/vikerraadio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/29078.v4.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est2",
+    "name": "Raadio 2",
+    "streamUrl": "http://icecast.err.ee/raadio2.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/29099.v4.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est3",
+    "name": "Klassikaraadio",
+    "streamUrl": "http://icecast.err.ee/klassikaraadio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/29084.v5.png",
+    "genre": "genre_clasic",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est4",
+    "name": "Raadio 4",
+    "streamUrl": "http://icecast.err.ee/raadio4madal.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/29244.v11.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est5",
+    "name": "MyHits",
+    "streamUrl": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/estonia/MyHits.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est6",
+    "name": "Power Hit Radio",
+    "streamUrl": "https://ice.leviracloud.eu/phr96-aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/29036.v6.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est7",
+    "name": "Raadio Elmar",
+    "streamUrl": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/29041.v8.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est8",
+    "name": "Raadio Kuku",
+    "streamUrl": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/102970.v8.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est9",
+    "name": "Relax FM",
+    "streamUrl": "https://stream.relaxfm.ee/relax",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/82993.v26.png",
+    "genre": "genre_relax",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est10",
+    "name": "Retro FM",
+    "streamUrl": "https://stream.skymedia.ee/live/RETRO",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/29085.v7.png",
+    "genre": "genre_retro",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est11",
+    "name": "Ruskoe Radio",
+    "streamUrl": "https://stream.skymedia.ee/live/RR",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/EVxXHLAYRV.jpg",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est12",
+    "name": "Sky Plus",
+    "streamUrl": "https://stream.skymedia.ee/live/SKYPLUS",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/29037.v10.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est13",
+    "name": "Star FM",
+    "streamUrl": "https://ice.leviracloud.eu/star96-aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/73249.v8.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "cyp1",
+    "name": "ΡΙΚ ΠΡΩΤΟ",
+    "streamUrl": "http://r1.cloudskep.com/cybcr/cybc1/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/62801.v7.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp2",
+    "name": "ΡΙΚ ΔΕΥΤΕΡΟ",
+    "streamUrl": "http://r1.cloudskep.com/cybcr/cybc2/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/62806.v12.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp3",
+    "name": "ΡΙΚ ΤΡΙΤΟ",
+    "streamUrl": "http://r1.cloudskep.com/cybcr/cybc3/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/62805.v10.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp4",
+    "name": "ΡΙΚ ΤΕΤΑΡΤΟ",
+    "streamUrl": "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/62804.v10.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp5",
+    "name": "ant1 Radio",
+    "streamUrl": "https://stream.rcs.revma.com/f4xvg13btc9uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/18491.v8.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp6",
+    "name": "Bayrak FM",
+    "streamUrl": "http://sc.brtk.net:8000/;",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/cyprus/Bayrak.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp7",
+    "name": "Bayrak Klasik",
+    "streamUrl": "http://sc.brtk.net:8006/;",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/cyprus/Bayrak.png",
+    "genre": "genre_clasic",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp8",
+    "name": "Bayrak Radyosu",
+    "streamUrl": "http://sc.brtk.net:8002/;",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/cyprus/Bayrak.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp9",
+    "name": "Bayrak Radyo Haber",
+    "streamUrl": "http://sc.brtk.net:8008/;",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/cyprus/Bayrak.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp10",
+    "name": "BFBS Cyprus",
+    "streamUrl": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/18669.v15.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp11",
+    "name": "BFBS Radio 2",
+    "streamUrl": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/18669.v15.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp12",
+    "name": "Dance FM",
+    "streamUrl": "http://live.nrgplay.com/stream/1/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/18492.v16.png",
+    "genre": "genre_dance",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp14",
+    "name": "Δίεση",
+    "streamUrl": "https://r1.cloudskep.com/radio/diesi/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/18502.v6.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp15",
+    "name": "Dromos FM",
+    "streamUrl": "https://stream.rcs.revma.com/10q3enqxbfhvv",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/cyprus/Dromos%20FM.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp16",
+    "name": "Kanali 6",
+    "streamUrl": "http://live3.istoikona.net:8372/stream/2/Title1=Kanali",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/18477.v5.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp17",
+    "name": "Kanali 7",
+    "streamUrl": "http://live.radioalphaomega.com:4012/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/18671.v5.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp18",
+    "name": "KISS",
+    "streamUrl": "https://securestreams3.autopo.st:1417/89FM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/18486.v6.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp19",
+    "name": "Klik FM",
+    "streamUrl": "http://eco.onestreaming.com:8310/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/18493.v3.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp21",
+    "name": "Mix FM",
+    "streamUrl": "https://link.radiojar.com/c27wx6pdh8vtv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/18485.v6.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp23",
+    "name": "Ο αληθινός Λόγος",
+    "streamUrl": "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/26ba36b7-a6ee-48e4-90fe-58bc6b9c9706.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp24",
+    "name": "ΠΟΛΙΤΗΣ",
+    "streamUrl": "https://cdn.istoikona.com/politis/live/icecast.audio",
+    "imageUrl": "https://www.politis.com.cy/images/Politis-Radio-1076-Transparent.webp",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp26",
+    "name": "sfera",
+    "streamUrl": "https://securestreams3.autopo.st:1417/sfera",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/cyprus/sfera.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp27",
+    "name": "Radyo Güven",
+    "streamUrl": "http://uk7freenew.listen2myradio.com:6140/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/80928.v9.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp28",
+    "name": "Русское Радио Кипр",
+    "streamUrl": "http://live.vblcast.com:8021/stream",
+    "imageUrl": "https://russianradio.cy/wp-content/uploads/2025/09/player.jpg",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp29",
+    "name": "Super FM",
+    "streamUrl": "https://live3.istoikona.net:18826/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/18483.v5.png",
+    "genre": "genre_pop",
+    "country": "country_cyprus"
+  },
+  {
+    "id": "cyp30",
+    "name": "Super Sport FM",
+    "streamUrl": "https://sportfm-cyprus.live24.gr/sportfm-cyprus",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/18487.v4.png",
+    "genre": "genre_sport",
+    "country": "country_cyprus"
   }
 ]
