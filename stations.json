@@ -12734,5 +12734,613 @@
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/18487.v4.png",
     "genre": "genre_sport",
     "country": "country_cyprus"
+  },
+  {
+    "id": "ind1",
+    "name": "Light on the Rock",
+    "streamUrl": "https://stream.zeno.fm/hhbs712r7rhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/SNbtbb0OYKXHzQXKBCuYEaK01Ww9d99a8g8p_YZuhHo/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0kzXzd2c1FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lfLVhJX0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3Mjk3MTc4NzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind2",
+    "name": "Radio Baingan",
+    "streamUrl": "https://stream.zeno.fm/eyxg23ky4x8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/187/radio-baingan.bafe82a1.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind3",
+    "name": "Radio Namkeen",
+    "streamUrl": "https://stream.zeno.fm/84h7fsbaqv5tv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/377/radio-namkin.81316336.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind4",
+    "name": "Mohabbat Radio",
+    "streamUrl": "https://stream.zeno.fm/u7dyh8zsgtzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/608/mohabbat-radio.8821dce6.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind5",
+    "name": "Hits Of Bollywood",
+    "streamUrl": "https://stream.zeno.fm/a2gyqzwpwfeuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ed2wjbwyyepk.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind6",
+    "name": "Madhur Sangeet",
+    "streamUrl": "https://stream.zeno.fm/yv2k0dp18vzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4khfhtxzcxcp.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind8",
+    "name": "Maayboli",
+    "streamUrl": "https://stream.zeno.fm/463d8uzrwfeuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pbvmk8dnjuua.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind9",
+    "name": "NP 24 Radio",
+    "streamUrl": "https://stream.zeno.fm/8wk1s0pt008uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/VVqxS3pA3Y.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind10",
+    "name": "Bhakti Sangeet",
+    "streamUrl": "https://stream.zeno.fm/r51n9k1vsa0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wczz4pqgu5fa.jpeg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind11",
+    "name": "Radio Badal",
+    "streamUrl": "https://stream.zeno.fm/nhrtcxg09u8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/564/radio-badal.33e4f271.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind12",
+    "name": "Goldy Cool",
+    "streamUrl": "https://stream.zeno.fm/3k1fb86tfm8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gjcph55dnnrz.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind14",
+    "name": "MY CLUB REMIX",
+    "streamUrl": "https://stream.zeno.fm/pkvh8zhyzp8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/215/my-club-remix.b875f688.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind15",
+    "name": "Vilathikulam thendral",
+    "streamUrl": "https://stream.zeno.fm/ubw5g9v6hrruv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/9CbTt0GCZvqzywd44M4swjpMA9GXwypdjvOkxQHhrvA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdwWmJCa2dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdoYk93dXdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTE1MjgyMjAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind16",
+    "name": "Goldy Mukesh",
+    "streamUrl": "https://stream.zeno.fm/mrcz5sus1p8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wxktvurhesyj.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind17",
+    "name": "New Hits Of Bollywood",
+    "streamUrl": "https://stream.zeno.fm/kr08sxc2tfeuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ukypvujqhlcx.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind18",
+    "name": "BREEZY FM",
+    "streamUrl": "https://stream.zeno.fm/nb7v5wd747zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/DCjY6iTbYpCHnGXFwQ-3RfXLg5Km1WI-dMOMlGYiJdQ/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F0NGp4dmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FyN2FIeUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTUwNzg0NDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind20",
+    "name": "Sakkath Radio",
+    "streamUrl": "https://stream.zeno.fm/3e6k4ryerd0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yzpjm3yljcmb.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind21",
+    "name": "RADIO BOLLYWOOD 90s",
+    "streamUrl": "https://stream.zeno.fm/rm4i9pdex3cuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9fKKkfbJKE.png",
+    "genre": "genre_retro",
+    "country": "country_india"
+  },
+  {
+    "id": "ind22",
+    "name": "Hits Of Lata Mangeshkar",
+    "streamUrl": "https://stream.zeno.fm/xe1ye67prfhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/591/hits-of-lata-mangeshkar.6b81cbb3.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind23",
+    "name": "முத்தமிழ் வானொலி மேலூர்",
+    "streamUrl": "https://stream.zeno.fm/vgsk3a0pb2zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/acrpj4j8esyp.jpeg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind24",
+    "name": "Radio Onattukara",
+    "streamUrl": "https://stream.zeno.fm/wbz5p25kqd0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7aqwcxfkwk6g.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind26",
+    "name": "Radio Choklate Bhubaneshwar",
+    "streamUrl": "https://stream.zeno.fm/1t5ceyhcxbruv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cftdy4prpzkv.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind27",
+    "name": "MUKIL முகில்",
+    "streamUrl": "https://stream.zeno.fm/9s8119m1rzzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/seuxuFPytt.jpeg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind28",
+    "name": "THENDRAL FM",
+    "streamUrl": "https://stream.zeno.fm/9h9mkg08xzzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/3ayvfwe2wswd.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind30",
+    "name": "Radio City FREEDOM",
+    "streamUrl": "https://stream.zeno.fm/y0v4cspd8f0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Zy9HjCNcLs.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind31",
+    "name": "Life FM",
+    "streamUrl": "https://stream.zeno.fm/37tsftts91zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yt7lxv2zdzvr.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind32",
+    "name": "ARUMBU FM",
+    "streamUrl": "https://stream.zeno.fm/3ahvqdnce2zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vdm96ujwryfa.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind33",
+    "name": "ANBU FM",
+    "streamUrl": "https://stream.zeno.fm/c2p4f1np4bruv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/P8DL0w-0auwSDCya3q05_GD5AntmgpcOhLBFnzjk3dE/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2d2OXZwZ2drTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2d2LVNKNFFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczNTE3ODA5ODAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind34",
+    "name": "Rocker Radio Hindi Gold 2",
+    "streamUrl": "https://stream.zeno.fm/btrks671ynhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/GeW9nyF6kI0VDomr7puixPcQdnxsgRwGMz_eK8r1T38/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHdzZVRKN3dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0kxWXFRaFFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3MzAyNjYzMzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind35",
+    "name": "Goldy Garba",
+    "streamUrl": "https://stream.zeno.fm/n0zkr7wa6p8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wkj6jrdaquuj.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind36",
+    "name": "Mellisai FM (மெல்லிசை FM நம்ம Radio)",
+    "streamUrl": "https://stream.zeno.fm/e9hsbbbey4zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/DyblryhiItubu6FvA3_ydBW4z5bKOH2u-c5pX16bKIE/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EtWm5hX3dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F4WWFYd3dnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc0Njk3MDU0NjAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind39",
+    "name": "Desi World Radio",
+    "streamUrl": "https://stream.zeno.fm/7520z76bnzzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/dV9AML2i7JNumRcUIO_nO1TYcWUMH9MGbNPzbszNkBA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0FnSmk2a0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1Fob0g2bkFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTk1MDg3MDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind40",
+    "name": "Radio Welcome 90.8 FM",
+    "streamUrl": "https://stream.zeno.fm/2tm4yz0pvxhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/JeUXPsS3tDcE1wrJOkPvPWt9-fDzZJPb5hSkUUah3WY/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F3OXpwZ3dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREk3djZsN0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc0OTYzODIwMDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind41",
+    "name": "My 90s Bengali",
+    "streamUrl": "https://stream.zeno.fm/9bze9t1pvs8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/409/my-90s-bengali.a5ca220d.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind43",
+    "name": "Radio Wow",
+    "streamUrl": "https://stream.zeno.fm/c6k6mdbst5quv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/U_xkBsEFfyAT5Y3MEsbEtYfX5y_ScPb34ajQfc3kPi0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2dfc2FhclFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2dfb1dUNkFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU1MTY3NTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind44",
+    "name": "M S Viswanathan Hits",
+    "streamUrl": "https://stream.zeno.fm/mxihfpmksk8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/SmJZMTCtKJ.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind45",
+    "name": "Bollywood Gold Revivals",
+    "streamUrl": "https://stream.zeno.fm/0xsvm1nr7a5tv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/746/bollywood-gold-revivals.56061400.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind46",
+    "name": "SST Radio",
+    "streamUrl": "https://stream.zeno.fm/sjyv3o8i8oruv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/gJQK01TmJ0G2neM0HQ09TjnWWLWiLJcmOC6YKkbjzQQ/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDhiNTA3NDctMmMxNy00NmYxLTk2YTMtYjU2NzdiNjNiNDc5L2ltYWdlLz91PTE2OTk4NTczNDUwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind49",
+    "name": "Marwar Radio",
+    "streamUrl": "https://stream.zeno.fm/vq6p5vxb4v8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cfjTEWsZ7Y.jpeg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind50",
+    "name": "Love Bites Kannada songs",
+    "streamUrl": "https://stream.zeno.fm/68snnbug8rhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/XMIzOcw7TEK_JsxwJ7dN5C_eMh2kUeON06853zc3Wkc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lxcm52bndzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l2OURqdWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyMzQyODI0NDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind52",
+    "name": "Om Namasivaya",
+    "streamUrl": "https://stream.zeno.fm/whqnz2veyy8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/883/om-namasivaya.a853894a.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind54",
+    "name": "Goldy Sarvaani",
+    "streamUrl": "https://stream.zeno.fm/c5bt9h37bm8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rrttn8aewj3g.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind55",
+    "name": "RATNAGIRI FRESH FM 103.9 MHz",
+    "streamUrl": "https://stream.zeno.fm/rxq8uv39c8zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Roxu9Uq4S7muEJaPiF8Y4Cr5A2bytbM9SIxl1YEkLi8/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FfNkMtOVFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F2NVAwMFFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2MjczOTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind56",
+    "name": "KJ Yesudas Malayalam Songs",
+    "streamUrl": "https://stream.zeno.fm/9x1sw687nf9uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/TqFQEPQfV02tMIXE0DRG9pmlloPZPF0tsTuZFiI4jBQ/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHdqZjZQdndvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHdnNXpXdEFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2NzkyODAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind58",
+    "name": "Mani Chettan Radio",
+    "streamUrl": "https://stream.zeno.fm/s6hhy943w0hvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cfhrxlbc3gv8.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind59",
+    "name": "Old Monk Radio",
+    "streamUrl": "https://stream.zeno.fm/pr0zc64zdy8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dvtvEcVYCB.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind60",
+    "name": "FM KOTTARAKKARA",
+    "streamUrl": "https://stream.zeno.fm/38eyurev5s8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/LGaK6dwMFG.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind61",
+    "name": "Jap Radio",
+    "streamUrl": "https://stream.zeno.fm/kpg9shh0kxquv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/fgPQIcl8yPRG7V-2D4DmVDSCN1fum8fvwa5HtOmvSvs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E0TEx3emdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2c4TGI3MndzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTE0NDI3NjAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind62",
+    "name": "Radio solapuri",
+    "streamUrl": "https://stream.zeno.fm/sdwfzttp6ueuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/U8lZvf6en0-u3wBljXQzI0HAkBJCkRlaJWRDMr5WGgA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREF0cHk1X0FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnTUNJblFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MzkyNzc5MDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind63",
+    "name": "Mohammed Aziz",
+    "streamUrl": "https://stream.zeno.fm/p5ny63td1d0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/W57JQAZXgh8q6r2TkDt_MTMHzd-J7POv6Kd0Mn2ohIU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2dzcTdIclFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFtc21PbGdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTQ3NzYwMDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind64",
+    "name": "Madhur Tarang",
+    "streamUrl": "https://stream.zeno.fm/63eqy23x34zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/099/madhur-tarang.aee029a1.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind65",
+    "name": "The Leader FM",
+    "streamUrl": "https://stream.zeno.fm/whwy245c2wzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/u3DkoTOrpfNRzn_GMUvTFe1C-VNpHJsAyik7kVIWEGk/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EzSzZRZ1FzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FyTS1ramdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg5NDI0MzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind66",
+    "name": "Global Radio 91.2 FM",
+    "streamUrl": "https://stream.zeno.fm/epyhxgc1y8huv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/884/global-radio-912-fm.85e1a66b.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind67",
+    "name": "Radio Palakkad",
+    "streamUrl": "https://stream.zeno.fm/qgqrxfte41zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/njbc8v78kclj.jpeg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind68",
+    "name": "Radio Rang 89.6 FM",
+    "streamUrl": "https://stream.zeno.fm/n58tt09cqchvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mdBLe2jNES.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind69",
+    "name": "Covai FM 95.5",
+    "streamUrl": "https://stream.zeno.fm/78hb31tx24zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/RIxtMY4UESsoMhE19Da1KvSOM_65DjDbNq6bTHWFuTU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F6Y2lDcFFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FqY1RUcGdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2Mjc0MjAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind70",
+    "name": "NAGAPATTINAM HARRIS JAYARAJ",
+    "streamUrl": "https://stream.zeno.fm/0bhsthssutzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/GlcARwXXfVwN-VkjoBNPskxJF9bgXm9vKDV5i1BjG9c/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGcxNUtFbmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGc5NTJUekFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2MjYyMzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind72",
+    "name": "Radio Swami",
+    "streamUrl": "https://stream.zeno.fm/zuafg01w4ueuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/NVbbDRG5xDMkrqBRFqn2bL6GT4GbcSepVEfJNbjcqHA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREF0cHk1X0FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnSUR5aUFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTc2NDc1MDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind74",
+    "name": "Manju Warrier Songs",
+    "streamUrl": "https://stream.zeno.fm/g8cx7tggb3quv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Y_t63PPCUk8iyNVKkrUgI6TvAwkHE6LZn82MLe4Rklw/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2cxdXpBd1FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2dwb3FfeWdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2MjczMzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind77",
+    "name": "Classic Radio Legends",
+    "streamUrl": "https://stream.zeno.fm/wfd5pv6aaw5vv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zHTJMspFcb.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind78",
+    "name": "Radio Jagriti",
+    "streamUrl": "https://stream.zeno.fm/kgdue4hmffhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/-EZ5u2k1DjEk8V-MoXX3IlqhvzN0W69F3A9KOHUHTrM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lncUd5NFFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l3dlhMMVFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3MDIwMjc2OTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind79",
+    "name": "குடந்தை வானொலி (TIMEPASS FM)",
+    "streamUrl": "https://stream.zeno.fm/qhm35xhd9yzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/acrpj4j8esyp.jpeg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind80",
+    "name": "KGF World radio",
+    "streamUrl": "https://stream.zeno.fm/wk7hppypta0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Nf3obtOwpxeaqVz5IVezsTSBDzNgLtlHYQElHPTLwZ4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEtSWZxeWdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFF1TXozdWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY5NzI5NTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind83",
+    "name": "paadunila_T",
+    "streamUrl": "https://stream.zeno.fm/uuonsh6kc1xuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Cmcy2EZuagqbf_tsebg7plrCCNzEKhPu2NQMGWPtZZg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvM2I5YTg4YjgtY2QyYy00ZWY0LTkyNjYtZTgwNzQ5MmFmN2I5L2ltYWdlLz91PTE2NjMxNDQ5MjYwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind84",
+    "name": "Vismaya Kerala Malayalam Radio",
+    "streamUrl": "https://stream.zeno.fm/euqwg5mdd8zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/hEmhQxAZh4.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind87",
+    "name": "Mohammed Rafi",
+    "streamUrl": "https://stream.zeno.fm/6yqvumgfxtzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/878/mohammed-rafi-radio.e360f514.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind88",
+    "name": "NammRadio USA",
+    "streamUrl": "https://stream.zeno.fm/w7mfe3ent1duv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/293dckenlsh7.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind90",
+    "name": "Mjoy mjms fm",
+    "streamUrl": "https://stream.zeno.fm/fknner8931zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/U6xuMDYQxr.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind91",
+    "name": "Namm Radio India",
+    "streamUrl": "https://stream.zeno.fm/s2u1ypfnt1duv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/587/nammradiocom-india.561db9b9.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind93",
+    "name": "AURAL  OLDIES",
+    "streamUrl": "https://stream.zeno.fm/tksfwb1mgzzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bbx62xxch6st.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind94",
+    "name": "Goldy Gujarati",
+    "streamUrl": "https://stream.zeno.fm/28wseh18am8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xqywneqdfkps.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind95",
+    "name": "மன்னை வானொலி (TIMEPASS FM)",
+    "streamUrl": "https://stream.zeno.fm/8cyfy8vx34zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/acrpj4j8esyp.jpeg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind96",
+    "name": "Classic Radio Bhakti Sangeet",
+    "streamUrl": "https://stream.zeno.fm/0p9elrnkeshtv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jrqW5NpHs5.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind97",
+    "name": "radioBollyFM",
+    "streamUrl": "https://stream.zeno.fm/49csmhebs2zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kfczmwswghz2.png",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind99",
+    "name": "Kalai Fm",
+    "streamUrl": "https://stream.zeno.fm/2vghnwshsqzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/j6h7R4kwJCzeGggDx3AhLQPOp3shrdhTeIpsOQJhX84/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdpcW5aaVFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGcwN0cyZ2dnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTczMjU5ODAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
+  {
+    "id": "ind100",
+    "name": "Sad Songs Tamil",
+    "streamUrl": "https://stream.zeno.fm/xbmq57gqvtzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/poeuoGJdc5bNtsJVUzzUlO9naR1kt1GfIf7nH44y3cc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdoN25ra3dzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdyX0M4cndrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2Njc4OTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_india"
   }
 ]
