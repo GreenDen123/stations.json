@@ -18,7 +18,7 @@
   {
     "id": "br2",
     "name": "Rádio Reggae 10",
-    "streamUrl": "https://stream03.pcradio.biz/reggae10-hi",
+    "streamUrl": "https://s43.maxcast.com.br:8462/live",
     "imageUrl": "https://pcradio.ru/images/stations/61b09ccab38d4.jpg",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -26,7 +26,7 @@
   {
     "id": "bg2",
     "name": "Radio Vega +",
-    "streamUrl": "https://new.vobook.ru/http://88.80.96.25:40070/vega.mp3",
+    "streamUrl": "http://88.80.96.25:40070/vega.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/180/vega-plus.png",
     "genre": "genre_pop",
     "country": "country_bulgaria"
@@ -210,7 +210,7 @@
   {
     "id": "ru20",
     "name": "Love Radio",
-    "streamUrl": "https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=D98914CFBC065720F628C9A4399145D0",
+    "streamUrl": "https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=BC6D5D509924F0A817FE6409425BEEAC",
     "imageUrl": "https://topradio.me/assets/image/radio/180/love-radio-md.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -1138,17 +1138,9 @@
   {
     "id": "b14",
     "name": "Первый Национальный канал",
-    "streamUrl": "https://stream2.datacenter.by/1kanal",
+    "streamUrl": "https://media2.datacenter.by/stream/1kanal/stream",
     "imageUrl": "https://topradio.me/assets/image/radio/180/belarusskae-1.png",
     "genre": "genre_info",
-    "country": "country_belarus"
-  },
-  {
-    "id": "b15",
-    "name": "Radio Belarus",
-    "streamUrl": "https://stream2.datacenter.by/belarusfm",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/radye-belarus.png",
-    "genre": "genre_pop",
     "country": "country_belarus"
   },
   {
@@ -1226,7 +1218,7 @@
   {
     "id": "b25",
     "name": "Energy",
-    "streamUrl": "https://stream2.datacenter.by/energy",
+    "streamUrl": "https://media2.datacenter.by/stream/energyfm/energy",
     "imageUrl": "https://topradio.me/assets/image/radio/180/radio-energy-by.jpg",
     "genre": "genre_info",
     "country": "country_belarus"
@@ -1234,7 +1226,7 @@
   {
     "id": "b26",
     "name": "Канал Культура",
-    "streamUrl": "https://stream2.datacenter.by/kultura",
+    "streamUrl": "https://media2.datacenter.by/stream/kultura/stream",
     "imageUrl": "https://topradio.me/assets/image/radio/180/kultura-belarus.png",
     "genre": "genre_pop",
     "country": "country_belarus"
@@ -1412,14 +1404,6 @@
     "name": "Минская Волна",
     "streamUrl": "https://stream2.datacenter.by/mvradio",
     "imageUrl": "https://topradio.me/assets/image/radio/180/minskaya-volna-97-4.jpg",
-    "genre": "genre_pop",
-    "country": "country_belarus"
-  },
-  {
-    "id": "b49",
-    "name": "Радио Дельта",
-    "streamUrl": "https://stream02.pcradio.ru/deltaradio_indie-med",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-delta.png",
     "genre": "genre_pop",
     "country": "country_belarus"
   },
@@ -2184,14 +2168,6 @@
     "country": "country_moldova"
   },
   {
-    "id": "md15",
-    "name": "Maestro FM",
-    "streamUrl": "https://maestrofm.md/maestro",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/maestro-fm.jpg",
-    "genre": "genre_relax",
-    "country": "country_moldova"
-  },
-  {
     "id": "md16",
     "name": "Kiss FM",
     "streamUrl": "https://live.kissfm.md/kissfm.chisinau",
@@ -2496,14 +2472,6 @@
     "country": "country_moldova"
   },
   {
-    "id": "md54",
-    "name": "Radio Mega HIT",
-    "streamUrl": "https://radiomegahit.md/megahit",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/radio-mega-hit-md.webp",
-    "genre": "genre_pop",
-    "country": "country_moldova"
-  },
-  {
     "id": "md55",
     "name": "HIT FM Acoustic Hits",
     "streamUrl": "https://radio7.dixi.md/listen/hit_fm_acoustic_hits/hitfm_acoustichits128.aac",
@@ -2562,7 +2530,7 @@
   {
     "id": "md62",
     "name": "Micul Samaritean",
-    "streamUrl": "https://s5.radio.co/sfff7b7e97/listen",
+    "streamUrl": "https://online.miculsamaritean.com:8000/radio.mp3",
     "imageUrl": "https://cdn.prod.website-files.com/5bb51ca2e56d4dc3c6f7ea7d/5d015be32bca93ba0977cf8a_Webp.net-resizeimage%20(2).jpg",
     "genre": "genre_religious",
     "country": "country_moldova"
@@ -9960,14 +9928,6 @@
     "country": "country_greece"
   },
   {
-    "id": "gre100",
-    "name": "KISS 96.1",
-    "streamUrl": "https://antares.dribbcast.com/proxy/kiss961?mp=/stream",
-    "imageUrl": "https://resources.live24.gr/resources/images/stations/9fd08a1b-26dc-4dc5-a13c-deb4d6fe0e53.jpg",
-    "genre": "genre_pop",
-    "country": "country_greece"
-  },
-  {
     "id": "gre101",
     "name": "Ράδιο 98.4",
     "streamUrl": "https://cast4.my-control-panel.com/proxy/anastas2/stream",
@@ -10772,14 +10732,6 @@
     "name": "Český Impuls",
     "streamUrl": "https://icecast6.play.cz/cesky-impuls.mp3",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/014/cesky-impuls.b61b6ac6.jpg",
-    "genre": "genre_pop",
-    "country": "country_czech"
-  },
-  {
-    "id": "cze20",
-    "name": "DAB PLUS TOP 40",
-    "streamUrl": "https://icecast6.play.cz/dabplus-top40.mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/354/on-top-40.a29cb454.jpg",
     "genre": "genre_pop",
     "country": "country_czech"
   },
@@ -12344,14 +12296,6 @@
     "country": "country_lithuania"
   },
   {
-    "id": "lat7",
-    "name": "EHR",
-    "streamUrl": "https://stream.ehrhiti.lv:8000/ehr.aac",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/29406.v8.png",
-    "genre": "genre_pop",
-    "country": "country_latvia"
-  },
-  {
     "id": "lat8",
     "name": "EHR SuperHits",
     "streamUrl": "https://stream.ehrhiti.lv:8000/Stream_21.aac",
@@ -13056,14 +13000,6 @@
     "country": "country_india"
   },
   {
-    "id": "ind52",
-    "name": "Om Namasivaya",
-    "streamUrl": "https://stream.zeno.fm/whqnz2veyy8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/883/om-namasivaya.a853894a.png",
-    "genre": "genre_pop",
-    "country": "country_india"
-  },
-  {
     "id": "ind54",
     "name": "Goldy Sarvaani",
     "streamUrl": "https://stream.zeno.fm/c5bt9h37bm8uv",
@@ -13132,14 +13068,6 @@
     "name": "Mohammed Aziz",
     "streamUrl": "https://stream.zeno.fm/p5ny63td1d0uv",
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/W57JQAZXgh8q6r2TkDt_MTMHzd-J7POv6Kd0Mn2ohIU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2dzcTdIclFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFtc21PbGdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTQ3NzYwMDAwMA.webp",
-    "genre": "genre_pop",
-    "country": "country_india"
-  },
-  {
-    "id": "ind64",
-    "name": "Madhur Tarang",
-    "streamUrl": "https://stream.zeno.fm/63eqy23x34zuv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/099/madhur-tarang.aee029a1.jpg",
     "genre": "genre_pop",
     "country": "country_india"
   },
@@ -13228,14 +13156,6 @@
     "name": "குடந்தை வானொலி (TIMEPASS FM)",
     "streamUrl": "https://stream.zeno.fm/qhm35xhd9yzuv",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/acrpj4j8esyp.jpeg",
-    "genre": "genre_pop",
-    "country": "country_india"
-  },
-  {
-    "id": "ind80",
-    "name": "KGF World radio",
-    "streamUrl": "https://stream.zeno.fm/wk7hppypta0uv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Nf3obtOwpxeaqVz5IVezsTSBDzNgLtlHYQElHPTLwZ4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEtSWZxeWdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFF1TXozdWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY5NzI5NTAwMA.webp",
     "genre": "genre_pop",
     "country": "country_india"
   },
