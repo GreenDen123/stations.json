@@ -13262,5 +13262,1597 @@
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/poeuoGJdc5bNtsJVUzzUlO9naR1kt1GfIf7nH44y3cc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdoN25ra3dzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdyX0M4cndrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2Njc4OTAwMA.webp",
     "genre": "genre_pop",
     "country": "country_india"
+  },
+  {
+    "id": "ita1",
+    "name": "Kiss Kiss Italia",
+    "streamUrl": "https://ice06.fluidstream.net/KKItalia.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/076/radio-kiss-kiss.39015a45.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita2",
+    "name": "Radio Contact Italy",
+    "streamUrl": "https://stream.laut.fm/radiocontactitaly",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/025/radio-contact-italy.1c49a9cf.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita3",
+    "name": "Chill Out Zone  Italy",
+    "streamUrl": "https://stream.laut.fm/chilloutzone",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/885/chill-out-zone-italy.4ff6794e.png",
+    "genre": "genre_relax",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita4",
+    "name": "Latte Miele",
+    "streamUrl": "https://sr15.inmystream.it/stream/lattemiele",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/865/latte-miele-puglia.df45923e.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita5",
+    "name": "Virgin Rock Classic",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/609/virgin-radio-classic-rock.8c813f1f.png",
+    "genre": "genre_clasic",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita6",
+    "name": "RTL",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/713/radio-rtl-1025.249f1237.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita7",
+    "name": "Funky Disco Radio",
+    "streamUrl": "https://stream.laut.fm/funkydiscoradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/108/funky-disco-radio.92c6a9f2.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita8",
+    "name": "Classic House Music Radio Contact Italy",
+    "streamUrl": "https://stream.laut.fm/italiastyle",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/025/radio-contact-italy.1c49a9cf.png",
+    "genre": "genre_clasic",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita9",
+    "name": "Lolliradio Italia",
+    "streamUrl": "https://stream.lolliradio.net/lolli_italia.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/975/lolli-radio-italia.3bb8eddf.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita10",
+    "name": "Octopus",
+    "streamUrl": "https://nr5.newradio.it/proxy/fterenzi?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/270/radio-octopus.f122d82c.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita11",
+    "name": "Subasio",
+    "streamUrl": "https://icy.unitedradio.it/Subasio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/629/radio-subasio.cb8e49ac.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita12",
+    "name": "RTL 102.5 Groove",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-broandsis",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/713/radio-rtl-1025.249f1237.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita13",
+    "name": "Italia Dance Music",
+    "streamUrl": "https://sr2.inmystream.it:18032/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/483/italia-dance-music.f639a7e1.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita14",
+    "name": "Virgin Rock 70",
+    "streamUrl": "https://icy.unitedradio.it/VirginRock70.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/614/virgin-radio-rock-70.5d749bc2.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita15",
+    "name": "RAI Radio 1",
+    "streamUrl": "https://icestreaming.rai.it/1.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/532/rai-radio-1.4bf577b5.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita16",
+    "name": "Lolliradio Oldies",
+    "streamUrl": "https://stream.lolliradio.net/lolli_oldies.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/979/lolli-radio-oldies.646ce633.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita17",
+    "name": "Lolliradio Dance",
+    "streamUrl": "https://stream.lolliradio.net/lolli_dance.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/977/lolli-radio-dance.cae005f4.jpg",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita18",
+    "name": "Riviera Lounge",
+    "streamUrl": "https://stream.laut.fm/riviera-lounge-radio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/907/riviera-lounge.4ec100a2.png",
+    "genre": "genre_jazz",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita19",
+    "name": "Mambo",
+    "streamUrl": "https://mambo.newradio.it/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/208/radio-mambo-1069-fm.df3c5d05.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita20",
+    "name": "RDS Relax",
+    "streamUrl": "https://icstream.rds.radio/rdsrelax",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/698/rds-relax.00deead8.png",
+    "genre": "genre_relax",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita21",
+    "name": "RDS - Radio Dimensione Suono",
+    "streamUrl": "https://icstream.rds.radio/rds_aac64",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/838/radio-rds-diretta.fe601497.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita22",
+    "name": "105 - Dance 90",
+    "streamUrl": "https://icy.unitedradio.it/105Dance90.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/126/105-dance-90.06019e2c.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita23",
+    "name": "Kiss Kiss",
+    "streamUrl": "https://ice07.fluidstream.net/KissKiss.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/053/kiss-kiss-history-hits.1bd45973.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita24",
+    "name": "Virgin Radio",
+    "streamUrl": "https://icecast.unitedradio.it/Virgin.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/457/virgin-radio.89dd9417.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita25",
+    "name": "Piterpan",
+    "streamUrl": "https://wma01.fluidstream.net/piterpan",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/142/radio-piterpan.db9a02ec.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita26",
+    "name": "Antenna 1",
+    "streamUrl": "https://a1-it.newradio.it/stream?",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/u5anUQgtDM.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita27",
+    "name": "Station Italy",
+    "streamUrl": "https://stationitaly.stream.laut.fm/stationitaly?t302=2020-04-23_02-12-50&uuid=94ab5306-d6a5-40de-ba3f-bd45195b082b",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/830/station-italy.ebe8db03.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita28",
+    "name": "Cube Radio Show",
+    "streamUrl": "https://stream.zeno.fm/psq9nrwdqm0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/H9hhJ5WHkf.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita29",
+    "name": "Monte Carlo / RMC 1 - Music Star Pino Daniele",
+    "streamUrl": "https://icy.unitedradio.it/Daniele.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/p5ugpgUxGM.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita30",
+    "name": "Discoradio",
+    "streamUrl": "https://icstream.rds.radio/disco_aac64",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/227/discoradio.85eb4d08.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita31",
+    "name": "Radio Ibiza",
+    "streamUrl": "https://wma08.fluidstream.net:8080/ibiza.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/503/radio-ibiza.3281090f.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita32",
+    "name": "Balla Balla FM",
+    "streamUrl": "https://ice15.fluidstream.net/ballaballa.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/194/radio-balla-balla.4dae1aad.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita33",
+    "name": "R101",
+    "streamUrl": "https://icecast.unitedradio.it/r101",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/023/radio-r101.ed50d960.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita34",
+    "name": "Virgin Hard Rock",
+    "streamUrl": "https://icy.unitedradio.it/VirginHardRock.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/616/virgin-radio-hard-rock.fb314e1d.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita35",
+    "name": "Azzurra",
+    "streamUrl": "https://radioazzurra.stream.laut.fm/radioazzurra?t302=2020-04-23_02-15-22&uuid=6ff14a5d-3c64-4edc-92bb-39f5e39f3ba8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/149/radio-azzurra.a21a0f4b.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita36",
+    "name": "Virgin Rock 80",
+    "streamUrl": "https://icy.unitedradio.it/VirginRock80.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/618/virgin-radio-rock-80.a29e6555.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita37",
+    "name": "Centro Campania",
+    "streamUrl": "https://eu7.fastcast4u.com/proxy/rcc0?mp=/1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/669/radio-centro-campania.7b9bf84f.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita38",
+    "name": "Zeta",
+    "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/942/radio-zeta.7c3df475.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita39",
+    "name": "Canale Italia",
+    "streamUrl": "https://rci.canaleitalia.tv:8007/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/212/canale-italia.832dfa8c.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita40",
+    "name": "Studio Dance",
+    "streamUrl": "https://studiodance.stream.laut.fm/studiodance?t302=2020-04-23_02-01-43&uuid=7ff0078b-e9c0-4a9f-bf8e-d1436d2a0ab5",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/479/studio-dance.f8a48ee5.jpg",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita41",
+    "name": "RTL 102.5 Cool",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/713/radio-rtl-1025.249f1237.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita42",
+    "name": "Radio love dance",
+    "streamUrl": "https://stream.zeno.fm/ka3yt7gu40duv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/849/one-dance.8a7e68ec.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita43",
+    "name": "Virgin Rock Hits",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockHits.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/610/virgin-radio-rock-hits.b6798c8a.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita44",
+    "name": "105 Hip Hop & R'n'B",
+    "streamUrl": "https://icy.unitedradio.it/105HipHopRnB.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/739/105-hip-hop-rb.4687c2a2.png",
+    "genre": "genre_hiphop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita45",
+    "name": "Rai Radio Classica",
+    "streamUrl": "https://icestreaming.rai.it/5.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/535/rai-radio-classica.dc930915.png",
+    "genre": "genre_clasic",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita46",
+    "name": "105 Music Star Vasco",
+    "streamUrl": "https://icy.unitedradio.it/Vasco.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/757/105-music-star-vasco.55c955b9.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita47",
+    "name": "Top Italia Radio",
+    "streamUrl": "https://streaming.cst98.com/tir.php",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/268/top-italia-radio.37dd2081.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita48",
+    "name": "Radio Monte Carlo",
+    "streamUrl": "https://icecast.unitedradio.it/RMC.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/p5ugpgUxGM.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita49",
+    "name": "RTL 102.5 Classic",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-best",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/713/radio-rtl-1025.249f1237.png",
+    "genre": "genre_clasic",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita50",
+    "name": "RDT Radio Station",
+    "streamUrl": "https://sr11.inmystream.it:8026/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/409/rdt-radio-station.d501b092.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita51",
+    "name": "Forever 80",
+    "streamUrl": "https://stream.laut.fm/forever80",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/017/forever-80.4e18ca05.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita52",
+    "name": "Lolliradio Soft",
+    "streamUrl": "https://stream.lolliradio.net/lolli_soft.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/976/lolli-radio-soft.71addafe.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita53",
+    "name": "Subasio +",
+    "streamUrl": "https://icy.unitedradio.it/SubasioPiu.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/746/radio-subasio-piu.28356886.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita54",
+    "name": "Rock",
+    "streamUrl": "https://rrock.fluidstream.eu/radiorock.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/887/forever-rock.3b8e85c8.jpg",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita55",
+    "name": "RMC 1 - Music Star George Michael",
+    "streamUrl": "https://icy.unitedradio.it/MusicStarPrince.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/993/105-music-star-george-michael.a39f7a84.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita56",
+    "name": "Rai Radio Tutta Italiana",
+    "streamUrl": "https://icestreaming.rai.it/4.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/017/rai-radio-tutta-italiana.fb2fb543.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita57",
+    "name": "Studio Piu",
+    "streamUrl": "https://ice.studiopiu.net/rete.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/218/radio-studio-piu.8e09f94d.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita58",
+    "name": "STEREO Carpi",
+    "streamUrl": "https://stereo.stream.laut.fm/stereo?t302=2020-04-23_02-02-00&uuid=b23934ed-b429-42d5-a246-c35968a8ada1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/207/stereo-carpi.cd6e65b5.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita59",
+    "name": "PMR- Playermusicradio",
+    "streamUrl": "https://playermusicradio.stream.laut.fm/playermusicradio?t302=2020-04-23_06-53-40&uuid=3769db93-0be1-4c5e-9c26-c3a3b396b82a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/172/pmr-playermusicradio.1d4dabbd.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita60",
+    "name": "Power Station Italy",
+    "streamUrl": "https://powerstationitaly.stream.laut.fm/powerstationitaly",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5p2K2hhJMp.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita61",
+    "name": "Kiss Kiss History Hits",
+    "streamUrl": "https://ice08.fluidstream.net/kk_history.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/053/kiss-kiss-history-hits.1bd45973.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita62",
+    "name": "Lady",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0507.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/523/lady-radio.5657a2f1.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita63",
+    "name": "Virgin Rock Party",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockParty.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/615/virgin-radio-rock-party.fbaa5976.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita64",
+    "name": "Virgin Radio Music Star Coldplay",
+    "streamUrl": "https://icy.unitedradio.it/ColdPlay.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/611/virgin-radio-music-star-coldplay.816ed4ce.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita65",
+    "name": "Forever 90",
+    "streamUrl": "https://stream.laut.fm/forever90",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/378/forever-90.da6046ba.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita66",
+    "name": "Forever Rock",
+    "streamUrl": "https://stream.laut.fm/foreverrock",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/887/forever-rock.3b8e85c8.jpg",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita67",
+    "name": "Roma Capitale",
+    "streamUrl": "https://icecast.ithost.it/radioromacapitale.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/626/radio-roma-capitale.72761a87.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita68",
+    "name": "A Sleep Natural Mind",
+    "streamUrl": "https://listen.openstream.co/6389/audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9uyNTBPz5m.png",
+    "genre": "genre_relax",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita69",
+    "name": "105 - MUSIC STAR Jovanotti",
+    "streamUrl": "https://icy.unitedradio.it/Jovanotti.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/129/105-music-star-jovanotti.6b7f775c.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita70",
+    "name": "Easy Network",
+    "streamUrl": "https://sphera.fluidstream.eu/easy.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/960/easy-network.2c4e1801.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita71",
+    "name": "Forever 80 pop",
+    "streamUrl": "https://stream.laut.fm/forever80-pop",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/888/forever-80-pop.79797c0f.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita72",
+    "name": "Radio Freccia",
+    "streamUrl": "https://streamingv2.shoutcast.com/radiofreccia",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/480/radio-freccia.7b5f01a2.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita73",
+    "name": "Italia Anni'60",
+    "streamUrl": "https://str01.fluidstream.net/anni60.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/962/radio-italia-anni-60-roma.a6d45829.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita74",
+    "name": "Number One",
+    "streamUrl": "https://str12.fluidstream.net/rn1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/724/radio-number-one.67034d44.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita75",
+    "name": "Evangelo Piemonte",
+    "streamUrl": "https://dreamsiteradiocp3.com/proxy/radioevangelo?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/180/radio-evangelo-piemonte.c90a3e93.png",
+    "genre": "genre_religious",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita76",
+    "name": "Millenote",
+    "streamUrl": "https://str04.fluidstream.net/millenote.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/488/radio-millenote.8e27db6d.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita77",
+    "name": "105 Zoo Radio",
+    "streamUrl": "https://icy.unitedradio.it/105Zoo.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/759/105-zoo-radio.4814524b.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita78",
+    "name": "BMradio",
+    "streamUrl": "https://bmradio.radioca.st/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/897/bm-radio.e1930673.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita79",
+    "name": "Solo Canzoni Napoletane",
+    "streamUrl": "https://solocanzoninapoletane.streamingmedia.it/canzoninapoletane.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/fduUK79q7W.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita80",
+    "name": "Company",
+    "streamUrl": "https://sphera.fluidstream.eu/company.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/961/radio-company.6ca12943.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita81",
+    "name": "Radio Studio Italia",
+    "streamUrl": "https://live.radiostudioitalia.it:8000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/713/radio-studio-italia.8283eb2f.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita82",
+    "name": "CLASSIC HITS anni 70 80 90",
+    "streamUrl": "https://classichitsradio.streamingmedia.it/play",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/339/classic-hits-radio-italia.29fa7c82.png",
+    "genre": "genre_clasic",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita83",
+    "name": "105 - Rap Italia",
+    "streamUrl": "https://icy.unitedradio.it/105RapItalia.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/746/105-rap-italia.3753324c.png",
+    "genre": "genre_hiphop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita84",
+    "name": "Tandem",
+    "streamUrl": "https://cloud.radiotandem.it/radio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/645/radio-tandem.01f88c01.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita85",
+    "name": "RADIO DIGITALIA Ricordi",
+    "streamUrl": "https://stream.laut.fm/radiodigitalia-ricordi",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/075/radio-digitalia-ricordi.2f1562e7.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita86",
+    "name": "105 - In Da Klubb",
+    "streamUrl": "https://icy.unitedradio.it/105InDaKlubb.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/744/105-indaklubb.f5f6895b.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita87",
+    "name": "laut.fm / house-nation",
+    "streamUrl": "https://house-nation.stream.laut.fm/house-nation?t302=2020-04-23_15-07-13&uuid=d45d56af-8d71-4dac-830d-fccb42721700",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aWa7xGKfBh.jpg",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita88",
+    "name": "Padova",
+    "streamUrl": "https://sphera.fluidstream.eu/rpd.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/145/radio-padova.c8dd549b.jpg",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita89",
+    "name": "Radio Stereo 98",
+    "streamUrl": "https://sr2.inmystream.it/proxy/pizzaemandolino/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Sb7R5jV2W2.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita90",
+    "name": "Radio Time 90",
+    "streamUrl": "https://stream3.xdevel.com/audio1s975521-192/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/544/radio-time-90.7357b017.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita91",
+    "name": "Radio Battikuore",
+    "streamUrl": "https://nr6.newradio.it/proxy/mtiziano?mp=/?ext=.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/707/radio-battikuore-955-fm.ccdb988b.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita93",
+    "name": "1 Station Radio",
+    "streamUrl": "https://stream5.xdevel.com/audio1s975854-414/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/VMka3uVkER.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita94",
+    "name": "LifeGate Radio",
+    "streamUrl": "https://router.xdevel.com/audio0s975809-345/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/181/lifegate-radio.719ee854.png",
+    "genre": "genre_relax",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita95",
+    "name": "Radio Popolare",
+    "streamUrl": "https://livex.radiopopolare.it/radiopop2",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/570/radio-popolare-milano.c9b103bc.jpg",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita96",
+    "name": "Power Station",
+    "streamUrl": "https://radiopowerstation.stream.laut.fm/radiopowerstation?t302=2020-04-23_10-28-10&uuid=ee354f6c-1bcf-4b7f-84f5-ccd705d77b80",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/185/power-station.fb9285f7.jpg",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita97",
+    "name": "R101 Enjoy The Music",
+    "streamUrl": "https://icy.unitedradio.it/101Legend.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/062/r101-enjoy-the-music.ac54e8d7.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita98",
+    "name": "RADIO DIGITALIA Musica-Italiana",
+    "streamUrl": "https://stream.laut.fm/radiodigitalia-musicaitaliana",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/KXBBu4PtwJ.jpeg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita99",
+    "name": "Rv1-SuperHIT",
+    "streamUrl": "https://stream.laut.fm/rv1-superhit",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/661/rv1-superhit.849cd7a4.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita100",
+    "name": "Base",
+    "streamUrl": "https://str01.fluidstream.net/rpd.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xkkv6cf9U3.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita101",
+    "name": "Abruzzo Marche",
+    "streamUrl": "https://s1.forstream.it:8040/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/749/radio-abruzzo-marche.2c7d4e3e.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita102",
+    "name": "Company Campania",
+    "streamUrl": "https://ice04.fluidstream.net/fluid0403.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dh3mZRXeYz.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita103",
+    "name": "Kiss Kiss Sanremo Story",
+    "streamUrl": "https://ice08.fluidstream.net/kk_sanremo.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/624/radio-kiss-kiss-1.f9aa8ead.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita104",
+    "name": "SorRriso",
+    "streamUrl": "https://ice02.fluidstream.net/sorriso.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/066/radio-sorrriso.4486b278.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita105",
+    "name": "Radio Luna",
+    "streamUrl": "https://nr8.newradio.it/proxy/rmg?mp=/?ext=.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/575/radio-immagine-soft.535c2d66.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita106",
+    "name": "RCS Network Story",
+    "streamUrl": "https://ice12.fluidstream.net/fluid1202.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/327/rcs-network-story.3f6dd2d2.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita107",
+    "name": "Radio Freak",
+    "streamUrl": "https://stream5.xdevel.com/audio1s975753-314/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/480/radio-freccia.7b5f01a2.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita108",
+    "name": "Funky Corner Radio",
+    "streamUrl": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/321/funky-corner-radio.fa6c2255.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita109",
+    "name": "Ram Power Radio",
+    "streamUrl": "https://icstream.rds.radio/ram",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/411/ram-power-fm.42674035.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita110",
+    "name": "RCS Network",
+    "streamUrl": "https://ice12.fluidstream.net/fluid1201.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/279/rcs-network.44edac31.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita111",
+    "name": "RAI Isoradio",
+    "streamUrl": "https://icestreaming.rai.it/6.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/881/rai-isoradio.b32bae01.png",
+    "genre": "genre_news",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita112",
+    "name": "105 - Story",
+    "streamUrl": "https://icy.unitedradio.it/105Story.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/125/105-story.5efa4d8c.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita113",
+    "name": "RAI Radio 2",
+    "streamUrl": "https://icestreaming.rai.it/2.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/533/rai-radio-2.4ceacc48.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita114",
+    "name": "Sherwood",
+    "streamUrl": "https://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/973/radio-sherwood.1899e38c.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita115",
+    "name": "Ananas",
+    "streamUrl": "https://wma03.fluidstream.net:80/fluid04.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/769/radio-ananas.44a33c8c.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita116",
+    "name": "105 - MUSIC STAR Ligabue",
+    "streamUrl": "https://icy.unitedradio.it/Ligabue.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/989/105-music-star-ligabue.22902b67.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita117",
+    "name": "105 2k & More",
+    "streamUrl": "https://icy.unitedradio.it/1052kandMore.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/124/105-2k-more.34f21078.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita118",
+    "name": "Radio Delfino",
+    "streamUrl": "https://nr8.newradio.it/proxy/emaamo00?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/863/radio-delfino.8db925ac.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita119",
+    "name": "DeeGay Classics",
+    "streamUrl": "https://stream.deegay.fm/deegay2.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/J8XecVJCydHylg-rjwYDSsZnmdJElQ_Kc3WWmUtK0lE/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWVkYjk2NmEtNjlkMi00ZDcyLWFmZTEtNjFlNjZiNmMzNzExL2ltYWdlLz91PTE3MDE2OTg4NzQwMDA.webp",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita120",
+    "name": "New Radio Network",
+    "streamUrl": "https://nr5.newradio.it:18683/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/176/new-radio-network.dacaf025.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita121",
+    "name": "One Dance FM",
+    "streamUrl": "https://ice10.fluidstream.net/rn1_2.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/849/one-dance.8a7e68ec.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita122",
+    "name": "Gamma",
+    "streamUrl": "https://stream5.xdevel.com/audio0s975943-762/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/808/gamma-radio.dfb499cc.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita123",
+    "name": "RAI Radio 3",
+    "streamUrl": "https://icestreaming.rai.it/3.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/534/rai-radio-3.8a5b990a.png",
+    "genre": "genre_clasic",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita124",
+    "name": "Contro Radio",
+    "streamUrl": "https://s4.yesstreaming.net:17199/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/706/controradio.a6b1e34e.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita125",
+    "name": "Radio Zai.net",
+    "streamUrl": "https://stream.mandragola.com/radiozainet",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/b6NvK5Hq_BiEsU_rAhagEDrQ9eMmZ5okKA3o5DHvO00/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNzAyODQxZTYtMjY5YS00ZjFiLTg2ZGYtZmQzZTM5MjY5MWZkL2ltYWdlLz91PTE3MTM5NDQ4MDkwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita126",
+    "name": "Sanluchino",
+    "streamUrl": "https://ssl.audio1.meway.tv/proxy/sanluchino?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/707/radio-sanluchino.0ce29e8f.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita127",
+    "name": "LineAttiva",
+    "streamUrl": "https://str01.fluidstream.net/rpd.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gNstDLDhAU.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita128",
+    "name": "Buon Consiglio",
+    "streamUrl": "https://streaming.radiobuonconsiglio.it/stream.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/PsZ5Z_xXXqLnWYMBJHu0gwj5yxCtXZrbw9j7iTNxyfU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTYyOTI5ZjgtMDYwMS0xMWU4LWFlOTctNTI1NDNiZTA0YzgxL2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
+    "genre": "genre_religious",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita129",
+    "name": "RAI GR Parlamento",
+    "streamUrl": "https://icestreaming.rai.it/7.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/537/rai-gr-parlamento.e560f275.jpg",
+    "genre": "genre_news",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita130",
+    "name": "Radio Incontro Donna",
+    "streamUrl": "https://nr7.newradio.it/proxy/terranov?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/719/radio-incontro.4f3401fa.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita131",
+    "name": "Bergamo",
+    "streamUrl": "https://str04.fluidstream.net/bergamo.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/495/radio-bergamo.e71ca3a6.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita132",
+    "name": "Radio L'Olgiata",
+    "streamUrl": "https://olgiata-danidi01.radioca.st/stream.mp3/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/556/radio-lolgiata.83b1cb90.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita133",
+    "name": "Cassino Stereo",
+    "streamUrl": "https://radiocassino.radioca.st/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/NmZsqUCPaq.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita134",
+    "name": "Super Sound",
+    "streamUrl": "https://ssl2.azotosolutions.com:1010/1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vnrgtprzscyl.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita135",
+    "name": "Radio Piu",
+    "streamUrl": "https://sr14.inmystream.it/stream/radiopiu",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/981/radio-piu.c787f6d6.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita136",
+    "name": "R101 Urban Night",
+    "streamUrl": "https://icy.unitedradio.it/101UrbanNight.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/846/r101-urban-night.c8ea68be.png",
+    "genre": "genre_hiphop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita137",
+    "name": "Love FM",
+    "streamUrl": "https://ice07.fluidstream.net/lovefm.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/182/love-fm.cdf60254.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita138",
+    "name": "Extra Radio",
+    "streamUrl": "https://nr11.newradio.it/proxy/diegtuzi?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/938/radio-extra1.ceec8fc6.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita139",
+    "name": "Rai Radio 2 Indie",
+    "streamUrl": "https://icestreaming.rai.it/15.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/487/rai-radio-2-indie.edb64e51.jpg",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita140",
+    "name": "Marilu",
+    "streamUrl": "https://wma01.fluidstream.net/marilu",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/060/radio-marilu.987367f1.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita141",
+    "name": "Ciao Radio",
+    "streamUrl": "https://mmediassl.rtvweb.com:9100/ciaoradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/925/ciao-radio.3fc27888.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita142",
+    "name": "Bella e Monella",
+    "streamUrl": "https://ice02.fluidstream.net/bella.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/861/radio-bella-monella.6da2280e.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita143",
+    "name": "Play Studio",
+    "streamUrl": "https://ice12.fluidstream.net/playstudio.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/r4dE6WFLfA.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita144",
+    "name": "Nostalgia Liguria",
+    "streamUrl": "https://ice12.fluidstream.net/nostalgia_li.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/496/radio-nostalgia-liguria.f7f372dc.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita145",
+    "name": "Radio Noise",
+    "streamUrl": "https://nrf1.newradio.it:9606/radionoise.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nfju74ywzucb.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita146",
+    "name": "Radio Dolomiti",
+    "streamUrl": "https://www.radiodolomiti.com:10068/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/786/radio-dolomiti.5d3678d5.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita147",
+    "name": "Radio Oscia",
+    "streamUrl": "https://stream5.xdevel.com/audio0s976002-865/stream/icecast.audio",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/pjs2GIjLpmflAuEjZqY_sPYBdc_0cAyjYp3ifq-MJKs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZTBjZTMwY2EtNGViMC00MzkyLWE2NjUtNWYzMDU0MGVlNzc2L2ltYWdlLz91PTE3MzYzMzg2NTEwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita148",
+    "name": "SeiSei",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0508.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/252/radio-seisei.50cb88b6.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita149",
+    "name": "Piemonte torino",
+    "streamUrl": "https://sp3.server89.com/9306/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Mh4ZN5u4Bq.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita150",
+    "name": "Onda d'Urto",
+    "streamUrl": "https://hochimin.urtostream.org:8443/radiondadurto.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/VmeqS6HNZL.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita151",
+    "name": "Studio Centrale",
+    "streamUrl": "https://stream.studiocentrale.it/radio/8020/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/029/radio-studio-centrale.cc60679b.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita152",
+    "name": "Linea No 1",
+    "streamUrl": "https://rblive.it:8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gNstDLDhAU.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita153",
+    "name": "Radio Globo Vintage",
+    "streamUrl": "https://m100.newradio.it/m100-64",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9H73v9UtG3.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita154",
+    "name": "Idea Radio Civitavecchia",
+    "streamUrl": "https://tarquinia-danidi01.radioca.st/srteam2",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/684/idea-radio-italy.238e0c2c.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita155",
+    "name": "Gamma 5",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0510.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/734/radio-gamma-5.b0d3ba47.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita156",
+    "name": "RADIO DIGITALIA Festival",
+    "streamUrl": "https://stream.laut.fm/radiodigitalia-festival",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/707/radio-digitalia-festival.cb8fb5e0.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita157",
+    "name": "Free Time Radio",
+    "streamUrl": "https://nr11.newradio.it:19200/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/419/free-time-radio.a35c78c4.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita158",
+    "name": "Radio Enny Sound",
+    "streamUrl": "https://nr14.newradio.it:8928/stream?ext=.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/152/radio-enny-sound.11ceadee.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita159",
+    "name": "105 - Bau & Co",
+    "streamUrl": "https://icy.unitedradio.it/RadioBAU.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/606/radio-bau-co.6e950fcc.jpg",
+    "genre": "genre_kids",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita160",
+    "name": "RLB Radioattiva",
+    "streamUrl": "https://nr5.newradio.it:18767/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/218/rlb-radioattiva.9524f083.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita161",
+    "name": "GrP - Giornale radio Piemonte",
+    "streamUrl": "https://stream5.xdevel.com/audio0s976619-1386/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/520/giornale-radio.c477edb6.png",
+    "genre": "genre_news",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita162",
+    "name": "Latte Miele Marche-Abruzzo",
+    "streamUrl": "https://ice09.fluidstream.net/fluid0904.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/865/latte-miele-puglia.df45923e.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita163",
+    "name": "Goodfellas music Station",
+    "streamUrl": "https://onair7.xdevel.com/proxy/xautocloud_q1v0_1005?mp=/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5ULkeEVXcJ.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita164",
+    "name": "Kiss Kiss Hits",
+    "streamUrl": "https://ice08.fluidstream.net/kk_hits.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/029/radio-kiss-kiss-hits.48e291a6.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita165",
+    "name": "Gran Paradiso",
+    "streamUrl": "https://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-64.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/166/radio-gran-paradiso.499253c0.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita166",
+    "name": "Dimensione Suono Soft",
+    "streamUrl": "https://icstream.rds.radio/dssc",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/537/dimensione-suono-soft.e3836820.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita167",
+    "name": "2.0 - La Radio delle Valli di Bergamo",
+    "streamUrl": "https://vps.radioduepuntozero.it/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/3qfkamfdv3es.png",
+    "genre": "genre_folk",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita168",
+    "name": "Kiss Kiss Latina",
+    "streamUrl": "https://ice08.fluidstream.net/kk_latina.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/625/radio-kiss-kiss-latina.f62b9ec7.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita169",
+    "name": "Radioattivita",
+    "streamUrl": "https://nr5.newradio.it/proxy/finmedia?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/214/radioattivita.b1ce604d.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita170",
+    "name": "Penny Italien",
+    "streamUrl": "https://listen.radiomax.technology/penny-italy",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/182/radio-italia-solomusicaitaliana.b6905137.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita171",
+    "name": "Radio Studio Piu",
+    "streamUrl": "https://ice.studiopiu.net/milano.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/218/radio-studio-piu.8e09f94d.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita172",
+    "name": "Sintony",
+    "streamUrl": "https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/164/radio-sintony.e947e1ed.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita173",
+    "name": "International",
+    "streamUrl": "https://ice08.fluidstream.net:80/fluid813.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/897/lifegate-intl.17262ae7.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita174",
+    "name": "Radio Bruno Pentasport",
+    "streamUrl": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/187/radio-bruno.56b8f344.png",
+    "genre": "genre_news",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita175",
+    "name": "Radio Zenith",
+    "streamUrl": "https://stream1.xdevel.com/audio0s975884-460/stream/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/854/radio-zenith-messina.0dc483eb.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita176",
+    "name": "Radio Utopia",
+    "streamUrl": "https://nr12.newradio.it:8624/stream?ext=.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/192/radio-utopia-italy.a97e172c.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita177",
+    "name": "TOradio",
+    "streamUrl": "https://nr5.newradio.it/proxy/fsrls?mp=/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ACFLLGLCZayv7g0YXISjttYrs-ZqPONKOq14LE35kMI/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYmZlNzI1OGItZjBjMy00YmJiLWI5N2QtYmI4OTRmMTgzYzY4L2ltYWdlLz91PTE2OTY3NjMxNDQwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita178",
+    "name": "Nuova Inblu",
+    "streamUrl": "https://ice09.fluidstream.net:80/fluid0903.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/672/radio-nuova-san-giorgio.6f0e2707.png",
+    "genre": "genre_religious",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita179",
+    "name": "RTL 102.5 Doc",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-doc",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/921/rtl-1025-doc.8d0d92e3.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita180",
+    "name": "Radiosei",
+    "streamUrl": "https://icecast.ithost.it/radiosei.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/177/radio-sei-981-fm.4a9fca3b.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita181",
+    "name": "Radio Suby",
+    "streamUrl": "https://icy.unitedradio.it/Suby.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/295/radio-suby.38700ea5.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita182",
+    "name": "Dimensione Suono Roma",
+    "streamUrl": "https://icstream.rds.radio/dsr",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/477/dimensione-suono-roma.18fe9eaa.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita183",
+    "name": "Radio Romantica",
+    "streamUrl": "https://stream.radioromantica.net/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/792/radio-romantica-939-fm.ec80055b.png",
+    "genre": "genre_relax",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita184",
+    "name": "105 - Miami",
+    "streamUrl": "https://icy.unitedradio.it/105Miami.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/127/105-miami.c62c8e75.png",
+    "genre": "genre_dance",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita185",
+    "name": "Radio 80",
+    "streamUrl": "https://wma01.fluidstream.net/radio80.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/963/radio-80.2a3a8977.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita186",
+    "name": "Radio Rossini",
+    "streamUrl": "https://stream.laut.fm/radiorossini",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/366/radio-rossini.84094f44.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita187",
+    "name": "Valbelluna",
+    "streamUrl": "https://sphera.fluidstream.eu/rvb.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/964/radio-valbelluna.b898b8d0.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita188",
+    "name": "ITALIAN RADIO ITALIAN.radio",
+    "streamUrl": "https://italianradio.streamingmedia.it/play",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/076/italian-radio-italianradio.670921e7.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita189",
+    "name": "Nostalgia Toscana",
+    "streamUrl": "https://sc.streamingfm.it:8072/nostalgia.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/211/radio-toscana.8389d216.jpg",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita190",
+    "name": "Vibra FM",
+    "streamUrl": "https://ice02.fluidstream.net/playstudio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/531/vibra-fm.084af245.jpg",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita191",
+    "name": "Kiss Kiss Rock",
+    "streamUrl": "https://ice08.fluidstream.net/kk_rock.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/896/radio-kiss-kiss-rock.8dc6761d.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita192",
+    "name": "Citta Aperta",
+    "streamUrl": "https://be.server89.com/8020/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/833/radio-citta-aperta.3c89aeba.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita193",
+    "name": "Giornale Radio",
+    "streamUrl": "https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/520/giornale-radio.c477edb6.png",
+    "genre": "genre_news",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita194",
+    "name": "Ritmo 80",
+    "streamUrl": "https://ice07.fluidstream.net/ritmo80.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/469/ritmo-80.691d6579.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita195",
+    "name": "Birikina",
+    "streamUrl": "https://ice02.fluidstream.net/birikina.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/061/radio-birikina.93dbcce8.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita196",
+    "name": "NEW HITS RADIO Italia",
+    "streamUrl": "https://newhitsradio.streamingmedia.it/play",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mc7abekcjxpy.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita197",
+    "name": "70 80 Hits HQ",
+    "streamUrl": "https://nr8.newradio.it:19574/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/939/70-80-non-stop.7dbcbb59.png",
+    "genre": "genre_retro",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita198",
+    "name": "Stella",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0504.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/916/radio-stella2.1e8642b5.png",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita199",
+    "name": "SOUL RADIO 60-70",
+    "streamUrl": "https://listen.soulradio.it/it",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/YJ2AAsmqvt.png",
+    "genre": "genre_jazz",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita200",
+    "name": "Virgin Rock Alternative",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockAlternative.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/617/virgin-radio-rock-alternative.bd2c5749.png",
+    "genre": "genre_rock",
+    "country": "country_italy"
   }
 ]
