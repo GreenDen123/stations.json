@@ -1,1435 +1,2266 @@
 [
   {
-    "id": "ind1",
-    "name": "Light on the Rock",
-    "streamUrl": "https://stream.zeno.fm/hhbs712r7rhvv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/SNbtbb0OYKXHzQXKBCuYEaK01Ww9d99a8g8p_YZuhHo/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0kzXzd2c1FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lfLVhJX0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3Mjk3MTc4NzAwMA.webp",
+    "id": "ita1",
+    "name": "Kiss Kiss Italia",
+    "streamUrl": "https://ice06.fluidstream.net/KKItalia.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita2",
+    "name": "Radio Contact Italy",
+    "streamUrl": "https://stream.laut.fm/radiocontactitaly",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita3",
+    "name": "Chill Out Zone  Italy",
+    "streamUrl": "https://stream.laut.fm/chilloutzone",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita4",
+    "name": "Latte Miele",
+    "streamUrl": "https://sr15.inmystream.it/stream/lattemiele",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita5",
+    "name": "Virgin Rock Classic",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita6",
+    "name": "RTL",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita7",
+    "name": "Funky Disco Radio",
+    "streamUrl": "https://stream.laut.fm/funkydiscoradio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita8",
+    "name": "Classic House Music Radio Contact Italy",
+    "streamUrl": "https://stream.laut.fm/italiastyle",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita9",
+    "name": "Radio Italia",
+    "streamUrl": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita10",
+    "name": "Lolliradio Italia",
+    "streamUrl": "https://stream.lolliradio.net/lolli_italia.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita11",
+    "name": "Octopus",
+    "streamUrl": "https://nr5.newradio.it/proxy/fterenzi?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita12",
+    "name": "Subasio",
+    "streamUrl": "https://icy.unitedradio.it/Subasio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita13",
+    "name": "RTL 102.5 Groove",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-broandsis",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita14",
+    "name": "Dimensione Relax",
+    "streamUrl": "https://jenny.torontocast.com:2000/stream/dimensionerelax",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita15",
+    "name": "Italia Dance Music",
+    "streamUrl": "https://sr2.inmystream.it:18032/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita16",
+    "name": "Virgin Rock 70",
+    "streamUrl": "https://icy.unitedradio.it/VirginRock70.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita17",
+    "name": "NATURE RADIO SLEEP",
+    "streamUrl": "https://mpc2.mediacp.eu/stream/natureradiosleep",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita18",
+    "name": "RAI Radio 1",
+    "streamUrl": "https://icestreaming.rai.it/1.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita19",
+    "name": "Lolliradio Happy",
+    "streamUrl": "https://happy.lolliradio.net/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita20",
+    "name": "Lolliradio Oldies",
+    "streamUrl": "https://stream.lolliradio.net/lolli_oldies.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita21",
+    "name": "Dimensione Jazz",
+    "streamUrl": "https://mpc1.mediacp.eu/stream/dimensionejazz",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita22",
+    "name": "Lolliradio Dance",
+    "streamUrl": "https://stream.lolliradio.net/lolli_dance.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita23",
+    "name": "Lolliradio Hits",
+    "streamUrl": "https://hits.lolliradio.net/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita24",
+    "name": "Sportiva",
+    "streamUrl": "https://mediahit.inmystream.it:9000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita25",
+    "name": "Riviera Lounge",
+    "streamUrl": "https://stream.laut.fm/riviera-lounge-radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita26",
+    "name": "Mambo",
+    "streamUrl": "https://mambo.newradio.it/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita27",
+    "name": "RDS Relax",
+    "streamUrl": "https://icstream.rds.radio/rdsrelax",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita28",
+    "name": "Radio Margherita Network",
+    "streamUrl": "https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita29",
+    "name": "RDS - Radio Dimensione Suono",
+    "streamUrl": "https://icstream.rds.radio/rds_aac64",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita30",
+    "name": "105 - Dance 90",
+    "streamUrl": "https://icy.unitedradio.it/105Dance90.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita31",
+    "name": "Kiss Kiss",
+    "streamUrl": "https://ice07.fluidstream.net/KissKiss.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita32",
+    "name": "Virgin Radio",
+    "streamUrl": "https://icecast.unitedradio.it/Virgin.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita33",
+    "name": "Piterpan",
+    "streamUrl": "https://wma01.fluidstream.net/piterpan",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita34",
+    "name": "Radio 24",
+    "streamUrl": "https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita35",
+    "name": "Antenna 1",
+    "streamUrl": "https://a1-it.newradio.it/stream?",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita36",
+    "name": "CAFE ROMA LOUNGE",
+    "streamUrl": "https://jenny.torontocast.com:2000/stream/caferomalounge",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita37",
+    "name": "Station Italy",
+    "streamUrl": "https://stationitaly.stream.laut.fm/stationitaly?t302=2020-04-23_02-12-50&uuid=94ab5306-d6a5-40de-ba3f-bd45195b082b",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita38",
+    "name": "Cube Radio Show",
+    "streamUrl": "https://stream.zeno.fm/psq9nrwdqm0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita39",
+    "name": "Monte Carlo / RMC 1 - Music Star Pino Daniele",
+    "streamUrl": "https://icy.unitedradio.it/Daniele.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita40",
+    "name": "Discoradio",
+    "streamUrl": "https://icstream.rds.radio/disco_aac64",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita41",
+    "name": "Radio Ibiza",
+    "streamUrl": "https://wma08.fluidstream.net:8080/ibiza.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita42",
+    "name": "Balla Balla FM",
+    "streamUrl": "https://ice15.fluidstream.net/ballaballa.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita43",
+    "name": "R101",
+    "streamUrl": "https://icecast.unitedradio.it/r101",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita44",
+    "name": "Virgin Hard Rock",
+    "streamUrl": "https://icy.unitedradio.it/VirginHardRock.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita45",
+    "name": "Azzurra",
+    "streamUrl": "https://radioazzurra.stream.laut.fm/radioazzurra?t302=2020-04-23_02-15-22&uuid=6ff14a5d-3c64-4edc-92bb-39f5e39f3ba8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita46",
+    "name": "Virgin Rock 80",
+    "streamUrl": "https://icy.unitedradio.it/VirginRock80.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita47",
+    "name": "Centro Campania",
+    "streamUrl": "https://eu7.fastcast4u.com/proxy/rcc0?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita48",
+    "name": "Zeta",
+    "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita49",
+    "name": "Canale Italia",
+    "streamUrl": "https://rci.canaleitalia.tv:8007/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita50",
+    "name": "Radio Buenos Aires",
+    "streamUrl": "https://shoutcast2.streamingmedia.it/proxy/rba?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita51",
+    "name": "Studio Dance",
+    "streamUrl": "https://studiodance.stream.laut.fm/studiodance?t302=2020-04-23_02-01-43&uuid=7ff0078b-e9c0-4a9f-bf8e-d1436d2a0ab5",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita52",
+    "name": "RTL 102.5 Cool",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita53",
+    "name": "radiolovedance",
+    "streamUrl": "https://stream.zeno.fm/ka3yt7gu40duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita54",
+    "name": "Virgin Rock Hits",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockHits.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita55",
+    "name": "105 Hip Hop & R'n'B",
+    "streamUrl": "https://icy.unitedradio.it/105HipHopRnB.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind2",
-    "name": "Radio Baingan",
-    "streamUrl": "https://stream.zeno.fm/eyxg23ky4x8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/187/radio-baingan.bafe82a1.jpg",
+    "id": "ita56",
+    "name": "Rai Radio Classica",
+    "streamUrl": "https://icestreaming.rai.it/5.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita57",
+    "name": "105 Music Star Vasco",
+    "streamUrl": "https://icy.unitedradio.it/Vasco.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita58",
+    "name": "DUBAI LOUNGE",
+    "streamUrl": "https://mpc1.mediacp.eu/stream/dubailoungeradio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita59",
+    "name": "Top Italia Radio",
+    "streamUrl": "https://streaming.cst98.com/tir.php",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita60",
+    "name": "Radio Monte Carlo",
+    "streamUrl": "https://icecast.unitedradio.it/RMC.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita61",
+    "name": "RTL 102.5 Classic",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-best",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita62",
+    "name": "RDT Radio Station",
+    "streamUrl": "https://sr11.inmystream.it:8026/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita63",
+    "name": "Forever 80",
+    "streamUrl": "https://stream.laut.fm/forever80",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita64",
+    "name": "Lolliradio Soft",
+    "streamUrl": "https://stream.lolliradio.net/lolli_soft.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita65",
+    "name": "Subasio +",
+    "streamUrl": "https://icy.unitedradio.it/SubasioPiu.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita66",
+    "name": "Rock",
+    "streamUrl": "https://rrock.fluidstream.eu/radiorock.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita67",
+    "name": "RMC 1 - Music Star George Michael",
+    "streamUrl": "https://icy.unitedradio.it/MusicStarPrince.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita68",
+    "name": "Rai Radio Tutta Italiana",
+    "streamUrl": "https://icestreaming.rai.it/4.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita69",
+    "name": "Capital Funky Town",
+    "streamUrl": "https://streamcdnm8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita70",
+    "name": "Studio Piu",
+    "streamUrl": "https://ice.studiopiu.net/rete.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita71",
+    "name": "STEREO Carpi",
+    "streamUrl": "https://stereo.stream.laut.fm/stereo?t302=2020-04-23_02-02-00&uuid=b23934ed-b429-42d5-a246-c35968a8ada1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita72",
+    "name": "PMR- Playermusicradio",
+    "streamUrl": "https://playermusicradio.stream.laut.fm/playermusicradio?t302=2020-04-23_06-53-40&uuid=3769db93-0be1-4c5e-9c26-c3a3b396b82a",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita73",
+    "name": "Gamma Radio",
+    "streamUrl": "https://sr15.inmystream.it:8008/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita74",
+    "name": "Power Station Italy",
+    "streamUrl": "https://powerstationitaly.stream.laut.fm/powerstationitaly",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita75",
+    "name": "Kiss Kiss History Hits",
+    "streamUrl": "https://ice08.fluidstream.net/kk_history.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita76",
+    "name": "Capital - Classic Rock",
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita77",
+    "name": "emmeradio web station",
+    "streamUrl": "https://cast.server89.com:8100/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita78",
+    "name": "Firenze",
+    "streamUrl": "https://onair11.xdevel.com/proxy/sc_firen?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita79",
+    "name": "Lady",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0507.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita80",
+    "name": "Virgin Rock Party",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockParty.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita81",
+    "name": "Virgin Radio Music Star Coldplay",
+    "streamUrl": "https://icy.unitedradio.it/ColdPlay.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita82",
+    "name": "Forever 90",
+    "streamUrl": "https://stream.laut.fm/forever90",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita83",
+    "name": "Forever Rock",
+    "streamUrl": "https://stream.laut.fm/foreverrock",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita84",
+    "name": "Roma Capitale",
+    "streamUrl": "https://icecast.ithost.it/radioromacapitale.ogg",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita85",
+    "name": "A Sleep Natural Mind",
+    "streamUrl": "https://listen.openstream.co/6389/audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita86",
+    "name": "105 - MUSIC STAR Jovanotti",
+    "streamUrl": "https://icy.unitedradio.it/Jovanotti.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita87",
+    "name": "Easy Network",
+    "streamUrl": "https://sphera.fluidstream.eu/easy.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita88",
+    "name": "Forever 80 pop",
+    "streamUrl": "https://stream.laut.fm/forever80-pop",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita89",
+    "name": "RTR99 - Radio Ti Ricordi",
+    "streamUrl": "https://rtr99.newradio.it/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita90",
+    "name": "Studio One",
+    "streamUrl": "https://stream.rcast.net/63600",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita91",
+    "name": "Radio Freccia",
+    "streamUrl": "https://streamingv2.shoutcast.com/radiofreccia",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita92",
+    "name": "Italia Anni'60",
+    "streamUrl": "https://str01.fluidstream.net/anni60.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita93",
+    "name": "Number One",
+    "streamUrl": "https://str12.fluidstream.net/rn1.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita94",
+    "name": "Radiospazioweb",
+    "streamUrl": "https://stream.zeno.fm/hsn78gsdk5zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita95",
+    "name": "Evangelo Piemonte",
+    "streamUrl": "https://dreamsiteradiocp3.com/proxy/radioevangelo?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita96",
+    "name": "Millenote",
+    "streamUrl": "https://str04.fluidstream.net/millenote.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita97",
+    "name": "105 Zoo Radio",
+    "streamUrl": "https://icy.unitedradio.it/105Zoo.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita98",
+    "name": "Italia Anni'60",
+    "streamUrl": "https://ice04.fluidstream.net/ria60_bo.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita99",
+    "name": "BMradio",
+    "streamUrl": "https://bmradio.radioca.st/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita100",
+    "name": "Solo Canzoni Napoletane",
+    "streamUrl": "https://solocanzoninapoletane.streamingmedia.it/canzoninapoletane.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita101",
+    "name": "Studio 90 Italia",
+    "streamUrl": "https://sr14.inmystream.it/stream/radiostudio90320k",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita102",
+    "name": "Radio Cuore (Sicilia)",
+    "streamUrl": "https://onair20.xdevel.com/proxy/radiosportiva?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita103",
+    "name": "Company",
+    "streamUrl": "https://sphera.fluidstream.eu/company.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind3",
-    "name": "Radio Namkeen",
-    "streamUrl": "https://stream.zeno.fm/84h7fsbaqv5tv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/377/radio-namkin.81316336.png",
+    "id": "ita104",
+    "name": "Sardinia",
+    "streamUrl": "https://s6.mediastreaming.it/m/7004",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita105",
+    "name": "Italia Anni'60",
+    "streamUrl": "https://ice04.fluidstream.net/ria60_ba.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita106",
+    "name": "Radio Studio Italia",
+    "streamUrl": "https://live.radiostudioitalia.it:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_italy"
+  },
+  {
+    "id": "ita107",
+    "name": "Indie Italia International Network",
+    "streamUrl": "https://stream.zeno.fm/ac7maz3tpwzuv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind4",
-    "name": "Mohabbat Radio",
-    "streamUrl": "https://stream.zeno.fm/u7dyh8zsgtzuv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/608/mohabbat-radio.8821dce6.png",
+    "id": "ita108",
+    "name": "CLASSIC HITS anni 70 80 90",
+    "streamUrl": "https://classichitsradio.streamingmedia.it/play",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind5",
-    "name": "Hits Of Bollywood",
-    "streamUrl": "https://stream.zeno.fm/a2gyqzwpwfeuv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ed2wjbwyyepk.jpg",
+    "id": "ita109",
+    "name": "Telesia FM",
+    "streamUrl": "https://primastream.it/8545",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind6",
-    "name": "Madhur Sangeet",
-    "streamUrl": "https://stream.zeno.fm/yv2k0dp18vzuv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4khfhtxzcxcp.jpg",
+    "id": "ita110",
+    "name": "105 - Rap Italia",
+    "streamUrl": "https://icy.unitedradio.it/105RapItalia.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind7",
-    "name": "kumar sanu",
-    "streamUrl": "https://stream.zeno.fm/70nen96vgs8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/187/kumar-sanu.fcf44709.jpg",
+    "id": "ita111",
+    "name": "Tandem",
+    "streamUrl": "https://cloud.radiotandem.it/radio",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind8",
-    "name": "Maayboli",
-    "streamUrl": "https://stream.zeno.fm/463d8uzrwfeuv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pbvmk8dnjuua.png",
+    "id": "ita112",
+    "name": "RADIO DIGITALIA Ricordi",
+    "streamUrl": "https://stream.laut.fm/radiodigitalia-ricordi",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind9",
-    "name": "NP 24 Radio",
-    "streamUrl": "https://stream.zeno.fm/8wk1s0pt008uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/VVqxS3pA3Y.png",
+    "id": "ita113",
+    "name": "105 - In Da Klubb",
+    "streamUrl": "https://icy.unitedradio.it/105InDaKlubb.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind10",
-    "name": "Bhakti Sangeet",
-    "streamUrl": "https://stream.zeno.fm/r51n9k1vsa0uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wczz4pqgu5fa.jpeg",
+    "id": "ita114",
+    "name": "laut.fm / house-nation",
+    "streamUrl": "https://house-nation.stream.laut.fm/house-nation?t302=2020-04-23_15-07-13&uuid=d45d56af-8d71-4dac-830d-fccb42721700",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind11",
-    "name": "Radio Badal",
-    "streamUrl": "https://stream.zeno.fm/nhrtcxg09u8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/564/radio-badal.33e4f271.png",
+    "id": "ita115",
+    "name": "Padova",
+    "streamUrl": "https://sphera.fluidstream.eu/rpd.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind12",
-    "name": "Goldy Cool",
-    "streamUrl": "https://stream.zeno.fm/3k1fb86tfm8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gjcph55dnnrz.png",
+    "id": "ita116",
+    "name": "Radio Cuore",
+    "streamUrl": "https://mediahit.inmystream.it:9001/stream2",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind14",
-    "name": "MY CLUB REMIX",
-    "streamUrl": "https://stream.zeno.fm/pkvh8zhyzp8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/215/my-club-remix.b875f688.jpg",
+    "id": "ita117",
+    "name": "Radio Stereo 98",
+    "streamUrl": "https://sr2.inmystream.it/proxy/pizzaemandolino/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind15",
-    "name": "Vilathikulam thendral",
-    "streamUrl": "https://stream.zeno.fm/ubw5g9v6hrruv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/9CbTt0GCZvqzywd44M4swjpMA9GXwypdjvOkxQHhrvA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdwWmJCa2dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdoYk93dXdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTE1MjgyMjAwMA.webp",
+    "id": "ita118",
+    "name": "Capital Music",
+    "streamUrl": "https://streamcdnm3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/live.m3u8",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind16",
-    "name": "Goldy Mukesh",
-    "streamUrl": "https://stream.zeno.fm/mrcz5sus1p8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wxktvurhesyj.png",
+    "id": "ita119",
+    "name": "Radio Time 90",
+    "streamUrl": "https://stream3.xdevel.com/audio1s975521-192/stream/icecast.audio",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind17",
-    "name": "New Hits Of Bollywood",
-    "streamUrl": "https://stream.zeno.fm/kr08sxc2tfeuv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ukypvujqhlcx.jpg",
+    "id": "ita120",
+    "name": "Radio Battikuore",
+    "streamUrl": "https://nr6.newradio.it/proxy/mtiziano?mp=/?ext=.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind18",
-    "name": "BREEZY FM",
-    "streamUrl": "https://stream.zeno.fm/nb7v5wd747zuv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/DCjY6iTbYpCHnGXFwQ-3RfXLg5Km1WI-dMOMlGYiJdQ/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F0NGp4dmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FyN2FIeUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTUwNzg0NDAwMA.webp",
+    "id": "ita121",
+    "name": "Edoardo",
+    "streamUrl": "https://shoutcast2.streamingmedia.it/proxy/7080nonstop?mp=%2Fstream.mp3&_=1",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind19",
-    "name": "Bollywood Punjabi Radio",
-    "streamUrl": "https://stream.zeno.fm/087g7f0cm0quv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nf5dx9fjd5xa.png",
+    "id": "ita122",
+    "name": "1Station Radio",
+    "streamUrl": "https://stream5.xdevel.com/audio1s975854-414/stream/icecast.audio",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind20",
-    "name": "Sakkath Radio",
-    "streamUrl": "https://stream.zeno.fm/3e6k4ryerd0uv",
+    "id": "ita123",
+    "name": "Voce della Speranza",
+    "streamUrl": "https://stream.radiorvs.it/rvs.it",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind21",
-    "name": "RADIO BOLLYWOOD 90s",
-    "streamUrl": "https://stream.zeno.fm/rm4i9pdex3cuv",
+    "id": "ita124",
+    "name": "LifeGate Radio",
+    "streamUrl": "https://router.xdevel.com/audio0s975809-345/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind22",
-    "name": "Hits Of Lata Mangeshkar",
-    "streamUrl": "https://stream.zeno.fm/xe1ye67prfhvv",
+    "id": "ita125",
+    "name": "Radio Popolare",
+    "streamUrl": "https://livex.radiopopolare.it/radiopop2",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind23",
-    "name": "முத்தமிழ் வானொலி மேலூர்",
-    "streamUrl": "https://stream.zeno.fm/vgsk3a0pb2zuv",
+    "id": "ita126",
+    "name": "Power Station",
+    "streamUrl": "https://radiopowerstation.stream.laut.fm/radiopowerstation?t302=2020-04-23_10-28-10&uuid=ee354f6c-1bcf-4b7f-84f5-ccd705d77b80",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind24",
-    "name": "Radio Onattukara",
-    "streamUrl": "https://stream.zeno.fm/wbz5p25kqd0uv",
+    "id": "ita127",
+    "name": "Energy",
+    "streamUrl": "https://gmusto.radioca.st/mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind25",
-    "name": "Radio City Kannada",
-    "streamUrl": "https://stream.zeno.fm/5mewr4dvyc9uv",
+    "id": "ita128",
+    "name": "R101 Enjoy The Music",
+    "streamUrl": "https://icy.unitedradio.it/101Legend.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind26",
-    "name": "Radio Choklate Bhubaneshwar",
-    "streamUrl": "https://stream.zeno.fm/1t5ceyhcxbruv",
+    "id": "ita129",
+    "name": "Skylab Energy",
+    "streamUrl": "https://skylabfm-skylab.radioca.st/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind27",
-    "name": "MUKIL முகில்",
-    "streamUrl": "https://stream.zeno.fm/9s8119m1rzzuv",
+    "id": "ita130",
+    "name": "RADIO DIGITALIA Musica-Italiana",
+    "streamUrl": "https://stream.laut.fm/radiodigitalia-musicaitaliana",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind28",
-    "name": "THENDRAL FM",
-    "streamUrl": "https://stream.zeno.fm/9h9mkg08xzzuv",
+    "id": "ita131",
+    "name": "Rv1-SuperHIT",
+    "streamUrl": "https://stream.laut.fm/rv1-superhit",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind29",
-    "name": "AIR KOCHI FM 102.3",
-    "streamUrl": "https://stream.zeno.fm/n65gktuu968uv",
+    "id": "ita132",
+    "name": "Classica Bresciana",
+    "streamUrl": "https://ice15.fluidstream.net/classicabresciana.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind30",
-    "name": "Radio City FREEDOM",
-    "streamUrl": "https://stream.zeno.fm/y0v4cspd8f0uv",
+    "id": "ita133",
+    "name": "Base",
+    "streamUrl": "https://str01.fluidstream.net/rpd.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind31",
-    "name": "Life FM",
-    "streamUrl": "https://stream.zeno.fm/37tsftts91zuv",
+    "id": "ita134",
+    "name": "Carbonia International",
+    "streamUrl": "https://sr2.inmystream.it:18006/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind32",
-    "name": "ARUMBU fm",
-    "streamUrl": "https://stream.zeno.fm/3ahvqdnce2zuv",
+    "id": "ita135",
+    "name": "Abruzzo Marche",
+    "streamUrl": "https://s1.forstream.it:8040/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind33",
-    "name": "ANBU FM",
-    "streamUrl": "https://stream.zeno.fm/c2p4f1np4bruv",
+    "id": "ita136",
+    "name": "Company Campania",
+    "streamUrl": "https://ice04.fluidstream.net/fluid0403.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind34",
-    "name": "Rocker Radio Hindi Gold 2",
-    "streamUrl": "https://stream.zeno.fm/btrks671ynhvv",
+    "id": "ita137",
+    "name": "Radio Club 91",
+    "streamUrl": "https://onair22.xdevel.com/proxy/radioclub91?mp=/stream/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind35",
-    "name": "Goldy Garba",
-    "streamUrl": "https://stream.zeno.fm/n0zkr7wa6p8uv",
+    "id": "ita138",
+    "name": "Kiss Kiss Sanremo Story",
+    "streamUrl": "https://ice08.fluidstream.net/kk_sanremo.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind36",
-    "name": "Mellisai FM (மெல்லிசை FM நம்ம Radio)",
-    "streamUrl": "https://stream.zeno.fm/e9hsbbbey4zuv",
+    "id": "ita139",
+    "name": "SorRriso",
+    "streamUrl": "https://ice02.fluidstream.net/sorriso.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind37",
-    "name": "Marathi Tarang",
-    "streamUrl": "https://stream.zeno.fm/vp0fs2u8grquv",
+    "id": "ita140",
+    "name": "Radio Luna",
+    "streamUrl": "https://nr8.newradio.it/proxy/rmg?mp=/?ext=.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind38",
-    "name": "Mazhai fm",
-    "streamUrl": "https://stream.zeno.fm/mecddtq0rzzuv",
+    "id": "ita141",
+    "name": "RCS Network Story",
+    "streamUrl": "https://ice12.fluidstream.net/fluid1202.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind39",
-    "name": "Desi World Radio",
-    "streamUrl": "https://stream.zeno.fm/7520z76bnzzuv",
+    "id": "ita142",
+    "name": "Radio Freak",
+    "streamUrl": "https://stream5.xdevel.com/audio1s975753-314/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind40",
-    "name": "Radio Welcome 90.8 fm",
-    "streamUrl": "https://stream.zeno.fm/2tm4yz0pvxhvv",
+    "id": "ita143",
+    "name": "Funky Corner Radio",
+    "streamUrl": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind41",
-    "name": "My 90s Bengali",
-    "streamUrl": "https://stream.zeno.fm/9bze9t1pvs8uv",
+    "id": "ita144",
+    "name": "Gemini FM",
+    "streamUrl": "https://nrf1.newradio.it:10236/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind42",
-    "name": "Prabhakar Radio",
-    "streamUrl": "https://stream.zeno.fm/2uh6hkmzdzzuv",
+    "id": "ita145",
+    "name": "Ram Power Radio",
+    "streamUrl": "https://icstream.rds.radio/ram",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind43",
-    "name": "Radio Wow",
-    "streamUrl": "https://stream.zeno.fm/c6k6mdbst5quv",
+    "id": "ita146",
+    "name": "Happy Radio Italia",
+    "streamUrl": "https://cast3.server89.com:8210/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind44",
-    "name": "M S Viswanathan Hits",
-    "streamUrl": "https://stream.zeno.fm/mxihfpmksk8uv",
+    "id": "ita147",
+    "name": "Toscana Classica",
+    "streamUrl": "https://stream.retetoscanaclassica.it:8443/source",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind45",
-    "name": "Bollywood Gold Revivals",
-    "streamUrl": "https://stream.zeno.fm/0xsvm1nr7a5tv",
+    "id": "ita148",
+    "name": "RCS Network",
+    "streamUrl": "https://ice12.fluidstream.net/fluid1201.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind46",
-    "name": "SST Radio",
-    "streamUrl": "https://stream.zeno.fm/sjyv3o8i8oruv",
+    "id": "ita149",
+    "name": "RAI Isoradio",
+    "streamUrl": "https://icestreaming.rai.it/6.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind47",
-    "name": "Radio City Bhakti",
-    "streamUrl": "https://stream.zeno.fm/cmwfh4nvyc9uv",
+    "id": "ita150",
+    "name": "105 - Story",
+    "streamUrl": "https://icy.unitedradio.it/105Story.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind48",
-    "name": "City FM 92",
-    "streamUrl": "https://stream.zeno.fm/bauwkrnqhxhvv",
+    "id": "ita151",
+    "name": "Milano XR",
+    "streamUrl": "https://milanoxr.v6.rocks:8443/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind49",
-    "name": "Marwar Radio",
-    "streamUrl": "https://stream.zeno.fm/vq6p5vxb4v8uv",
+    "id": "ita152",
+    "name": "RAI Radio 2",
+    "streamUrl": "https://icestreaming.rai.it/2.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind50",
-    "name": "Love Bites Kannada songs",
-    "streamUrl": "https://stream.zeno.fm/68snnbug8rhvv",
+    "id": "ita153",
+    "name": "Sherwood",
+    "streamUrl": "https://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind51",
-    "name": "Radio City Tamil",
-    "streamUrl": "https://stream.zeno.fm/d4a4nebvyc9uv",
+    "id": "ita154",
+    "name": "Radio Classica",
+    "streamUrl": "https://f027b3b473cf4361.msvdn.net/icecastRelay/S18953915/icecast",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind52",
-    "name": "Om Namasivaya",
-    "streamUrl": "https://stream.zeno.fm/whqnz2veyy8uv",
+    "id": "ita155",
+    "name": "Ananas",
+    "streamUrl": "https://wma03.fluidstream.net:80/fluid04.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind53",
-    "name": "Mahakal 24x7",
-    "streamUrl": "https://stream.zeno.fm/xvrm5ezyurhvv",
+    "id": "ita156",
+    "name": "105 - MUSIC STAR Ligabue",
+    "streamUrl": "https://icy.unitedradio.it/Ligabue.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind54",
-    "name": "Goldy Sarvaani",
-    "streamUrl": "https://stream.zeno.fm/c5bt9h37bm8uv",
+    "id": "ita157",
+    "name": "105 2k & More",
+    "streamUrl": "https://icy.unitedradio.it/1052kandMore.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind55",
-    "name": "RATNAGIRI FRESH FM 103.9 MHz",
-    "streamUrl": "https://stream.zeno.fm/rxq8uv39c8zuv",
+    "id": "ita158",
+    "name": "Radio Delfino",
+    "streamUrl": "https://nr8.newradio.it/proxy/emaamo00?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind56",
-    "name": "KJ Yesudas Malayalam Songs",
-    "streamUrl": "https://stream.zeno.fm/9x1sw687nf9uv",
+    "id": "ita159",
+    "name": "Babboleo",
+    "streamUrl": "https://bbl.fluidstream.eu/babboleo.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind57",
-    "name": "Radio vatakara",
-    "streamUrl": "https://stream.zeno.fm/9k5ku7bhb8zuv",
+    "id": "ita160",
+    "name": "DeeGay Classics",
+    "streamUrl": "https://stream.deegay.fm/deegay2.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind58",
-    "name": "Mani Chettan Radio",
-    "streamUrl": "https://stream.zeno.fm/s6hhy943w0hvv",
+    "id": "ita161",
+    "name": "New Radio Network",
+    "streamUrl": "https://nr5.newradio.it:18683/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind59",
-    "name": "Old Monk Radio",
-    "streamUrl": "https://stream.zeno.fm/pr0zc64zdy8uv",
+    "id": "ita162",
+    "name": "One Dance FM",
+    "streamUrl": "https://ice10.fluidstream.net/rn1_2.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind60",
-    "name": "FM KOTTARAKKARA",
-    "streamUrl": "https://stream.zeno.fm/38eyurev5s8uv",
+    "id": "ita163",
+    "name": "Cusano Italia TV",
+    "streamUrl": "https://stream2.xdevel.com/audio0s975363-76/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind61",
-    "name": "Jap Radio",
-    "streamUrl": "https://stream.zeno.fm/kpg9shh0kxquv",
+    "id": "ita164",
+    "name": "Primiero",
+    "streamUrl": "https://onair15.xdevel.com/proxy/radioprimiero?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind62",
-    "name": "Radio solapuri",
-    "streamUrl": "https://stream.zeno.fm/sdwfzttp6ueuv",
+    "id": "ita165",
+    "name": "Gamma",
+    "streamUrl": "https://stream5.xdevel.com/audio0s975943-762/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind63",
-    "name": "Mohammed Aziz",
-    "streamUrl": "https://stream.zeno.fm/p5ny63td1d0uv",
+    "id": "ita166",
+    "name": "RAI Radio 3",
+    "streamUrl": "https://icestreaming.rai.it/3.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind64",
-    "name": "Madhur Tarang",
-    "streamUrl": "https://stream.zeno.fm/63eqy23x34zuv",
+    "id": "ita167",
+    "name": "Controradio",
+    "streamUrl": "https://s4.yesstreaming.net:17199/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind65",
-    "name": "The Leader FM",
-    "streamUrl": "https://stream.zeno.fm/whwy245c2wzuv",
+    "id": "ita168",
+    "name": "Radio Zai.net",
+    "streamUrl": "https://stream.mandragola.com/radiozainet",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind66",
-    "name": "Global Radio 91.2 FM",
-    "streamUrl": "https://stream.zeno.fm/epyhxgc1y8huv",
+    "id": "ita169",
+    "name": "Sanluchino",
+    "streamUrl": "https://ssl.audio1.meway.tv/proxy/sanluchino?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind67",
-    "name": "Radio Palakkad",
-    "streamUrl": "https://stream.zeno.fm/qgqrxfte41zuv",
+    "id": "ita170",
+    "name": "LineAttiva",
+    "streamUrl": "https://str01.fluidstream.net/rpd.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind68",
-    "name": "Radio Rang 89.6 FM",
-    "streamUrl": "https://stream.zeno.fm/n58tt09cqchvv",
+    "id": "ita171",
+    "name": "Deejay One Two One Two",
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind69",
-    "name": "Covai FM 95.5",
-    "streamUrl": "https://stream.zeno.fm/78hb31tx24zuv",
+    "id": "ita172",
+    "name": "Buon Consiglio",
+    "streamUrl": "https://streaming.radiobuonconsiglio.it/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind70",
-    "name": "NAGAPATTINAM HARRIS JAYARAJ",
-    "streamUrl": "https://stream.zeno.fm/0bhsthssutzuv",
+    "id": "ita173",
+    "name": "RAI GR Parlamento",
+    "streamUrl": "https://icestreaming.rai.it/7.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind71",
-    "name": "Udit narayan",
-    "streamUrl": "https://stream.zeno.fm/ke8m4vr3ss8uv",
+    "id": "ita174",
+    "name": "Radio Incontro Donna",
+    "streamUrl": "https://nr7.newradio.it/proxy/terranov?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind72",
-    "name": "Radio Swami",
-    "streamUrl": "https://stream.zeno.fm/zuafg01w4ueuv",
+    "id": "ita175",
+    "name": "Bergamo",
+    "streamUrl": "https://str04.fluidstream.net/bergamo.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind73",
-    "name": "Radio City Premaloka",
-    "streamUrl": "https://stream.zeno.fm/auhfuknvyc9uv",
+    "id": "ita176",
+    "name": "Radio L'Olgiata",
+    "streamUrl": "https://olgiata-danidi01.radioca.st/stream.mp3/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind74",
-    "name": "Manju Warrier Songs",
-    "streamUrl": "https://stream.zeno.fm/g8cx7tggb3quv",
+    "id": "ita177",
+    "name": "Babboleo News",
+    "streamUrl": "https://bbl.fluidstream.eu/babboleo_lab.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind75",
-    "name": "Radiogreen",
-    "streamUrl": "https://stream.zeno.fm/1rgkfzxd3b6vv",
+    "id": "ita178",
+    "name": "Cassino Stereo",
+    "streamUrl": "https://radiocassino.radioca.st/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind76",
-    "name": "Radio City Punjabi",
-    "streamUrl": "https://stream.zeno.fm/pa4h8kqd8f0uv",
+    "id": "ita179",
+    "name": "Italia Anni'60",
+    "streamUrl": "https://ice04.fluidstream.net/ria60_rm.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind77",
-    "name": "Classic Radio Legends",
-    "streamUrl": "https://stream.zeno.fm/wfd5pv6aaw5vv",
+    "id": "ita180",
+    "name": "Super Sound",
+    "streamUrl": "https://ssl2.azotosolutions.com:1010/1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind78",
-    "name": "Radio Jagriti",
-    "streamUrl": "https://stream.zeno.fm/kgdue4hmffhvv",
+    "id": "ita181",
+    "name": "Radio Piu",
+    "streamUrl": "https://sr14.inmystream.it/stream/radiopiu",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind79",
-    "name": "குடந்தை வானொலி (TIMEPASS FM)",
-    "streamUrl": "https://stream.zeno.fm/qhm35xhd9yzuv",
+    "id": "ita182",
+    "name": "R101 Urban Night",
+    "streamUrl": "https://icy.unitedradio.it/101UrbanNight.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind80",
-    "name": "kgfworldradio",
-    "streamUrl": "https://stream.zeno.fm/wk7hppypta0uv",
+    "id": "ita183",
+    "name": "Love FM",
+    "streamUrl": "https://ice07.fluidstream.net/lovefm.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind81",
-    "name": "Love Guru Bhojpur",
-    "streamUrl": "https://stream.zeno.fm/18z34d4uyc9uv",
+    "id": "ita184",
+    "name": "Extra Radio",
+    "streamUrl": "https://nr11.newradio.it/proxy/diegtuzi?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind82",
-    "name": "Radio Punjab Today",
-    "streamUrl": "https://stream.zeno.fm/4ghmmxuf22quv",
+    "id": "ita185",
+    "name": "Rai Radio 2 Indie",
+    "streamUrl": "https://icestreaming.rai.it/15.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind83",
-    "name": "paadunila_T",
-    "streamUrl": "https://stream.zeno.fm/uuonsh6kc1xuv",
+    "id": "ita186",
+    "name": "Marilu",
+    "streamUrl": "https://wma01.fluidstream.net/marilu",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind84",
-    "name": "Vismaya Kerala Malayalam Radio",
-    "streamUrl": "https://stream.zeno.fm/euqwg5mdd8zuv",
+    "id": "ita187",
+    "name": "Ciao Radio",
+    "streamUrl": "https://mmediassl.rtvweb.com:9100/ciaoradio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind85",
-    "name": "Radio City Ghazal",
-    "streamUrl": "https://stream.zeno.fm/kabhpq3uyc9uv",
+    "id": "ita188",
+    "name": "Stereo 5 Plus",
+    "streamUrl": "https://radiostereo5.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind86",
-    "name": "RAINBOW FM KOCHI 107.5",
-    "streamUrl": "https://stream.zeno.fm/x28kc7nvk2zuv",
+    "id": "ita189",
+    "name": "Bella e Monella",
+    "streamUrl": "https://ice02.fluidstream.net/bella.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind87",
-    "name": "Mohammed Rafi",
-    "streamUrl": "https://stream.zeno.fm/6yqvumgfxtzuv",
+    "id": "ita190",
+    "name": "Play Studio",
+    "streamUrl": "https://ice12.fluidstream.net/playstudio.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind88",
-    "name": "NammRadio USA",
-    "streamUrl": "https://stream.zeno.fm/w7mfe3ent1duv",
+    "id": "ita191",
+    "name": "Nostalgia Liguria",
+    "streamUrl": "https://ice12.fluidstream.net/nostalgia_li.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind89",
-    "name": "Radio Kesari 90.0 FM",
-    "streamUrl": "https://stream.zeno.fm/7yhq985hnxhvv",
+    "id": "ita192",
+    "name": "Radio Noise",
+    "streamUrl": "https://nrf1.newradio.it:9606/radionoise.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind90",
-    "name": "Mjoy mjms fm",
-    "streamUrl": "https://stream.zeno.fm/fknner8931zuv",
+    "id": "ita193",
+    "name": "Radio Dolomiti",
+    "streamUrl": "https://www.radiodolomiti.com:10068/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind91",
-    "name": "Namm Radio India",
-    "streamUrl": "https://stream.zeno.fm/s2u1ypfnt1duv",
+    "id": "ita194",
+    "name": "Radio Oscia",
+    "streamUrl": "https://stream5.xdevel.com/audio0s976002-865/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind92",
-    "name": "Amman Radio",
-    "streamUrl": "https://stream.zeno.fm/nuh1ftgdma0uv",
+    "id": "ita195",
+    "name": "SeiSei",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0508.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind93",
-    "name": "AURAL  OLDIES",
-    "streamUrl": "https://stream.zeno.fm/tksfwb1mgzzuv",
+    "id": "ita196",
+    "name": "Radio Roma",
+    "streamUrl": "https://nr9.newradio.it:19371/stream?ext=.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind94",
-    "name": "Goldy Gujarati",
-    "streamUrl": "https://stream.zeno.fm/28wseh18am8uv",
+    "id": "ita197",
+    "name": "Italia Anni'60",
+    "streamUrl": "https://ice04.fluidstream.net/ria60_na.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind95",
-    "name": "மன்னை வானொலி (TIMEPASS FM)",
-    "streamUrl": "https://stream.zeno.fm/8cyfy8vx34zuv",
+    "id": "ita198",
+    "name": "Deejay 30 Songs",
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/play1.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind96",
-    "name": "Classic Radio Bhakti Sangeet",
-    "streamUrl": "https://stream.zeno.fm/0p9elrnkeshtv",
+    "id": "ita199",
+    "name": "Italia Trend",
+    "streamUrl": "https://ddlplay.iwcdn.com/rirap.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind97",
-    "name": "radioBollyFM",
-    "streamUrl": "https://stream.zeno.fm/49csmhebs2zuv",
+    "id": "ita200",
+    "name": "Capital Viva L'italia",
+    "streamUrl": "https://streamcdnm17-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/live.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind98",
-    "name": "PaasamFM",
-    "streamUrl": "https://stream.zeno.fm/wx8ue96nc18uv",
+    "id": "ita201",
+    "name": "Campania",
+    "streamUrl": "https://stream.radiocampania.eu:8000/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind99",
-    "name": "Kalai Fm",
-    "streamUrl": "https://stream.zeno.fm/2vghnwshsqzuv",
+    "id": "ita202",
+    "name": "Piemonte torino",
+    "streamUrl": "https://sp3.server89.com/9306/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind100",
-    "name": "Sad Songs Tamil",
-    "streamUrl": "https://stream.zeno.fm/xbmq57gqvtzuv",
+    "id": "ita203",
+    "name": "Deejay Gasolina",
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind101",
-    "name": "Swara Madhuri Telugu Radio (స్వర మాధురి )",
-    "streamUrl": "https://stream.zeno.fm/zman3kqfzeruv",
+    "id": "ita204",
+    "name": "Babboleo Suono",
+    "streamUrl": "https://bbl.fluidstream.eu/babboleo_suono.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind102",
-    "name": "Agra Radio",
-    "streamUrl": "https://stream.zeno.fm/m1krtxpk11zuv",
+    "id": "ita205",
+    "name": "Kristall Radio",
+    "streamUrl": "https://sr7.inmystream.it:18115/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind103",
-    "name": "Anandham",
-    "streamUrl": "https://stream.zeno.fm/hneqfaxgr2zuv",
+    "id": "ita206",
+    "name": "Onda d'Urto",
+    "streamUrl": "https://hochimin.urtostream.org:8443/radiondadurto.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind104",
-    "name": "Radio City Dance",
-    "streamUrl": "https://stream.zeno.fm/0we1hdpvyc9uv",
+    "id": "ita207",
+    "name": "Studio Centrale",
+    "streamUrl": "https://stream.studiocentrale.it/radio/8020/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind105",
-    "name": "NAGAPATTINAM NANBARGAL",
-    "streamUrl": "https://stream.zeno.fm/xyw4mnd8ntzuv",
+    "id": "ita208",
+    "name": "Reporter",
+    "streamUrl": "https://mediahit.inmystream.it:9005/stream2",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind106",
-    "name": "Mageshtamilradio",
-    "streamUrl": "https://stream.zeno.fm/rxrwc9cz5bhvv",
+    "id": "ita209",
+    "name": "Linea No 1",
+    "streamUrl": "https://rblive.it:8000/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind107",
-    "name": "Classic Radio Hindi",
-    "streamUrl": "https://stream.zeno.fm/hehkdwmeoznvv",
+    "id": "ita210",
+    "name": "Discoradio",
+    "streamUrl": "https://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind108",
-    "name": "RADIO DEEWANA",
-    "streamUrl": "https://stream.zeno.fm/x1q3r3qdxy8uv",
+    "id": "ita211",
+    "name": "Radio Globo Vintage",
+    "streamUrl": "https://m100.newradio.it/m100-64",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind109",
-    "name": "TAMILAR RADIO",
-    "streamUrl": "https://stream.zeno.fm/v2ws7zavy7zuv",
+    "id": "ita212",
+    "name": "Idea Radio Civitavecchia",
+    "streamUrl": "https://tarquinia-danidi01.radioca.st/srteam2",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind110",
-    "name": "Goldy Aaradhna",
-    "streamUrl": "https://stream.zeno.fm/s14278r2cm8uv",
+    "id": "ita213",
+    "name": "Anaunia",
+    "streamUrl": "https://s6.mediastreaming.it/m/9134?ext=.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind111",
-    "name": "Hawamahal Radio",
-    "streamUrl": "https://stream.zeno.fm/zzv69u7sz1zuv",
+    "id": "ita214",
+    "name": "Radio Cuore (Sicilia)",
+    "streamUrl": "https://onair20.xdevel.com/proxy/radiocuorect?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind112",
-    "name": "KS Chitra",
-    "streamUrl": "https://stream.zeno.fm/oene3zhgpnpvv",
+    "id": "ita215",
+    "name": "Revolve Radio",
+    "streamUrl": "https://clare.shoutca.st/radio/8300/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind113",
-    "name": "Paadu Nilavae Tamil Radio",
-    "streamUrl": "https://stream.zeno.fm/ra475wg8ma0uv",
+    "id": "ita216",
+    "name": "Alta",
+    "streamUrl": "https://live.radioalta.it/stream.ogg",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind114",
-    "name": "Radio Urja",
-    "streamUrl": "https://stream.zeno.fm/v1xxs012muhvv",
+    "id": "ita217",
+    "name": "Gamma 5",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0510.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind115",
-    "name": "Punjabi Beats",
-    "streamUrl": "https://stream.zeno.fm/qcy86xwg65quv",
+    "id": "ita218",
+    "name": "RADIO DIGITALIA Festival",
+    "streamUrl": "https://stream.laut.fm/radiodigitalia-festival",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind116",
-    "name": "AIR THRISSUR 101.1",
-    "streamUrl": "https://stream.zeno.fm/386w2mbkb78uv",
+    "id": "ita219",
+    "name": "Free Time Radio",
+    "streamUrl": "https://nr11.newradio.it:19200/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind117",
-    "name": "BollyHits Radio",
-    "streamUrl": "https://stream.zeno.fm/6rth3ywheg8uv",
+    "id": "ita220",
+    "name": "Radio Enny Sound",
+    "streamUrl": "https://nr14.newradio.it:8928/stream?ext=.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind118",
-    "name": "CN FM",
-    "streamUrl": "https://stream.zeno.fm/pwkew3e9reruv",
+    "id": "ita221",
+    "name": "105 - Bau & Co",
+    "streamUrl": "https://icy.unitedradio.it/RadioBAU.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind119",
-    "name": "RADIO 88",
-    "streamUrl": "https://stream.zeno.fm/2dqen16529duv",
+    "id": "ita222",
+    "name": "RLB Radioattiva",
+    "streamUrl": "https://nr5.newradio.it:18767/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind120",
-    "name": "Radio Garden Gopan Haripad",
-    "streamUrl": "https://stream.zeno.fm/s5nn2rbtbwzuv",
+    "id": "ita223",
+    "name": "Lecco Channel",
+    "streamUrl": "https://onair20.xdevel.com:6994/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind121",
-    "name": "Manimaaran_T",
-    "streamUrl": "https://stream.zeno.fm/f9xsd1yniqutv",
+    "id": "ita224",
+    "name": "Radio Ascolta",
+    "streamUrl": "https://nl1.streamingpulse.com/ssl/radioascoltaitaly",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind122",
-    "name": "ksalai_T",
-    "streamUrl": "https://stream.zeno.fm/oe21umvwatqtv",
+    "id": "ita225",
+    "name": "Radio Luna",
+    "streamUrl": "https://onair15.xdevel.com/proxy/radiolunamp3?mp=/stream/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind123",
-    "name": "Odisha Radio",
-    "streamUrl": "https://stream.zeno.fm/06k46a9mk98uv",
+    "id": "ita226",
+    "name": "Radio m2o",
+    "streamUrl": "https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind124",
-    "name": "Rajasthani Bhajan",
-    "streamUrl": "https://stream.zeno.fm/4ukvgz7ydy8uv",
+    "id": "ita227",
+    "name": "MB International",
+    "streamUrl": "https://radiomb19.radioca.st/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind125",
-    "name": "CN AD  AND EVENT",
-    "streamUrl": "https://stream.zeno.fm/n2057yzaxqruv",
+    "id": "ita228",
+    "name": "GrP - Giornale radio Piemonte",
+    "streamUrl": "https://stream5.xdevel.com/audio0s976619-1386/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind126",
-    "name": "Aahanal Vaanoli",
-    "streamUrl": "https://stream.zeno.fm/hikr1i9rdlvtv",
+    "id": "ita229",
+    "name": "Latte Miele Marche-Abruzzo",
+    "streamUrl": "https://ice09.fluidstream.net/fluid0904.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind127",
-    "name": "Nudi Kannada FM",
-    "streamUrl": "https://stream.zeno.fm/en4wu0vg74zuv",
+    "id": "ita230",
+    "name": "Goodfellas music Station",
+    "streamUrl": "https://onair7.xdevel.com/proxy/xautocloud_q1v0_1005?mp=/stream/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind128",
-    "name": "Radio Vaisyan",
-    "streamUrl": "https://stream.zeno.fm/r920me1rmm0uv",
+    "id": "ita231",
+    "name": "Deejay WFM",
+    "streamUrl": "https://streamcdne3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/live.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind129",
-    "name": "RKotti_T",
-    "streamUrl": "https://stream.zeno.fm/msggm4sqxomuv",
+    "id": "ita232",
+    "name": "Kiss Kiss Hits",
+    "streamUrl": "https://ice08.fluidstream.net/kk_hits.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind130",
-    "name": "Isai Thentral Tamil Radio",
-    "streamUrl": "https://stream.zeno.fm/bduvrqyn54zuv",
+    "id": "ita233",
+    "name": "Gran Paradiso",
+    "streamUrl": "https://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-64.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind131",
-    "name": "Aap Ki Aawaz",
-    "streamUrl": "https://stream.zeno.fm/spm0t8gq45quv",
+    "id": "ita234",
+    "name": "Dimensione Suono Soft",
+    "streamUrl": "https://icstream.rds.radio/dssc",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind132",
-    "name": "Swaranjali",
-    "streamUrl": "https://stream.zeno.fm/x7mve2vt01zuv",
+    "id": "ita235",
+    "name": "Fantastica",
+    "streamUrl": "https://mediahit.inmystream.it:9006/stream2",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind133",
-    "name": "mala90",
-    "streamUrl": "https://stream.zeno.fm/ggh94amzm0hvv",
+    "id": "ita236",
+    "name": "2.0 - La Radio delle Valli di Bergamo",
+    "streamUrl": "https://vps.radioduepuntozero.it/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind134",
-    "name": "evgr_T",
-    "streamUrl": "https://stream.zeno.fm/fq75n50pw2hvv",
+    "id": "ita237",
+    "name": "Kiss Kiss Latina",
+    "streamUrl": "https://ice08.fluidstream.net/kk_latina.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind135",
-    "name": "Ammanfm",
-    "streamUrl": "https://stream.zeno.fm/eyu2edmu6whvv",
+    "id": "ita238",
+    "name": "Radioattivita",
+    "streamUrl": "https://nr5.newradio.it/proxy/finmedia?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind136",
-    "name": "Valipokan",
-    "streamUrl": "https://stream.zeno.fm/dcts7v7sef9uv",
+    "id": "ita239",
+    "name": "Penny Italien",
+    "streamUrl": "https://listen.radiomax.technology/penny-italy",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind137",
-    "name": "Aussie Malayali Radio",
-    "streamUrl": "https://stream.zeno.fm/vxoisuvazztvv",
+    "id": "ita240",
+    "name": "Radio Studio Piu",
+    "streamUrl": "https://ice.studiopiu.net/milano.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind138",
-    "name": "AnandhamFM HD",
-    "streamUrl": "https://stream.zeno.fm/1ddxnnrg0d0uv",
+    "id": "ita241",
+    "name": "Sintony",
+    "streamUrl": "https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind139",
-    "name": "Radio Sharda",
-    "streamUrl": "https://stream.zeno.fm/24fwxb105eeuv",
+    "id": "ita242",
+    "name": "Deejay On the Road",
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind140",
-    "name": "Thiruttani City Fm",
-    "streamUrl": "https://stream.zeno.fm/cry0acaxbcztv",
+    "id": "ita243",
+    "name": "Capital Soft",
+    "streamUrl": "https://streamcdnm36-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/live.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind141",
-    "name": "Radio City Gujarati",
-    "streamUrl": "https://stream.zeno.fm/0w60fqpvyc9uv",
+    "id": "ita244",
+    "name": "International",
+    "streamUrl": "https://ice08.fluidstream.net:80/fluid813.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind142",
-    "name": "SAB Radio",
-    "streamUrl": "https://stream.zeno.fm/zfd00cnd0xhvv",
+    "id": "ita245",
+    "name": "Radio Bruno Pentasport",
+    "streamUrl": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind143",
-    "name": "Hindu Devotional Songs",
-    "streamUrl": "https://stream.zeno.fm/tf9z6bres18uv",
+    "id": "ita246",
+    "name": "Italia Anni'60",
+    "streamUrl": "https://ice04.fluidstream.net/ria60_ca.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind144",
-    "name": "Saaral vanoli",
-    "streamUrl": "https://stream.zeno.fm/c6rbgapghzzuv",
+    "id": "ita247",
+    "name": "Radio Zenith",
+    "streamUrl": "https://stream1.xdevel.com/audio0s975884-460/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind145",
-    "name": "RADIO BHOOTHAKULAM",
-    "streamUrl": "https://stream.zeno.fm/vgg5r68e408uv",
+    "id": "ita248",
+    "name": "News 24",
+    "streamUrl": "https://stream5.xdevel.com/audio7s975889-1332/stream/icecast.audio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind146",
-    "name": "Punjabi World Radio",
-    "streamUrl": "https://stream.zeno.fm/r2u0p5bqhtzuv",
+    "id": "ita249",
+    "name": "Radio Utopia",
+    "streamUrl": "https://nr12.newradio.it:8624/stream?ext=.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind147",
-    "name": "CHATHANNOOR FM",
-    "streamUrl": "https://stream.zeno.fm/7aw1h7w4teruv",
+    "id": "ita250",
+    "name": "TOradio",
+    "streamUrl": "https://nr5.newradio.it/proxy/fsrls?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind148",
-    "name": "BOLLYWOOD SAD SONGS LIVE RADIO",
-    "streamUrl": "https://stream.zeno.fm/yvqymrxdxi7vv",
+    "id": "ita251",
+    "name": "Nuova Inblu",
+    "streamUrl": "https://ice09.fluidstream.net:80/fluid0903.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind149",
-    "name": "Harrish Jayaraj FM",
-    "streamUrl": "https://stream.zeno.fm/c6wdtuh1yyivv",
+    "id": "ita252",
+    "name": "Milano Lounge",
+    "streamUrl": "https://centova.wlservices.org:4003/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind150",
-    "name": "toon80_T",
-    "streamUrl": "https://stream.zeno.fm/bfthpyd9fftvv",
+    "id": "ita253",
+    "name": "InBlu Radio",
+    "streamUrl": "https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind151",
-    "name": "NAAN FM",
-    "streamUrl": "https://stream.zeno.fm/5gmqd04zbg0uv",
+    "id": "ita254",
+    "name": "Radio Spazio Noi",
+    "streamUrl": "https://cldwz.glauco.it/HLS/radiospazionoi/chunklist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind152",
-    "name": "Goldy Blast",
-    "streamUrl": "https://stream.zeno.fm/f15rqvwa6p8uv",
+    "id": "ita255",
+    "name": "RTL 102.5 Doc",
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-doc",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind153",
-    "name": "Radiomist",
-    "streamUrl": "https://stream.zeno.fm/c5nnw8sbna0uv",
+    "id": "ita256",
+    "name": "Radiosei",
+    "streamUrl": "https://icecast.ithost.it/radiosei.ogg",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind154",
-    "name": "Radio Tarana",
-    "streamUrl": "https://stream.zeno.fm/ceumr8uavp8uv",
+    "id": "ita257",
+    "name": "Cusano Campus",
+    "streamUrl": "https://www.radiocusanocampus.it/ottieniprogrammainonda",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind155",
-    "name": "THENKAASI FM",
-    "streamUrl": "https://stream.zeno.fm/v7uvsebz6k0uv",
+    "id": "ita258",
+    "name": "Color",
+    "streamUrl": "https://nrf1.newradio.it:9626/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind156",
-    "name": "தமிழ் வானொலி ( TAMIL Radio )",
-    "streamUrl": "https://stream.zeno.fm/fe9d39a2h8quv",
+    "id": "ita259",
+    "name": "Radio Suby",
+    "streamUrl": "https://icy.unitedradio.it/Suby.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind157",
-    "name": "MARKAZ KI AWAZ",
-    "streamUrl": "https://stream.zeno.fm/x8sfcp76u7zuv",
+    "id": "ita260",
+    "name": "Deegay.FM Pop & Dance",
+    "streamUrl": "https://ss1.deegay.fm/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind158",
-    "name": "Narshingbari Radio",
-    "streamUrl": "https://stream.zeno.fm/dkdhtnyc7ehvv",
+    "id": "ita261",
+    "name": "Dimensione Suono Roma",
+    "streamUrl": "https://icstream.rds.radio/dsr",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind159",
-    "name": "Blessing fm",
-    "streamUrl": "https://stream.zeno.fm/adm7psvk21zuv",
+    "id": "ita262",
+    "name": "Centro Suono Sport",
+    "streamUrl": "https://streaming1.radiocentrosuono.it:8443/cssport.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind160",
-    "name": "Pranayam",
-    "streamUrl": "https://stream.zeno.fm/g2zves9gdwzuv",
+    "id": "ita263",
+    "name": "Radio Romantica",
+    "streamUrl": "https://stream.radioromantica.net/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind161",
-    "name": "Radio City Faith",
-    "streamUrl": "https://stream.zeno.fm/0prn3unvyc9uv",
+    "id": "ita264",
+    "name": "105 - Miami",
+    "streamUrl": "https://icy.unitedradio.it/105Miami.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind162",
-    "name": "Radio Mythri",
-    "streamUrl": "https://stream.zeno.fm/ekthuu9bfwzuv",
+    "id": "ita265",
+    "name": "80",
+    "streamUrl": "https://wma01.fluidstream.net/radio80.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind163",
-    "name": "RADIO MILAN",
-    "streamUrl": "https://stream.zeno.fm/r733rtpx72quv",
+    "id": "ita266",
+    "name": "Radio Rossini",
+    "streamUrl": "https://stream.laut.fm/radiorossini",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind164",
-    "name": "TAMIL AMUTHU RADIO",
-    "streamUrl": "https://stream.zeno.fm/p88vvwd0gm0uv",
+    "id": "ita267",
+    "name": "Valbelluna",
+    "streamUrl": "https://sphera.fluidstream.eu/rvb.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind165",
-    "name": "HINDU DEVO",
-    "streamUrl": "https://stream.zeno.fm/08e1vkshcc9uv",
+    "id": "ita268",
+    "name": "ITALIAN RADIO ITALIAN.radio",
+    "streamUrl": "https://italianradio.streamingmedia.it/play",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind166",
-    "name": "flame 99.9 FM",
-    "streamUrl": "https://stream.zeno.fm/9z2ra2brkxhvv",
+    "id": "ita269",
+    "name": "Nostalgia Toscana",
+    "streamUrl": "https://sc.streamingfm.it:8072/nostalgia.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind167",
-    "name": "CN INFOTECH",
-    "streamUrl": "https://stream.zeno.fm/4r51x49tsqruv",
+    "id": "ita270",
+    "name": "Vibra FM",
+    "streamUrl": "https://ice02.fluidstream.net/playstudio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind168",
-    "name": "DO FM",
-    "streamUrl": "https://stream.zeno.fm/c44y7qz3vwzuv",
+    "id": "ita271",
+    "name": "Kiss Kiss Rock",
+    "streamUrl": "https://ice08.fluidstream.net/kk_rock.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind169",
-    "name": "AR RADIO",
-    "streamUrl": "https://stream.zeno.fm/heq754gwxwzuv",
+    "id": "ita272",
+    "name": "Radio Evangelo",
+    "streamUrl": "https://onair11.xdevel.com/proxy/adiit?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind170",
-    "name": "SFM TAMIL COMEDY",
-    "streamUrl": "https://stream.zeno.fm/tmgktm50dzzuv",
+    "id": "ita273",
+    "name": "Citta Aperta",
+    "streamUrl": "https://be.server89.com/8020/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind171",
-    "name": "Malayalam  remix",
-    "streamUrl": "https://stream.zeno.fm/pdgarvnt6k8uv",
+    "id": "ita274",
+    "name": "Giornale Radio",
+    "streamUrl": "https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind172",
-    "name": "malysadan",
-    "streamUrl": "https://stream.zeno.fm/fzfpqr1rkrhvv",
+    "id": "ita275",
+    "name": "Radio Amore e Vita93",
+    "streamUrl": "https://stream-54.zeno.fm/6bdbnqwnsg8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind173",
-    "name": "Sadhakashram Radio",
-    "streamUrl": "https://stream.zeno.fm/5prh3wkeb9quv",
+    "id": "ita276",
+    "name": "Ritmo 80",
+    "streamUrl": "https://ice07.fluidstream.net/ritmo80.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind174",
-    "name": "KALLUNKAL RADIO",
-    "streamUrl": "https://stream.zeno.fm/xc0yxbsd37zuv",
+    "id": "ita277",
+    "name": "Birikina",
+    "streamUrl": "https://ice02.fluidstream.net/birikina.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind175",
-    "name": "Ilayaraja Tamil Film Songs",
-    "streamUrl": "https://stream.zeno.fm/pwm9y3eud5zuv",
+    "id": "ita278",
+    "name": "Viva FM",
+    "streamUrl": "https://stream2.vivafm.it:9002/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind176",
-    "name": "My Selfie Redio",
-    "streamUrl": "https://stream.zeno.fm/0ez7122eny8uv",
+    "id": "ita279",
+    "name": "NEW HITS RADIO Italia",
+    "streamUrl": "https://newhitsradio.streamingmedia.it/play",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind177",
-    "name": "Periyava Vanoli",
-    "streamUrl": "https://stream.zeno.fm/35dqa47urg0uv",
+    "id": "ita280",
+    "name": "70 80 Hits HQ",
+    "streamUrl": "https://nr8.newradio.it:19574/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind178",
-    "name": "Bhakti Sagar FM",
-    "streamUrl": "https://stream.zeno.fm/lcida9v81nmvv",
+    "id": "ita281",
+    "name": "Stella",
+    "streamUrl": "https://ice05.fluidstream.net:80/fluid0504.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind179",
-    "name": "FC MUSIC",
-    "streamUrl": "https://stream.zeno.fm/mtp12ctpb18uv",
+    "id": "ita282",
+    "name": "SOUL RADIO 60-70",
+    "streamUrl": "https://listen.soulradio.it/it",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   },
   {
-    "id": "ind180",
-    "name": "রেডিও সাগুন",
-    "streamUrl": "https://stream.zeno.fm/s2sbba66bzzuv",
+    "id": "ita283",
+    "name": "Virgin Rock Alternative",
+    "streamUrl": "https://icy.unitedradio.it/VirginRockAlternative.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_india"
+    "country": "country_italy"
   }
-  ]
-  
+]
