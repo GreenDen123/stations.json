@@ -1,2266 +1,2962 @@
 [
   {
-    "id": "ita1",
-    "name": "Kiss Kiss Italia",
-    "streamUrl": "https://ice06.fluidstream.net/KKItalia.aac",
+    "id": "ng1",
+    "name": "Fresh 105.9 FM radio",
+    "streamUrl": "https://stream.zeno.fm/e9x2n97b9uduv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita2",
-    "name": "Radio Contact Italy",
-    "streamUrl": "https://stream.laut.fm/radiocontactitaly",
+    "id": "ng2",
+    "name": "Wazobia FM radio",
+    "streamUrl": "https://wazobiafmlagos951-atunwadigital.streamguys1.com/wazobiafmlagos951",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita3",
-    "name": "Chill Out Zone  Italy",
-    "streamUrl": "https://stream.laut.fm/chilloutzone",
+    "id": "ng3",
+    "name": "Cool FM, Lagos radio",
+    "streamUrl": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita4",
-    "name": "Latte Miele",
-    "streamUrl": "https://sr15.inmystream.it/stream/lattemiele",
+    "id": "ng4",
+    "name": "RCCG Radio",
+    "streamUrl": "https://listen.mixlr.com/341e0e7ec89b9839bfc2e3b580e4eed7",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita5",
-    "name": "Virgin Rock Classic",
-    "streamUrl": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+    "id": "ng5",
+    "name": "MAX 102.3 FM radio",
+    "streamUrl": "https://audiohq.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita6",
-    "name": "RTL",
-    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025",
+    "id": "ng6",
+    "name": "Nigeria Info radio",
+    "streamUrl": "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita7",
-    "name": "Funky Disco Radio",
-    "streamUrl": "https://stream.laut.fm/funkydiscoradio",
+    "id": "ng7",
+    "name": "Champion's Circle Radio",
+    "streamUrl": "https://stream.zeno.fm/tx4fu0qn11zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita8",
-    "name": "Classic House Music Radio Contact Italy",
-    "streamUrl": "https://stream.laut.fm/italiastyle",
+    "id": "ng8",
+    "name": "Gospotainment Radio",
+    "streamUrl": "https://radio.gotright.net/radio/8000/radio.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita9",
-    "name": "Radio Italia",
-    "streamUrl": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+    "id": "ng9",
+    "name": "Raypower Abuja radio",
+    "streamUrl": "https://streamlive2.hearthis.at:8000/9065169.ogg",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita10",
-    "name": "Lolliradio Italia",
-    "streamUrl": "https://stream.lolliradio.net/lolli_italia.mp3",
+    "id": "ng10",
+    "name": "Splash FM Ibadan radio",
+    "streamUrl": "https://edge.mixlr.com/channel/cfeki",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita11",
-    "name": "Octopus",
-    "streamUrl": "https://nr5.newradio.it/proxy/fterenzi?mp=/stream",
+    "id": "ng11",
+    "name": "The Beat 99.9 FM radio",
+    "streamUrl": "https://atunwapodcasts.com/player/beatfmlagos.html",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita12",
-    "name": "Subasio",
-    "streamUrl": "https://icy.unitedradio.it/Subasio.mp3",
+    "id": "ng12",
+    "name": "32 FM 94.9 radio",
+    "streamUrl": "https://edge.mixlr.com/channel/zbfuy",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita13",
-    "name": "RTL 102.5 Groove",
-    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-broandsis",
+    "id": "ng13",
+    "name": "Pidgin Radio",
+    "streamUrl": "https://stream.rcast.net/66702",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita14",
-    "name": "Dimensione Relax",
-    "streamUrl": "https://jenny.torontocast.com:2000/stream/dimensionerelax",
+    "id": "ng14",
+    "name": "Urban 96.5 FM radio",
+    "streamUrl": "https://stream.zeno.fm/md5m77hn0k0uv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita15",
-    "name": "Italia Dance Music",
-    "streamUrl": "https://sr2.inmystream.it:18032/stream",
+    "id": "ng15",
+    "name": "NAIJA FM radio",
+    "streamUrl": "https://atunwapodcasts.com/player/naijafmlagos.html",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita16",
-    "name": "Virgin Rock 70",
-    "streamUrl": "https://icy.unitedradio.it/VirginRock70.mp3",
+    "id": "ng16",
+    "name": "Lagos Talks 91.3 radio",
+    "streamUrl": "https://atunwapodcasts.com/player/lagostalks.html",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita17",
-    "name": "NATURE RADIO SLEEP",
-    "streamUrl": "https://mpc2.mediacp.eu/stream/natureradiosleep",
+    "id": "ng17",
+    "name": "Inspiration FM 92.3 radio",
+    "streamUrl": "https://servoserver.com.ng/ifmlagoslive/live.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita18",
-    "name": "RAI Radio 1",
-    "streamUrl": "https://icestreaming.rai.it/1.mp3",
+    "id": "ng18",
+    "name": "Liveway Radio",
+    "streamUrl": "https://radio.securenetsystems.net/cwa/index.cfm?stationCallSign=LIVEWAY",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita19",
-    "name": "Lolliradio Happy",
-    "streamUrl": "https://happy.lolliradio.net/stream",
+    "id": "ng19",
+    "name": "Freedom Radio, Kano",
+    "streamUrl": "https://stream.zeno.fm/t8bhnmek8mzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita20",
-    "name": "Lolliradio Oldies",
-    "streamUrl": "https://stream.lolliradio.net/lolli_oldies.mp3",
+    "id": "ng20",
+    "name": "Naija Hits FM radio",
+    "streamUrl": "https://stream.zeno.fm/thbqnu2wvmzuv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita21",
-    "name": "Dimensione Jazz",
-    "streamUrl": "https://mpc1.mediacp.eu/stream/dimensionejazz",
+    "id": "ng21",
+    "name": "Agidigbo 88.7 FM radio",
+    "streamUrl": "https://agidigbostream.com.ng/radio/8000/radio.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita22",
-    "name": "Lolliradio Dance",
-    "streamUrl": "https://stream.lolliradio.net/lolli_dance.mp3",
+    "id": "ng22",
+    "name": "Browd Networks radio",
+    "streamUrl": "https://stream.zenolive.com/7esunmea7f8uv.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita23",
-    "name": "Lolliradio Hits",
-    "streamUrl": "https://hits.lolliradio.net/stream",
+    "id": "ng23",
+    "name": "Lagelu FM 96.7 radio",
+    "streamUrl": "https://edge.mixlr.com/channel/wupzh",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita24",
-    "name": "Sportiva",
-    "streamUrl": "https://mediahit.inmystream.it:9000/stream",
+    "id": "ng24",
+    "name": "Magic FM 102.9 radio",
+    "streamUrl": "https://stream.galaxywebsolutions.com/proxy/magic1029fm?mp=/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita25",
-    "name": "Riviera Lounge",
-    "streamUrl": "https://stream.laut.fm/riviera-lounge-radio",
+    "id": "ng25",
+    "name": "Rhythm 93.7 FM Jos radio",
+    "streamUrl": "https://rhythmfmjos-atunwadigital.streamguys1.com/rhythmfmjos",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita26",
-    "name": "Mambo",
-    "streamUrl": "https://mambo.newradio.it/stream",
+    "id": "ng26",
+    "name": "234Radio radio",
+    "streamUrl": "https://streaming.radio.co/s7f3695a64/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita27",
-    "name": "RDS Relax",
-    "streamUrl": "https://icstream.rds.radio/rdsrelax",
+    "id": "ng27",
+    "name": "Today FM radio",
+    "streamUrl": "https://onlineradiobox.com/json/ng/todayfm/play?platform=web",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita28",
-    "name": "Radio Margherita Network",
-    "streamUrl": "https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio",
+    "id": "ng28",
+    "name": "Muallim Radio",
+    "streamUrl": "https://stream.zeno.fm/vv5mc53ffkeuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita29",
-    "name": "RDS - Radio Dimensione Suono",
-    "streamUrl": "https://icstream.rds.radio/rds_aac64",
+    "id": "ng29",
+    "name": "Vision FM radio",
+    "streamUrl": "https://stream.zeno.fm/92mxpb1akhruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita30",
-    "name": "105 - Dance 90",
-    "streamUrl": "https://icy.unitedradio.it/105Dance90.mp3",
+    "id": "ng30",
+    "name": "Gospel Fm Awka radio",
+    "streamUrl": "https://stream.zeno.fm/1b08xqds44zuv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita31",
-    "name": "Kiss Kiss",
-    "streamUrl": "https://ice07.fluidstream.net/KissKiss.aac",
+    "id": "ng31",
+    "name": "Cfaith Radio Network",
+    "streamUrl": "https://cfaith.radioca.st/stream/",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita32",
-    "name": "Virgin Radio",
-    "streamUrl": "https://icecast.unitedradio.it/Virgin.mp3",
+    "id": "ng32",
+    "name": "Fresh 107.9 FM radio",
+    "streamUrl": "https://stream.zeno.fm/7gs2681gqeruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita33",
-    "name": "Piterpan",
-    "streamUrl": "https://wma01.fluidstream.net/piterpan",
+    "id": "ng33",
+    "name": "Space FM radio",
+    "streamUrl": "https://stream.zeno.fm/79hmhafteg0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita34",
-    "name": "Radio 24",
-    "streamUrl": "https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8",
+    "id": "ng34",
+    "name": "Dala FM radio",
+    "streamUrl": "https://stream.zeno.fm/9zdvuszaanzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita35",
-    "name": "Antenna 1",
-    "streamUrl": "https://a1-it.newradio.it/stream?",
+    "id": "ng35",
+    "name": "CLASSIC FM radio",
+    "streamUrl": "https://atunwapodcasts.com/player/classicfmabuja.html",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_jazz",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita36",
-    "name": "CAFE ROMA LOUNGE",
-    "streamUrl": "https://jenny.torontocast.com:2000/stream/caferomalounge",
+    "id": "ng36",
+    "name": "AmenRadio radio",
+    "streamUrl": "https://eu3.fastcast4u.com/proxy/amenradi?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita37",
-    "name": "Station Italy",
-    "streamUrl": "https://stationitaly.stream.laut.fm/stationitaly?t302=2020-04-23_02-12-50&uuid=94ab5306-d6a5-40de-ba3f-bd45195b082b",
+    "id": "ng37",
+    "name": "Non Stop Music Channel radio",
+    "streamUrl": "https://stream.radio.co/s79798a252/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita38",
-    "name": "Cube Radio Show",
-    "streamUrl": "https://stream.zeno.fm/psq9nrwdqm0uv",
+    "id": "ng38",
+    "name": "OSBC 104.5FM radio",
+    "streamUrl": "https://stream.zeno.fm/n6ayvhpwpfhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita39",
-    "name": "Monte Carlo / RMC 1 - Music Star Pino Daniele",
-    "streamUrl": "https://icy.unitedradio.it/Daniele.mp3",
+    "id": "ng39",
+    "name": "Liberty Radio 91.7 FM",
+    "streamUrl": "https://stream.zenolive.com/sh70ask7da5tv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita40",
-    "name": "Discoradio",
-    "streamUrl": "https://icstream.rds.radio/disco_aac64",
+    "id": "ng40",
+    "name": "Fresh 106.9 FM radio",
+    "streamUrl": "https://stream.zeno.fm/4qmtcx9an0quv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita41",
-    "name": "Radio Ibiza",
-    "streamUrl": "https://wma08.fluidstream.net:8080/ibiza.aac",
+    "id": "ng41",
+    "name": "Noble FM Ibadan radio",
+    "streamUrl": "https://stream.zenolive.com/ysuxkw05e4duv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita42",
-    "name": "Balla Balla FM",
-    "streamUrl": "https://ice15.fluidstream.net/ballaballa.aac",
+    "id": "ng42",
+    "name": "Rhythm FM Abuja radio",
+    "streamUrl": "https://stream.zeno.fm/t3gd80gzfs8uv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita43",
-    "name": "R101",
-    "streamUrl": "https://icecast.unitedradio.it/r101",
+    "id": "ng43",
+    "name": "Lagoon Radio",
+    "streamUrl": "https://streams.radio.co/s704a86cbe/listen?hash=1571325825949.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_relax",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita44",
-    "name": "Virgin Hard Rock",
-    "streamUrl": "https://icy.unitedradio.it/VirginHardRock.mp3",
+    "id": "ng44",
+    "name": "ABS Awka radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4531706_SC?dist=onlineradiobox",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita45",
-    "name": "Azzurra",
-    "streamUrl": "https://radioazzurra.stream.laut.fm/radioazzurra?t302=2020-04-23_02-15-22&uuid=6ff14a5d-3c64-4edc-92bb-39f5e39f3ba8",
+    "id": "ng45",
+    "name": "Oluyole FM radio",
+    "streamUrl": "https://servostream.com.ng/bcos",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita46",
-    "name": "Virgin Rock 80",
-    "streamUrl": "https://icy.unitedradio.it/VirginRock80.mp3",
+    "id": "ng46",
+    "name": "Sports Radio Brila FM",
+    "streamUrl": "https://radio.securenetsystems.net/cirruscontent/BRILAMP3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita47",
-    "name": "Centro Campania",
-    "streamUrl": "https://eu7.fastcast4u.com/proxy/rcc0?mp=/1",
+    "id": "ng47",
+    "name": "Xclusive Gospel radio",
+    "streamUrl": "https://eu9.fastcast4u.com/proxy/vzzclayg?mp=/1",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita48",
-    "name": "Zeta",
-    "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta",
+    "id": "ng48",
+    "name": "Kapital FM radio",
+    "streamUrl": "https://radionghq.radioca.st/stream.mp3?_=1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita49",
-    "name": "Canale Italia",
-    "streamUrl": "https://rci.canaleitalia.tv:8007/",
+    "id": "ng49",
+    "name": "Kabiesi Radio",
+    "streamUrl": "https://stream.zeno.fm/2z28rbvndkeuv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita50",
-    "name": "Radio Buenos Aires",
-    "streamUrl": "https://shoutcast2.streamingmedia.it/proxy/rba?mp=/stream",
+    "id": "ng50",
+    "name": "BabaRadio radio",
+    "streamUrl": "https://stream.zeno.fm/v2tmu4q4pf9uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita51",
-    "name": "Studio Dance",
-    "streamUrl": "https://studiodance.stream.laut.fm/studiodance?t302=2020-04-23_02-01-43&uuid=7ff0078b-e9c0-4a9f-bf8e-d1436d2a0ab5",
+    "id": "ng51",
+    "name": "Radio Benue Makurdi radio",
+    "streamUrl": "https://edge.mixlr.com/channel/hpyne",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita52",
-    "name": "RTL 102.5 Cool",
-    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet",
+    "id": "ng52",
+    "name": "UNIMED Radio",
+    "streamUrl": "https://unimedradio.radioca.st/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita53",
-    "name": "radiolovedance",
-    "streamUrl": "https://stream.zeno.fm/ka3yt7gu40duv",
+    "id": "ng53",
+    "name": "Africa Business Radio",
+    "streamUrl": "https://c15.radioboss.fm:8111/africabusinessradio",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita54",
-    "name": "Virgin Rock Hits",
-    "streamUrl": "https://icy.unitedradio.it/VirginRockHits.mp3",
+    "id": "ng54",
+    "name": "LagosJump Radio",
+    "streamUrl": "https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita55",
-    "name": "105 Hip Hop & R'n'B",
-    "streamUrl": "https://icy.unitedradio.it/105HipHopRnB.mp3",
+    "id": "ng55",
+    "name": "City Radio 89.7FM",
+    "streamUrl": "https://stream.zeno.fm/1rtopmpcmdqvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita56",
-    "name": "Rai Radio Classica",
-    "streamUrl": "https://icestreaming.rai.it/5.mp3",
+    "id": "ng56",
+    "name": "NGM Radio (Nigerian Gospel Music Radio)",
+    "streamUrl": "https://stream.zenolive.com/3fmqr74a7f8uv.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita57",
-    "name": "105 Music Star Vasco",
-    "streamUrl": "https://icy.unitedradio.it/Vasco.mp3",
+    "id": "ng57",
+    "name": "Kaakaki Radio",
+    "streamUrl": "https://stream.zeno.fm/fgetssyp7yzuv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita58",
-    "name": "DUBAI LOUNGE",
-    "streamUrl": "https://mpc1.mediacp.eu/stream/dubailoungeradio",
+    "id": "ng58",
+    "name": "Inspiration FM Ibadan radio",
+    "streamUrl": "https://servoserver.com.ng/ifmibadanlive/live.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita59",
-    "name": "Top Italia Radio",
-    "streamUrl": "https://streaming.cst98.com/tir.php",
+    "id": "ng59",
+    "name": "Broadcasting Corporation of Abia (BCA) radio",
+    "streamUrl": "https://broadcas.radioca.st/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita60",
-    "name": "Radio Monte Carlo",
-    "streamUrl": "https://icecast.unitedradio.it/RMC.mp3",
+    "id": "ng60",
+    "name": "Golden FM radio",
+    "streamUrl": "https://s2.radio.co/se100828ec/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita61",
-    "name": "RTL 102.5 Classic",
-    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-best",
+    "id": "ng61",
+    "name": "Roots 97.1 FM radio",
+    "streamUrl": "https://stream.zeno.fm/u79akfp7khruv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita62",
-    "name": "RDT Radio Station",
-    "streamUrl": "https://sr11.inmystream.it:8026/stream",
+    "id": "ng62",
+    "name": "AllBaze Radio",
+    "streamUrl": "https://allbaze.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita63",
-    "name": "Forever 80",
-    "streamUrl": "https://stream.laut.fm/forever80",
+    "id": "ng63",
+    "name": "RCCG LP 36 Jesus House Radio",
+    "streamUrl": "https://azura.shoutca.st/radio/8590/jhse.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita64",
-    "name": "Lolliradio Soft",
-    "streamUrl": "https://stream.lolliradio.net/lolli_soft.mp3",
+    "id": "ng64",
+    "name": "ASKiNG Radio SPEED FM",
+    "streamUrl": "https://streaming.radio.co/sd40f8a678/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita65",
-    "name": "Subasio +",
-    "streamUrl": "https://icy.unitedradio.it/SubasioPiu.mp3",
+    "id": "ng65",
+    "name": "Mount Zion Radio Ibadan",
+    "streamUrl": "https://stream.zeno.fm/rn15yk41v7zuv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita66",
-    "name": "Rock",
-    "streamUrl": "https://rrock.fluidstream.eu/radiorock.aac",
+    "id": "ng66",
+    "name": "Gospel FM Nigeria radio",
+    "streamUrl": "https://stream.zenolive.com/yf8tq5mc7f8uv.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita67",
-    "name": "RMC 1 - Music Star George Michael",
-    "streamUrl": "https://icy.unitedradio.it/MusicStarPrince.mp3",
+    "id": "ng67",
+    "name": "Wellsradio radio",
+    "streamUrl": "https://servidor29.brlogic.com:7034/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita68",
-    "name": "Rai Radio Tutta Italiana",
-    "streamUrl": "https://icestreaming.rai.it/4.mp3",
+    "id": "ng68",
+    "name": "Odenigbo 99.1 fm Obosi radio",
+    "streamUrl": "https://stream.zeno.fm/rx197cbviawvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita69",
-    "name": "Capital Funky Town",
-    "streamUrl": "https://streamcdnm8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8",
+    "id": "ng69",
+    "name": "Outstanding Radio",
+    "streamUrl": "https://stream.zeno.fm/aafdwnvhzchvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita70",
-    "name": "Studio Piu",
-    "streamUrl": "https://ice.studiopiu.net/rete.aac",
+    "id": "ng70",
+    "name": "City FM 105.1 radio",
+    "streamUrl": "https://mixlr.com/city1051fm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita71",
-    "name": "STEREO Carpi",
-    "streamUrl": "https://stereo.stream.laut.fm/stereo?t302=2020-04-23_02-02-00&uuid=b23934ed-b429-42d5-a246-c35968a8ada1",
+    "id": "ng71",
+    "name": "Rockcity FM radio",
+    "streamUrl": "https://stream.zeno.fm/g6qax5vq0v8uv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_rock",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita72",
-    "name": "PMR- Playermusicradio",
-    "streamUrl": "https://playermusicradio.stream.laut.fm/playermusicradio?t302=2020-04-23_06-53-40&uuid=3769db93-0be1-4c5e-9c26-c3a3b396b82a",
+    "id": "ng72",
+    "name": "Purity 102.5 Fm radio",
+    "streamUrl": "https://stream.zeno.fm/4k0bcfbs44zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita73",
-    "name": "Gamma Radio",
-    "streamUrl": "https://sr15.inmystream.it:8008/stream",
+    "id": "ng73",
+    "name": "Uniosun Fm radio",
+    "streamUrl": "https://streamingV2.shoutcast.com/UniosunFm",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_kids",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita74",
-    "name": "Power Station Italy",
-    "streamUrl": "https://powerstationitaly.stream.laut.fm/powerstationitaly",
+    "id": "ng74",
+    "name": "Living Word Media Radio",
+    "streamUrl": "https://livingwordmedia.radioca.st/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita75",
-    "name": "Kiss Kiss History Hits",
-    "streamUrl": "https://ice08.fluidstream.net/kk_history.aac",
+    "id": "ng75",
+    "name": "Apala Radio",
+    "streamUrl": "https://stream.zeno.fm/fqcszwwxra0uv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita76",
-    "name": "Capital - Classic Rock",
-    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8",
+    "id": "ng76",
+    "name": "LokalFM radio",
+    "streamUrl": "https://tonydoem.radioca.st/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita77",
-    "name": "emmeradio web station",
-    "streamUrl": "https://cast.server89.com:8100/radio.mp3",
+    "id": "ng77",
+    "name": "Flo FM radio",
+    "streamUrl": "https://stream.zeno.fm/gbxh4dbskeruv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_italy"
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng78",
+    "name": "Youth Alive Radio",
+    "streamUrl": "https://stream.zeno.fm/2vakg1ggbm0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng79",
+    "name": "Sinach Radio",
+    "streamUrl": "https://stream.zeno.fm/pt50hp3upv8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita78",
-    "name": "Firenze",
-    "streamUrl": "https://onair11.xdevel.com/proxy/sc_firen?mp=/stream",
+    "id": "ng80",
+    "name": "Orange Fm radio",
+    "streamUrl": "https://stream.zeno.fm/1pewbmv6whruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita79",
-    "name": "Lady",
-    "streamUrl": "https://ice05.fluidstream.net:80/fluid0507.mp3",
+    "id": "ng81",
+    "name": "Crest 87.7 FM radio",
+    "streamUrl": "https://stream.zeno.fm/9cgtkwg3teruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita80",
-    "name": "Virgin Rock Party",
-    "streamUrl": "https://icy.unitedradio.it/VirginRockParty.mp3",
+    "id": "ng82",
+    "name": "LivingWater Radio",
+    "streamUrl": "https://puma.streemlion.com:1795/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita81",
-    "name": "Virgin Radio Music Star Coldplay",
-    "streamUrl": "https://icy.unitedradio.it/ColdPlay.mp3",
+    "id": "ng83",
+    "name": "FISHFM radio",
+    "streamUrl": "https://stream.zeno.fm/wc0pn89gv6duv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita82",
-    "name": "Forever 90",
-    "streamUrl": "https://stream.laut.fm/forever90",
+    "id": "ng84",
+    "name": "Splash 106.7 FM radio",
+    "streamUrl": "https://edge.mixlr.com/channel/vqisa",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng85",
+    "name": "Apostolic Flame Radio",
+    "streamUrl": "https://hoth.alonhosting.com:1695/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita83",
-    "name": "Forever Rock",
-    "streamUrl": "https://stream.laut.fm/foreverrock",
+    "id": "ng86",
+    "name": "Awoko Radio",
+    "streamUrl": "https://stream.zeno.fm/tqq99en94v8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng87",
+    "name": "BOX : Afrofusion Naija radio",
+    "streamUrl": "https://ss-edge.joeycast.com/naija.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng88",
+    "name": "Royal Roots 92.9FM radio",
+    "streamUrl": "https://stream.zeno.fm/3kqutkg3s6vtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng89",
+    "name": "Kwenu Radio",
+    "streamUrl": "https://stream.zeno.fm/4zc2xh1z9f8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita84",
-    "name": "Roma Capitale",
-    "streamUrl": "https://icecast.ithost.it/radioromacapitale.ogg",
+    "id": "ng90",
+    "name": "Ajisbi Oyo Radio",
+    "streamUrl": "https://stream.zeno.fm/v3geyw3zrzzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita85",
-    "name": "A Sleep Natural Mind",
-    "streamUrl": "https://listen.openstream.co/6389/audio",
+    "id": "ng91",
+    "name": "O Fm 92.5 Ilorin radio",
+    "streamUrl": "https://s5.myradiostream.com:42956/listen.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita86",
-    "name": "105 - MUSIC STAR Jovanotti",
-    "streamUrl": "https://icy.unitedradio.it/Jovanotti.mp3",
+    "id": "ng92",
+    "name": "Sdb Live Radio",
+    "streamUrl": "https://panel.sdblive.com:6457/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita87",
-    "name": "Easy Network",
-    "streamUrl": "https://sphera.fluidstream.eu/easy.mp3",
+    "id": "ng93",
+    "name": "Family Love 97.7 FM radio",
+    "streamUrl": "https://stream13.shoutcastsolutions.com/proxy/phlovefm?mp=/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng94",
+    "name": "Upfull Reggae Radio",
+    "streamUrl": "https://stream.zeno.fm/q6n96gfy398uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita88",
-    "name": "Forever 80 pop",
-    "streamUrl": "https://stream.laut.fm/forever80-pop",
+    "id": "ng95",
+    "name": "Adamimogo FM radio",
+    "streamUrl": "https://stream.zeno.fm/sywy4vua6zhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita89",
-    "name": "RTR99 - Radio Ti Ricordi",
-    "streamUrl": "https://rtr99.newradio.it/stream",
+    "id": "ng96",
+    "name": "FayaTic Radio",
+    "streamUrl": "https://stream.zenolive.com/dvqg9y8s7k0uv.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng97",
+    "name": "Krucial Reggae Radio",
+    "streamUrl": "https://stream.zeno.fm/g8wkbpm3mceuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita90",
-    "name": "Studio One",
-    "streamUrl": "https://stream.rcast.net/63600",
+    "id": "ng98",
+    "name": "WiGRadio radio",
+    "streamUrl": "https://stream.zeno.fm/k4w8hv26nzzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng99",
+    "name": "Bliss Radio",
+    "streamUrl": "https://stream.zeno.fm/ty5h0ecgka0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita91",
-    "name": "Radio Freccia",
-    "streamUrl": "https://streamingv2.shoutcast.com/radiofreccia",
+    "id": "ng100",
+    "name": "Family FM 88.5 radio",
+    "streamUrl": "https://s12.myradiostream.com:17286/listen.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita92",
-    "name": "Italia Anni'60",
-    "streamUrl": "https://str01.fluidstream.net/anni60.mp3",
+    "id": "ng101",
+    "name": "Positive FM 102.5 radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/positive?mp=/1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng102",
+    "name": "AbujaTalk radio",
+    "streamUrl": "https://stream.zeno.fm/054seb2cwg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita93",
-    "name": "Number One",
-    "streamUrl": "https://str12.fluidstream.net/rn1.aac",
+    "id": "ng103",
+    "name": "iPLAY Radio",
+    "streamUrl": "https://stream.zeno.fm/5nrvuy1uawzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita94",
-    "name": "Radiospazioweb",
-    "streamUrl": "https://stream.zeno.fm/hsn78gsdk5zuv",
+    "id": "ng104",
+    "name": "Amplified Radio",
+    "streamUrl": "https://s3.radio.co/sbc1dd80c3/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng105",
+    "name": "Old Time Faith Radio",
+    "streamUrl": "https://stream.zeno.fm/3q39f7wy2a0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita95",
-    "name": "Evangelo Piemonte",
-    "streamUrl": "https://dreamsiteradiocp3.com/proxy/radioevangelo?mp=/stream",
+    "id": "ng106",
+    "name": "Proclaim Radio",
+    "streamUrl": "https://stream.zeno.fm/00c13r9451zuv",
     "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng107",
+    "name": "Pep 100.3 FM radio",
+    "streamUrl": "https://stream.zeno.fm/pnsnh6ffh5zuv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita96",
-    "name": "Millenote",
-    "streamUrl": "https://str04.fluidstream.net/millenote.mp3",
+    "id": "ng108",
+    "name": "Radio Igbala radio",
+    "streamUrl": "https://streamserver.1box.network/radio/8050/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng109",
+    "name": "Glory Vibes Radio",
+    "streamUrl": "https://stream.zeno.fm/0qdz39e47zhvv.acc",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng110",
+    "name": "Gilgal Radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/greatlord365?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita97",
-    "name": "105 Zoo Radio",
-    "streamUrl": "https://icy.unitedradio.it/105Zoo.mp3",
+    "id": "ng111",
+    "name": "Okin 105.7 fm radio",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/okin/okinfm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita98",
-    "name": "Italia Anni'60",
-    "streamUrl": "https://ice04.fluidstream.net/ria60_bo.mp3",
+    "id": "ng112",
+    "name": "TGz Africa Radio",
+    "streamUrl": "https://stream.zeno.fm/1bhcy85shy8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita99",
-    "name": "BMradio",
-    "streamUrl": "https://bmradio.radioca.st/stream",
+    "id": "ng113",
+    "name": "Richieart fm radio",
+    "streamUrl": "https://stream.zeno.fm/xd23vgqdcm0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita100",
-    "name": "Solo Canzoni Napoletane",
-    "streamUrl": "https://solocanzoninapoletane.streamingmedia.it/canzoninapoletane.mp3",
+    "id": "ng114",
+    "name": "Soccerhub FM radio",
+    "streamUrl": "https://stream.zeno.fm/rm4dvy3dtwzuv",
     "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng115",
+    "name": "KCity Radio",
+    "streamUrl": "https://radio.gotright.net/radio/8010/radio.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita101",
-    "name": "Studio 90 Italia",
-    "streamUrl": "https://sr14.inmystream.it/stream/radiostudio90320k",
+    "id": "ng116",
+    "name": "Vibing radio",
+    "streamUrl": "https://s3.radio.co/s30fe5effe/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng117",
+    "name": "Uniojukwu 106.1 fm radio",
+    "streamUrl": "https://stream.zeno.fm/pzhpdbvn54zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita102",
-    "name": "Radio Cuore (Sicilia)",
-    "streamUrl": "https://onair20.xdevel.com/proxy/radiosportiva?mp=/stream",
+    "id": "ng118",
+    "name": "Ibile9jaradio radio",
+    "streamUrl": "https://stream.zeno.fm/fwf7kd6qvs8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita103",
-    "name": "Company",
-    "streamUrl": "https://sphera.fluidstream.eu/company.mp3",
+    "id": "ng119",
+    "name": "DVC Radio",
+    "streamUrl": "https://stream.zeno.fm/9dxhc51w0nhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita104",
-    "name": "Sardinia",
-    "streamUrl": "https://s6.mediastreaming.it/m/7004",
+    "id": "ng120",
+    "name": "Reel Radio",
+    "streamUrl": "https://stream.zeno.fm/jekfyg6ctgftv.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng121",
+    "name": "Pulse radio",
+    "streamUrl": "https://stream.zeno.fm/2756wffzs4zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita105",
-    "name": "Italia Anni'60",
-    "streamUrl": "https://ice04.fluidstream.net/ria60_ba.mp3",
+    "id": "ng122",
+    "name": "Diligent Entrepreneurship Radio",
+    "streamUrl": "https://stream.zeno.fm/qqpquey0xwzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita106",
-    "name": "Radio Studio Italia",
-    "streamUrl": "https://live.radiostudioitalia.it:8000/stream",
+    "id": "ng123",
+    "name": "9jatalk Radio",
+    "streamUrl": "https://stream.zeno.fm/rrwazx86xa0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita107",
-    "name": "Indie Italia International Network",
-    "streamUrl": "https://stream.zeno.fm/ac7maz3tpwzuv",
+    "id": "ng124",
+    "name": "Africa Music Radio",
+    "streamUrl": "https://stream.zeno.fm/g6dyy3p37p8uv",
     "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng125",
+    "name": "Radio East radio",
+    "streamUrl": "https://stream.zeno.fm/7f4w4us5wp8uv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng126",
+    "name": "Osumare FM radio",
+    "streamUrl": "https://stream.zeno.fm/c380brkz81zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita108",
-    "name": "CLASSIC HITS anni 70 80 90",
-    "streamUrl": "https://classichitsradio.streamingmedia.it/play",
+    "id": "ng127",
+    "name": "inisa fm radio",
+    "streamUrl": "https://stream.zeno.fm/50hfy18mwxhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng128",
+    "name": "Ogene fm radio",
+    "streamUrl": "https://stream.zeno.fm/50rvg02afc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita109",
-    "name": "Telesia FM",
-    "streamUrl": "https://primastream.it/8545",
+    "id": "ng129",
+    "name": "District FM radio",
+    "streamUrl": "https://radio.innocentmichael.com:1295/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita110",
-    "name": "105 - Rap Italia",
-    "streamUrl": "https://icy.unitedradio.it/105RapItalia.mp3",
+    "id": "ng130",
+    "name": "Dexterity Media FM radio",
+    "streamUrl": "https://stream.zeno.fm/rp7z5vzpyd0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita111",
-    "name": "Tandem",
-    "streamUrl": "https://cloud.radiotandem.it/radio",
+    "id": "ng131",
+    "name": "The Pm Radio",
+    "streamUrl": "https://stream.zeno.fm/y0vppv39qs8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita112",
-    "name": "RADIO DIGITALIA Ricordi",
-    "streamUrl": "https://stream.laut.fm/radiodigitalia-ricordi",
+    "id": "ng132",
+    "name": "The Fushys Radio",
+    "streamUrl": "https://stream.zeno.fm/7hpwpqyk4f8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita113",
-    "name": "105 - In Da Klubb",
-    "streamUrl": "https://icy.unitedradio.it/105InDaKlubb.mp3",
+    "id": "ng133",
+    "name": "Worshipculture Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3438181.mp3?dist=onlineradiobox",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita114",
-    "name": "laut.fm / house-nation",
-    "streamUrl": "https://house-nation.stream.laut.fm/house-nation?t302=2020-04-23_15-07-13&uuid=d45d56af-8d71-4dac-830d-fccb42721700",
+    "id": "ng134",
+    "name": "Unilag Radio 103.1fm",
+    "streamUrl": "https://stream.zeno.fm/w68a71f8568uv",
     "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng135",
+    "name": "Naijafans Radio",
+    "streamUrl": "https://cast2.asurahosting.com/proxy/naijafan/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita115",
-    "name": "Padova",
-    "streamUrl": "https://sphera.fluidstream.eu/rpd.mp3",
+    "id": "ng136",
+    "name": "Dear Oma Netwok radio",
+    "streamUrl": "https://stream.zeno.fm/vx4y404zumzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita116",
-    "name": "Radio Cuore",
-    "streamUrl": "https://mediahit.inmystream.it:9001/stream2",
+    "id": "ng137",
+    "name": "KSA Radio",
+    "streamUrl": "https://cast1.asurahosting.com/proxy/ogunsanm/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita117",
-    "name": "Radio Stereo 98",
-    "streamUrl": "https://sr2.inmystream.it/proxy/pizzaemandolino/stream",
+    "id": "ng138",
+    "name": "Pensioners 106.7 FM radio",
+    "streamUrl": "https://stream.zeno.fm/ekcufbmq9mruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng139",
+    "name": "Inform Me Radio",
+    "streamUrl": "https://stream.zeno.fm/ta1fke6sz1zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita118",
-    "name": "Capital Music",
-    "streamUrl": "https://streamcdnm3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/live.m3u8",
+    "id": "ng140",
+    "name": "GanGan Radio",
+    "streamUrl": "https://stream.zeno.fm/9reuhyz8up8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng141",
+    "name": "Dominion Radio, Lagos",
+    "streamUrl": "https://stream.zeno.fm/dkwex2g4pa0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita119",
-    "name": "Radio Time 90",
-    "streamUrl": "https://stream3.xdevel.com/audio1s975521-192/stream/icecast.audio",
+    "id": "ng142",
+    "name": "AIM FM RADIO TV",
+    "streamUrl": "https://aimfmnigeria.radioca.st/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita120",
-    "name": "Radio Battikuore",
-    "streamUrl": "https://nr6.newradio.it/proxy/mtiziano?mp=/?ext=.mp3",
+    "id": "ng143",
+    "name": "Salt Radio Ibadan",
+    "streamUrl": "https://stream.zeno.fm/n0zwrycu79duv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita121",
-    "name": "Edoardo",
-    "streamUrl": "https://shoutcast2.streamingmedia.it/proxy/7080nonstop?mp=%2Fstream.mp3&_=1",
+    "id": "ng144",
+    "name": "Joli Fm radio",
+    "streamUrl": "https://kontro.socastin.com:1445/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng145",
+    "name": "Yabatech Radio",
+    "streamUrl": "https://stream.brainioustech.com/radio/8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita122",
-    "name": "1Station Radio",
-    "streamUrl": "https://stream5.xdevel.com/audio1s975854-414/stream/icecast.audio",
+    "id": "ng146",
+    "name": "Super 93.3 FM radio",
+    "streamUrl": "https://radio.superfm963.com/proxy/superfmph2/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita123",
-    "name": "Voce della Speranza",
-    "streamUrl": "https://stream.radiorvs.it/rvs.it",
+    "id": "ng147",
+    "name": "88.5 UFM radio",
+    "streamUrl": "https://edge.mixlr.com/channel/adqkd",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng148",
+    "name": "Gospel Store radio",
+    "streamUrl": "https://ifastekpanel.com:1535/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita124",
-    "name": "LifeGate Radio",
-    "streamUrl": "https://router.xdevel.com/audio0s975809-345/stream/icecast.audio",
+    "id": "ng149",
+    "name": "TMMN Radio",
+    "streamUrl": "https://stream.zeno.fm/u91kuskz81zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita125",
-    "name": "Radio Popolare",
-    "streamUrl": "https://livex.radiopopolare.it/radiopop2",
+    "id": "ng150",
+    "name": "GVBN Radio Igem Radio",
+    "streamUrl": "https://stream.zeno.fm/bzgg1f142mzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita126",
-    "name": "Power Station",
-    "streamUrl": "https://radiopowerstation.stream.laut.fm/radiopowerstation?t302=2020-04-23_10-28-10&uuid=ee354f6c-1bcf-4b7f-84f5-ccd705d77b80",
+    "id": "ng151",
+    "name": "Alaafins Radio",
+    "streamUrl": "https://stream.zeno.fm/vts7tvdz7k0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita127",
-    "name": "Energy",
-    "streamUrl": "https://gmusto.radioca.st/mp3",
+    "id": "ng152",
+    "name": "Primus Radio Nigeria",
+    "streamUrl": "https://stream.zeno.fm/eusvsa1prp8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita128",
-    "name": "R101 Enjoy The Music",
-    "streamUrl": "https://icy.unitedradio.it/101Legend.mp3",
+    "id": "ng153",
+    "name": "Al-Salaam Radio NG",
+    "streamUrl": "https://stream.zeno.fm/439vzu4c6f8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita129",
-    "name": "Skylab Energy",
-    "streamUrl": "https://skylabfm-skylab.radioca.st/",
+    "id": "ng154",
+    "name": "Rap Radio Africa",
+    "streamUrl": "https://s5.radio.co/sa433fcfd3/listen",
     "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng155",
+    "name": "LifeShift Radio",
+    "streamUrl": "https://stream.zeno.fm/yh91bda19f8uv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita130",
-    "name": "RADIO DIGITALIA Musica-Italiana",
-    "streamUrl": "https://stream.laut.fm/radiodigitalia-musicaitaliana",
+    "id": "ng156",
+    "name": "Beatng radio",
+    "streamUrl": "https://s5.voscast.com:9157/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita131",
-    "name": "Rv1-SuperHIT",
-    "streamUrl": "https://stream.laut.fm/rv1-superhit",
+    "id": "ng157",
+    "name": "FreeSmoke Radio",
+    "streamUrl": "https://stream.zeno.fm/0n1539mmpm0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita132",
-    "name": "Classica Bresciana",
-    "streamUrl": "https://ice15.fluidstream.net/classicabresciana.aac",
+    "id": "ng158",
+    "name": "Correct FM Kaduna radio",
+    "streamUrl": "https://stream.zeno.fm/7yysag65kfhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita133",
-    "name": "Base",
-    "streamUrl": "https://str01.fluidstream.net/rpd.aac",
+    "id": "ng159",
+    "name": "AudioHouse Radio",
+    "streamUrl": "https://stream.zeno.fm/rx7u42dsfzzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita134",
-    "name": "Carbonia International",
-    "streamUrl": "https://sr2.inmystream.it:18006/stream",
+    "id": "ng160",
+    "name": "Digits 1024 Radio",
+    "streamUrl": "https://digits1024radio1.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng161",
+    "name": "NPFL Radio",
+    "streamUrl": "https://stream.zeno.fm/4xbbk1qyrf9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng162",
+    "name": "Soul Winners Radio",
+    "streamUrl": "https://stream.zeno.fm/x0pd24u9kg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng163",
+    "name": "RCCG CRP6 Radio",
+    "streamUrl": "https://freeus5.listen2myradio.com/live.mp3?typeportmount=s1_34931_streamstream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng164",
+    "name": "Edifice Radio",
+    "streamUrl": "https://stream.zeno.fm/qqfc65q1gd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng165",
+    "name": "Aloore Radio Oyo State",
+    "streamUrl": "https://stream.zeno.fm/0zmegeqw6hhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita135",
-    "name": "Abruzzo Marche",
-    "streamUrl": "https://s1.forstream.it:8040/stream",
+    "id": "ng166",
+    "name": "Inspiration radio",
+    "streamUrl": "https://stream.zenolive.com/by3n4vbb7f8uv.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita136",
-    "name": "Company Campania",
-    "streamUrl": "https://ice04.fluidstream.net/fluid0403.mp3",
+    "id": "ng167",
+    "name": "Redlight Online Radio",
+    "streamUrl": "https://stream.zeno.fm/07ux8e8edd0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita137",
-    "name": "Radio Club 91",
-    "streamUrl": "https://onair22.xdevel.com/proxy/radioclub91?mp=/stream/",
+    "id": "ng168",
+    "name": "Gospel Telegraph Radio",
+    "streamUrl": "https://stream.zeno.fm/grk855w3yp8uv",
     "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng169",
+    "name": "Yesma Radio",
+    "streamUrl": "https://stream.zeno.fm/be3uxnr067zuv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita138",
-    "name": "Kiss Kiss Sanremo Story",
-    "streamUrl": "https://ice08.fluidstream.net/kk_sanremo.mp3",
+    "id": "ng170",
+    "name": "1Radio International radio",
+    "streamUrl": "https://ams1.reliastream.com/proxy/mstudio7?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita139",
-    "name": "SorRriso",
-    "streamUrl": "https://ice02.fluidstream.net/sorriso.mp3",
+    "id": "ng171",
+    "name": "Tnm Radio Nigeria",
+    "streamUrl": "https://stream.zeno.fm/u4bw96m081zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng172",
+    "name": "Ogo Yoruba Radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/ogoyorubaradio?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng173",
+    "name": "Shining Light Christian Radio",
+    "streamUrl": "https://stream.zeno.fm/8a1n2pveys8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita140",
-    "name": "Radio Luna",
-    "streamUrl": "https://nr8.newradio.it/proxy/rmg?mp=/?ext=.mp3",
+    "id": "ng174",
+    "name": "Complete Impact Radio",
+    "streamUrl": "https://stream.zeno.fm/5bde964swk8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita141",
-    "name": "RCS Network Story",
-    "streamUrl": "https://ice12.fluidstream.net/fluid1202.mp3",
+    "id": "ng175",
+    "name": "BMC Radio Ile-Oluji",
+    "streamUrl": "https://stream.zeno.fm/nbryaaxbdm0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita142",
-    "name": "Radio Freak",
-    "streamUrl": "https://stream5.xdevel.com/audio1s975753-314/stream/icecast.audio",
+    "id": "ng176",
+    "name": "Majesty Radio",
+    "streamUrl": "https://stream.zeno.fm/2hbm82g7af9uv",
     "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng177",
+    "name": "Borno FM radio",
+    "streamUrl": "https://stream.zeno.fm/px5k346357zuv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng178",
+    "name": "Bleezzer Music FM radio",
+    "streamUrl": "https://bleezzermusic.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng179",
+    "name": "Naijatastic Radio",
+    "streamUrl": "https://naijatastic.stream.laut.fm/naijatastic",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng180",
+    "name": "Isokan Omo Oodua Ibadan radio",
+    "streamUrl": "https://stream.zeno.fm/gz4499gacshvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita143",
-    "name": "Funky Corner Radio",
-    "streamUrl": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+    "id": "ng181",
+    "name": "Air Radio",
+    "streamUrl": "https://stream.zeno.fm/59fxeamhw98uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng182",
+    "name": "RCCG Jesus House Radio Station Channel 2",
+    "streamUrl": "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=9268&type=s1",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita144",
-    "name": "Gemini FM",
-    "streamUrl": "https://nrf1.newradio.it:10236/stream",
+    "id": "ng183",
+    "name": "The Coded Radio Station",
+    "streamUrl": "https://stream.zeno.fm/6ukexvkz6k0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita145",
-    "name": "Ram Power Radio",
-    "streamUrl": "https://icstream.rds.radio/ram",
+    "id": "ng184",
+    "name": "Otitolagba Radio",
+    "streamUrl": "https://stream.zeno.fm/8n5tyfhnsuhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita146",
-    "name": "Happy Radio Italia",
-    "streamUrl": "https://cast3.server89.com:8210/radio.mp3",
+    "id": "ng185",
+    "name": "OECS Online Radio",
+    "streamUrl": "https://oecsonlineradio.radioca.st/stream1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita147",
-    "name": "Toscana Classica",
-    "streamUrl": "https://stream.retetoscanaclassica.it:8443/source",
+    "id": "ng186",
+    "name": "Zunes Radio",
+    "streamUrl": "https://stream.zeno.fm/7vfrddbzvhhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng187",
+    "name": "Rock Radio Ibadan",
+    "streamUrl": "https://stream.zeno.fm/z5h37k39wnhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita148",
-    "name": "RCS Network",
-    "streamUrl": "https://ice12.fluidstream.net/fluid1201.mp3",
+    "id": "ng188",
+    "name": "Yes FM 101.7 radio",
+    "streamUrl": "https://stream.zeno.fm/kqgbf9g3mfhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita149",
-    "name": "RAI Isoradio",
-    "streamUrl": "https://icestreaming.rai.it/6.mp3",
+    "id": "ng189",
+    "name": "ROJ Radio Network",
+    "streamUrl": "https://stream.zeno.fm/p2h75nznp2zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng190",
+    "name": "Broadstreet Radio",
+    "streamUrl": "https://kontro.socastin.com:1185/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita150",
-    "name": "105 - Story",
-    "streamUrl": "https://icy.unitedradio.it/105Story.mp3",
+    "id": "ng191",
+    "name": "SovereignRadio radio",
+    "streamUrl": "https://s7.voscast.com:9551/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita151",
-    "name": "Milano XR",
-    "streamUrl": "https://milanoxr.v6.rocks:8443/live",
+    "id": "ng192",
+    "name": "Hope Alive Radio",
+    "streamUrl": "https://stream.zeno.fm/bqzwap2ckg0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita152",
-    "name": "RAI Radio 2",
-    "streamUrl": "https://icestreaming.rai.it/2.mp3",
+    "id": "ng193",
+    "name": "GlowBroadcasting radio",
+    "streamUrl": "https://stream.zeno.fm/dh2fca7k268uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng194",
+    "name": "Kanu Sports Radio",
+    "streamUrl": "https://cast2.asurahosting.com/proxy/kanu1/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng195",
+    "name": "Dandal Kura Radio International",
+    "streamUrl": "https://dandalkura.radioca.st/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita153",
-    "name": "Sherwood",
-    "streamUrl": "https://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3",
+    "id": "ng196",
+    "name": "Petals1023 FM radio",
+    "streamUrl": "https://stream.zeno.fm/nzygak9ypfhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita154",
-    "name": "Radio Classica",
-    "streamUrl": "https://f027b3b473cf4361.msvdn.net/icecastRelay/S18953915/icecast",
+    "id": "ng197",
+    "name": "Touch-life Radio",
+    "streamUrl": "https://stream.radiojar.com/2vfyfnuk60duv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng198",
+    "name": "Zamani Radio",
+    "streamUrl": "https://stream.zeno.fm/9h5uq9bmgg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng199",
+    "name": "Nagari Radio",
+    "streamUrl": "https://stream.zeno.fm/1p9k47ksdg8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita155",
-    "name": "Ananas",
-    "streamUrl": "https://wma03.fluidstream.net:80/fluid04.mp3",
+    "id": "ng200",
+    "name": "Sound kitchen Radio",
+    "streamUrl": "https://skrradio.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita156",
-    "name": "105 - MUSIC STAR Ligabue",
-    "streamUrl": "https://icy.unitedradio.it/Ligabue.mp3",
+    "id": "ng201",
+    "name": "Interviewnaija Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3399905.aac?dist=onlineradiobox",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita157",
-    "name": "105 2k & More",
-    "streamUrl": "https://icy.unitedradio.it/1052kandMore.mp3",
+    "id": "ng202",
+    "name": "Fresh Waves Radio",
+    "streamUrl": "https://s5.citrus3.com:8226/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng203",
+    "name": "DLWYC Anglican Communion radio",
+    "streamUrl": "https://stream.zeno.fm/zh0n3yc6b48uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita158",
-    "name": "Radio Delfino",
-    "streamUrl": "https://nr8.newradio.it/proxy/emaamo00?mp=/stream",
+    "id": "ng204",
+    "name": "DivinevibezRadio radio",
+    "streamUrl": "https://stream.zeno.fm/aheqx07qc18uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita159",
-    "name": "Babboleo",
-    "streamUrl": "https://bbl.fluidstream.eu/babboleo.aac",
+    "id": "ng205",
+    "name": "Airnet Radio",
+    "streamUrl": "https://servidor23-4.brlogic.com:7570/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita160",
-    "name": "DeeGay Classics",
-    "streamUrl": "https://stream.deegay.fm/deegay2.mp3",
+    "id": "ng206",
+    "name": "Regia Radio",
+    "streamUrl": "https://stream.radiojar.com/u9xdkhxce78uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita161",
-    "name": "New Radio Network",
-    "streamUrl": "https://nr5.newradio.it:18683/stream.mp3",
+    "id": "ng207",
+    "name": "Oik Online Radio",
+    "streamUrl": "https://stream.zeno.fm/r70zfr5na8zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng208",
+    "name": "ACM Radio African Christian Music Radio",
+    "streamUrl": "https://stream.zeno.fm/fv4175ra0xhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita162",
-    "name": "One Dance FM",
-    "streamUrl": "https://ice10.fluidstream.net/rn1_2.mp3",
+    "id": "ng209",
+    "name": "Medal fm radio",
+    "streamUrl": "https://a4.asurahosting.com:8050/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita163",
-    "name": "Cusano Italia TV",
-    "streamUrl": "https://stream2.xdevel.com/audio0s975363-76/stream/icecast.audio",
+    "id": "ng210",
+    "name": "Life Experience Radio",
+    "streamUrl": "https://stream.zeno.fm/c1sv4xcyhm0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita164",
-    "name": "Primiero",
-    "streamUrl": "https://onair15.xdevel.com/proxy/radioprimiero?mp=/stream",
+    "id": "ng211",
+    "name": "Sharhi Radio",
+    "streamUrl": "https://stream.zeno.fm/1w6rahf3xf8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita165",
-    "name": "Gamma",
-    "streamUrl": "https://stream5.xdevel.com/audio0s975943-762/stream/icecast.audio",
+    "id": "ng212",
+    "name": "Eagle 102.5 FM radio",
+    "streamUrl": "https://stream.zeno.fm/ung8s3rznv8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita166",
-    "name": "RAI Radio 3",
-    "streamUrl": "https://icestreaming.rai.it/3.mp3",
+    "id": "ng213",
+    "name": "Gerin FM 95.5 radio",
+    "streamUrl": "https://stream.zeno.fm/s52ufwun738uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita167",
-    "name": "Controradio",
-    "streamUrl": "https://s4.yesstreaming.net:17199/stream",
+    "id": "ng214",
+    "name": "Kpakpando radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/kpakpandofm2?mp=/1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng215",
+    "name": "Isokan Omo Oodua radio",
+    "streamUrl": "https://stream.zeno.fm/2qdcdahacshvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng216",
+    "name": "Jarida Radio",
+    "streamUrl": "https://servidor13-1.brlogic.com:7024/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng217",
+    "name": "Info-Vibes radio",
+    "streamUrl": "https://stream.zeno.fm/gcvt5md7f78uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng218",
+    "name": "Vibing Gospel radio",
+    "streamUrl": "https://studio24.radiolize.com/radio/8120/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita168",
-    "name": "Radio Zai.net",
-    "streamUrl": "https://stream.mandragola.com/radiozainet",
+    "id": "ng219",
+    "name": "PAF Radio Ibadan",
+    "streamUrl": "https://stream.zeno.fm/px2z1cd99f0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita169",
-    "name": "Sanluchino",
-    "streamUrl": "https://ssl.audio1.meway.tv/proxy/sanluchino?mp=/stream",
+    "id": "ng220",
+    "name": "Super 96.3 FM radio",
+    "streamUrl": "https://radio.superfm963.com/proxy/superfm2/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng221",
+    "name": "Ospoly Radio",
+    "streamUrl": "https://cast4.my-control-panel.com/proxy/ospoly/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng222",
+    "name": "Vybz 94.5 FM radio",
+    "streamUrl": "https://ssl.aloncast.com:1635/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng223",
+    "name": "Bizzibodi FM radio",
+    "streamUrl": "https://ec1.everestcast.host:4725/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita170",
-    "name": "LineAttiva",
-    "streamUrl": "https://str01.fluidstream.net/rpd.mp3",
+    "id": "ng224",
+    "name": "Poverty Fighters Radio",
+    "streamUrl": "https://cast2.asurahosting.com/proxy/edward/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita171",
-    "name": "Deejay One Two One Two",
-    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8",
+    "id": "ng225",
+    "name": "Hit Fm radio",
+    "streamUrl": "https://listen.mixlr.com/afd9684568d54398e75004e16f5b11c5",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita172",
-    "name": "Buon Consiglio",
-    "streamUrl": "https://streaming.radiobuonconsiglio.it/stream.mp3",
+    "id": "ng226",
+    "name": "Cockcrow FM radio",
+    "streamUrl": "https://cockcrowfm.out.airtime.pro/cockcrowfm_a",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita173",
-    "name": "RAI GR Parlamento",
-    "streamUrl": "https://icestreaming.rai.it/7.mp3",
+    "id": "ng227",
+    "name": "Matasa Radio",
+    "streamUrl": "https://matasa.radioca.st/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita174",
-    "name": "Radio Incontro Donna",
-    "streamUrl": "https://nr7.newradio.it/proxy/terranov?mp=/stream",
+    "id": "ng228",
+    "name": "Nishadi Radio Online",
+    "streamUrl": "https://stream.zeno.fm/0cytsyef8f0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita175",
-    "name": "Bergamo",
-    "streamUrl": "https://str04.fluidstream.net/bergamo.mp3",
+    "id": "ng229",
+    "name": "NCBN Nigeria Custom Broadcasting Network radio",
+    "streamUrl": "https://stream.zeno.fm/1zur4ycs6x8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita176",
-    "name": "Radio L'Olgiata",
-    "streamUrl": "https://olgiata-danidi01.radioca.st/stream.mp3/",
+    "id": "ng230",
+    "name": "Pine FM radio",
+    "streamUrl": "https://studio25.radiolize.com/radio/8130/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita177",
-    "name": "Babboleo News",
-    "streamUrl": "https://bbl.fluidstream.eu/babboleo_lab.aac",
+    "id": "ng231",
+    "name": "Rapid FM 96.5 radio",
+    "streamUrl": "https://stream13.shoutcastsolutions.com/proxy/rapidfm965?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita178",
-    "name": "Cassino Stereo",
-    "streamUrl": "https://radiocassino.radioca.st/stream.mp3",
+    "id": "ng232",
+    "name": "Obong Radio",
+    "streamUrl": "https://stream.zeno.fm/wpbe6f8q8bhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita179",
-    "name": "Italia Anni'60",
-    "streamUrl": "https://ice04.fluidstream.net/ria60_rm.mp3",
+    "id": "ng233",
+    "name": "YDI Radio",
+    "streamUrl": "https://s9.voscast.com:9079/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita180",
-    "name": "Super Sound",
-    "streamUrl": "https://ssl2.azotosolutions.com:1010/1",
+    "id": "ng234",
+    "name": "Robin FM Radio",
+    "streamUrl": "https://streamingv2.shoutcast.com/robin-fm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita181",
-    "name": "Radio Piu",
-    "streamUrl": "https://sr14.inmystream.it/stream/radiopiu",
+    "id": "ng235",
+    "name": "Legacy Channel Radio",
+    "streamUrl": "https://stream.zeno.fm/wvvh1s96bm8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita182",
-    "name": "R101 Urban Night",
-    "streamUrl": "https://icy.unitedradio.it/101UrbanNight.aac",
+    "id": "ng236",
+    "name": "Badeggi Radio 90.1 FM",
+    "streamUrl": "https://stream.zeno.fm/q38pma9k9hhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita183",
-    "name": "Love FM",
-    "streamUrl": "https://ice07.fluidstream.net/lovefm.mp3",
+    "id": "ng237",
+    "name": "Jara Radio",
+    "streamUrl": "https://stream.zeno.fm/g8f4kwna2rhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita184",
-    "name": "Extra Radio",
-    "streamUrl": "https://nr11.newradio.it/proxy/diegtuzi?mp=/stream",
+    "id": "ng238",
+    "name": "Rock Hill Radio",
+    "streamUrl": "https://edge.mixlr.com/channel/obcik",
     "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng239",
+    "name": "Abeko Radio",
+    "streamUrl": "https://stream.zeno.fm/9tgeqcd6e8zuv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita185",
-    "name": "Rai Radio 2 Indie",
-    "streamUrl": "https://icestreaming.rai.it/15.mp3",
+    "id": "ng240",
+    "name": "Zionhill E-Radio radio",
+    "streamUrl": "https://stream.zeno.fm/mhh7nrqy2tzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng241",
+    "name": "Dominican University Radio",
+    "streamUrl": "https://dominican2021.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng242",
+    "name": "Albarka Radio 97.5 FM",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/albarkafm?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita186",
-    "name": "Marilu",
-    "streamUrl": "https://wma01.fluidstream.net/marilu",
+    "id": "ng243",
+    "name": "Diamond 88.5 FM Ilesa radio",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/brightbr/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita187",
-    "name": "Ciao Radio",
-    "streamUrl": "https://mmediassl.rtvweb.com:9100/ciaoradio",
+    "id": "ng244",
+    "name": "GRAJOS 88.3FM radio",
+    "streamUrl": "https://stream.zenolive.com/ndkrp50u8bhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita188",
-    "name": "Stereo 5 Plus",
-    "streamUrl": "https://radiostereo5.radioca.st/stream",
+    "id": "ng245",
+    "name": "VidastreamRadio radio",
+    "streamUrl": "https://stream.zeno.fm/2zn1mygvwhhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita189",
-    "name": "Bella e Monella",
-    "streamUrl": "https://ice02.fluidstream.net/bella.mp3",
+    "id": "ng246",
+    "name": "Preces Radio",
+    "streamUrl": "https://stream.zeno.fm/68fwbu11r98uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita190",
-    "name": "Play Studio",
-    "streamUrl": "https://ice12.fluidstream.net/playstudio.aac",
+    "id": "ng247",
+    "name": "ASF Nigeria Radio",
+    "streamUrl": "https://stream.zeno.fm/rmts6fgmyhhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita191",
-    "name": "Nostalgia Liguria",
-    "streamUrl": "https://ice12.fluidstream.net/nostalgia_li.mp3",
+    "id": "ng248",
+    "name": "Sunrise Radio uniCross",
+    "streamUrl": "https://stream.zeno.fm/zvceb3um1c9uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita192",
-    "name": "Radio Noise",
-    "streamUrl": "https://nrf1.newradio.it:9606/radionoise.mp3",
+    "id": "ng249",
+    "name": "Jalbu Radio",
+    "streamUrl": "https://stream.zeno.fm/z23gvma2708uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita193",
-    "name": "Radio Dolomiti",
-    "streamUrl": "https://www.radiodolomiti.com:10068/stream.mp3",
+    "id": "ng250",
+    "name": "Melody Tone Radio",
+    "streamUrl": "https://stream.zeno.fm/f4dldghdy9cuv",
     "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng251",
+    "name": "Odenigbo 99.1FM radio",
+    "streamUrl": "https://stream.zeno.fm/vw5h7u0a4octv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng252",
+    "name": "Pyramid FM Kano radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/pyramidfmkn?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita194",
-    "name": "Radio Oscia",
-    "streamUrl": "https://stream5.xdevel.com/audio0s976002-865/stream/icecast.audio",
+    "id": "ng253",
+    "name": "HOD Radio",
+    "streamUrl": "https://servidor21.brlogic.com:7766/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita195",
-    "name": "SeiSei",
-    "streamUrl": "https://ice05.fluidstream.net:80/fluid0508.mp3",
+    "id": "ng254",
+    "name": "Ambassadors Radio",
+    "streamUrl": "https://ambassadorsradio.work.gd/listen/ambassadors_radio/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng255",
+    "name": "Wesleyan Radio",
+    "streamUrl": "https://stream.zeno.fm/zhufa8nucphvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita196",
-    "name": "Radio Roma",
-    "streamUrl": "https://nr9.newradio.it:19371/stream?ext=.mp3",
+    "id": "ng256",
+    "name": "Livingproof 92.0FM radio",
+    "streamUrl": "https://s5.9jastreaming.com:2020/stream/LivingproofLive",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng257",
+    "name": "Sahel FM 89.5 radio",
+    "streamUrl": "https://stream.zeno.fm/7tc90dxx77zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng258",
+    "name": "Gospelstreet Radio",
+    "streamUrl": "https://stream.zeno.fm/yk59dgg2k0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita197",
-    "name": "Italia Anni'60",
-    "streamUrl": "https://ice04.fluidstream.net/ria60_na.mp3",
+    "id": "ng259",
+    "name": "SOAR RADIO",
+    "streamUrl": "https://stream.zeno.fm/1c64s8r19nhvv.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita198",
-    "name": "Deejay 30 Songs",
-    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/play1.m3u8",
+    "id": "ng260",
+    "name": "Barewa Radio",
+    "streamUrl": "https://stream.zeno.fm/0tka68c2138uv",
     "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng261",
+    "name": "Ritradio radio",
+    "streamUrl": "https://freeus1.listen2myradio.com/live.mp3?typeportmount=s1_27003_stream_674850106stream.nsv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita199",
-    "name": "Italia Trend",
-    "streamUrl": "https://ddlplay.iwcdn.com/rirap.aac",
+    "id": "ng262",
+    "name": "Jewel FM Gombe radio",
+    "streamUrl": "https://jewel.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita200",
-    "name": "Capital Viva L'italia",
-    "streamUrl": "https://streamcdnm17-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/live.m3u8",
+    "id": "ng263",
+    "name": "Vogue Play NG radio",
+    "streamUrl": "https://stream.zeno.fm/1bec6eab508uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita201",
-    "name": "Campania",
-    "streamUrl": "https://stream.radiocampania.eu:8000/radio.mp3",
+    "id": "ng264",
+    "name": "Tofem Radio",
+    "streamUrl": "https://stream.zeno.fm/5t6khrxyuchvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng265",
+    "name": "Glitz fm radio",
+    "streamUrl": "https://stream.zeno.fm/us6pkopr80btv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita202",
-    "name": "Piemonte torino",
-    "streamUrl": "https://sp3.server89.com/9306/stream",
+    "id": "ng266",
+    "name": "Ojimba FM Orlu radio",
+    "streamUrl": "https://s19.myradiostream.com/19468/listen.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita203",
-    "name": "Deejay Gasolina",
-    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8",
+    "id": "ng267",
+    "name": "Adulawo Radio",
+    "streamUrl": "https://cast4.my-control-panel.com/proxy/adulawon/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita204",
-    "name": "Babboleo Suono",
-    "streamUrl": "https://bbl.fluidstream.eu/babboleo_suono.aac",
+    "id": "ng268",
+    "name": "Jubilee 99.7fm radio",
+    "streamUrl": "https://cosmo.shoutca.st/proxy/jubileefm/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng269",
+    "name": "Dankazeem Radio",
+    "streamUrl": "https://stream.zeno.fm/bk28wpxc6zhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita205",
-    "name": "Kristall Radio",
-    "streamUrl": "https://sr7.inmystream.it:18115/stream",
+    "id": "ng270",
+    "name": "Skwnapp Creative FM radio",
+    "streamUrl": "https://stream.zeno.fm/x2df0gnun18uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita206",
-    "name": "Onda d'Urto",
-    "streamUrl": "https://hochimin.urtostream.org:8443/radiondadurto.mp3",
+    "id": "ng271",
+    "name": "Inspired247Radio radio",
+    "streamUrl": "https://stream.zeno.fm/97760ykcjzruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita207",
-    "name": "Studio Centrale",
-    "streamUrl": "https://stream.studiocentrale.it/radio/8020/radio.mp3",
+    "id": "ng272",
+    "name": "Truth Generation Yahnwe Movement Radio",
+    "streamUrl": "https://stream.zeno.fm/2fw0kzw2ynhvv",
     "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng273",
+    "name": "Afrinaijaradio radio",
+    "streamUrl": "https://stream.zeno.fm/6nspmkmsknbuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng274",
+    "name": "SUCCESS RADIO IBADAN",
+    "streamUrl": "https://stream.zeno.fm/c8r8tp0cbshvv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita208",
-    "name": "Reporter",
-    "streamUrl": "https://mediahit.inmystream.it:9005/stream2",
+    "id": "ng275",
+    "name": "RAV Radio",
+    "streamUrl": "https://c28.radioboss.fm:18488/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita209",
-    "name": "Linea No 1",
-    "streamUrl": "https://rblive.it:8000/radio.mp3",
+    "id": "ng276",
+    "name": "Jgiyc Radio",
+    "streamUrl": "https://stream.zeno.fm/atozraeju8hvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita210",
-    "name": "Discoradio",
-    "streamUrl": "https://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8",
+    "id": "ng277",
+    "name": "Inuwa Online Radio",
+    "streamUrl": "https://stream.zeno.fm/xyb8zaf8tc9uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng278",
+    "name": "Haske Online Radio",
+    "streamUrl": "https://stream.zeno.fm/s08xexpb7nhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita211",
-    "name": "Radio Globo Vintage",
-    "streamUrl": "https://m100.newradio.it/m100-64",
+    "id": "ng279",
+    "name": "Sautul Hikma Radio",
+    "streamUrl": "https://stream.zeno.fm/kth9y70yafhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita212",
-    "name": "Idea Radio Civitavecchia",
-    "streamUrl": "https://tarquinia-danidi01.radioca.st/srteam2",
+    "id": "ng280",
+    "name": "Peoples Voice No1 Radio",
+    "streamUrl": "https://stream.zeno.fm/ueu4g0rb37zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita213",
-    "name": "Anaunia",
-    "streamUrl": "https://s6.mediastreaming.it/m/9134?ext=.mp3",
+    "id": "ng281",
+    "name": "Beacon Online Radio",
+    "streamUrl": "https://stream.zeno.fm/n5c8anyn7k8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita214",
-    "name": "Radio Cuore (Sicilia)",
-    "streamUrl": "https://onair20.xdevel.com/proxy/radiocuorect?mp=/stream",
+    "id": "ng282",
+    "name": "SFI Radio",
+    "streamUrl": "https://stream.zeno.fm/zxw3uqg4usruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita215",
-    "name": "Revolve Radio",
-    "streamUrl": "https://clare.shoutca.st/radio/8300/radio.mp3",
+    "id": "ng283",
+    "name": "FineRadioCo radio",
+    "streamUrl": "https://studio21.radiolize.com/radio/8150/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita216",
-    "name": "Alta",
-    "streamUrl": "https://live.radioalta.it/stream.ogg",
+    "id": "ng284",
+    "name": "GKRadio radio",
+    "streamUrl": "https://s3.radio.co/s6b8aaa525/low",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita217",
-    "name": "Gamma 5",
-    "streamUrl": "https://ice05.fluidstream.net:80/fluid0510.mp3",
+    "id": "ng285",
+    "name": "Mihada Radio",
+    "streamUrl": "https://stream.zeno.fm/b4qy4z38ay8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita218",
-    "name": "RADIO DIGITALIA Festival",
-    "streamUrl": "https://stream.laut.fm/radiodigitalia-festival",
+    "id": "ng286",
+    "name": "Fahimta Radio",
+    "streamUrl": "https://stream.zeno.fm/x6vurqw6508uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita219",
-    "name": "Free Time Radio",
-    "streamUrl": "https://nr11.newradio.it:19200/stream",
+    "id": "ng287",
+    "name": "Summit Radio",
+    "streamUrl": "https://summit-host.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita220",
-    "name": "Radio Enny Sound",
-    "streamUrl": "https://nr14.newradio.it:8928/stream?ext=.mp3",
+    "id": "ng288",
+    "name": "Christ Emissaries Radio",
+    "streamUrl": "https://stream.zeno.fm/ewe5guf3trhvv",
     "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng289",
+    "name": "Globe FM Bauchi radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/globefmbau?mp=/1",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng290",
+    "name": "Faith Life Streams radio",
+    "streamUrl": "https://stream.zeno.fm/haekfdayurhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita221",
-    "name": "105 - Bau & Co",
-    "streamUrl": "https://icy.unitedradio.it/RadioBAU.mp3",
+    "id": "ng291",
+    "name": "LION 93.9FM radio",
+    "streamUrl": "https://edge.mixlr.com/channel/hqgip",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng292",
+    "name": "Rehoboth Radio NG",
+    "streamUrl": "https://stream.zeno.fm/gekkv1artnhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita222",
-    "name": "RLB Radioattiva",
-    "streamUrl": "https://nr5.newradio.it:18767/stream",
+    "id": "ng293",
+    "name": "FaithLife Radio",
+    "streamUrl": "https://stream.zeno.fm/ekfhk4jbfvauv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita223",
-    "name": "Lecco Channel",
-    "streamUrl": "https://onair20.xdevel.com:6994/stream",
+    "id": "ng294",
+    "name": "Great Light Radio",
+    "streamUrl": "https://stream.zeno.fm/n7dcphg4i0quv",
     "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng295",
+    "name": "Newland Polytechnic Radio",
+    "streamUrl": "https://stream.zeno.fm/gpooza5hyhyvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng296",
+    "name": "Amana FM 98.1 radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/amanafmgme?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng297",
+    "name": "Waniltu Radio",
+    "streamUrl": "https://stream.zeno.fm/fk4a2gyvef9uv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita224",
-    "name": "Radio Ascolta",
-    "streamUrl": "https://nl1.streamingpulse.com/ssl/radioascoltaitaly",
+    "id": "ng298",
+    "name": "Dele Paragon Radio",
+    "streamUrl": "https://stream.zeno.fm/gb95e660qzzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita225",
-    "name": "Radio Luna",
-    "streamUrl": "https://onair15.xdevel.com/proxy/radiolunamp3?mp=/stream/",
+    "id": "ng299",
+    "name": "Farmalert radio",
+    "streamUrl": "https://edge.mixlr.com/channel/ffuer",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita226",
-    "name": "Radio m2o",
-    "streamUrl": "https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8",
+    "id": "ng300",
+    "name": "Boss Radio Owerri",
+    "streamUrl": "https://ec1.everestcast.host:4795/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita227",
-    "name": "MB International",
-    "streamUrl": "https://radiomb19.radioca.st/stream.mp3",
+    "id": "ng301",
+    "name": "Voice Of The People 96.1 Fm radio",
+    "streamUrl": "https://stream.zeno.fm/xexa5a33bcnvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita228",
-    "name": "GrP - Giornale radio Piemonte",
-    "streamUrl": "https://stream5.xdevel.com/audio0s976619-1386/stream/icecast.audio",
+    "id": "ng302",
+    "name": "Xpress Radio International",
+    "streamUrl": "https://xpressintl.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita229",
-    "name": "Latte Miele Marche-Abruzzo",
-    "streamUrl": "https://ice09.fluidstream.net/fluid0904.mp3",
+    "id": "ng303",
+    "name": "EXV RADIO",
+    "streamUrl": "https://stream.zeno.fm/albyyxzsvryuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita230",
-    "name": "Goodfellas music Station",
-    "streamUrl": "https://onair7.xdevel.com/proxy/xautocloud_q1v0_1005?mp=/stream/",
+    "id": "ng304",
+    "name": "Mailantarki Radio",
+    "streamUrl": "https://stream.zeno.fm/trigwhjeh8cvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng305",
+    "name": "Praiseworld Radio",
+    "streamUrl": "https://streaming.radio.co/s7dc18f0ad/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita231",
-    "name": "Deejay WFM",
-    "streamUrl": "https://streamcdne3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/live.m3u8",
+    "id": "ng306",
+    "name": "RadioTiwa radio",
+    "streamUrl": "https://stream.zeno.fm/tvqvamkwe5zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita232",
-    "name": "Kiss Kiss Hits",
-    "streamUrl": "https://ice08.fluidstream.net/kk_hits.aac",
+    "id": "ng307",
+    "name": "J Fm Radio 95.5",
+    "streamUrl": "https://stream.zeno.fm/z699c90knxhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita233",
-    "name": "Gran Paradiso",
-    "streamUrl": "https://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-64.aac",
+    "id": "ng308",
+    "name": "Seasoned Apologist Radio",
+    "streamUrl": "https://radio.i-churchresources.com.ng/listen/seasoned_apologist_radio/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita234",
-    "name": "Dimensione Suono Soft",
-    "streamUrl": "https://icstream.rds.radio/dssc",
+    "id": "ng309",
+    "name": "Wocomworld Radio",
+    "streamUrl": "https://stream.zeno.fm/95un4seu2nhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita235",
-    "name": "Fantastica",
-    "streamUrl": "https://mediahit.inmystream.it:9006/stream2",
+    "id": "ng310",
+    "name": "ATAP FM radio",
+    "streamUrl": "https://stream.zeno.fm/s4u9a676tc9uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng311",
+    "name": "Oyscatech Sug Campus Radio",
+    "streamUrl": "https://stream.zeno.fm/mffahiwezewuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng312",
+    "name": "Sahel Online Radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/sahelradio?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng313",
+    "name": "Triumph Edu-Radio radio",
+    "streamUrl": "https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_4662_stream_12178776stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita236",
-    "name": "2.0 - La Radio delle Valli di Bergamo",
-    "streamUrl": "https://vps.radioduepuntozero.it/stream.mp3",
+    "id": "ng314",
+    "name": "Clean FM radio",
+    "streamUrl": "https://stream.zenolive.com/r8zpbx7e6f8uv.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita237",
-    "name": "Kiss Kiss Latina",
-    "streamUrl": "https://ice08.fluidstream.net/kk_latina.aac",
+    "id": "ng315",
+    "name": "RichLife FM radio",
+    "streamUrl": "https://servidor21.brlogic.com:7082/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng316",
+    "name": "Kakaki Online Radio",
+    "streamUrl": "https://stream.zeno.fm/wazc4nb0trhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita238",
-    "name": "Radioattivita",
-    "streamUrl": "https://nr5.newradio.it/proxy/finmedia?mp=/stream",
+    "id": "ng317",
+    "name": "WeradionLineStudio radio",
+    "streamUrl": "https://stream.zeno.fm/d2r3s47k1wzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita239",
-    "name": "Penny Italien",
-    "streamUrl": "https://listen.radiomax.technology/penny-italy",
+    "id": "ng318",
+    "name": "Albishir FM Bauchi radio",
+    "streamUrl": "https://stream.zeno.fm/xcq86fq86nhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng319",
+    "name": "RCCG SOE radio",
+    "streamUrl": "https://edge.mixlr.com/channel/bclad",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng320",
+    "name": "Fombina FM Yola 101.5 radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/fombinayola",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita240",
-    "name": "Radio Studio Piu",
-    "streamUrl": "https://ice.studiopiu.net/milano.aac",
+    "id": "ng321",
+    "name": "Eoblive radio",
+    "streamUrl": "https://stream.zeno.fm/tvnkn6ayxc9uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita241",
-    "name": "Sintony",
-    "streamUrl": "https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio",
+    "id": "ng322",
+    "name": "Map Radio",
+    "streamUrl": "https://stream.zeno.fm/dgepldrdjv9vv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita242",
-    "name": "Deejay On the Road",
-    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8",
+    "id": "ng323",
+    "name": "CBI Radio",
+    "streamUrl": "https://ec4.yesstreaming.net:3325/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita243",
-    "name": "Capital Soft",
-    "streamUrl": "https://streamcdnm36-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/live.m3u8",
+    "id": "ng324",
+    "name": "Domi Radio",
+    "streamUrl": "http://radio.shoutcastmedia.net:8302/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng325",
+    "name": "Adaba FM radio",
+    "streamUrl": "http://149.56.234.138:8008/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita244",
-    "name": "International",
-    "streamUrl": "https://ice08.fluidstream.net:80/fluid813.mp3",
+    "id": "ng326",
+    "name": "Smooth FM 98.1 radio",
+    "streamUrl": "http://smoothlive.smooth981.fm:8000/smoothlivefm128",
     "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng327",
+    "name": "Christovibes radio",
+    "streamUrl": "http://c8.radioboss.fm:8037/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita245",
-    "name": "Radio Bruno Pentasport",
-    "streamUrl": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
+    "id": "ng328",
+    "name": "Solutions FM radio",
+    "streamUrl": "http://95.211.178.215:8016/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita246",
-    "name": "Italia Anni'60",
-    "streamUrl": "https://ice04.fluidstream.net/ria60_ca.mp3",
+    "id": "ng329",
+    "name": "Radio Sapientia 95.3 FM radio",
+    "streamUrl": "http://78.129.159.25:8163/stream1/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita247",
-    "name": "Radio Zenith",
-    "streamUrl": "https://stream1.xdevel.com/audio0s975884-460/stream/icecast.audio",
+    "id": "ng330",
+    "name": "Radio Royal FM radio",
+    "streamUrl": "http://197.210.168.147:8000/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita248",
-    "name": "News 24",
-    "streamUrl": "https://stream5.xdevel.com/audio7s975889-1332/stream/icecast.audio",
+    "id": "ng331",
+    "name": "Rainbow FM 94.1 radio",
+    "streamUrl": "http://s3.voscast.com:10330/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita249",
-    "name": "Radio Utopia",
-    "streamUrl": "https://nr12.newradio.it:8624/stream?ext=.mp3",
+    "id": "ng332",
+    "name": "Top Radio 90.9 FM",
+    "streamUrl": "http://topradio.servotechstream.com:8550/live.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita250",
-    "name": "TOradio",
-    "streamUrl": "https://nr5.newradio.it/proxy/fsrls?mp=/stream",
+    "id": "ng333",
+    "name": "Triumphant Radio",
+    "streamUrl": "http://janus.shoutca.st:8887/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng334",
+    "name": "Alsiyada Hausa radio",
+    "streamUrl": "http://tijaniyyah.asuscomm.com:8000/stream/9/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita251",
-    "name": "Nuova Inblu",
-    "streamUrl": "https://ice09.fluidstream.net:80/fluid0903.mp3",
+    "id": "ng335",
+    "name": "Jay 101.9 Fm radio",
+    "streamUrl": "http://live2.rcast.net:8970/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita252",
-    "name": "Milano Lounge",
-    "streamUrl": "https://centova.wlservices.org:4003/stream",
+    "id": "ng336",
+    "name": "Sleekfm radio",
+    "streamUrl": "http://198.178.123.17:7654/stream/1/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita253",
-    "name": "InBlu Radio",
-    "streamUrl": "https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8",
+    "id": "ng337",
+    "name": "Hot FM Abuja radio",
+    "streamUrl": "http://104.131.92.109:8550/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita254",
-    "name": "Radio Spazio Noi",
-    "streamUrl": "https://cldwz.glauco.it/HLS/radiospazionoi/chunklist.m3u8",
+    "id": "ng338",
+    "name": "Unity Radio 93.3 FM TV",
+    "streamUrl": "http://46.105.124.120:8356/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita255",
-    "name": "RTL 102.5 Doc",
-    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-doc",
+    "id": "ng339",
+    "name": "Real 99.1 FM Aba radio",
+    "streamUrl": "http://46.28.49.164:7683/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita256",
-    "name": "Radiosei",
-    "streamUrl": "https://icecast.ithost.it/radiosei.ogg",
+    "id": "ng340",
+    "name": "Pinnacle Health Radio",
+    "streamUrl": "http://perseus.shoutca.st:9555/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita257",
-    "name": "Cusano Campus",
-    "streamUrl": "https://www.radiocusanocampus.it/ottieniprogrammainonda",
+    "id": "ng341",
+    "name": "Hallmark Radio",
+    "streamUrl": "http://51.255.235.165/proxy/hallmarkradio?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita258",
-    "name": "Color",
-    "streamUrl": "https://nrf1.newradio.it:9626/stream",
+    "id": "ng342",
+    "name": "IBC Orient FM radio",
+    "streamUrl": "http://50.97.94.44:8301/stream/1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita259",
-    "name": "Radio Suby",
-    "streamUrl": "https://icy.unitedradio.it/Suby.mp3",
+    "id": "ng343",
+    "name": "Radio Nigeria Bronze FM radio",
+    "streamUrl": "http://78.129.193.127:12114/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita260",
-    "name": "Deegay.FM Pop & Dance",
-    "streamUrl": "https://ss1.deegay.fm/stream",
+    "id": "ng344",
+    "name": "Jatto 102.7 FM radio",
+    "streamUrl": "http://procyon.shoutca.st:8158/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita261",
-    "name": "Dimensione Suono Roma",
-    "streamUrl": "https://icstream.rds.radio/dsr",
+    "id": "ng345",
+    "name": "Spirit of Nigeria Radio",
+    "streamUrl": "https://rbx2.hnux.com/http://e12492.cloudrad.io:9517/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita262",
-    "name": "Centro Suono Sport",
-    "streamUrl": "https://streaming1.radiocentrosuono.it:8443/cssport.mp3",
+    "id": "ng346",
+    "name": "Glaring Star World Radio",
+    "streamUrl": "http://s9.reliastream.com:8117/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita263",
-    "name": "Radio Romantica",
-    "streamUrl": "https://stream.radioromantica.net/",
+    "id": "ng347",
+    "name": "ACE Radio",
+    "streamUrl": "http://s2.voscast.com:10692/stream1527081748316/1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita264",
-    "name": "105 - Miami",
-    "streamUrl": "https://icy.unitedradio.it/105Miami.mp3",
+    "id": "ng348",
+    "name": "Fad Fm 93.1 radio",
+    "streamUrl": "http://109.74.199.58:8030/stream.m3u",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita265",
-    "name": "80",
-    "streamUrl": "https://wma01.fluidstream.net/radio80.aac",
+    "id": "ng349",
+    "name": "WFM91.7 radio",
+    "streamUrl": "http://s28.myradiostream.com:11618/listen.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita266",
-    "name": "Radio Rossini",
-    "streamUrl": "https://stream.laut.fm/radiorossini",
+    "id": "ng350",
+    "name": "PlusMedia Radio",
+    "streamUrl": "http://78.129.190.50:28716/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita267",
-    "name": "Valbelluna",
-    "streamUrl": "https://sphera.fluidstream.eu/rvb.aac",
+    "id": "ng351",
+    "name": "47.5 ATOBO Radio 1",
+    "streamUrl": "https://servidor40-2.brlogic.com:7038/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng352",
+    "name": "Unilorin 89.3 FM radio",
+    "streamUrl": "http://102.131.64.20:8000/play",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita268",
-    "name": "ITALIAN RADIO ITALIAN.radio",
-    "streamUrl": "https://italianradio.streamingmedia.it/play",
+    "id": "ng353",
+    "name": "WE FM radio",
+    "streamUrl": "http://ais-sa1.streamon.fm/7304_48k.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita269",
-    "name": "Nostalgia Toscana",
-    "streamUrl": "https://sc.streamingfm.it:8072/nostalgia.mp3",
+    "id": "ng354",
+    "name": "Ibarapa Radio",
+    "streamUrl": "http://67.205.164.174:8000/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng355",
+    "name": "Aloore Radio",
+    "streamUrl": "http://157.230.238.77/radio/8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita270",
-    "name": "Vibra FM",
-    "streamUrl": "https://ice02.fluidstream.net/playstudio.mp3",
+    "id": "ng356",
+    "name": "3rd Radio",
+    "streamUrl": "http://c30.radioboss.fm:8398/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita271",
-    "name": "Kiss Kiss Rock",
-    "streamUrl": "https://ice08.fluidstream.net/kk_rock.aac",
+    "id": "ng357",
+    "name": "Spice Of Africa Radio SOAR",
+    "streamUrl": "http://46.28.49.164:7096/autodj",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita272",
-    "name": "Radio Evangelo",
-    "streamUrl": "https://onair11.xdevel.com/proxy/adiit?mp=/stream",
+    "id": "ng358",
+    "name": "Unique FM Lagos radio",
+    "streamUrl": "http://centovacast.divinestreams.co.uk:7532/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita273",
-    "name": "Citta Aperta",
-    "streamUrl": "https://be.server89.com/8020/stream",
+    "id": "ng359",
+    "name": "Dentlink Radio",
+    "streamUrl": "http://45.79.11.97:8000/Dentlink/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita274",
-    "name": "Giornale Radio",
-    "streamUrl": "https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream",
+    "id": "ng360",
+    "name": "Destiny College Radio",
+    "streamUrl": "http://equinox.shoutca.st:8252/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita275",
-    "name": "Radio Amore e Vita93",
-    "streamUrl": "https://stream-54.zeno.fm/6bdbnqwnsg8uv",
+    "id": "ng361",
+    "name": "Sticker FM radio",
+    "streamUrl": "http://hydra.shoutca.st:8060/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita276",
-    "name": "Ritmo 80",
-    "streamUrl": "https://ice07.fluidstream.net/ritmo80.mp3",
+    "id": "ng362",
+    "name": "Nas Fm Yola 89.9 radio",
+    "streamUrl": "http://eu8.fastcast4u.com:22717/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita277",
-    "name": "Birikina",
-    "streamUrl": "https://ice02.fluidstream.net/birikina.mp3",
+    "id": "ng363",
+    "name": "View Radio",
+    "streamUrl": "http://freeuk27.listen2myradio.com:39433/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita278",
-    "name": "Viva FM",
-    "streamUrl": "https://stream2.vivafm.it:9002/stream.mp3",
+    "id": "ng364",
+    "name": "Radio IVC radio",
+    "streamUrl": "http://138.68.148.16:8000/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita279",
-    "name": "NEW HITS RADIO Italia",
-    "streamUrl": "https://newhitsradio.streamingmedia.it/play",
+    "id": "ng365",
+    "name": "Speed Fm 96.9mhz radio",
+    "streamUrl": "https://stream.zeno.fm/s3xrbpvyxwzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita280",
-    "name": "70 80 Hits HQ",
-    "streamUrl": "https://nr8.newradio.it:19574/stream",
+    "id": "ng366",
+    "name": "COD Radio",
+    "streamUrl": "https://codradioorg.radioca.st/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng367",
+    "name": "Soul 95.7 Fm radio",
+    "streamUrl": "http://freeuk24.listen2myradio.com:21930/",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_nigeria"
   },
   {
-    "id": "ita281",
-    "name": "Stella",
-    "streamUrl": "https://ice05.fluidstream.net:80/fluid0504.mp3",
+    "id": "ng368",
+    "name": "Kaura Radio",
+    "streamUrl": "http://apollo.shoutca.st:8018/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita282",
-    "name": "SOUL RADIO 60-70",
-    "streamUrl": "https://listen.soulradio.it/it",
+    "id": "ng369",
+    "name": "Koode Radio International",
+    "streamUrl": "http://hydra.shoutca.st:8238/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   },
   {
-    "id": "ita283",
-    "name": "Virgin Rock Alternative",
-    "streamUrl": "https://icy.unitedradio.it/VirginRockAlternative.mp3",
+    "id": "ng370",
+    "name": "Star Fm 101.5 radio",
+    "streamUrl": "http://streaming04.liveboxstream.uk:8053/index",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_italy"
+    "country": "country_nigeria"
   }
 ]
