@@ -14854,5 +14854,1021 @@
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/617/virgin-radio-rock-alternative.bd2c5749.png",
     "genre": "genre_rock",
     "country": "country_italy"
+  },
+  {
+    "id": "ng2",
+    "name": "Wazobia FM radio",
+    "streamUrl": "https://wazobiafmlagos951-atunwadigital.streamguys1.com/wazobiafmlagos951",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/288/wazobia-fm-951-lagos.870277d4.png",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng5",
+    "name": "MAX 102.3 FM radio",
+    "streamUrl": "https://audiohq.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/c6mdth65hhn5.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng6",
+    "name": "Nigeria Info radio",
+    "streamUrl": "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/808/nigeria-info-fm-993-lagos.30828cc5.png",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng8",
+    "name": "Gospotainment Radio",
+    "streamUrl": "https://radio.gotright.net/radio/8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JtMFeHRjGq.png",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng9",
+    "name": "Raypower Abuja radio",
+    "streamUrl": "https://streamlive2.hearthis.at:8000/9065169.ogg",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/806/nigeria-info-fm-951-abuja.2aba1413.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng10",
+    "name": "Splash FM Ibadan radio",
+    "streamUrl": "https://edge.mixlr.com/channel/cfeki",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aMf8Wv4ERY.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng12",
+    "name": "32 FM 94.9 radio",
+    "streamUrl": "https://edge.mixlr.com/channel/zbfuy",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wbqvftyamaxb.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng13",
+    "name": "Pidgin Radio",
+    "streamUrl": "https://stream.rcast.net/66702",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/0D9oJ35bo2PUm1D2_ooGTqP9Os6L0nIL7L9_lCSG4o8/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0F4SkdkdkFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d6clc0aUFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU3NTQyNzAwMA.webp",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng20",
+    "name": "Naija Hits FM radio",
+    "streamUrl": "https://stream.zeno.fm/thbqnu2wvmzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cYA2qRgKw9.png",
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng21",
+    "name": "Agidigbo 88.7 FM radio",
+    "streamUrl": "https://agidigbostream.com.ng/radio/8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/D2LEzMfhNp.png",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng23",
+    "name": "Lagelu FM 96.7 radio",
+    "streamUrl": "https://edge.mixlr.com/channel/wupzh",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/numcnqejhebf.png",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng31",
+    "name": "Cfaith Radio Network",
+    "streamUrl": "https://cfaith.radioca.st/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/plxzdhyszbqx.png",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng33",
+    "name": "Space FM radio",
+    "streamUrl": "https://stream.zeno.fm/79hmhafteg0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eZkjrGFK7F.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng34",
+    "name": "Dala FM radio",
+    "streamUrl": "https://stream.zeno.fm/9zdvuszaanzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ruAuFnppnL.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng36",
+    "name": "AmenRadio radio",
+    "streamUrl": "https://eu3.fastcast4u.com/proxy/amenradi?mp=/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/6832.v5.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng37",
+    "name": "Non Stop Music Channel radio",
+    "streamUrl": "https://stream.radio.co/s79798a252/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/81631.v3.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng40",
+    "name": "Fresh 106.9 FM radio",
+    "streamUrl": "https://stream.zeno.fm/4qmtcx9an0quv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2zzlrubjmpqj.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng43",
+    "name": "Lagoon Radio",
+    "streamUrl": "https://streams.radio.co/s704a86cbe/listen?hash=1571325825949.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/_KetuDxycdYuevN6UHesAdIiT5Zh6kIMG0WDPePnksM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZmVlMWYyNzctZTAxNi00ZjVjLWJjZjYtNTE0ZTUzNTg1YWQzL2ltYWdlLz91PTE3MzM5OTIyNDgwMDA.webp",
+    "genre": "genre_relax",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng49",
+    "name": "Kabiesi Radio",
+    "streamUrl": "https://stream.zeno.fm/2z28rbvndkeuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qygnm4tatwbs.jpg",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng52",
+    "name": "UNIMED Radio",
+    "streamUrl": "https://unimedradio.radioca.st/stream.nsv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/eWs9JecaXE4zhqPVdXydCElGzt6QxEYuuKMtbUoS6WY/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTQwMzMwYzItZjNhOS00OTg3LWJhYjQtZDE0NDY1MjIxOGRlL2ltYWdlLz91PTE3MzQ2ODExNTgwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng54",
+    "name": "LagosJump Radio",
+    "streamUrl": "https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jgwwprh9fbxf.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng55",
+    "name": "City Radio 89.7 FM",
+    "streamUrl": "https://stream.zeno.fm/1rtopmpcmdqvv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/75454.v8.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng56",
+    "name": "NGM Radio (Nigerian Gospel Music Radio)",
+    "streamUrl": "https://stream.zenolive.com/3fmqr74a7f8uv.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nbv9szayw3un.png",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng57",
+    "name": "Kaakaki Radio",
+    "streamUrl": "https://stream.zeno.fm/fgetssyp7yzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ymk87qkecymf.png",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng66",
+    "name": "Gospel FM Nigeria radio",
+    "streamUrl": "https://stream.zenolive.com/yf8tq5mc7f8uv.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/98981.v8.png",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng67",
+    "name": "Wellsradio radio",
+    "streamUrl": "https://servidor29.brlogic.com:7034/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/036/wellsradio-gospel.167c1605.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng69",
+    "name": "Outstanding Radio",
+    "streamUrl": "https://stream.zeno.fm/aafdwnvhzchvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/jsnTyCHVPa-6XzsqtUY7IAaxoeXWIGiy3CrAMOfs2gs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3dtLU9xaEFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l5STNfbGdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4MDI3OTA1NzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng71",
+    "name": "Rockcity FM radio",
+    "streamUrl": "https://stream.zeno.fm/g6qax5vq0v8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/537/rockcity-fm.a590df35.png",
+    "genre": "genre_rock",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng74",
+    "name": "Living Word Media Radio",
+    "streamUrl": "https://livingwordmedia.radioca.st/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/79701.v5.png",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng75",
+    "name": "Apala Radio",
+    "streamUrl": "https://stream.zeno.fm/fqcszwwxra0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/y30LS_wJevxuvaXEAOao05VndDvYl8kalh2GORdJUv4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFF1TTZMMmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFtT1BvcUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3NDA0Mzk0NTAwMA.webp",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng77",
+    "name": "Flo FM radio",
+    "streamUrl": "https://stream.zeno.fm/gbxh4dbskeruv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/81957.v4.png",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng80",
+    "name": "Orange Fm radio",
+    "streamUrl": "https://stream.zeno.fm/1pewbmv6whruv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/100225.v7.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng81",
+    "name": "Crest 87.7 FM radio",
+    "streamUrl": "https://stream.zeno.fm/9cgtkwg3teruv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jaa27ntdxcew.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng82",
+    "name": "LivingWater Radio",
+    "streamUrl": "https://puma.streemlion.com:1795/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/90642.v6.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng83",
+    "name": "FISHFM radio",
+    "streamUrl": "https://stream.zeno.fm/wc0pn89gv6duv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/70507.v9.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng85",
+    "name": "Apostolic Flame Radio",
+    "streamUrl": "https://hoth.alonhosting.com:1695/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/94158.v2.png",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng86",
+    "name": "Awoko Radio",
+    "streamUrl": "https://stream.zeno.fm/tqq99en94v8uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/90406.v11.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng89",
+    "name": "Kwenu Radio",
+    "streamUrl": "https://stream.zeno.fm/4zc2xh1z9f8uv",
+    "imageUrl": "https://listenonlineradio.com/wp-content/uploads/Kwenu-Radio.jpg",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng90",
+    "name": "Ajisbi Oyo Radio",
+    "streamUrl": "https://stream.zeno.fm/v3geyw3zrzzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/YDBpT_XqJ4KQvRJlBBdFXt0k0TYxhKi7SF8E-EweV9E/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F4dExVLVFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1Fwc0RFMGdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcxMTI1NTg0NjAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng91",
+    "name": "O Fm 92.5 Ilorin radio",
+    "streamUrl": "https://s5.myradiostream.com:42956/listen.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/77441.v9.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng95",
+    "name": "Adamimogo FM radio",
+    "streamUrl": "https://stream.zeno.fm/sywy4vua6zhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/825/adamimogo-fm.1714bbd1.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng96",
+    "name": "FayaTic Radio",
+    "streamUrl": "https://stream.zenolive.com/dvqg9y8s7k0uv.aac",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/kSneBdbk9EM5-Dl1PG6YGJ4f1t5jHA8erEBsnn5xiZI/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE4Y2pTcUFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFpYUxoOWdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEyMjk5NzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng97",
+    "name": "Krucial Reggae Radio",
+    "streamUrl": "https://stream.zeno.fm/g8wkbpm3mceuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/VaX0GUuVsXfrmwmwFaNS8CHTK3eGNiTohDBXlA-it9w/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREFxSUtObmdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnSUR5aUFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4NTQzMDQ2NzAwMA.webp",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng98",
+    "name": "WiGRadio radio",
+    "streamUrl": "https://stream.zeno.fm/k4w8hv26nzzuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/6831.v5.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng103",
+    "name": "iPLAY Radio",
+    "streamUrl": "https://stream.zeno.fm/5nrvuy1uawzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/YyQtqoyew9iEe_dSTsBAhXbrjiBcV-0KpRUkljkDE4s/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FzSTJHb1FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1EwUDNXdWdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc1NDM1NjI2MTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng105",
+    "name": "Old Time Faith Radio",
+    "streamUrl": "https://stream.zeno.fm/3q39f7wy2a0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/O4my8EuGcmb8R1v09e0sR5KVjkX7UAj_pDLnTD-a1Gk/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFsSm5CX2drTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFE5S2pIemdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2MjY2OTAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng106",
+    "name": "Proclaim Radio",
+    "streamUrl": "https://stream.zeno.fm/00c13r9451zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Yaya0W5yRv83OvLISJmpIUSv9arq3gdaYRbF-q9-O1g/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2dqcDNjeXdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F3YUs0d1FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc1NTEyMTk1MTAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng109",
+    "name": "Glory Vibes Radio",
+    "streamUrl": "https://stream.zeno.fm/0qdz39e47zhvv.acc",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/snwvfveswfj8.jpg",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng110",
+    "name": "Gilgal Radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/greatlord365?mp=/1",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2020/10/gilgal-radio-100x47.jpg",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng111",
+    "name": "Okin 105.7 FM radio",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/okin/okinfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/101051.v8.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng112",
+    "name": "TGz Africa Radio",
+    "streamUrl": "https://stream.zeno.fm/1bhcy85shy8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/u3zmbkusswwq.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng113",
+    "name": "Richieart FM radio",
+    "streamUrl": "https://stream.zeno.fm/xd23vgqdcm0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/GDHMHFZLNg.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng114",
+    "name": "Soccerhub FM radio",
+    "streamUrl": "https://stream.zeno.fm/rm4dvy3dtwzuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/97427.v5.png",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng115",
+    "name": "KCity Radio",
+    "streamUrl": "https://radio.gotright.net/radio/8010/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cpupkcb7dbuq.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng119",
+    "name": "DVC Radio",
+    "streamUrl": "https://stream.zeno.fm/9dxhc51w0nhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/0NuyxAxkOoaQYGrXDwSSAcGic69eSXu99IcoKXK6C8c/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0l0YmJHcHdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0k5Y2IwdEFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTg4MTI0NTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng121",
+    "name": "Pulse radio",
+    "streamUrl": "https://stream.zeno.fm/2756wffzs4zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/kKANY0Jl8oQ_EHjQtVAU_MqzGGdlr71qn9M42s-qLts/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EyZE9lbkFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FtZm5CNGdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0OTU0NjAwMA.webp",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng122",
+    "name": "Diligent Entrepreneurship Radio",
+    "streamUrl": "https://stream.zeno.fm/qqpquey0xwzuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/96037.v2.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng125",
+    "name": "Radio East radio",
+    "streamUrl": "https://stream.zeno.fm/7f4w4us5wp8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/klrhfrx8xttw.jpeg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng131",
+    "name": "The Pm Radio",
+    "streamUrl": "https://stream.zeno.fm/y0vppv39qs8uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/99534.v4.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng132",
+    "name": "The Fushys Radio",
+    "streamUrl": "https://stream.zeno.fm/7hpwpqyk4f8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wsatzp5m7baj.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng139",
+    "name": "Inform Me Radio",
+    "streamUrl": "https://stream.zeno.fm/ta1fke6sz1zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6s9av59t6dcq.jpeg",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng140",
+    "name": "GanGan Radio",
+    "streamUrl": "https://stream.zeno.fm/9reuhyz8up8uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/aSEp7dkXMSllA0VoD-VNvBj3bpbFEatak_9z9tYraQM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE4Y2pTcUFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dvSlB5NXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY3Nzc3MzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng145",
+    "name": "Yabatech Radio",
+    "streamUrl": "https://stream.brainioustech.com/radio/8000/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/109182.v6.png",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng146",
+    "name": "Super 93.3 FM radio",
+    "streamUrl": "https://radio.superfm963.com/proxy/superfmph2/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gbCJY87jyZ.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng147",
+    "name": "88.5 UFM radio",
+    "streamUrl": "https://edge.mixlr.com/channel/adqkd",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/483/885-ufm.3b8d289e.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng159",
+    "name": "AudioHouse Radio",
+    "streamUrl": "https://stream.zeno.fm/rx7u42dsfzzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uv6YHypfa9.jpeg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng165",
+    "name": "Aloore Radio Oyo State",
+    "streamUrl": "https://stream.zeno.fm/0zmegeqw6hhvv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/109158.v5.png",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng166",
+    "name": "Inspiration radio",
+    "streamUrl": "https://stream.zenolive.com/by3n4vbb7f8uv.aac",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/5QL7C7Oc0L2zL98X24GdfchMYmlAh2krVcJx25iGh7I/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFyWnV6ekFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFuZkR3eWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2ODc1NTU1MTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng167",
+    "name": "Redlight Online Radio",
+    "streamUrl": "https://stream.zeno.fm/07ux8e8edd0uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/96648.v3.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng169",
+    "name": "Yesma Radio",
+    "streamUrl": "https://stream.zeno.fm/be3uxnr067zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uc3t5b6s2uv7.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng175",
+    "name": "BMC Radio Ile-Oluji",
+    "streamUrl": "https://stream.zeno.fm/nbryaaxbdm0uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/108547.v1.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng179",
+    "name": "Naijatastic Radio",
+    "streamUrl": "https://naijatastic.stream.laut.fm/naijatastic",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/116676.v3.png",
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng181",
+    "name": "Air Radio",
+    "streamUrl": "https://stream.zeno.fm/59fxeamhw98uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/747/air-radio.91c5ccc7.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng183",
+    "name": "The Coded Radio Station",
+    "streamUrl": "https://stream.zeno.fm/6ukexvkz6k0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uec3xsfcsbev.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng184",
+    "name": "Otitolagba Radio",
+    "streamUrl": "https://stream.zeno.fm/8n5tyfhnsuhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ZaLqhQ5cfAZQhPN_0l0roU4nDIabVgyzhNVwkIRGVIU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRElwUENzd0FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREk1Tm5xc3dzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY1ODgyMjEzNTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng186",
+    "name": "Zunes Radio",
+    "streamUrl": "https://stream.zeno.fm/7vfrddbzvhhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/JdFJ7_Hn0Wq-uXsOtI13plBw9L7_iKr0qbHc713pIIs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0kyck9Qd3dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0ktdnplMVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc1NzcxMzE2NDAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng188",
+    "name": "Yes FM 101.7 radio",
+    "streamUrl": "https://stream.zeno.fm/kqgbf9g3mfhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yd7EaRG9wZ.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng189",
+    "name": "ROJ Radio Network",
+    "streamUrl": "https://stream.zeno.fm/p2h75nznp2zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/okKwAkGKzJhqD9-0fDwPyBuVCKBK9JodljBk-zUpsU4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EyZER6OXdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1EyWkQ1X2drTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0NzU2NTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng193",
+    "name": "GlowBroadcasting radio",
+    "streamUrl": "https://stream.zeno.fm/dh2fca7k268uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2MDps9xWeg.jpeg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng199",
+    "name": "Nagari Radio",
+    "streamUrl": "https://stream.zeno.fm/1p9k47ksdg8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/BrvTWcHQuY.jpg",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng202",
+    "name": "Fresh Waves Radio",
+    "streamUrl": "https://s5.citrus3.com:8226/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2zzlrubjmpqj.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng203",
+    "name": "DLWYC Anglican Communion radio",
+    "streamUrl": "https://stream.zeno.fm/zh0n3yc6b48uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/S5HWNTZU4W.jpg",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng209",
+    "name": "Medal FM radio",
+    "streamUrl": "https://a4.asurahosting.com:8050/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/005/naija-fm-1027-ibadan.85e3a94c.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng212",
+    "name": "Eagle 102.5 FM radio",
+    "streamUrl": "https://stream.zeno.fm/ung8s3rznv8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dPQ6rp2VTP.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng213",
+    "name": "Gerin FM 95.5 radio",
+    "streamUrl": "https://stream.zeno.fm/s52ufwun738uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/626/gerin-fm-955-ilorin.c3251190.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng216",
+    "name": "Jarida Radio",
+    "streamUrl": "https://servidor13-1.brlogic.com:7024/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/106708.v3.png",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng217",
+    "name": "Info-Vibes radio",
+    "streamUrl": "https://stream.zeno.fm/gcvt5md7f78uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/KzFpxmyHNw.jpg",
+    "genre": "genre_news",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng219",
+    "name": "PAF Radio Ibadan",
+    "streamUrl": "https://stream.zeno.fm/px2z1cd99f0uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/100118.v4.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng223",
+    "name": "Bizzibodi FM radio",
+    "streamUrl": "https://ec1.everestcast.host:4725/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/MbnKdYcg2R.png",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng233",
+    "name": "YDI Radio",
+    "streamUrl": "https://s9.voscast.com:9079/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/104032.v6.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng236",
+    "name": "Badeggi Radio 90.1 FM",
+    "streamUrl": "https://stream.zeno.fm/q38pma9k9hhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/HN52wwCLyK.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng237",
+    "name": "Jara Radio",
+    "streamUrl": "https://stream.zeno.fm/g8f4kwna2rhvv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/115173.v9.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng243",
+    "name": "Diamond 88.5 FM Ilesa radio",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/brightbr/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bahrvjlqu8tk.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng249",
+    "name": "Jalbu Radio",
+    "streamUrl": "https://stream.zeno.fm/z23gvma2708uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/5Qs0zhNmdD8ol9AiM1ggWK5eVLf_5hKobPiKV6lEslU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3cxYnl3cXdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d0Wk9Lb0FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0OTE2ODAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng250",
+    "name": "Melody Tone Radio",
+    "streamUrl": "https://stream.zeno.fm/f4dldghdy9cuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yLm2qQXVwg.png",
+    "genre": "genre_dance",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng251",
+    "name": "Odenigbo 99.1FM radio",
+    "streamUrl": "https://stream.zeno.fm/vw5h7u0a4octv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/125839.v4.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng257",
+    "name": "Sahel FM 89.5 radio",
+    "streamUrl": "https://stream.zeno.fm/7tc90dxx77zuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/96766.v4.png",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng258",
+    "name": "Gospelstreet Radio",
+    "streamUrl": "https://stream.zeno.fm/yk59dgg2k0hvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/-LMHmqQfXd6FhtE1fZsV_SJcHZCWn8pX3tMnWoeIqWM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDY4MGE1YTktOGIxZC00MjlhLWI5MjUtYjdiNzYxYjExNzliL2ltYWdlLz91PTE3Njk3NTUzNTcwMDA.webp",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng259",
+    "name": "SOAR RADIO",
+    "streamUrl": "https://stream.zeno.fm/1c64s8r19nhvv.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/114677.v3.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng264",
+    "name": "Tofem Radio",
+    "streamUrl": "https://stream.zeno.fm/5t6khrxyuchvv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/114578.v4.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng268",
+    "name": "Jubilee 99.7fm radio",
+    "streamUrl": "https://cosmo.shoutca.st/proxy/jubileefm/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/124638.v3.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng276",
+    "name": "Jgiyc Radio",
+    "streamUrl": "https://stream.zeno.fm/atozraeju8hvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/UgXfODtNs9I1mGXH8iSNhyqlo5BqtQVsI5Re4xq1hJA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMzMyODRhODYtOTZjMC00N2QzLWJkMGItZDVhYTRmOTVkYTIwL2ltYWdlLz91PTE2ODExNjUxNjQwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng288",
+    "name": "Christ Emissaries Radio",
+    "streamUrl": "https://stream.zeno.fm/ewe5guf3trhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/uCmPmpNi_eMx9vU5W8oRAsj9Eoqh90W-om7Re10ZtmM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFxYVBlamdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0loOG1sd1FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTg5NTA0MjAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng293",
+    "name": "FaithLife Radio",
+    "streamUrl": "https://stream.zeno.fm/ekfhk4jbfvauv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/121984.v1.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng294",
+    "name": "Great Light Radio",
+    "streamUrl": "https://stream.zeno.fm/n7dcphg4i0quv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zjs4ppxlx9z2.jpg",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng295",
+    "name": "Newland Polytechnic Radio",
+    "streamUrl": "https://stream.zeno.fm/gpooza5hyhyvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/3JiaxIoi5lQk99G0_PyE5EplieTAHb8AxDxFv4IQI3c/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMjJlMzY3NjktNzg3ZC00ZDE2LWEwMzktM2NhOTc3YTE4ZWFiL2ltYWdlLz91PTE2ODE2MTMzNTEwMDA.webp",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng297",
+    "name": "Waniltu Radio",
+    "streamUrl": "https://stream.zeno.fm/fk4a2gyvef9uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/110485.v1.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng300",
+    "name": "Boss Radio Owerri",
+    "streamUrl": "https://ec1.everestcast.host:4795/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/CNDb4ff2zZ.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng303",
+    "name": "EXV RADIO",
+    "streamUrl": "https://stream.zeno.fm/albyyxzsvryuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/122864.v2.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng305",
+    "name": "Praiseworld Radio",
+    "streamUrl": "https://streaming.radio.co/s7dc18f0ad/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kkdMwJrtXG.png",
+    "genre": "genre_religious",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng306",
+    "name": "RadioTiwa radio",
+    "streamUrl": "https://stream.zeno.fm/tvqvamkwe5zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Wz6WJHStMy.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng307",
+    "name": "J Fm Radio 95.5",
+    "streamUrl": "https://stream.zeno.fm/z699c90knxhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/c5xt2KSApc.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng309",
+    "name": "Wocomworld Radio",
+    "streamUrl": "https://stream.zeno.fm/95un4seu2nhvv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/114728.v3.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng311",
+    "name": "Oyscatech Sug Campus Radio",
+    "streamUrl": "https://stream.zeno.fm/mffahiwezewuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/121825.v3.png",
+    "genre": "genre_kids",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng315",
+    "name": "RichLife FM radio",
+    "streamUrl": "https://servidor21.brlogic.com:7082/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JsLSaaDA9v.jpeg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng317",
+    "name": "WeradionLineStudio radio",
+    "streamUrl": "https://stream.zeno.fm/d2r3s47k1wzuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/122722.v3.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng324",
+    "name": "Domi Radio",
+    "streamUrl": "http://radio.shoutcastmedia.net:8302/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wZzu2vBKsM.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng325",
+    "name": "Adaba FM radio",
+    "streamUrl": "http://149.56.234.138:8008/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tty6tyt2gwlt.jpg",
+    "genre": "genre_folk",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng326",
+    "name": "Smooth FM 98.1 radio",
+    "streamUrl": "http://smoothlive.smooth981.fm:8000/smoothlivefm128",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JmT4ZAqj37.png",
+    "genre": "genre_jazz",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng327",
+    "name": "Christovibes radio",
+    "streamUrl": "http://c8.radioboss.fm:8037/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ajS6k2j3jwJsgKA90RRC3mmLid1ktC1GUPQONXztIEY/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOWJkYjY3NzMtMzc5OS00YTRhLTlmYjUtZjI4YmJkYzRhN2FjL2ltYWdlLz91PTE3MzQwOTYxMjEwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng328",
+    "name": "Solutions FM radio",
+    "streamUrl": "http://95.211.178.215:8016/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/126349.v4.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng335",
+    "name": "Jay 101.9 Fm radio",
+    "streamUrl": "http://live2.rcast.net:8970/stream.nsv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/95558.v7.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng341",
+    "name": "Hallmark Radio",
+    "streamUrl": "http://51.255.235.165/proxy/hallmarkradio?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ljyrt7ddfvc7.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng344",
+    "name": "Jatto 102.7 FM radio",
+    "streamUrl": "http://procyon.shoutca.st:8158/stream.nsv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jmakazg9cf2f.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng349",
+    "name": "WFM91.7 radio",
+    "streamUrl": "http://s28.myradiostream.com:11618/listen.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gbxexe4prfbq.jpg",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng351",
+    "name": "47.5 ATOBO Radio 1",
+    "streamUrl": "https://servidor40-2.brlogic.com:7038/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/102039.v16.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "ng362",
+    "name": "Nas Fm Yola 89.9 radio",
+    "streamUrl": "http://eu8.fastcast4u.com:22717/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/CPkTRYvHFe.png",
+    "genre": "genre_pop",
+    "country": "country_nigeria"
   }
 ]
