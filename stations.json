@@ -2,7 +2,7 @@
   {
     "id": "ru1",
     "name": "Европа Плюс",
-    "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3?a5aa305c",
+    "streamUrl": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/100/europa-plus.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -82,7 +82,7 @@
   {
     "id": "ru2",
     "name": "Русское Радио",
-    "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp?4b42",
+    "streamUrl": "https://rusradio.hostingradio.ru/rusradio128.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/100/rus-radio.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -250,7 +250,7 @@
   {
     "id": "ru25",
     "name": "Relax FM",
-    "streamUrl": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/200",
+    "streamUrl": "https://videoshot.radiopotok.ru/f/v/abstract/66.webm",
     "imageUrl": "https://topradio.me/assets/image/radio/180/relax-fm.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -8360,14 +8360,6 @@
     "country": "country_brazil"
   },
   {
-    "id": "br37",
-    "name": "Gospel Zooom",
-    "streamUrl": "https://stream03.pcradio.biz/gospel_zooom-hi",
-    "imageUrl": "https://pcradio.ru/images/stations/61b09cd623e74.jpg",
-    "genre": "genre_religious",
-    "country": "country_brazil"
-  },
-  {
     "id": "br38",
     "name": "Rádio Ubatuba",
     "streamUrl": "https://stream03.pcradio.biz/rad_rdbtb-hi",
@@ -8384,27 +8376,11 @@
     "country": "country_brazil"
   },
   {
-    "id": "br40",
-    "name": "Sorte Music",
-    "streamUrl": "https://stream03.pcradio.biz/sorte_web_radio-hi",
-    "imageUrl": "https://pcradio.ru/images/stations/62ea3ebd639b4.jpg",
-    "genre": "genre_pop",
-    "country": "country_brazil"
-  },
-  {
     "id": "br41",
     "name": "Morena FM 98.7",
     "streamUrl": "https://stream03.pcradio.biz/morenafm_com-hi",
     "imageUrl": "https://pcradio.ru/images/stations/61b09c6564697.jpg",
     "genre": "genre_pop",
-    "country": "country_brazil"
-  },
-  {
-    "id": "br42",
-    "name": "Novo Tempo",
-    "streamUrl": "https://stream03.pcradio.biz/novo_tempo-hi",
-    "imageUrl": "https://pcradio.ru/images/stations/61b09c69053c9.jpg",
-    "genre": "genre_religious",
     "country": "country_brazil"
   },
   {
@@ -10978,7 +10954,7 @@
   {
     "id": "aus14",
     "name": "Life Radio",
-    "streamUrl": "https://liferadio.streamabc.net/lfr-lr-mp3-128-9299368",
+    "streamUrl": "https://liferadio.streamabc.net/lfr-lr-mp3-192-7555112?sABC=69qs6p71%230%23ns92682o0pr77so4654r3ppnqq7q879r%23fgernz.yvsrenqvb.ng&aw_0_1st.playerid=stream.liferadio.at&amsparams=playerid:stream.liferadio.at;skey:1776249969",
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/austria/Life%20Radio.png",
     "genre": "genre_pop",
     "country": "country_austria"
