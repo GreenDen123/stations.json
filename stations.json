@@ -210,7 +210,7 @@
   {
     "id": "ru20",
     "name": "Love Radio",
-    "streamUrl": "https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=BC6D5D509924F0A817FE6409425BEEAC",
+    "streamUrl": "https://stream.gakku.kz:8443/love128.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/180/love-radio-md.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -362,7 +362,7 @@
   {
     "id": "ru39",
     "name": "Виктор Цой и группа КИНО",
-    "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJhNWU1YjcwNjhmZTE4OTRhMDRiNGRiMzUzYTUwZjg4YSIsIklQIjoiOTQuMjQzLjcxLjQyIiwiVUEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ0LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJSZWYiOiJodHRwczovLzEwMS5ydS8iLCJ1aWRfY2hhbm5lbCI6IjEwMyIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJ0eXBlRGV2aWNlIjoiUEMiLCJCcm93c2VyIjoiQ2hyb21lIiwiQnJvd3NlclZlcnNpb24iOiIxNDQuMC4wLjAiLCJTeXN0ZW0iOiJXaW5kb3dzIDEwIiwiZXhwIjoxNzcwNzU0MjUyfQ.1fXmdY8D6atAvL6WonZ4bTJEGdv_VhmPHxkst6HquYo",
+    "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJhNWU1YjcwNjhmZTE4OTRhMDRiNGRiMzUzYTUwZjg4YSIsIklQIjoiNDYuMTY2LjQ4LjIxMCIsIlVBIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDYuMDsgTmV4dXMgNSBCdWlsZC9NUkE1OE4pIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDYuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJSZWYiOiJodHRwczovLzEwMS5ydS8iLCJ1aWRfY2hhbm5lbCI6IjEwMyIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJ0eXBlRGV2aWNlIjoicGhvbmUiLCJEZXZpY2UiOiJOZXh1cyIsIkJyb3dzZXIiOiJDaHJvbWUiLCJTeXN0ZW0iOiJBbmRyb2lkIiwiZXhwIjoxNzc2Mjc5ODAwfQ.LPOtMHervMZPyiMXESfAfh6e47lLdjglr81C8QvmdX4",
     "imageUrl": "https://topradio.me/assets/image/radio/180/viktor-tcoi.png",
     "genre": "genre_rock",
     "country": "country_russia"
