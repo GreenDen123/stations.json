@@ -1,2378 +1,2338 @@
 [
   {
-    "id": "tr1",
-    "name": "Radyo Mega – Istanbul",
-    "streamUrl": "http://radyo.yayin.com.tr:4052/stream",
+    "id": "mex1",
+    "name": "Los 40",
+    "streamUrl": "https://22123.live.streamtheworld.com/LOS40_MEXICOAAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex2",
+    "name": "Free FM Classics Mexico",
+    "streamUrl": "https://xxdelgado.radioca.st",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr2",
-    "name": "Radyo Sesi",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8176/stream",
+    "id": "mex3",
+    "name": "Exa FM Ensenada",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHADA_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex4",
+    "name": "Jade Radio 21.6 Fm Online",
+    "streamUrl": "https://s01.digitalserver.org:7675",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr3",
-    "name": "Radyo ODTU",
-    "streamUrl": "https://stream3.radyoodtu.com.tr:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr4",
-    "name": "Joy Turk FM",
-    "streamUrl": "https://27913.live.streamtheworld.com/JOY_TURKAAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Joy Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr5",
-    "name": "PashPash 90s Station – Antakya",
-    "streamUrl": "https://90s.pashpashradio.com:7001/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr6",
-    "name": "Power Türk",
-    "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr7",
-    "name": "Diyanet Radyo Resmi",
-    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Diyanet Radyo.png",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr8",
-    "name": "Arabeskin Merkezi FM (Damardan) – Hacıbektaş",
-    "streamUrl": "https://canli.arabeskinmerkezi.com/9180/stream",
-    "imageUrl": "__________________________",
+    "id": "mex5",
+    "name": "La Mejor Durango",
+    "streamUrl": "https://18213.live.streamtheworld.com/XERCFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
     "genre": "genre_folk",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr9",
-    "name": "Vav Radyo",
-    "streamUrl": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr10",
-    "name": "PashPash Radio",
-    "streamUrl": "https://hits.pashpashradio.com:7000",
+    "id": "mex6",
+    "name": "Sol FM 89.7",
+    "streamUrl": "https://live.zuperdns.net:7015/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr11",
-    "name": "Keskin FM – Keskin",
-    "streamUrl": "http://yayin1.canliyayin.org:8286/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr12",
-    "name": "RADYO KARADENİZ 88.6",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8138/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr13",
-    "name": "Radyo FM 23 – Polatlı",
-    "streamUrl": "http://radyopiryolu.canliyayinda.com:8280/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr14",
-    "name": "Semerkand Radio – Seki",
-    "streamUrl": "https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Semerkand Radio.png",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr15",
-    "name": "Bedesten",
-    "streamUrl": "http://london-dedicated.myautodj.com:8010/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr16",
-    "name": "Radyo Romantik Turk – Izmir",
-    "streamUrl": "http://radyo.yayin.com.tr:6042/",
+    "id": "mex7",
+    "name": "Love 101.5 FM",
+    "streamUrl": "https://ss1.audiorama.com.mx:6632/stream",
     "imageUrl": "__________________________",
     "genre": "genre_relax",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr17",
-    "name": "Diyanet Kur'an Radyo",
-    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Diyanet Kuran.png",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr18",
-    "name": "Sorgun FM",
-    "streamUrl": "http://radyovetv.com:8001/stream.mp3",
+    "id": "mex8",
+    "name": "Radio XPlosion",
+    "streamUrl": "https://stream9.mexiserver.com:7087/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr19",
-    "name": "Radyo20",
-    "streamUrl": "http://95.130.173.45:9180",
+    "id": "mex9",
+    "name": "Clik Radio MX",
+    "streamUrl": "https://streaming.servicioswebmx.com/8002/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr20",
-    "name": "Süper FM",
-    "streamUrl": "https://25343.live.streamtheworld.com/SUPER_FMAAC_SC",
+    "id": "mex10",
+    "name": "Radial Stereo",
+    "streamUrl": "https://radioenlinea.click:8020/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr21",
-    "name": "Dost FM",
-    "streamUrl": "http://yayin.dostfm.com:8920/",
+    "id": "mex11",
+    "name": "Oro 94.9 Solo Hits",
+    "streamUrl": "https://sg.centrocibernetico.com/oro949",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
+    "genre": "genre_hits",
+    "country": "country_mexico"
   },
   {
-    "id": "tr22",
-    "name": "A Haber Radyo – Istanbul",
-    "streamUrl": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/A Haber.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr23",
-    "name": "Joy FM – Istanbul",
-    "streamUrl": "https://25683.live.streamtheworld.com/JOY_FM_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Joy FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr24",
-    "name": "Radyo Gökçeada – Gökçeada – Çanakkale Province",
-    "streamUrl": "http://radyo.yayin.com.tr:4034/",
+    "id": "mex12",
+    "name": "Radio80s",
+    "streamUrl": "https://audio-edge-ey5nr.ams.s.radiomast.io/ac38fb2a-590d-45d0-9ee6-2a23eff4263d",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
+    "genre": "genre_retro",
+    "country": "country_mexico"
   },
   {
-    "id": "tr25",
-    "name": "Number One FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/numberoneturk",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr26",
-    "name": "ERT FM",
-    "streamUrl": "http://radyo.yayin.com.tr:8012/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr27",
-    "name": "Akra FM",
-    "streamUrl": "http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Akra FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr28",
-    "name": "Radyo Fenomen Dans",
-    "streamUrl": "https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_dance",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr29",
-    "name": "Merkez FM",
-    "streamUrl": "https://sslyayin.radyoyayini.com/8016/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr30",
-    "name": "Radyo Turkuvaz – Turhal",
-    "streamUrl": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr31",
-    "name": "Park FM",
-    "streamUrl": "http://yayin.netradyom.com:8050/PARKFM",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Park FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr32",
-    "name": "Solfej FM-İzmir – Izmir",
-    "streamUrl": "https://radyoyek.80.yayin.com.tr",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr33",
-    "name": "Radyo Fenomen",
-    "streamUrl": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr34",
-    "name": "Radyo Trafik Izmir – Izmir",
-    "streamUrl": "http://37.247.100.118/stream/179/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr35",
-    "name": "Gözde FM",
-    "streamUrl": "https://gozdefm.80.yayin.com.tr/stream/1/?icy=http",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr36",
-    "name": "Kral FM",
-    "streamUrl": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Kral FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr37",
-    "name": "Radyo 5 – Izmir",
-    "streamUrl": "http://radio5tr.canliyayinda.com:8117/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr38",
-    "name": "Dolunay FM – Istanbul",
-    "streamUrl": "http://yayin1.canliyayin.org:8318",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr39",
-    "name": "Pal Station 106",
-    "streamUrl": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Pal Station.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr40",
-    "name": "TRT Çukurova Radyosu",
-    "streamUrl": "https://radio-trtcukurova.live.trt.com.tr/master.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/TRT Cukurova.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr41",
-    "name": "TRT Gap Diyarbakir Radyosu",
-    "streamUrl": "https://radio-trtgap.live.trt.com.tr/master.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/TRT Gap.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr42",
-    "name": "Radyo Karacadağ FM – 88.0 FM – Sanliurfa",
-    "streamUrl": "http://yayin.firatfm.com:3065/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr43",
-    "name": "Tempo FM Çorlu – 102.1 FM – Çorlu",
-    "streamUrl": "https://sslyayin.netyayin.net/8038/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr44",
-    "name": "Radyo 7 FM – Izmir",
-    "streamUrl": "https://radyo7icecast.radyotvonline.net/radyo7",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo 7.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr45",
-    "name": "Radyo Viva",
-    "streamUrl": "http://46.20.3.230/",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Viva.png",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr46",
-    "name": "NRG Slow – Çankaya",
-    "streamUrl": "http://live.nrgplay.com/stream/slow",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr47",
-    "name": "Risale Radyo – Istanbul",
-    "streamUrl": "https://radyo1.radyo-dinle.tc:7016/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr48",
-    "name": "Radio LIFE",
-    "streamUrl": "http://yayin2.canliyayin.org:8698/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr49",
-    "name": "Bati Radyo – Izmir",
-    "streamUrl": "https://sslyayin.netyayin.net:10902/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr50",
-    "name": "Noksanlar Kenti – Istanbul",
-    "streamUrl": "https://ssl120.radyotelekom.com.tr/8538/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr51",
-    "name": "Damar Turk FM – Istanbul",
-    "streamUrl": "https://live.radyositesihazir.com:10997",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Damar Turk FM.png",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr52",
-    "name": "Radyo Meyhane",
-    "streamUrl": "https://radyomeyhane.com/Radyo%20Meyhane.pls",
+    "id": "mex13",
+    "name": "La Poderosa Aguascalientes",
+    "streamUrl": "http://201.159.48.105:2871/",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr53",
-    "name": "Radyo Haber",
-    "streamUrl": "http://yayin2.yayindakiler.com:4118/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr54",
-    "name": "Mega aşk fm – Magnesia ad Sipylum",
-    "streamUrl": "http://live.radyo.in:8026",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr55",
-    "name": "Kafa Radyo",
-    "streamUrl": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Kafa Radyo.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr56",
-    "name": "Denge Radyo",
-    "streamUrl": "http://yayin1.canliyayin.org:8278/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr57",
-    "name": "Akdeniz Turku FM – Izmir",
-    "streamUrl": "http://akdeniz.radyomhd.com:9786",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr58",
-    "name": "Alaşehir Damar FM",
-    "streamUrl": "http://178.32.4.127:8358/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr59",
-    "name": "Baska – Istanbul",
-    "streamUrl": "https://29083.live.streamtheworld.com/BASKA128AAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Baska.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr60",
-    "name": "Kral Pop Radyo – Istanbul",
-    "streamUrl": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Kral Pop.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr61",
-    "name": "NTV Radyo",
-    "streamUrl": "http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/NTV Radyo.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr62",
-    "name": "Radyo Fenomen Pop",
-    "streamUrl": "https://live.radyofenomen.com/fenomenpop/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr63",
-    "name": "RADYO CAN",
-    "streamUrl": "http://yayin2.yayindakiler.com:4174/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr64",
-    "name": "RADYO TIME TURK – Istanbul",
-    "streamUrl": "http://yayin.yayindakiler.com:4195",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr65",
-    "name": "Konya Gözyaþý FM – 102.9 FM – Gözyeri",
-    "streamUrl": "http://yayin1.canliyayin.org:8700/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr66",
-    "name": "Radyo Alaturka – Istanbul",
-    "streamUrl": "https://yayin.jumboserver.net:9100/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr67",
-    "name": "FRED FILM RADIO Sardu – Istanbul",
-    "streamUrl": "http://stream.fred.fm:8122/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr68",
-    "name": "Show Radyo",
-    "streamUrl": "http://46.20.3.228/listen.pls",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Show Radyo.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr69",
-    "name": "Turkuvaz Romantik",
-    "streamUrl": "http://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Turkuvaz Romantik.png",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr70",
-    "name": "45 Lik – 89.4 FM – Istanbul",
-    "streamUrl": "https://stream.radyo45lik.com:4545/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr71",
-    "name": "Mio Radio – Istanbul",
-    "streamUrl": "http://s2.myradiostream.com:13662/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr72",
-    "name": "Radyo Aktif",
-    "streamUrl": "http://yayin1.yayindakiler.com:3164/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr73",
-    "name": "Melodi FM – Babaeski",
-    "streamUrl": "http://yayin2.yayindakiler.com:4164/.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr74",
-    "name": "Metro FM",
-    "streamUrl": "https://27783.live.streamtheworld.com/METRO_FM_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Metro FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr75",
-    "name": "Radyo Fenomen Turk",
-    "streamUrl": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr76",
-    "name": "Radyo 44 – Istanbul",
-    "streamUrl": "https://radyo44.80.yayin.com.tr/steram",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr77",
-    "name": "Power Dance – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Dance.png",
-    "genre": "genre_dance",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr78",
-    "name": "Radyo Ülkü",
-    "streamUrl": "http://radyo.yayin.com.tr:4006/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr79",
-    "name": "Ask FM",
-    "streamUrl": "http://yayin.asymedya.com:8020/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr80",
-    "name": "Elazığ Mavi Radyo – Elâzığ – Elazığ",
-    "streamUrl": "https://yayin.turkhosted.com/6066/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr81",
-    "name": "Radyo Venus – 91.5 FM – Izmir",
-    "streamUrl": "http://yayin.turkhosted.com:6010/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr82",
-    "name": "Radyo Zergan – Istanbul",
-    "streamUrl": "http://yayin1.yayindakiler.com:3194/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr83",
-    "name": "Incitek FM",
-    "streamUrl": "http://yayin2.yayindakiler.com:4204/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr84",
-    "name": "Botan FM",
-    "streamUrl": "http://yayin1.canliyayin.org:8026/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr85",
-    "name": "Radio C 106.5 FM",
-    "streamUrl": "http://yayin.radyoc.com:8091/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr86",
-    "name": "Houseland – Istanbul",
-    "streamUrl": "http://46.20.4.34/radyoland/houseland.stream/playlist.m3u8",
+    "id": "mex14",
+    "name": "Dance FM Mexico",
+    "streamUrl": "https://sonic.streamingchilenos.com/8138/stream",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr87",
-    "name": "KralTürk",
-    "streamUrl": "https://live.radyositesihazir.com/8032/stream",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Kral Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
+    "id": "mex15",
+    "name": "La Mejor Ciudad Obregón",
+    "streamUrl": "https://streamingcwsradio30.com:7058/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
   },
   {
-    "id": "tr88",
-    "name": "Super 2 FM – Istanbul",
-    "streamUrl": "https://27823.live.streamtheworld.com/SUPER2128AAC_SC",
+    "id": "mex16",
+    "name": "Exitos 91.3 FM",
+    "streamUrl": "https://ice8.securenetsystems.net/EXITO913",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex17",
+    "name": "Pulsar 107.3 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7021/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex18",
+    "name": "POP EXTREMO",
+    "streamUrl": "http://144.217.15.135:8000/stream/3/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex19",
+    "name": "Radio Bengala Ciudad Juárez",
+    "streamUrl": "https://19003.live.streamtheworld.com/XEWGAMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr89",
-    "name": "Hatay Radyo Akdeniz",
-    "streamUrl": "http://yayin.netyayin.net:7077/stream",
+    "id": "mex20",
+    "name": "Exa FM Tampico",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHOX_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex21",
+    "name": "Exa FM León",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHMDFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex22",
+    "name": "Mix 101.7 FM Morelia",
+    "streamUrl": "https://22973.live.streamtheworld.com/XHEMMAAC_SC",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
+    "genre": "genre_hits",
+    "country": "country_mexico"
   },
   {
-    "id": "tr90",
-    "name": "SÖZ.FM",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8074/stream",
+    "id": "mex23",
+    "name": "Radio BUAP 96.9 FM",
+    "streamUrl": "http://148.228.50.32:8000/",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
+    "genre": "genre_info",
+    "country": "country_mexico"
   },
   {
-    "id": "tr91",
-    "name": "Radyo Slayt – Istanbul",
-    "streamUrl": "https://live.radyo.in/8050/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr92",
-    "name": "Radyo Fenomen Karışık",
-    "streamUrl": "https://live.radyofenomen.com/fenomenkarisik/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr93",
-    "name": "AFN 360 Incirlik",
-    "streamUrl": "https://25443.live.streamtheworld.com/AFNE_ICK_SC",
-    "imageUrl": "__________________________",
+    "id": "mex24",
+    "name": "Imagen Radio 90.5 FM",
+    "streamUrl": "https://15313.live.streamtheworld.com/XEDAFMAAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
     "genre": "genre_news",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr94",
-    "name": "Radyo 13 – Tatvan",
-    "streamUrl": "http://yayin1.yayindakiler.com:3050/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr95",
-    "name": "AÇS Radyo",
-    "streamUrl": "https://ip169.ozelip.com:10838/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr96",
-    "name": "Joy Jazz – Istanbul",
-    "streamUrl": "https://22183.live.streamtheworld.com/JOY_JAZZ128AAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Joy Jazz.png",
-    "genre": "genre_jazz",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr97",
-    "name": "Radyo Niva – 103.5 FM – İzmit",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8214/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr98",
-    "name": "Power Pop – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Pop.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr99",
-    "name": "Bizim Radyo FM – Istanbul",
-    "streamUrl": "http://95.173.188.166:9986/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr100",
-    "name": "A Spor Radyo – Istanbul",
-    "streamUrl": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/A Spor.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr101",
-    "name": "Radyo Fenomen Rap – Istanbul",
-    "streamUrl": "https://live.radyofenomen.com/fenomenrap/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_hiphop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr102",
-    "name": "Sivas FM – 88.2 FM – Kazımkarabekir",
-    "streamUrl": "http://yayin1.canliyayin.org:8180/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr103",
-    "name": "Dogan 21 FM – Istanbul",
-    "streamUrl": "http://yayin1.yayindakiler.com:3024/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr104",
-    "name": "Radiology FM",
-    "streamUrl": "https://live.radyositesihazir.com/8090/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr105",
-    "name": "Radyo Mola",
-    "streamUrl": "http://yayin.yayindakiler.com:2018/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr106",
-    "name": "TRT Trabzon Radyosu",
-    "streamUrl": "https://radio-trttrabzon.live.trt.com.tr/master.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/TRT Trabzon.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr107",
-    "name": "Number One Deephouse FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Deephouse.png",
-    "genre": "genre_dance",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr108",
-    "name": "FECR Radyo FM",
-    "streamUrl": "https://yayin2.canliyayin.org:10966/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr109",
-    "name": "Radyo Deva – Istanbul",
-    "streamUrl": "https://ssl123.ozelip.com/8108/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr110",
-    "name": "Cizre Botan FM – Cizre – Şırnak",
-    "streamUrl": "http://yayin.netyayin.net:9914/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr111",
-    "name": "Radyo Bozcaada",
-    "streamUrl": "http://radyobozcaada.canliyayinda.com:4000/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr112",
-    "name": "IGDIR FM 93.0",
-    "streamUrl": "http://yayin2.yayindakiler.com:4158/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr113",
-    "name": "Radyo Sevimli FM",
-    "streamUrl": "http://yayin2.canliyayin.org:7887/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr114",
-    "name": "Bloomberg HT Radyo – 92.7 FM – Istanbul",
-    "streamUrl": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Bloomberg HT.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr115",
-    "name": "Radyo Yıldız",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8046/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr116",
-    "name": "Ostim Radyo",
-    "streamUrl": "https://stream.netradyom.com/radio/8010/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr117",
-    "name": "Karadeniz Sesi FM – Istanbul",
-    "streamUrl": "https://radyo3.okeylisans.com/karadenizsesifm/stream",
+    "id": "mex25",
+    "name": "La mas Buena 104.5 FM",
+    "streamUrl": "https://streaming.servicioswebmx.com/8218/stream",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr118",
-    "name": "NRG HipHop – Çankaya",
-    "streamUrl": "http://live.nrgplay.com/stream/hiphop",
+    "id": "mex26",
+    "name": "Radio Ranchito 99.7 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7005/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex27",
+    "name": "Lobos FM 94.1",
+    "streamUrl": "http://streamingcwsradio10.com:9300",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex28",
+    "name": "Radio Anime Nexus",
+    "streamUrl": "https://cast.animenexus.net/radio/8000/animenexus",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex29",
+    "name": "Sonora Grupera",
+    "streamUrl": "http://144.217.15.135:8000/stream/2/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex30",
+    "name": "La Mejor Oaxaca",
+    "streamUrl": "http://ororadio.serverroom.us:9142",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex31",
+    "name": "Radio Campesino",
+    "streamUrl": "https://server.streamingradios.net:7021",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex32",
+    "name": "La Rielera",
+    "streamUrl": "https://sp2.servidorrprivado.com/8308/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex33",
+    "name": "Ke Buena Ixmiquilpan",
+    "streamUrl": "http://cdn.instream.audio:9221/stream",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ke_Buena_logo.png/200px-Ke_Buena_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex34",
+    "name": "Radio San Luis",
+    "streamUrl": "https://servidor18.brlogic.com:7178/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex35",
+    "name": "RCG SJ 103.3 FM",
+    "streamUrl": "https://radio.rcg.com.mx:7001/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex36",
+    "name": "La Tremenda 103.1 FM",
+    "streamUrl": "https://live.zuperdns.net:7014/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex37",
+    "name": "Radio 13",
+    "streamUrl": "http://tuasesorweb.com:8050",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex38",
+    "name": "Capital Máxima 97.1 FM",
+    "streamUrl": "https://14023.live.streamtheworld.com/XHCHHAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex39",
+    "name": "Formula 1120 AM",
+    "streamUrl": "https://sg.centrocibernetico.com/formula1120am",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex40",
+    "name": "El Heraldo Radio 90.1 FM",
+    "streamUrl": "http://mexicanradio.org:9412/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex41",
+    "name": "Crystal 104.9 FM",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHMLOFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex42",
+    "name": "Radio Guerrero",
+    "streamUrl": "https://stream9.mexiserver.com/8126/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex43",
+    "name": "Radio Centro",
+    "streamUrl": "https://17563.live.streamtheworld.com/XEN_AMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex44",
+    "name": "La Rancherita del Aire",
+    "streamUrl": "http://116.203.229.227:8000/radio.mp3.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex45",
+    "name": "La Mejor Acapulco",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHSE_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex46",
+    "name": "FM Globo 98.7 GDL",
+    "streamUrl": "https://18193.live.streamtheworld.com/XHLCFMAAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FM_Globo_logo.svg/200px-FM_Globo_logo.svg.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex47",
+    "name": "Radiante 91.1 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7035/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex48",
+    "name": "La Angostura Radio",
+    "streamUrl": "https://stream9.mexiserver.com:8190",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex49",
+    "name": "Jalisco Radio",
+    "streamUrl": "https://sp2.servidorrprivado.com:10766/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex50",
+    "name": "Hits FM 104.9",
+    "streamUrl": "https://18723.live.streamtheworld.com/XERAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex51",
+    "name": "Rock Band Radio",
+    "streamUrl": "http://cdn.instream.audio:9105/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex52",
+    "name": "D99 FM",
+    "streamUrl": "https://27063.live.streamtheworld.com/D99_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex53",
+    "name": "Exa FM Mérida",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHMRA_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex54",
+    "name": "Pirata.FM Playa del Carmen",
+    "streamUrl": "https://14983.live.streamtheworld.com/XHLAYA_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex55",
+    "name": "Pirata.FM Puerto Vallarta",
+    "streamUrl": "https://25063.live.streamtheworld.com/XHGAIAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex56",
+    "name": "Cultura México Señal Internacional",
+    "streamUrl": "https://s2.mexside.net/8176/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex57",
+    "name": "70s Disco Nights Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/70s_disco_nights/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex58",
+    "name": "Fiesta Mexicana 93.7 FM",
+    "streamUrl": "http://5.79.86.158:8046",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex59",
+    "name": "Exa FM Monterrey",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHRSMTYFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex60",
+    "name": "La Futbolera Radio",
+    "streamUrl": "https://tv.radiohosting.online:9908/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex61",
+    "name": "La Rockola 91.3 FM",
+    "streamUrl": "https://streaming.servicioswebmx.com/8056/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex62",
+    "name": "Radio de Mexico",
+    "streamUrl": "https://jm8n.net:7029/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex63",
+    "name": "Radio UDEM",
+    "streamUrl": "http://c3.radioboss.fm:8161/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex64",
+    "name": "Imagen Puebla 105.1 FM",
+    "streamUrl": "http://puebla.radio.wnsol.com:8280",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex65",
+    "name": "Retro Radio",
+    "streamUrl": "http://retro.3utilities.com:9830",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex66",
+    "name": "Banda Grupera Radio",
+    "streamUrl": "https://stream9.mexiserver.com:7090/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex67",
+    "name": "XEU 98.1 FM",
+    "streamUrl": "https://sgaudio.centrocibernetico.com/xeu",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex68",
+    "name": "Vic Mar Producciones Radio Premier",
+    "streamUrl": "https://s01.digitalserver.org:7016",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex69",
+    "name": "Rock Connection 77",
+    "streamUrl": "https://s43.myradiostream.com/:22226/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex70",
+    "name": "Instrumentales de Oro Radio",
+    "streamUrl": "https://media.streamingradiomx.com/listen/instrumentales_de_oro_radio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex71",
+    "name": "Tempo Radio",
+    "streamUrl": "https://secure.tempo-radio.com/p320",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex72",
+    "name": "La Poderosa De Morelos",
+    "streamUrl": "http://radioenhd.com:8040/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex73",
+    "name": "La Mejor Tampico",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHJT_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex74",
+    "name": "La T Grande XET 990 AM",
+    "streamUrl": "https://18683.live.streamtheworld.com/XETAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex75",
+    "name": "Capital Pirata 89.3 FM",
+    "streamUrl": "https://25063.live.streamtheworld.com/XECHAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex76",
+    "name": "Mega 105.9",
+    "streamUrl": "https://ice8.securenetsystems.net:80/MEGA105",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex77",
+    "name": "Alfa Radio",
+    "streamUrl": "https://15723.live.streamtheworld.com/XHFAJ_FMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex78",
+    "name": "La Zeta Z98 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7030/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex79",
+    "name": "W Radio",
+    "streamUrl": "https://18723.live.streamtheworld.com/W_RADIO_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/W_Radio_logo.svg/250px-W_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex80",
+    "name": "Radiante 89.1 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7036/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex81",
+    "name": "Ke Buena Cd. Serdán",
+    "streamUrl": "https://14123.live.streamtheworld.com/KEBUENAAAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ke_Buena_logo.png/200px-Ke_Buena_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex82",
+    "name": "La Poderosa 860 AM",
+    "streamUrl": "https://streamingcwsradio30.com:7024/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex83",
+    "name": "La Zeta 103.5 FM",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHEM_FMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex84",
+    "name": "La Mejor Torreón",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHPE_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex85",
+    "name": "Exa FM CDMX",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHEXA_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex86",
+    "name": "Crystal 93.3 FM",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHEDTFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex87",
+    "name": "La Mejor Veracruz",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHVEFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex88",
+    "name": "Super 2000",
+    "streamUrl": "https://aguila1.netkairos.com:8140",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex89",
+    "name": "La Mejor Puerto Vallarta",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHCJX_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex90",
+    "name": "RG La Deportiva 690",
+    "streamUrl": "https://19253.live.streamtheworld.com/RG690AAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex91",
+    "name": "Bandas Mexicanas Radio",
+    "streamUrl": "https://media.streamingradiomx.com/listen/bandas_mexicanas_radio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex92",
+    "name": "Stereo Uno 101.3 FM",
+    "streamUrl": "https://audiostreaming.luz.network/?type=http",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex93",
+    "name": "W Radio Morelos",
+    "streamUrl": "https://stream9.mexiserver.com/8342/stream",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/W_Radio_logo.svg/250px-W_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex94",
+    "name": "Los 40 Principales Aguascalientes",
+    "streamUrl": "https://live.zuperdns.net/9570/stream/stream.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex95",
+    "name": "La Gruperisima",
+    "streamUrl": "https://sonic01.instainternet.com:7068",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex96",
+    "name": "Retro 90.5 FM HD",
+    "streamUrl": "https://s01.digitalserver.org:7637",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex97",
+    "name": "La Mejor Nogales",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHNGS_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex98",
+    "name": "Caribe 101.9 FM Cancún",
+    "streamUrl": "https://streamingcwsradio30.com:7015/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex99",
+    "name": "Mix 90.1 FM Toluca",
+    "streamUrl": "https://18423.live.streamtheworld.com/XHENOFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex100",
+    "name": "El y Ella 103.7 FM",
+    "streamUrl": "https://radios.radiohd.com.mx/8272/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex101",
+    "name": "La Mejor Ensenada",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHENA_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex102",
+    "name": "Salsa Mexico",
+    "streamUrl": "http://colombiawebs.com.co:8106/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex103",
+    "name": "Urbana Radio",
+    "streamUrl": "https://servidor18.brlogic.com:7370/live",
     "imageUrl": "__________________________",
     "genre": "genre_hiphop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr119",
-    "name": "Saray FM – Istanbul",
-    "streamUrl": "https://radio.saraypost.com/8002/stream/",
+    "id": "mex104",
+    "name": "Mix 92.7 FM Puerto Vallarta",
+    "streamUrl": "https://24083.live.streamtheworld.com/XHVAYFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex105",
+    "name": "Los 40 Mexicali",
+    "streamUrl": "https://26303.live.streamtheworld.com/LOS40_MEXICO2AAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex106",
+    "name": "Exa FM Cuernavaca",
+    "streamUrl": "https://27053.live.streamtheworld.com/XHCT_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex107",
+    "name": "Punto Fm Radio 93.5",
+    "streamUrl": "https://sonic01.instainternet.com:7004",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr120",
-    "name": "Radyo Gri – Istanbul",
-    "streamUrl": "https://gribalkon.radioca.st/stream",
+    "id": "mex108",
+    "name": "La Raza 1060 AM",
+    "streamUrl": "https://ice41.securenetsystems.net/LARAZA",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex109",
+    "name": "Exa FM Oaxaca",
+    "streamUrl": "http://ororadio2.serverroom.us:4638/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex110",
+    "name": "Amor 95.3 FM",
+    "streamUrl": "https://24973.live.streamtheworld.com/XHSHFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex111",
+    "name": "Exa FM Nogales",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHQT_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex112",
+    "name": "W Deportes",
+    "streamUrl": "https://26423.live.streamtheworld.com/TDW730AMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex113",
+    "name": "Lobos FM 106.7",
+    "streamUrl": "http://streamingcwsradio10.com:9304/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex114",
+    "name": "Radio Viva Juarez",
+    "streamUrl": "https://radioviva1025.radioca.st/8074",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex115",
+    "name": "La Ranchera de Monterrey",
+    "streamUrl": "http://mexicanradio.org:9410/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex116",
+    "name": "Imagen Querétaro 94.7 FM",
+    "streamUrl": "http://radio.wnsol.com:8070/stream.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex117",
+    "name": "La Mejor Monterrey",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHSROFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex118",
+    "name": "Radio Educación 96.5 FM",
+    "streamUrl": "https://s2.mexside.net/8174/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex119",
+    "name": "Radio FMX",
+    "streamUrl": "https://streaming.servicioswebmx.com/8062/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex120",
+    "name": "Génesis 98.1 FM",
+    "streamUrl": "http://streamingcwsradio20.com:9406/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex121",
+    "name": "Lobos FM 93.7",
+    "streamUrl": "http://streamingcwsradio20.com:9330",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex122",
+    "name": "Radiante FM",
+    "streamUrl": "https://streamingcwsradio30.com:7034/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex123",
+    "name": "La Invasora 98.9 FM Aguascalientes",
+    "streamUrl": "http://201.159.48.105:8080",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex124",
+    "name": "La Patrona de Creel",
+    "streamUrl": "https://streamingcwsradio30.com/8130/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex125",
+    "name": "Radio Fórmula 104.1 FM",
+    "streamUrl": "https://sg.centrocibernetico.com/formula104",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Radio_Formula_logo.svg/200px-Radio_Formula_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex126",
+    "name": "La Peligrosa",
+    "streamUrl": "https://streaming.servicioswebmx.com/8228/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex127",
+    "name": "Ya! FM Villahermosa",
+    "streamUrl": "https://sgaudio.centrocibernetico.com/yafmvillahermosa",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex128",
+    "name": "Opus 94",
+    "streamUrl": "https://s2.mexside.net/8016/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex129",
+    "name": "Super Stereo",
+    "streamUrl": "https://s2.mexside.net/8068/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex130",
+    "name": "Los 40 Principales Morelia",
+    "streamUrl": "http://s4.mexside.net:7040/stream.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex131",
+    "name": "Capital 105.3 FM",
+    "streamUrl": "https://24883.live.streamtheworld.com/XHCMRAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex132",
+    "name": "Crystal 95.7 FM",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHMYFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex133",
+    "name": "La Invasora 90.5 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7029/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex134",
+    "name": "La Caliente FM 97.1",
+    "streamUrl": "https://15723.live.streamtheworld.com/XHNLOFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex135",
+    "name": "Ke Buena Guadalajara",
+    "streamUrl": "https://24083.live.streamtheworld.com/KEBUENA_GDLAAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ke_Buena_logo.png/200px-Ke_Buena_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex136",
+    "name": "Oldies Internet Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex137",
+    "name": "Capital Máxima 91.1 FM",
+    "streamUrl": "https://16613.live.streamtheworld.com/XHMZIAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex138",
+    "name": "Lobos FM 103.5",
+    "streamUrl": "http://streamingcwsradio20.com:9422/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex139",
+    "name": "FM Globo 88.1",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHJMFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FM_Globo_logo.svg/200px-FM_Globo_logo.svg.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex140",
+    "name": "91X FM",
+    "streamUrl": "https://14923.live.streamtheworld.com/XTRAFMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr121",
-    "name": "RadyoGorkem",
-    "streamUrl": "https://radyoserver1.okeylisans.com:8014/",
+    "id": "mex141",
+    "name": "La Mejor Tuxtepec",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHXP_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex142",
+    "name": "La Caliente FM 94.1",
+    "streamUrl": "https://26153.live.streamtheworld.com/XETFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex143",
+    "name": "La Z FM 107.3",
+    "streamUrl": "https://20593.live.streamtheworld.com/XEQR_FMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr122",
-    "name": "Radyo Modoko",
-    "streamUrl": "https://sslyayin.radyoyayini.com:7002/stream",
+    "id": "mex144",
+    "name": "Exa FM Poza Rica",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHRIC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex145",
+    "name": "Radio Formula 91.5 FM",
+    "streamUrl": "http://144.217.15.135:8000/stream/6/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Radio_Formula_logo.svg/200px-Radio_Formula_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex146",
+    "name": "Radio Universidad de Guadalajara",
+    "streamUrl": "http://148.202.165.7:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex147",
+    "name": "Match FM",
+    "streamUrl": "https://25023.live.streamtheworld.com/XHPOPFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex148",
+    "name": "Super 92.5 FM",
+    "streamUrl": "http://streamingcwsradio30.com:8126/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr123",
-    "name": "NRG Cage Club – Çankaya",
-    "streamUrl": "http://live.nrgplay.com/stream/cageclub",
+    "id": "mex149",
+    "name": "Los 40 Veracruz",
+    "streamUrl": "https://26233.live.streamtheworld.com/LOS40_VERAAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex150",
+    "name": "Imagen 103.1 FM",
+    "streamUrl": "http://tampico.radio.wnsol.com:8300/stream.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex151",
+    "name": "La Mejor Guadalajara",
+    "streamUrl": "https://26183.live.streamtheworld.com/XHRO_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex152",
+    "name": "Romántica 1380 AM",
+    "streamUrl": "http://s1.audiorama.mx:6582/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex153",
+    "name": "Capital Máxima 103.3 FM",
+    "streamUrl": "https://27163.live.streamtheworld.com/XHZLAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex154",
+    "name": "La Bestia Grupera Chilpancingo",
+    "streamUrl": "http://s1.audiorama.mx:6614/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex155",
+    "name": "Recuerdo Radio",
+    "streamUrl": "https://aguila1.netkairos.com:8048",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex156",
+    "name": "Radio Sinaloa",
+    "streamUrl": "https://sp2.servidorrprivado.com:10860/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex157",
+    "name": "La Gruperita 98.3 FM",
+    "streamUrl": "https://streaming.servicioswebmx.com/8124/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex158",
+    "name": "La Zeta 93.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7027/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex159",
+    "name": "Radio Fórmula 103.3 FM",
+    "streamUrl": "https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/61e1e0125e404b0836c1e402/playlist.m3u8",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Radio_Formula_logo.svg/200px-Radio_Formula_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex160",
+    "name": "Imagen Mexicali 105.5 FM",
+    "streamUrl": "http://mexicali.radio.wnsol.com:8340/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex161",
+    "name": "Star Radio FM",
+    "streamUrl": "https://s01.digitalserver.org/8036/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex162",
+    "name": "La Grande de Michoacán",
+    "streamUrl": "https://sonicpanel.tmcreativos.com/8026/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex163",
+    "name": "Radio Disney México",
+    "streamUrl": "https://22203.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Radio_Disney.svg/200px-Radio_Disney.svg.png",
+    "genre": "genre_kids",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex164",
+    "name": "Imagen Cancún 90.7 FM",
+    "streamUrl": "http://radio.wnsol.com:8162/stream.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex165",
+    "name": "La Mejor Hermosillo",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHBH_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex166",
+    "name": "ABC Radio Querétaro FM 107.9",
+    "streamUrl": "https://streaming.servicioswebmx.com/8282/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex167",
+    "name": "La Zeta 96.3 FM",
+    "streamUrl": "http://srmx.ddns.net:8100/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex168",
+    "name": "La Mejor Cuernavaca",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHVZ_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex169",
+    "name": "Classic Rock Universal",
+    "streamUrl": "https://27063.live.streamtheworld.com/XHNZ_COMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex170",
+    "name": "Los 40 Principales Monterrey",
+    "streamUrl": "https://24083.live.streamtheworld.com/LOS40_MTYAAC_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex171",
+    "name": "Amor 97.9 FM",
+    "streamUrl": "https://17803.live.streamtheworld.com/XHQTO_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex172",
+    "name": "La Mejor 102.1 FM",
+    "streamUrl": "http://ais-sa2.cdnstream1.com/2364_64.aac",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex173",
+    "name": "Vibra Mazatlán",
+    "streamUrl": "https://sp3.servidorrprivado.com:10827/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex174",
+    "name": "Pirata.FM Cancún",
+    "streamUrl": "https://16603.live.streamtheworld.com/XHCQR_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex175",
+    "name": "La Invasora 94.5 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7023/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex176",
+    "name": "Imagen Guadalajara 93.9 FM",
+    "streamUrl": "http://radio.wnsol.com:8240/stream.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex177",
+    "name": "Radio Recuerdo 860",
+    "streamUrl": "https://22213.live.streamtheworld.com/XENLAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex178",
+    "name": "Dinámica 94.5 FM",
+    "streamUrl": "https://16603.live.streamtheworld.com/XHTAFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex179",
+    "name": "Noticias MVS",
+    "streamUrl": "https://20593.live.streamtheworld.com/XHMVSFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MVS_Radio_logo.png/200px-MVS_Radio_logo.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex180",
+    "name": "La TKR 1480 AM",
+    "streamUrl": "https://18153.live.streamtheworld.com/XETKRAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex181",
+    "name": "Canal 58",
+    "streamUrl": "https://streaming.servicioswebmx.com/8266/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex182",
+    "name": "80s Online Radio",
+    "streamUrl": "https://panel.retrolandigital.com/radio/8150/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex183",
+    "name": "Olas Altas Radio",
+    "streamUrl": "https://janus.shoutca.st/tunein/olasalta.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex184",
+    "name": "La Mejor Mérida",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHQW_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex185",
+    "name": "Café Romántico Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/cafe_romantico_radio/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex186",
+    "name": "Valora Radio",
+    "streamUrl": "https://stream.radio.co/s25e84d1ea/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex187",
+    "name": "La Mas Perrona 105.3 FM",
+    "streamUrl": "https://sp3.servidorrprivado.com/8160/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex188",
+    "name": "Mix 103.1 León",
+    "streamUrl": "https://24943.live.streamtheworld.com/XHXFAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex189",
+    "name": "Radio Zacatecas",
+    "streamUrl": "https://streamingcwsradio30.com:7051/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex190",
+    "name": "Es Amor 104.5 FM",
+    "streamUrl": "https://s01.digitalserver.org:7026",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex191",
+    "name": "Super Estelar 92.9 FM",
+    "streamUrl": "https://25083.live.streamtheworld.com/XHCDUFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex192",
+    "name": "La Invasora 99.7",
+    "streamUrl": "https://streamingcwsradio30.com:7022/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex193",
+    "name": "La Reverenda FM",
+    "streamUrl": "https://s2.mexside.net:7080/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex194",
+    "name": "Color Classic FM 96.1",
+    "streamUrl": "https://26303.live.streamtheworld.com/XHON_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex195",
+    "name": "La Poderosa 92.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7043/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex196",
+    "name": "Stereo Uno 100.3 FM",
+    "streamUrl": "https://audiostreaming.luz.network/stream/13/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex197",
+    "name": "Los 40 Principales Matamoros",
+    "streamUrl": "http://radio.alphamx.net:8104",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex198",
+    "name": "Mariachi Digital",
+    "streamUrl": "http://us10a.serverse.com:8207/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex199",
+    "name": "AW 1280 AM",
+    "streamUrl": "https://26293.live.streamtheworld.com/XEAWAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex200",
+    "name": "Capital Máxima 91.3 FM",
+    "streamUrl": "https://24933.live.streamtheworld.com/XHEIMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex201",
+    "name": "Exa FM Mexicali",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHJCFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex202",
+    "name": "Amor 93.1 FM",
+    "streamUrl": "https://14623.live.streamtheworld.com/XHPIFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex203",
+    "name": "Vibra Culiacán",
+    "streamUrl": "https://sp2.servidorrprivado.com:10859/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex204",
+    "name": "Horizonte 107.9",
+    "streamUrl": "https://s2.mexside.net/8014/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex205",
+    "name": "Capital FM 92.1 FM",
+    "streamUrl": "https://15723.live.streamtheworld.com/XHUXAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex206",
+    "name": "Stereo Uno 94.1 FM",
+    "streamUrl": "https://audiostreaming.luz.network/stream/7/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex207",
+    "name": "La Invasora 101.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7028/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex208",
+    "name": "Amor 92.5 FM",
+    "streamUrl": "https://18233.live.streamtheworld.com/XHRJFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex209",
+    "name": "Mix 93.1 FM Cancún",
+    "streamUrl": "https://14923.live.streamtheworld.com/XHYIFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex210",
+    "name": "Exa FM Tijuana",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHGLX_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex211",
+    "name": "Radio Universidad 100.5 FM",
+    "streamUrl": "http://200.23.125.55:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex212",
+    "name": "Hits FM 106.1",
+    "streamUrl": "https://18723.live.streamtheworld.com/HITS106_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex213",
+    "name": "Exa FM Veracruz",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHPSFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex214",
+    "name": "La Caliente FM 93.1",
+    "streamUrl": "https://26303.live.streamtheworld.com/XHAAAFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex215",
+    "name": "Amor 103.3 FM",
+    "streamUrl": "https://22983.live.streamtheworld.com/XHRHFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex216",
+    "name": "Digital 102.9 FM",
+    "streamUrl": "https://18163.live.streamtheworld.com/DIGITAL_1029FM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex217",
+    "name": "Somos D95",
+    "streamUrl": "https://22203.live.streamtheworld.com/XHCHHFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex218",
+    "name": "Stereorey México",
+    "streamUrl": "https://14153.live.streamtheworld.com/STEREOREY_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex219",
+    "name": "Radio Felicidad 1180 AM",
+    "streamUrl": "https://17793.live.streamtheworld.com/XEFRAMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex220",
+    "name": "La Kaliente 90.7 FM",
+    "streamUrl": "https://26353.live.streamtheworld.com/XHHLLAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex221",
+    "name": "La comadre 100.3 FM",
+    "streamUrl": "http://hd.digitalradio.mx:6121/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex222",
+    "name": "Universo 94.9",
+    "streamUrl": "http://192.99.233.46:9738/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex223",
+    "name": "Reactor 105.7 FM",
+    "streamUrl": "https://s2.mexside.net/8002/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex224",
+    "name": "Universal 88.1 FM",
+    "streamUrl": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex225",
+    "name": "Beat 100.9",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHSONFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex226",
+    "name": "Tropicalísima 1350 AM",
+    "streamUrl": "https://s2.mexside.net/8030/stream",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr124",
-    "name": "Radyo Banko",
-    "streamUrl": "http://yayin.netradyom.com:9910/RADYOBANKO",
+    "id": "mex227",
+    "name": "XEB La B Grande 1220 AM",
+    "streamUrl": "https://s2.mexside.net/8024/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr125",
-    "name": "Radyo Yorem",
-    "streamUrl": "http://live4.radyoyayini.com:9420/",
+    "id": "mex228",
+    "name": "88.9 Noticias",
+    "streamUrl": "https://15723.live.streamtheworld.com/XHMFMAAC_SC",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr126",
-    "name": "Number One Türk Slow FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/slow",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Turk.png",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr127",
-    "name": "Radyo Ses Eskisehir",
-    "streamUrl": "http://live2.radyotvonline.com:8095/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr128",
-    "name": "X Radio – 106.6 FM – Istanbul",
-    "streamUrl": "https://stream.xradio.com.tr:8770/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr129",
-    "name": "Turku Radyo",
-    "streamUrl": "http://radyo.turkuradyo.net:4591/",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Turku Radyo.png",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr130",
-    "name": "Radyo Aria",
-    "streamUrl": "http://ariaprme.80.yayin.com.tr",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr131",
-    "name": "Radio Wanderlust",
-    "streamUrl": "http://radyo.yayin.com.tr:5898//stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr132",
-    "name": "1919 FM",
-    "streamUrl": "https://radyoserver3.okeylisans.com:8050/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr133",
-    "name": "Radyo Gol – 95.8 FM – Istanbul",
-    "streamUrl": "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Gol.png",
     "genre": "genre_news",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr134",
-    "name": "Can Radyo – 93.3 FM – Izmir",
-    "streamUrl": "http://yayin1.yayindakiler.com:3124/",
+    "id": "mex229",
+    "name": "Magia 101.7 FM",
+    "streamUrl": "https://magia101.streaming.radiogrupo.com/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr135",
-    "name": "Power Smooth Jazz – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Smooth Jazz.png",
+    "id": "mex230",
+    "name": "La Comadre 1260 AM",
+    "streamUrl": "https://25013.live.streamtheworld.com/XELAMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex231",
+    "name": "Oye 89.7",
+    "streamUrl": "https://14123.live.streamtheworld.com/XEOYEFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex232",
+    "name": "Match 90.1 FM Puebla",
+    "streamUrl": "https://17843.live.streamtheworld.com/XHRSFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex233",
+    "name": "Exa FM Torreón",
+    "streamUrl": "https://18073.live.streamtheworld.com/XHMP_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex234",
+    "name": "La Caliente FM 90.9",
+    "streamUrl": "https://18723.live.streamtheworld.com/XHAHCFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex235",
+    "name": "Evolucion 98.5 FM",
+    "streamUrl": "https://whmsonic.playerfullhd.com/8040/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex236",
+    "name": "Hits FM 93.1",
+    "streamUrl": "https://14123.live.streamtheworld.com/XHCTOFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex237",
+    "name": "ZOOM 95.5 FM",
+    "streamUrl": "http://rosetta.shoutca.st:8125/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex238",
+    "name": "Stereo Saltillo 93.5",
+    "streamUrl": "https://18163.live.streamtheworld.com/XHQCFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex239",
+    "name": "La Mejor Mexicali",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHVGFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex240",
+    "name": "FM Globo 101.9",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHPFFM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FM_Globo_logo.svg/200px-FM_Globo_logo.svg.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex241",
+    "name": "Yucatán FM",
+    "streamUrl": "https://s2.mexside.net/8054/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex242",
+    "name": "Milenio Radio 103.7",
+    "streamUrl": "https://26113.live.streamtheworld.com/FMTU_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex243",
+    "name": "Mix 106.5 Querétaro",
+    "streamUrl": "https://14613.live.streamtheworld.com/XHGVAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex244",
+    "name": "La Comadre 98.5 FM",
+    "streamUrl": "https://18423.live.streamtheworld.com/XHCLIFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex245",
+    "name": "La Caliente FM 94.5",
+    "streamUrl": "https://27063.live.streamtheworld.com/XHTPOFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex246",
+    "name": "AW Inolvidable 101.3",
+    "streamUrl": "https://26223.live.streamtheworld.com/XHAWFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex247",
+    "name": "Z90.3 FM",
+    "streamUrl": "https://18543.live.streamtheworld.com/XHTZFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex248",
+    "name": "Vibra Los Mochis",
+    "streamUrl": "https://sp3.servidorrprivado.com:10828/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex249",
+    "name": "Hits FM 103.7",
+    "streamUrl": "https://22113.live.streamtheworld.com/XHCHAFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex250",
+    "name": "Studio 93.1 FM",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHMZTFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex251",
+    "name": "Classic FM 103.7",
+    "streamUrl": "https://15723.live.streamtheworld.com/XHHEMFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex252",
+    "name": "Sabrosita 590 AM",
+    "streamUrl": "https://19293.live.streamtheworld.com/XEPHAMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex253",
+    "name": "Radio Mexiquense",
+    "streamUrl": "https://streamingcwsradio30.com:7019/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex254",
+    "name": "La Caliente FM 92.3",
+    "streamUrl": "https://26353.live.streamtheworld.com/XHTRRFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex255",
+    "name": "La Caliente 105.7 FM",
+    "streamUrl": "https://19303.live.streamtheworld.com/XHLRSFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex256",
+    "name": "104.3 HIT-FM",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHTO_FMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex257",
+    "name": "Banda 93.3 FM",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHQQ_FMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex258",
+    "name": "Felicidad 95.5 FM",
+    "streamUrl": "https://25003.live.streamtheworld.com/XEHIT_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex259",
+    "name": "El Lobo 106.1 FM",
+    "streamUrl": "https://streamingcwsradio30.com/8172/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex260",
+    "name": "Mix 91.7 FM Puebla",
+    "streamUrl": "https://18423.live.streamtheworld.com/XHRCFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex261",
+    "name": "FM Globo 99.3",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHOCL_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FM_Globo_logo.svg/200px-FM_Globo_logo.svg.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex262",
+    "name": "La Guadalupana 101.7 FM",
+    "streamUrl": "https://webprod.sipse.com.mx:8080/guadalupana",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex263",
+    "name": "Radio UNAM 96.1 FM",
+    "streamUrl": "https://tv.radiohosting.online:9484/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex264",
+    "name": "Stereo Cien 100.1 FM",
+    "streamUrl": "https://15313.live.streamtheworld.com/XHMMFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex265",
+    "name": "106.5 Mix",
+    "streamUrl": "https://25013.live.streamtheworld.com/XHDFMFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex266",
+    "name": "Radio Tulum",
+    "streamUrl": "https://streaming.radio.co/s510dd57df/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex267",
+    "name": "Exa FM Campeche",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHMI_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex268",
+    "name": "Classic FM 106.9",
+    "streamUrl": "https://15723.live.streamtheworld.com/CLASSIC106_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex269",
+    "name": "Stereo Joya FM",
+    "streamUrl": "https://26423.live.streamtheworld.com/XEJP_FMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex270",
+    "name": "Mix MIX 92.5 FM Pachuca",
+    "streamUrl": "https://25013.live.streamtheworld.com/XHPKFMAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex271",
+    "name": "Digital 106.5 FM",
+    "streamUrl": "https://radio.rcg.com.mx:7000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex272",
+    "name": "Exa FM Acapulco",
+    "streamUrl": "https://17643.live.streamtheworld.com/XHNQ_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex273",
+    "name": "La Caliente 107.3 FM",
+    "streamUrl": "https://26303.live.streamtheworld.com/XHXTFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex274",
+    "name": "La Sabrosita 95.7",
+    "streamUrl": "https://18693.live.streamtheworld.com/LASABROSITA_957FM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex275",
+    "name": "Digital Radio Mex",
+    "streamUrl": "https://radioenlinea.click:8030/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex276",
+    "name": "Azul FM 103.9",
+    "streamUrl": "https://14943.live.streamtheworld.com/ACIR24_S01AAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex277",
+    "name": "Smooth Jazz MX OnLine",
+    "streamUrl": "https://listen.radionomy.com/smoothjazzmxonline.m3u",
+    "imageUrl": "__________________________",
     "genre": "genre_jazz",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr136",
-    "name": "Uni FM",
-    "streamUrl": "https://unifmcom.80.yayin.com.tr",
+    "id": "mex278",
+    "name": "La Mejor Tijuana",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHTIM_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex279",
+    "name": "Exa FM Guadalajara",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHMA_SC",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex280",
+    "name": "Vida 1370 AM",
+    "streamUrl": "https://ss1.audiorama.com.mx:6596/stream",
     "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex281",
+    "name": "Radio Sensacion 106.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7044/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex282",
+    "name": "La Mía 101.7 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7057/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex283",
+    "name": "104.5 Radio Latina",
+    "streamUrl": "https://26313.live.streamtheworld.com/XLTNFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex284",
+    "name": "Ibero 90.9 FM",
+    "streamUrl": "https://noasrv.caster.fm:10182/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex285",
+    "name": "Stereo 100.3 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7026/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex286",
+    "name": "Lobos FM 97.3",
+    "streamUrl": "http://streamingcwsradio20.com:9418/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex287",
+    "name": "MavisFox Radio 91.5 FM",
+    "streamUrl": "https://sp2.servidorrprivado.com/8994/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex288",
+    "name": "Capital FM Coahuila",
+    "streamUrl": "https://16613.live.streamtheworld.com/XHLZAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex289",
+    "name": "Cumbias Inmortales Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex290",
+    "name": "La Mejor Zacatecas",
+    "streamUrl": "https://19313.live.streamtheworld.com/XHEMAAAC.aac",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex291",
+    "name": "Imagen Radio 97.3 FM",
+    "streamUrl": "http://chihuahua.radio.wnsol.com:8220/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
     "genre": "genre_news",
-    "country": "country_turkey"
+    "country": "country_mexico"
   },
   {
-    "id": "tr137",
-    "name": "Number One Turk 90'lar – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/numberone90s",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr138",
-    "name": "Isra FM – 100.6 FM – Istanbul",
-    "streamUrl": "http://yayin1.canliyayin.org:8210/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr139",
-    "name": "Radio Dogubayazıt 104.4 FM – 104.4 FM – Istanbul",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8156/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr140",
-    "name": "Radyo Arabesk – 106.4 FM – Istanbul",
-    "streamUrl": "https://yayin.radyoarabesk.com.tr:8000/stream",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Arabesk.png",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr141",
-    "name": "Radyo Hazar – Elâzığ – Elazığ",
-    "streamUrl": "http://radyohazar.canliyayinda.com:8286/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr142",
-    "name": "Radio Clubbin – Istanbul",
-    "streamUrl": "http://radyo.yayin.com.tr:6199",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr143",
-    "name": "Radyo Bizim FM",
-    "streamUrl": "http://radyo.radyobizimfm.com:9212/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr144",
-    "name": "Pal Nostalji – Istanbul",
-    "streamUrl": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Pal Nostalji.png",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr145",
-    "name": "RADYO JUKE – Göçbeyli",
-    "streamUrl": "http://yayin.netradyom.com:9990/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr146",
-    "name": "Radyo Karamursel – Kocaali",
-    "streamUrl": "http://yayin1.yayindakiler.com:3052/listen.pls?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr147",
-    "name": "Radyo Deva Adana",
-    "streamUrl": "http://yayin.yayindakiler.com:3040/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr148",
-    "name": "Radyo Nida",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8106/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr149",
-    "name": "Radyo Yeditepe – Istanbul",
-    "streamUrl": "https://ip169.ozelip.com/8082/stream/*.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr150",
-    "name": "Slow Karadeniz FM",
-    "streamUrl": "http://dinle.slowkaradenizfm.com:9578",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr151",
-    "name": "Hayal FM",
-    "streamUrl": "http://yayin.radyohayalfm.net:8050/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr152",
-    "name": "Radio Atilim",
-    "streamUrl": "https://radyoatilim.yayin.com.tr/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr153",
-    "name": "SOYLU Medya",
-    "streamUrl": "http://yayin.yayindakiler.com:4034/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr154",
-    "name": "Radyo Tutkal – İzmit",
-    "streamUrl": "https://live.radyositesihazir.com/8034/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr155",
-    "name": "Akustik Türküler",
-    "streamUrl": "http://46.20.4.54:8020/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr156",
-    "name": "Kilis Sultan Radyo 106.0 FM",
-    "streamUrl": "https://sslyayin.netyayin.net/7979/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr157",
-    "name": "Radyo Ekin FM",
-    "streamUrl": "http://yayin.turkhosted.com:6006/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr158",
-    "name": "Radyo Yakamoz",
-    "streamUrl": "http://live4.radyotvonline.com:6570/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr159",
-    "name": "Radyo Mugla",
-    "streamUrl": "http://yayin.yayindakiler.com:3006/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr160",
-    "name": "Yozgat FM",
-    "streamUrl": "https://sslyayin.netyayin.net:10921/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr161",
-    "name": "Radyo Piramit – İzmit",
-    "streamUrl": "http://yayin.netyayin.net:2637",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr162",
-    "name": "Radyo Soft – Istanbul",
-    "streamUrl": "https://trkvz-radyolar.ercdn.net/radyosoft/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Soft.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr163",
-    "name": "Radyo Kara Kutu",
-    "streamUrl": "https://player.web.tr/listen/dfd13033c49a6569801474108a8bf098",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr164",
-    "name": "Radyo Slow Time – Istanbul",
-    "streamUrl": "http://46.20.7.104/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr165",
-    "name": "Radyo Kilim",
-    "streamUrl": "http://yayin.netyayin.net:2727/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr166",
-    "name": "Best FM – Istanbul",
-    "streamUrl": "http://37.247.100.100:1935/best/bestfm.stream/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Best FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr167",
-    "name": "Diyanet Risalet Radyo",
-    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Diyanet Risalet.png",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr168",
-    "name": "TürkRap – Istanbul",
-    "streamUrl": "http://95.173.188.166:9984/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr169",
-    "name": "Radyo Natura – Istanbul",
-    "streamUrl": "https://live.radyo.in/8002/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr170",
-    "name": "Doğuş Radyo",
-    "streamUrl": "http://yayin.netyayin.net:9833/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr171",
-    "name": "Radyo Ihya FM",
-    "streamUrl": "http://radyo.yayin.com.tr:2727/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr172",
-    "name": "GÝMSA RADYO – 90.6 FM – Istanbul",
-    "streamUrl": "http://yayin1.canliyayin.org:9482/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr173",
-    "name": "Antakya Radyo Renk – Istanbul",
-    "streamUrl": "http://yayin1.yayindakiler.com:3016/renk",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr174",
-    "name": "Kay Radyo",
-    "streamUrl": "http://yayin1.yayindakiler.com:3054/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr175",
-    "name": "Number One Disco FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Disco.png",
-    "genre": "genre_dance",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr176",
-    "name": "Radyo Ozgur FM – 92.9 FM – Düzce",
-    "streamUrl": "http://yayin.turkhosted.com:6072/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr177",
-    "name": "Borusan Klasik – Istanbul",
-    "streamUrl": "https://25653.live.streamtheworld.com/BORUSAN_KLASIK128AAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Borusan Klasik.png",
-    "genre": "genre_jazz",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr178",
-    "name": "PowerTürk Taptaze – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr179",
-    "name": "Yunus FM – Istanbul",
-    "streamUrl": "http://95.173.162.184:7350/mp3/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr180",
-    "name": "Radyo Hayat",
-    "streamUrl": "http://live4.radyotvonline.com:9450/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr181",
-    "name": "TURKUVAZ EFSANE",
-    "streamUrl": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Turkuvaz Efsane.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr182",
-    "name": "Abuzer FM – Karabağlar",
-    "streamUrl": "http://live.radyotvonline.com:9030",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr183",
-    "name": "BAU RADYO – Istanbul",
-    "streamUrl": "https://ssl120.radyotelekom.com.tr/8106/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr184",
-    "name": "Seyr FM – 102.2 FM – Istanbul",
-    "streamUrl": "https://sslyayin.netyayin.net/8024/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr185",
-    "name": "Radyo Lades",
-    "streamUrl": "https://live.radyolades.com/8028/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr186",
-    "name": "Radyo EN",
-    "streamUrl": "http://yayin2.canliyayin.org:7222/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr187",
-    "name": "Radyo Mastika 103.0 FM",
-    "streamUrl": "http://radyo.yayin.com.tr:5950/mp3/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr188",
-    "name": "Aral FM – 93.3 FM – Izmir",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr189",
-    "name": "SoftRadyo – Istanbul",
-    "streamUrl": "http://radyo.softradyo.com:1140/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr190",
-    "name": "HayatMix – Istanbul",
-    "streamUrl": "http://hayatmix.net/stream",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/HayatMix.png",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr191",
-    "name": "Power Deep – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Deep.png",
-    "genre": "genre_dance",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr192",
-    "name": "Radyo Taksi – Istanbul",
-    "streamUrl": "https://live.radyo.in/8006/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr193",
-    "name": "Radyo Seymen",
-    "streamUrl": "http://yayin.radyoseymen.com.tr:1070/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr194",
-    "name": "Slow Home",
-    "streamUrl": "https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Slow Home.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr195",
-    "name": "Joy türk Rock – Istanbul",
-    "streamUrl": "https://25703.live.streamtheworld.com/JOYTURK_ROCK128AAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Joy Turk.png",
-    "genre": "genre_rock",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr196",
-    "name": "Radyo Ilef",
-    "streamUrl": "http://radyo.cc.ankara.edu.tr:8089",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr197",
-    "name": "Radyo Vizyon 93.0 FM",
-    "streamUrl": "http://park.netradyom.com:9300/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr198",
-    "name": "Radyo Trafik Marmara – Marmara",
-    "streamUrl": "http://37.247.100.118/stream/68/https://www.facebook.com/radyotrafik",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr199",
-    "name": "Radyo Vegas",
-    "streamUrl": "https://anadolu.liderhost.com.tr/8090/stream:8090/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr200",
-    "name": "Pop 90 – Istanbul",
-    "streamUrl": "https://25653.live.streamtheworld.com/POP90128AAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Pop 90.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr201",
-    "name": "Power Gold – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powergold/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Gold.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr202",
-    "name": "Vizyion 58",
-    "streamUrl": "https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr203",
-    "name": "Radyo Bro",
-    "streamUrl": "https://ip169.ozelip.com/8236/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr204",
-    "name": "Datça OnAir – Datça",
-    "streamUrl": "http://185.126.217.8:9358",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr205",
-    "name": "Number One Turk FM – 97.4 FM – Istanbul",
-    "streamUrl": "https://25533.live.streamtheworld.com/SUPER_FM_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr206",
-    "name": "Londra Turk Radyosu – Istanbul",
-    "streamUrl": "https://s2.radio.co/s899a861e2/listen",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Londra Turk.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr207",
-    "name": "Radyo Avrasya Turk",
-    "streamUrl": "https://sslyayin.netyayin.net:10909/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr208",
-    "name": "Afşin FM",
-    "streamUrl": "http://dinle.afsinradyo.com:4646/afsinradyo.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr209",
-    "name": "Radyo Göktürk – Izmir",
-    "streamUrl": "https://radyogokturk.ozelip.com:8004/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr210",
-    "name": "Radyo Eksen – Istanbul",
-    "streamUrl": "http://46.20.3.198/listen.pls",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Eksen.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr211",
-    "name": "Radyo Ritm",
-    "streamUrl": "http://radyo.yayin.com.tr:8091",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr212",
-    "name": "Radyo 34 – Istanbul",
-    "streamUrl": "https://radyo34.radyotvonline.net/radyo34",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr213",
-    "name": "Number One Classic FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/classic",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Classic.png",
-    "genre": "genre_jazz",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr214",
-    "name": "Medrese Radyo",
-    "streamUrl": "https://admin.medreseradyo.com/radio/8000/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr215",
-    "name": "Atlantis FM",
-    "streamUrl": "http://46.20.4.5:9400/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr216",
-    "name": "Radyo Fenomen Akustik",
-    "streamUrl": "https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr217",
-    "name": "Safak FM",
-    "streamUrl": "http://yayin2.canliyayin.org:7070",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr218",
-    "name": "Radyo Tulu 104.5 FM",
-    "streamUrl": "http://yayin2.canliyayin.org:8248/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr219",
-    "name": "Birlik FM",
-    "streamUrl": "http://yayin1.canliyayin.org:7082/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr220",
-    "name": "Arabesk Aski – Istanbul",
-    "streamUrl": "http://radyo.arabeskaski.com:4242/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr221",
-    "name": "Radyo Fenomen Clubbin",
-    "streamUrl": "https://live.radyofenomen.com/fenomenclubbin/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Fenomen.png",
-    "genre": "genre_dance",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr222",
-    "name": "Yidiz FM – Keşan",
-    "streamUrl": "http://radyo.yayin.com.tr:5940/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr223",
-    "name": "Rock Station – Istanbul",
-    "streamUrl": "https://25653.live.streamtheworld.com/ROCK_STATION128AAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Rock Station.png",
-    "genre": "genre_rock",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr224",
-    "name": "TRT Antalya",
-    "streamUrl": "https://radio-trtantalya.live.trt.com.tr/master.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/TRT Antalya.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr225",
-    "name": "Işleyen fm",
-    "streamUrl": "https://live.radyositesihazir.com/8060/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr226",
-    "name": "Arabesk FM – Istanbul",
-    "streamUrl": "http://yayin.arabeskfm.biz:8042",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Arabesk FM.png",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr227",
-    "name": "Denge FM",
-    "streamUrl": "https://ssl120.radyotelekom.com.tr:10829/*.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr228",
-    "name": "Damar FM Arabesk Radyo – Istanbul",
-    "streamUrl": "https://yayin.damarfm.com:8080/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr229",
-    "name": "Zerguwan FM",
-    "streamUrl": "https://zerguwanfm.kesintisizyayin.com:7366/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr230",
-    "name": "Hedef Radyo 91.8 FM",
-    "streamUrl": "http://wowza.radyogrup.com:4010/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr231",
-    "name": "Radio Mood – Istanbul",
-    "streamUrl": "http://radyo.yayin.com.tr:5862//stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr232",
-    "name": "EFKAR – Istanbul",
-    "streamUrl": "https://29083.live.streamtheworld.com/EFKAR128AAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Efkar.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr233",
-    "name": "Radyo Gül – 91.7 FM – Gebze",
-    "streamUrl": "http://yayin2.canliyayin.org:8866/*.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr234",
-    "name": "ZadeFM – Istanbul",
-    "streamUrl": "https://radyoserver1.okeylisans.com:14000/8048/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr235",
-    "name": "Karma turk fm – 99.0 FM – Istanbul",
-    "streamUrl": "http://radyo1.radyo-dinle.tc:8056/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr236",
-    "name": "Ses Radyo",
-    "streamUrl": "http://95.173.161.133:9350/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr237",
-    "name": "Kıyı Müzik – Istanbul",
-    "streamUrl": "http://proxima.shoutca.st:8223/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr238",
-    "name": "Uşak Damar FM",
-    "streamUrl": "http://anadolu.liderhost.com.tr:8358",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr239",
-    "name": "Number One R&B – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/rnb",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One RnB.png",
-    "genre": "genre_hiphop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr240",
-    "name": "Retro Türk – Istanbul",
-    "streamUrl": "https://23543.live.streamtheworld.com/RETROTURKAAC_SC",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Retro Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr241",
-    "name": "Number One Lounge FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/lounge",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Lounge.png",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr242",
-    "name": "Türkülerle Türkiye – Istanbul",
-    "streamUrl": "https://ssl4.radyotvonline.com/radyohome/turkulerleturkiye.stream_aac/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Turkulerle Turkiye.png",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr243",
-    "name": "Gelisim Radyo",
-    "streamUrl": "http://yayin2.yayindakiler.com:4008/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr244",
-    "name": "İTU Radyosu Jazz / Blues – Istanbul",
-    "streamUrl": "http://eskiweb.radyo.itu.edu.tr/ITU_Radio_Jazz_Blues.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr245",
-    "name": "PowerTürk Akustik – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr246",
-    "name": "Akustik Fm",
-    "streamUrl": "https://ip169.ozelip.com/8042/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr247",
-    "name": "Radyo Gun",
-    "streamUrl": "http://95.173.162.188:9952",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr248",
-    "name": "Radyo VAV",
-    "streamUrl": "http://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr249",
-    "name": "Power Turk En Iyiler – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr250",
-    "name": "Power XL – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power XL.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr251",
-    "name": "Number One Rock FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/rock",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Rock.png",
-    "genre": "genre_rock",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr252",
-    "name": "Radio 5 – Deep",
-    "streamUrl": "https://radiotrc.80.yayin.com.tr",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr253",
-    "name": "Power Love 100.2 FM – 100.2 FM – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Power Love.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr254",
-    "name": "Bizim iller Radyo",
-    "streamUrl": "http://yayin.yayindakiler.com:4078/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr255",
-    "name": "Radyo Yaren",
-    "streamUrl": "http://yaren.radyotvyayini.com:8042/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr256",
-    "name": "MoodCast Radio – Istanbul",
-    "streamUrl": "http://yayin.radiomoodtr.com:6321/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr257",
-    "name": "Radyo Kulüp 95.5 FM",
-    "streamUrl": "https://win1.yayin.com.tr/radyokulup/radyokulup/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr258",
-    "name": "Radyo kardelen FM – Izmir",
-    "streamUrl": "http://178.32.4.127:8358",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr259",
-    "name": "TRAKYA FM",
-    "streamUrl": "http://trakyafm.canliyayinda.com:9039/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr260",
-    "name": "Lig Radyo – Istanbul",
-    "streamUrl": "https://ligradyo.radyotvonline.net/ligradyo",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Lig Radyo.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr261",
-    "name": "Radyovizyon Rock",
-    "streamUrl": "http://yayin.netradyom.com:8010/VIZYONROCK",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr262",
-    "name": "Arabesk Turkiye – Izmir",
-    "streamUrl": "http://arabeskturkiye.xyz:9312/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr263",
-    "name": "Efsane 4'lü – Istanbul",
-    "streamUrl": "https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr264",
-    "name": "Arabesk Alemi",
-    "streamUrl": "http://arabeskalemi.net:9300/stream?icy=http",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr265",
-    "name": "Radyo 71 – Çankaya",
-    "streamUrl": "http://radyo.yayin.com.tr:5924/stream",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo 7.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr266",
-    "name": "Radio 5 – Legend",
-    "streamUrl": "https://radiocom.80.yayin.com.tr",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr267",
-    "name": "Kent FM – 101.4 FM – Istanbul",
-    "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Kent FM.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr268",
-    "name": "Dream Türk – Istanbul",
-    "streamUrl": "https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_0_192/playlist.m3u8?key=2909f6701b4ac38e6edac33e325dadc8&live=true&app=com.dreamturk",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Dream Turk.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr269",
-    "name": "Lokum FM – Istanbul",
-    "streamUrl": "http://37.247.98.9/listen.pls?sid=493",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr270",
-    "name": "Radyo Gezgin Korsan – Istanbul",
-    "streamUrl": "http://radyogezginkorsan.kesintisizyayin.com:8916/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr271",
-    "name": "Radyo Arabesk Türk – Istanbul",
-    "streamUrl": "http://yayin.arabeskturk.com:8000/",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Arabesk.png",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr272",
-    "name": "Açık Radyo 94.9 FM – 94.9 FM – Istanbul",
-    "streamUrl": "http://stream.34bit.net/stream.mp3",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Acik Radyo.png",
-    "genre": "genre_news",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr273",
-    "name": "Radyo Hamsi",
-    "streamUrl": "http://radyo.hamsi.fm:8050/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr274",
-    "name": "Radyo Babylon 99.4 FM – 99.4 FM – Babadağ",
-    "streamUrl": "http://46.20.4.42/pozitif/smil:babylon.smil/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Babylon.png",
-    "genre": "genre_relax",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr275",
-    "name": "Radyo NABIZ – Istanbul",
-    "streamUrl": "https://radyoplayer.net/listen/fa6d5c9757d75bb284671b6d904ab540",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Radyo Nabiz.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr276",
-    "name": "Number One Ertuğrul Özkok FM – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr277",
-    "name": "Radyo Derya",
-    "streamUrl": "http://yayin.turkhosted.com:6032/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr278",
-    "name": "İTU Radyosu Rock – Istanbul",
-    "streamUrl": "http://eskiweb.radyo.itu.edu.tr/ITU_Radio_Rock.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr279",
-    "name": "Radyotek 97.0 FM",
-    "streamUrl": "http://yayin2.yayindakiler.com:4202/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr280",
-    "name": "ÜLKÜ FM",
-    "streamUrl": "http://yayin2.yayindakiler.com:4112/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr281",
-    "name": "Cemre FM",
-    "streamUrl": "http://yayin1.canliyayin.org:8024/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr282",
-    "name": "RADYO YUKSEL",
-    "streamUrl": "http://yayin1.canliyayin.org:8232/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr283",
-    "name": "Gebze FM – Gebze",
-    "streamUrl": "http://gebzefm.radyotvyayini.com:9530/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr284",
-    "name": "Number One Best of – Istanbul",
-    "streamUrl": "https://n10101m.mediatriple.net/bestof",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Number One Best.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr285",
-    "name": "Hemdem Radyo – Istanbul",
-    "streamUrl": "https://radyoserver3.okeylisans.com:8040/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr286",
-    "name": "Radyo Dejavu",
-    "streamUrl": "http://radyodejavu.canliyayinda.com:8054/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr287",
-    "name": "Power Greece – Istanbul",
-    "streamUrl": "https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr288",
-    "name": "Arabesk Vadisi – Istanbul",
-    "streamUrl": "https://arabeskv.80.yayin.com.tr/stream",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Arabesk Vadisi.png",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr289",
-    "name": "RadyoFm 60 Tokat",
-    "streamUrl": "https://live.radyositesihazir.com/8016/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr290",
-    "name": "Radyo Extra 90.5 FM – 90.5 FM – Tokat Province",
-    "streamUrl": "http://radyopiryolu.canliyayinda.com:8117/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr291",
-    "name": "Tiryaki FM 101.4",
-    "streamUrl": "http://yayin.turkhosted.com:6056/mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr292",
-    "name": "Max FM 95.8",
-    "streamUrl": "http://live2.radyotvonline.com:8025",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr293",
-    "name": "Radyo Karadeniz 98.2 FM – 98.2 FM – Istanbul",
-    "streamUrl": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr294",
-    "name": "Rock FM 94.5 – 94.5 FM – Istanbul",
-    "streamUrl": "https://rockfm.rockfm.com.tr:9450/stream",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/turkey/Rock FM.png",
-    "genre": "genre_rock",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr295",
-    "name": "Karadeniz Akustik Radyo",
-    "streamUrl": "http://karadenizakustik.radyotvonline.net/?type=http&nocache=3230",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr296",
-    "name": "Radyo Sahil 95.0 FM",
-    "streamUrl": "https://radyo1.radyo-dinle.tc/8216/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
-    "id": "tr297",
-    "name": "Bilecik FM 99.9",
-    "streamUrl": "http://95.173.188.155:9980/",
+    "id": "mex292",
+    "name": "La Onda Radio",
+    "streamUrl": "https://laondaradio.stream.laut.fm/laondaradio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_turkey"
+    "country": "country_mexico"
   }
 ]
