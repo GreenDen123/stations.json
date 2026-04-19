@@ -17686,5 +17686,1469 @@
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cpXzF5YE8g.png",
     "genre": "genre_folk",
     "country": "country_turkey"
+  },
+  {
+    "id": "mex1",
+    "name": "Los 40",
+    "streamUrl": "https://22123.live.streamtheworld.com/LOS40_MEXICOAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/846/los-40-principales-mexico.b3eabffc.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex2",
+    "name": "Free FM Classics Mexico",
+    "streamUrl": "https://xxdelgado.radioca.st",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/812/roca-fm-clasicos-mexico.35407fe8.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex3",
+    "name": "Exa FM Ensenada",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHADA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/214/exa-fm-ensenada.0157b297.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex5",
+    "name": "La Mejor Durango",
+    "streamUrl": "https://18213.live.streamtheworld.com/XERCFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/507/knnr-la-mejor-977-fm.d57d3d95.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex6",
+    "name": "Sol FM",
+    "streamUrl": "https://live.zuperdns.net:7015/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/478/sol-fm-897.9228b47a.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex7",
+    "name": "Love 101.5 FM",
+    "streamUrl": "https://ss1.audiorama.com.mx:6632/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/750/love-1015-fm.1ed1e1c1.png",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex8",
+    "name": "Radio XPlosion",
+    "streamUrl": "https://stream9.mexiserver.com:7087/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/755/radio-xplosion.17da7875.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex9",
+    "name": "Clik Radio MX",
+    "streamUrl": "https://streaming.servicioswebmx.com/8002/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/308/clik-radio.d20d22df.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex10",
+    "name": "Radial Stereo",
+    "streamUrl": "https://radioenlinea.click:8020/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/535/radial-stereo-mexico.13cdbe8a.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex13",
+    "name": "La Poderosa Aguascalientes",
+    "streamUrl": "http://201.159.48.105:2871/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/268/la-poderosa-aguascalientes.00b2db7f.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex14",
+    "name": "Dance FM Mexico",
+    "streamUrl": "https://sonic.streamingchilenos.com/8138/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/321/dance-fm-mexico.168aea5c.png",
+    "genre": "genre_dance",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex15",
+    "name": "La Mejor Ciudad Obregón",
+    "streamUrl": "https://streamingcwsradio30.com:7058/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/507/knnr-la-mejor-977-fm.d57d3d95.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex16",
+    "name": "Exitos 91.3 FM",
+    "streamUrl": "https://ice8.securenetsystems.net/EXITO913",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/599/exitos-913-fm.c59c3d7f.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex17",
+    "name": "Pulsar 107.3 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7021/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/327/pulsar-1073-fm.34a150a6.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex18",
+    "name": "POP EXTREMO",
+    "streamUrl": "http://144.217.15.135:8000/stream/3/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/640/pop-extremo.0303306f.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex19",
+    "name": "Radio Bengala Ciudad Juárez",
+    "streamUrl": "https://19003.live.streamtheworld.com/XEWGAMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/457/radio-bengala-ciudad-juarez.565e71a2.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex20",
+    "name": "Exa FM Tampico",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHOX_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/236/exa-fm-tampico.fcaed123.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex21",
+    "name": "Exa FM León",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHMDFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/219/exa-fm-leon.570cfbdc.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex22",
+    "name": "Mix 101.7 FM Morelia",
+    "streamUrl": "https://22973.live.streamtheworld.com/XHEMMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/245/mix-1017-fm-morelia.ef54fdf5.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex23",
+    "name": "Radio BUAP 96.9 FM",
+    "streamUrl": "http://148.228.50.32:8000/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/512/radio-buap-969-fm.be82b614.jpg",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex25",
+    "name": "La mas Buena 104.5 FM",
+    "streamUrl": "https://streaming.servicioswebmx.com/8218/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/589/la-mas-buena-1045-fm.115ac47b.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex26",
+    "name": "Radio Ranchito 99.7 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7005/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/999/radio-ranchito-997-fm.d2b64a30.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex27",
+    "name": "Lobos FM 94.1",
+    "streamUrl": "http://streamingcwsradio10.com:9300",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/725/lobos-fm-941.37ba5cd6.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex28",
+    "name": "Radio Anime Nexus",
+    "streamUrl": "https://cast.animenexus.net/radio/8000/animenexus",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/376/radio-anime-nexus.9ce2e586.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex29",
+    "name": "Sonora Grupera",
+    "streamUrl": "http://144.217.15.135:8000/stream/2/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/593/sonora-grupera.10d0dd75.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex30",
+    "name": "La Mejor Oaxaca",
+    "streamUrl": "http://ororadio.serverroom.us:9142",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/070/encuentro-radio-oaxaca.ac450aa6.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex31",
+    "name": "Radio Campesino",
+    "streamUrl": "https://server.streamingradios.net:7021",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/833/radio-campesino.7a7b235a.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex32",
+    "name": "La Rielera",
+    "streamUrl": "https://sp2.servidorrprivado.com/8308/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/170/la-rielera.fadd082f.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex33",
+    "name": "Ke Buena Ixmiquilpan",
+    "streamUrl": "http://cdn.instream.audio:9221/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/B2eyugprMp.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex34",
+    "name": "Radio San Luis",
+    "streamUrl": "https://servidor18.brlogic.com:7178/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/537/radio-san-luis.ede38107.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex35",
+    "name": "RCG SJ 103.3 FM",
+    "streamUrl": "https://radio.rcg.com.mx:7001/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/408/rcg-sj-1033-fm.d7d7bffa.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex37",
+    "name": "Radio 13",
+    "streamUrl": "http://tuasesorweb.com:8050",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/783/radio-13.4e921589.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex39",
+    "name": "Formula 1120 AM",
+    "streamUrl": "https://sg.centrocibernetico.com/formula1120am",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/010/radio-formula-puebla.4e4e4b15.jpg",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex41",
+    "name": "Crystal 104.9 FM",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHMLOFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/456/crystal-1049-fm.ba6d0d02.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex43",
+    "name": "Radio Centro",
+    "streamUrl": "https://17563.live.streamtheworld.com/XEN_AMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/340/radio-centro.4a242fea.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex45",
+    "name": "La Mejor Acapulco",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHSE_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/s2qmshsh7fgx.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex46",
+    "name": "FM Globo 98.7 GDL",
+    "streamUrl": "https://18193.live.streamtheworld.com/XHLCFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/240/fm-globo.154f8612.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex47",
+    "name": "Radiante 91.1 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7035/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/226/radiante-911-fm.b6234adc.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex48",
+    "name": "La Angostura Radio",
+    "streamUrl": "https://stream9.mexiserver.com:8190",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/415/la-angostura-radio.9f907b4e.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex51",
+    "name": "Rock Band Radio",
+    "streamUrl": "http://cdn.instream.audio:9105/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/141/rock-band-radio.c7e73968.png",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex53",
+    "name": "Exa FM Mérida",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHMRA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/223/exa-fm-merida.7d42af9c.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex57",
+    "name": "70s Disco Nights Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/70s_disco_nights/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/993/70s-disco-nights-radio.c58631d2.png",
+    "genre": "genre_dance",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex58",
+    "name": "Fiesta Mexicana 93.7 FM",
+    "streamUrl": "http://5.79.86.158:8046",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/610/fiesta-mexicana-1015-fm.deacb4c0.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex59",
+    "name": "Exa FM Monterrey",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHRSMTYFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/226/exa-fm-monterrey.69f33a76.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex60",
+    "name": "La Futbolera Radio",
+    "streamUrl": "https://tv.radiohosting.online:9908/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/761/la-futbolera-radio.9c971e76.png",
+    "genre": "genre_sport",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex61",
+    "name": "La Rockola 91.3 FM",
+    "streamUrl": "https://streaming.servicioswebmx.com/8056/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/946/la-rockola-mx.40862efb.jpg",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex62",
+    "name": "Radio de Mexico",
+    "streamUrl": "https://jm8n.net:7029/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/762/radio-de-mexico.0105bbc0.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex63",
+    "name": "Radio UDEM",
+    "streamUrl": "http://c3.radioboss.fm:8161/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/032/radio-udem.cf6da734.jpg",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex64",
+    "name": "Imagen Puebla 105.1 FM",
+    "streamUrl": "http://puebla.radio.wnsol.com:8280",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/050/imagen-puebla-1051-fm.d62c4985.jpg",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex65",
+    "name": "Retro Radio",
+    "streamUrl": "http://retro.3utilities.com:9830",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/041/retro-radio-mexico.3ad2c25c.png",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex66",
+    "name": "Banda Grupera Radio",
+    "streamUrl": "https://stream9.mexiserver.com:7090/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/590/banda-grupera-radio.50f10350.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex67",
+    "name": "XEU 98.1 FM",
+    "streamUrl": "https://sgaudio.centrocibernetico.com/xeu",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/675/xeu-981-fm.170de65a.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex69",
+    "name": "Rock Connection 77",
+    "streamUrl": "https://s43.myradiostream.com/:22226/listen.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/203/rock-connection-77-mexico.8a8e2396.jpg",
+    "genre": "genre_rock",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex70",
+    "name": "Instrumentales de Oro Radio",
+    "streamUrl": "https://media.streamingradiomx.com/listen/instrumentales_de_oro_radio/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/660/instrumentales-de-oro-radio.3f9e6173.png",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex71",
+    "name": "Tempo Radio",
+    "streamUrl": "https://secure.tempo-radio.com/p320",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/692/tempo-radio-party-channel.8304af62.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex73",
+    "name": "La Mejor Tampico",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHJT_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/131/la-mejor-acapulco.c83ff5eb.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex76",
+    "name": "Mega 105.9",
+    "streamUrl": "https://ice8.securenetsystems.net:80/MEGA105",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/603/mega-1059-xhna.76969672.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex77",
+    "name": "Alfa Radio",
+    "streamUrl": "https://15723.live.streamtheworld.com/XHFAJ_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/329/alfa-913.163928d9.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex78",
+    "name": "La Zeta Z98 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7030/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/551/la-zeta-z98-fm.87a2e751.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex80",
+    "name": "Radiante 89.1 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7036/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/306/radiante-891-fm.1cf0af97.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex81",
+    "name": "Ke Buena Cd. Serdán",
+    "streamUrl": "https://14123.live.streamtheworld.com/KEBUENAAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/B2eyugprMp.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex82",
+    "name": "La Poderosa 860 AM",
+    "streamUrl": "https://streamingcwsradio30.com:7024/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/292/la-poderosa-860-am.548e5dc3.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex83",
+    "name": "La Zeta 103.5 FM",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHEM_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/647/la-z-1035.a6d38f22.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex84",
+    "name": "La Mejor Torreón",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHPE_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/162/la-mejor-torreon.26a1a7cd.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex85",
+    "name": "Exa FM CDMX",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHEXA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/038/exa-1049.9ba498b0.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex86",
+    "name": "Crystal 93.3 FM",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHEDTFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/446/crystal-933-fm.7acd5248.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex88",
+    "name": "Super 2000",
+    "streamUrl": "https://aguila1.netkairos.com:8140",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/166/super-2000.562ec5b0.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex89",
+    "name": "La Mejor Puerto Vallarta",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHCJX_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/987/la-patrona-fm-puerto-vallarta.45952a99.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex91",
+    "name": "Bandas Mexicanas Radio",
+    "streamUrl": "https://media.streamingradiomx.com/listen/bandas_mexicanas_radio/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/442/romance-grupero-radio.cdb56c92.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex92",
+    "name": "Stereo Uno 101.3 FM",
+    "streamUrl": "https://audiostreaming.luz.network/?type=http",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/537/stereo-uno-1013-fm.bea9e1d6.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex93",
+    "name": "W Radio Morelos",
+    "streamUrl": "https://stream9.mexiserver.com/8342/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/119/wradio-morelos.282c6425.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex95",
+    "name": "La Gruperisima",
+    "streamUrl": "https://sonic01.instainternet.com:7068",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/941/la-gruperisima.cb3d95b3.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex98",
+    "name": "Caribe 101.9 FM Cancún",
+    "streamUrl": "https://streamingcwsradio30.com:7015/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qQYzh46STN.jpg",
+    "genre": "genre_dance",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex99",
+    "name": "Mix 90.1 FM Toluca",
+    "streamUrl": "https://18423.live.streamtheworld.com/XHENOFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/643/mix-901-fm-toluca.b8e3c39c.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex100",
+    "name": "El y Ella 103.7 FM",
+    "streamUrl": "https://radios.radiohd.com.mx/8272/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/049/el-y-ella-1037-fm.1df74a37.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex101",
+    "name": "La Mejor Ensenada",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHENA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/141/la-mejor-ensenada.42e90c7e.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex102",
+    "name": "Salsa Mexico",
+    "streamUrl": "http://colombiawebs.com.co:8106/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/817/salsa-mexico.0dea5c6c.png",
+    "genre": "genre_dance",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex105",
+    "name": "Los 40 Mexicali",
+    "streamUrl": "https://26303.live.streamtheworld.com/LOS40_MEXICO2AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/063/los-40-principales-mexicali.4ffb761b.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex106",
+    "name": "Exa FM Cuernavaca",
+    "streamUrl": "https://27053.live.streamtheworld.com/XHCT_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/211/exa-fm-cuernavaca.1bf0b597.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex108",
+    "name": "La Raza 1060 AM",
+    "streamUrl": "https://ice41.securenetsystems.net/LARAZA",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/592/la-raza-1060-am.a92ba139.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex109",
+    "name": "Exa FM Oaxaca",
+    "streamUrl": "http://ororadio2.serverroom.us:4638/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/229/exa-fm-oaxaca.a30bf07a.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex111",
+    "name": "Exa FM Nogales",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHQT_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/228/exa-fm-nogales.2cb7c8f7.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex112",
+    "name": "W Deportes",
+    "streamUrl": "https://26423.live.streamtheworld.com/TDW730AMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/551/w-deportes.c22e5201.jpg",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex113",
+    "name": "Lobos FM 106.7",
+    "streamUrl": "http://streamingcwsradio10.com:9304/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/734/lobos-fm-1067.e6ec78ad.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex114",
+    "name": "Radio Viva Juarez",
+    "streamUrl": "https://radioviva1025.radioca.st/8074",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/201/radio-viva-juarez.cc632475.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex116",
+    "name": "Imagen Querétaro 94.7 FM",
+    "streamUrl": "http://radio.wnsol.com:8070/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/519/imagen-queretaro-947-fm.19ddd27f.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex117",
+    "name": "La Mejor Monterrey",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHSROFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/152/la-mejor-monterrey.5734d388.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex122",
+    "name": "Radiante FM",
+    "streamUrl": "https://streamingcwsradio30.com:7034/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/226/radiante-911-fm.b6234adc.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex123",
+    "name": "La Invasora 98.9 FM Aguascalientes",
+    "streamUrl": "http://201.159.48.105:8080",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/246/la-invasora-989-fm-aguascalientes.4f9c6afb.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex124",
+    "name": "La Patrona de Creel",
+    "streamUrl": "https://streamingcwsradio30.com/8130/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/048/la-patrona-de-creel.6209fbb1.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex125",
+    "name": "Radio Fórmula 104.1 FM",
+    "streamUrl": "https://sg.centrocibernetico.com/formula104",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/394/radio-formula-1041.6735a384.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex127",
+    "name": "Ya! FM Villahermosa",
+    "streamUrl": "https://sgaudio.centrocibernetico.com/yafmvillahermosa",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/778/ya-fm-villahermosa.37e1b857.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex132",
+    "name": "Crystal 95.7 FM",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHMYFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/029/crystal-957-fm.8916d629.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex133",
+    "name": "La Invasora 90.5 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7029/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/547/la-invasora-905-fm.8a5455e4.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex136",
+    "name": "Oldies Internet Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/311/oldies-internet-radio.5ed303e5.jpg",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex139",
+    "name": "FM Globo 88.1",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHJMFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/012/fm-globo-881.951febd0.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex141",
+    "name": "La Mejor Tuxtepec",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHXP_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/572/la-mejor-1065-fm.673abf20.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex143",
+    "name": "La Z FM 107.3",
+    "streamUrl": "https://20593.live.streamtheworld.com/XEQR_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/335/la-z-1073.071021f6.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex144",
+    "name": "Exa FM Poza Rica",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHRIC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/231/exa-fm-poza-rica.dfa6252c.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex145",
+    "name": "Radio Formula 91.5 FM",
+    "streamUrl": "http://144.217.15.135:8000/stream/6/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/970/radio-formula-915-fm.e29fc395.jpg",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex146",
+    "name": "Radio Universidad de Guadalajara",
+    "streamUrl": "http://148.202.165.7:8000/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/449/radio-universidad-de-guanajuato.27de8ddd.jpg",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex148",
+    "name": "Super 92.5 FM",
+    "streamUrl": "http://streamingcwsradio30.com:8126/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/580/super-925-fm.0c90f9c2.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex149",
+    "name": "Los 40 Veracruz",
+    "streamUrl": "https://26233.live.streamtheworld.com/LOS40_VERAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/084/los-40-principales-veracruz.061713b4.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex150",
+    "name": "Imagen 103.1 FM",
+    "streamUrl": "http://tampico.radio.wnsol.com:8300/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/648/imagen-1031-fm.173c0fe0.jpg",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex151",
+    "name": "La Mejor Guadalajara",
+    "streamUrl": "https://26183.live.streamtheworld.com/XHRO_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/143/la-mejor-guadalajara.df40a6df.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex153",
+    "name": "Capital Máxima 103.3 FM",
+    "streamUrl": "https://27163.live.streamtheworld.com/XHZLAAC_SC",
+    "imageUrl": "https://pwaimg.listenlive.co/XHLZ_1361191_config_station_logo_image_1432913039.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex155",
+    "name": "Recuerdo Radio",
+    "streamUrl": "https://aguila1.netkairos.com:8048",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/904/recuerdo-radio.f50fc8c1.png",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex156",
+    "name": "Radio Sinaloa",
+    "streamUrl": "https://sp2.servidorrprivado.com:10860/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/817/radio-sinaloa.486bde52.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex157",
+    "name": "La Gruperita 98.3 FM",
+    "streamUrl": "https://streaming.servicioswebmx.com/8124/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/804/sm-radio-983-fm.53a18dd2.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex158",
+    "name": "La Zeta 93.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7027/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ZtCSMC--WNSxQ1i65OCkteyruPfuaaQpkjOUmekUupU/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0FvS3lPbWdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0k0ZWpIM2drTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4MzkxMDQ1MTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex160",
+    "name": "Imagen Mexicali 105.5 FM",
+    "streamUrl": "http://mexicali.radio.wnsol.com:8340/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/287/imagen-mexicali-1055-fm.46a8e4db.jpg",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex165",
+    "name": "La Mejor Hermosillo",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHBH_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/144/la-mejor-hermosillo.c3d85ec5.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex168",
+    "name": "La Mejor Cuernavaca",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHVZ_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/139/la-mejor-cuernavaca.e49c13b4.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex173",
+    "name": "Vibra Mazatlán",
+    "streamUrl": "https://sp3.servidorrprivado.com:10827/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/770/vibra-mazatlan.75aadd9d.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex175",
+    "name": "La Invasora 94.5 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7023/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/280/la-invasora-945-fm.037351c7.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex176",
+    "name": "Imagen Guadalajara 93.9 FM",
+    "streamUrl": "http://radio.wnsol.com:8240/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/368/imagen-guadalajara-939-fm.a52a78bd.jpg",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex179",
+    "name": "Noticias MVS",
+    "streamUrl": "https://20593.live.streamtheworld.com/XHMVSFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/105/noticias-mvs.4362edeb.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex181",
+    "name": "Canal 58",
+    "streamUrl": "https://streaming.servicioswebmx.com/8266/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/068/canal-58.8b4b790a.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex182",
+    "name": "80s Online Radio",
+    "streamUrl": "https://panel.retrolandigital.com/radio/8150/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/344/80s-online-radio.2d30b455.png",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex184",
+    "name": "La Mejor Mérida",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHQW_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/s2qmshsh7fgx.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex185",
+    "name": "Café Romántico Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/cafe_romantico_radio/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/979/cafe-romantico-radio.dbb1bab4.png",
+    "genre": "genre_retro",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex186",
+    "name": "Valora Radio",
+    "streamUrl": "https://stream.radio.co/s25e84d1ea/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/143/valora-radio.c0aee52e.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex187",
+    "name": "La Mas Perrona 105.3 FM",
+    "streamUrl": "https://sp3.servidorrprivado.com/8160/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/992/la-mas-perrona-1053-fm.1e7fbce0.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex189",
+    "name": "Radio Zacatecas",
+    "streamUrl": "https://streamingcwsradio30.com:7051/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/663/radio-zacatecas.d92339b3.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex192",
+    "name": "La Invasora 99.7",
+    "streamUrl": "https://streamingcwsradio30.com:7022/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/281/la-invasora-997.95bc489e.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex195",
+    "name": "La Poderosa 92.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7043/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/008/la-poderosa-929-fm-mexico.1f0c4331.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex196",
+    "name": "Stereo Uno 100.3 FM",
+    "streamUrl": "https://audiostreaming.luz.network/stream/13/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/047/stereo-uno-1003-fm.eee9b629.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex197",
+    "name": "Los 40 Principales Matamoros",
+    "streamUrl": "http://radio.alphamx.net:8104",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/057/los-40-principales-matamoros.a35972d3.jpg",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex198",
+    "name": "Mariachi Digital",
+    "streamUrl": "http://us10a.serverse.com:8207/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/471/mariachi-digital.31c4d3c8.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex201",
+    "name": "Exa FM Mexicali",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHJCFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/224/exa-fm-mexicali.7f4f84a1.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex202",
+    "name": "Amor 93.1 FM",
+    "streamUrl": "https://14623.live.streamtheworld.com/XHPIFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/020/amor-931-fm.25ddd855.png",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex203",
+    "name": "Vibra Culiacán",
+    "streamUrl": "https://sp2.servidorrprivado.com:10859/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/767/vibra-culiacan.1792187b.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex206",
+    "name": "Stereo Uno 94.1 FM",
+    "streamUrl": "https://audiostreaming.luz.network/stream/7/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/313/stereo-uno-941-fm.8083aed6.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex207",
+    "name": "La Invasora 101.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7028/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/568/la-invasora-1019-fm.d7e9a5a2.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex208",
+    "name": "Amor 92.5 FM",
+    "streamUrl": "https://18233.live.streamtheworld.com/XHRJFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aqgprdjzfjyk.png",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex209",
+    "name": "Mix 93.1 FM Cancún",
+    "streamUrl": "https://14923.live.streamtheworld.com/XHYIFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/244/mix-931-fm-cancun.2a278bec.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex210",
+    "name": "Exa FM Tijuana",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHGLX_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/240/exa-fm-tijuana.dc885881.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex211",
+    "name": "Radio Universidad 100.5 FM",
+    "streamUrl": "http://200.23.125.55:8000/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/441/radio-universidad-1005-fm.aa75e103.png",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex213",
+    "name": "Exa FM Veracruz",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHPSFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/243/exa-fm-veracruz.43551bd6.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex215",
+    "name": "Amor 103.3 FM",
+    "streamUrl": "https://22983.live.streamtheworld.com/XHRHFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/758/amor-1033-fm.5c180c8c.png",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex216",
+    "name": "Digital 102.9 FM",
+    "streamUrl": "https://18163.live.streamtheworld.com/DIGITAL_1029FM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/392/digital-1029-fm.2489034f.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex218",
+    "name": "Stereorey México",
+    "streamUrl": "https://14153.live.streamtheworld.com/STEREOREY_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/616/stereorey-mexico.d118d8a7.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex221",
+    "name": "La comadre 100.3 FM",
+    "streamUrl": "http://hd.digitalradio.mx:6121/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/624/la-comadre-1003-fm.5a83e4bb.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex224",
+    "name": "Universal 88.1 FM",
+    "streamUrl": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/331/universal-stereo.d6a5cd58.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex225",
+    "name": "Beat 100.9",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHSONFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/836/beat-1009.5b1c16b4.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex228",
+    "name": "88.9 Noticias",
+    "streamUrl": "https://15723.live.streamtheworld.com/XHMFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/466/889-noticias.62cade58.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex229",
+    "name": "Magia 101.7 FM",
+    "streamUrl": "https://magia101.streaming.radiogrupo.com/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ZfrtjM7fHk.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex231",
+    "name": "Oye 89.7",
+    "streamUrl": "https://14123.live.streamtheworld.com/XEOYEFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/849/oye-897.9d116b45.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex232",
+    "name": "Match 90.1 FM Puebla",
+    "streamUrl": "https://17843.live.streamtheworld.com/XHRSFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/914/match-fm.f4a09b92.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex233",
+    "name": "Exa FM Torreón",
+    "streamUrl": "https://18073.live.streamtheworld.com/XHMP_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/241/exa-fm-torreon.521a17ff.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex235",
+    "name": "Evolucion 98.5 FM",
+    "streamUrl": "https://whmsonic.playerfullhd.com/8040/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/363/evolucion-985-fm.15454b1d.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex239",
+    "name": "La Mejor Mexicali",
+    "streamUrl": "https://18213.live.streamtheworld.com/XHVGFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/150/la-mejor-mexicali.83eba3a8.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex240",
+    "name": "FM Globo 101.9",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHPFFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/325/fm-globo-1019.be535b1a.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex243",
+    "name": "Mix 106.5 Querétaro",
+    "streamUrl": "https://14613.live.streamtheworld.com/XHGVAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/641/mix-1065-queretaro.ae7267d3.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex244",
+    "name": "La Comadre 98.5 FM",
+    "streamUrl": "https://18423.live.streamtheworld.com/XHCLIFM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/505/la-comadre-985-fm2.739eaafb.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex248",
+    "name": "Vibra Los Mochis",
+    "streamUrl": "https://sp3.servidorrprivado.com:10828/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/769/vibra-los-mochis.d6751664.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex250",
+    "name": "Studio 93.1 FM",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHMZTFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/454/studio-931-fm.0db0f60f.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex252",
+    "name": "Sabrosita 590 AM",
+    "streamUrl": "https://19293.live.streamtheworld.com/XEPHAMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/942/sabrosita590am.8c0d14cc.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex253",
+    "name": "Radio Mexiquense",
+    "streamUrl": "https://streamingcwsradio30.com:7019/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/966/radio-mexiquense.6b5066fe.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex256",
+    "name": "104.3 HIT-FM",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHTO_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/374/1043-hit-fm.afdf0344.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex257",
+    "name": "Banda 93.3 FM",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHQQ_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/494/banda-933-fm.23beeb13.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex259",
+    "name": "El Lobo 106.1 FM",
+    "streamUrl": "https://streamingcwsradio30.com/8172/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/373/el-lobo-1061-fm.4ae7015f.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex260",
+    "name": "Mix 91.7 FM Puebla",
+    "streamUrl": "https://18423.live.streamtheworld.com/XHRCFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/639/mix-917-fm-puebla.cc32a6c1.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex261",
+    "name": "FM Globo 99.3",
+    "streamUrl": "https://19003.live.streamtheworld.com/XHOCL_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/447/fm-globo-993.2863bfef.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex262",
+    "name": "La Guadalupana 101.7 FM",
+    "streamUrl": "https://webprod.sipse.com.mx:8080/guadalupana",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/089/la-guadalupana-1017-fm.499e3050.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex263",
+    "name": "Radio UNAM 96.1 FM",
+    "streamUrl": "https://tv.radiohosting.online:9484/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/783/radio-unam-961-fm.e71c66a7.png",
+    "genre": "genre_info",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex264",
+    "name": "Stereo Cien 100.1 FM",
+    "streamUrl": "https://15313.live.streamtheworld.com/XHMMFMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/485/stereo-cien-1001-fm.640ab4a2.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex266",
+    "name": "Radio Tulum",
+    "streamUrl": "https://streaming.radio.co/s510dd57df/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/241/radio-tulum.53ce1c05.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex267",
+    "name": "Exa FM Campeche",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHMI_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/202/exa-fm-campeche.501b658b.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex269",
+    "name": "Stereo Joya FM",
+    "streamUrl": "https://26423.live.streamtheworld.com/XEJP_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/332/stereo-joya.f116b7a0.jpg",
+    "genre": "genre_relax",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex271",
+    "name": "Digital 106.5 FM",
+    "streamUrl": "https://radio.rcg.com.mx:7000/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/223/digital-1065-fm.6f996f5e.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex272",
+    "name": "Exa FM Acapulco",
+    "streamUrl": "https://17643.live.streamtheworld.com/XHNQ_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/199/exa-fm-acapulco.50b9c6f9.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex275",
+    "name": "Digital Radio Mex",
+    "streamUrl": "https://radioenlinea.click:8030/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/994/digital-radio-mx.c2e12be8.jpg",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex279",
+    "name": "Exa FM Guadalajara",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHMA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/216/exa-fm-guadalajara.4b753a41.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex280",
+    "name": "Vida 1370 AM",
+    "streamUrl": "https://ss1.audiorama.com.mx:6596/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/285/vida-1370-am.be6c967f.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex281",
+    "name": "Radio Sensacion 106.9 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7044/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/598/radio-sensacion-1069-fm.b3b6a94e.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex282",
+    "name": "La Mía 101.7 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7057/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/553/la-mia-1017-fm.4d112e0d.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex284",
+    "name": "Ibero 90.9 FM",
+    "streamUrl": "https://noasrv.caster.fm:10182/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/997/ibero-909-fm.14fc87b7.png",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex285",
+    "name": "Stereo 100.3 FM",
+    "streamUrl": "https://streamingcwsradio30.com:7026/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/566/stereo-1003-fm.1ef6d47f.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex289",
+    "name": "Cumbias Inmortales Radio",
+    "streamUrl": "https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/334/cumbias-inmortales-radio.73ce604c.png",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex290",
+    "name": "La Mejor Zacatecas",
+    "streamUrl": "https://19313.live.streamtheworld.com/XHEMAAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/142/la-mejor-zacatecas.f77c3fef.jpg",
+    "genre": "genre_folk",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex291",
+    "name": "Imagen Radio 97.3 FM",
+    "streamUrl": "http://chihuahua.radio.wnsol.com:8220/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/354/radio-imagen-973-fm.c16b5b37.png",
+    "genre": "genre_news",
+    "country": "country_mexico"
+  },
+  {
+    "id": "mex292",
+    "name": "La Onda Radio",
+    "streamUrl": "https://laondaradio.stream.laut.fm/laondaradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/788/la-onda.d8f082f7.png",
+    "genre": "genre_pop",
+    "country": "country_mexico"
   }
 ]
