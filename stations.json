@@ -210,7 +210,7 @@
   {
     "id": "ru20",
     "name": "Love Radio",
-    "streamUrl": "https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=91CA53DD36438F9BA1C9DAE08E770A14",
+    "streamUrl": "https://stream.gakku.kz:8443/love128.mp3",
     "imageUrl": "https://topradio.me/assets/image/radio/180/love-radio-md.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -15846,5 +15846,1845 @@
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/CPkTRYvHFe.png",
     "genre": "genre_pop",
     "country": "country_nigeria"
+  },
+  {
+    "id": "tr1",
+    "name": "Radyo Mega – Istanbul",
+    "streamUrl": "http://radyo.yayin.com.tr:4052/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kw5cqm2yqgzz.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr2",
+    "name": "Radyo Sesi",
+    "streamUrl": "https://radyo1.radyo-dinle.tc/8176/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pkxnpjsw8ha3.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr3",
+    "name": "Radyo ODTU",
+    "streamUrl": "https://stream3.radyoodtu.com.tr:8000/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/512/radyo-odtu.cbc15a9e.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr4",
+    "name": "Joy Turk FM",
+    "streamUrl": "https://27913.live.streamtheworld.com/JOY_TURKAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/HdtUtc6FHM.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr5",
+    "name": "PashPash 90s Station – Antakya",
+    "streamUrl": "https://90s.pashpashradio.com:7001/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/FLxna4tnwA.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr6",
+    "name": "Power Türk",
+    "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5aLbQbmcLs.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr7",
+    "name": "Diyanet Radyo Resmi",
+    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pzhxefsfebpp.jpg",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr8",
+    "name": "Arabeskin Merkezi FM (Damardan) – Hacıbektaş",
+    "streamUrl": "https://canli.arabeskinmerkezi.com/9180/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/200/arabeskin-merkezi-fm.7018738c.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr9",
+    "name": "Vav Radyo",
+    "streamUrl": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wmcysakmwdmm.jpg",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr10",
+    "name": "PashPash Radio",
+    "streamUrl": "https://hits.pashpashradio.com:7000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/urnb3VEMCU.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr11",
+    "name": "Keskin FM – Keskin",
+    "streamUrl": "http://yayin1.canliyayin.org:8286/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xfwyeyuxcfuq.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr12",
+    "name": "RADYO KARADENİZ 88.6",
+    "streamUrl": "https://radyo1.radyo-dinle.tc/8138/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/f3eqgfnaqxcc.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr13",
+    "name": "Radyo FM 23 – Polatlı",
+    "streamUrl": "http://radyopiryolu.canliyayinda.com:8280/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cb5uvhcmgd93.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr14",
+    "name": "Semerkand Radio – Seki",
+    "streamUrl": "https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zaw4sppj6feq.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr16",
+    "name": "Radyo Romantik Turk – Izmir",
+    "streamUrl": "http://radyo.yayin.com.tr:6042/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/PXWfBDYdbv.jpeg",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr17",
+    "name": "Diyanet Kur'an Radyo",
+    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2e4zjyykmvfm.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr18",
+    "name": "Sorgun FM",
+    "streamUrl": "http://radyovetv.com:8001/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dbsuzubwkdfm.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr19",
+    "name": "Radyo20",
+    "streamUrl": "http://95.130.173.45:9180",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/TqMMfVRwg3.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr20",
+    "name": "Süper FM",
+    "streamUrl": "https://25343.live.streamtheworld.com/SUPER_FMAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/WjbuzKEJwE.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr21",
+    "name": "Dost FM",
+    "streamUrl": "http://yayin.dostfm.com:8920/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7LkNgGfhsn.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr22",
+    "name": "A Haber Radyo – Istanbul",
+    "streamUrl": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/F5krdzPwdW.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr23",
+    "name": "Joy FM – Istanbul",
+    "streamUrl": "https://25683.live.streamtheworld.com/JOY_FM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pPWhBey97x.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr24",
+    "name": "Radyo Gökçeada – Gökçeada – Çanakkale Province",
+    "streamUrl": "http://radyo.yayin.com.tr:4034/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/440/radyo-gokceada.74eb58b5.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr25",
+    "name": "Number One FM – Istanbul",
+    "streamUrl": "https://n10101m.mediatriple.net/numberoneturk",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/198/number-one-fm.2a5e1187.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr26",
+    "name": "ERT FM",
+    "streamUrl": "http://radyo.yayin.com.tr:8012/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mklhasz4f7mr.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr27",
+    "name": "Akra FM",
+    "streamUrl": "http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/T5pUwdMW54.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr28",
+    "name": "Radyo Fenomen Dans",
+    "streamUrl": "https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/madjfpaqgv9w.png",
+    "genre": "genre_dance",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr29",
+    "name": "Merkez FM",
+    "streamUrl": "https://sslyayin.radyoyayini.com/8016/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/c643ppkpsccv.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr30",
+    "name": "Radyo Turkuvaz – Turhal",
+    "streamUrl": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/r77smp6bgyfm.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr31",
+    "name": "Park FM",
+    "streamUrl": "http://yayin.netradyom.com:8050/PARKFM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pDRrLNUPvB.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr32",
+    "name": "Solfej FM-İzmir – Izmir",
+    "streamUrl": "https://radyoyek.80.yayin.com.tr",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/578/radyo-solfej.ce282b86.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr33",
+    "name": "Radyo Fenomen",
+    "streamUrl": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Mq4SYL3N7E.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr34",
+    "name": "Radyo Trafik Izmir – Izmir",
+    "streamUrl": "http://37.247.100.118/stream/179/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ze2fshumjhxk.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr35",
+    "name": "Gözde FM",
+    "streamUrl": "https://gozdefm.80.yayin.com.tr/stream/1/?icy=http",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ypdhd3shwqgq.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr36",
+    "name": "Kral FM",
+    "streamUrl": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/675/kral-fm.777b51b7.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr37",
+    "name": "Radyo 5 – Izmir",
+    "streamUrl": "http://radio5tr.canliyayinda.com:8117/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gnavdxbmzfvp.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr39",
+    "name": "Pal Station 106",
+    "streamUrl": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/d2whj3drafve.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr40",
+    "name": "TRT Çukurova Radyosu",
+    "streamUrl": "https://radio-trtcukurova.live.trt.com.tr/master.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/QYJJddC8ue.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr41",
+    "name": "TRT Gap Diyarbakir Radyosu",
+    "streamUrl": "https://radio-trtgap.live.trt.com.tr/master.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Kfr7pH538L.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr42",
+    "name": "Radyo Karacadağ FM – 88.0 FM – Sanliurfa",
+    "streamUrl": "http://yayin.firatfm.com:3065/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/m7w96rv8acca.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr43",
+    "name": "Tempo FM Çorlu – 102.1 FM – Çorlu",
+    "streamUrl": "https://sslyayin.netyayin.net/8038/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ybrb3uy8dj37.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr44",
+    "name": "Radyo 7 FM – Izmir",
+    "streamUrl": "https://radyo7icecast.radyotvonline.net/radyo7",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/987/radyo-7-fm.ff135b1e.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr45",
+    "name": "Radyo Viva",
+    "streamUrl": "http://46.20.3.230/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/024/radyo-viva.d661afdd.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr46",
+    "name": "NRG Slow – Çankaya",
+    "streamUrl": "http://live.nrgplay.com/stream/slow",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vcugbqkva7dm.jpg",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr47",
+    "name": "Risale Radyo – Istanbul",
+    "streamUrl": "https://radyo1.radyo-dinle.tc:7016/",
+    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr48",
+    "name": "Radio LIFE",
+    "streamUrl": "http://yayin2.canliyayin.org:8698/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/g3pnjftrn9tm.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr49",
+    "name": "Bati Radyo – Izmir",
+    "streamUrl": "https://sslyayin.netyayin.net:10902/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wpgvfzgt3n87.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr50",
+    "name": "Noksanlar Kenti – Istanbul",
+    "streamUrl": "https://ssl120.radyotelekom.com.tr/8538/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bbvezx6fdfyr.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr51",
+    "name": "Damar Turk FM – Istanbul",
+    "streamUrl": "https://live.radyositesihazir.com:10997",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xlxehydyq9p3.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr52",
+    "name": "Radyo Meyhane",
+    "streamUrl": "https://radyomeyhane.com/Radyo%20Meyhane.pls",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/554/radyo-meyhane.e3f250de.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr53",
+    "name": "Radyo Haber",
+    "streamUrl": "http://yayin2.yayindakiler.com:4118/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8labrqrxl8aq.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr54",
+    "name": "Mega aşk fm – Magnesia ad Sipylum",
+    "streamUrl": "http://live.radyo.in:8026",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uqrw3arybhve.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr55",
+    "name": "Kafa Radyo",
+    "streamUrl": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bedyqtzcjpcd.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr56",
+    "name": "Denge Radyo",
+    "streamUrl": "http://yayin1.canliyayin.org:8278/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vwe2sr5eldve.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr57",
+    "name": "Akdeniz Turku FM – Izmir",
+    "streamUrl": "http://akdeniz.radyomhd.com:9786",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gc9hdhpztreg.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr58",
+    "name": "Alaşehir Damar FM",
+    "streamUrl": "http://178.32.4.127:8358/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/344/alasehir-damar-fm.eef7aca5.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr59",
+    "name": "Baska – Istanbul",
+    "streamUrl": "https://29083.live.streamtheworld.com/BASKA128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yhj3junqagkj.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr60",
+    "name": "Kral Pop Radyo – Istanbul",
+    "streamUrl": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/670/kral-pop-radyo.de7f4407.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr61",
+    "name": "NTV Radyo",
+    "streamUrl": "http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ttsx5djrkbzk.jpg",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr62",
+    "name": "Radyo Fenomen Pop",
+    "streamUrl": "https://live.radyofenomen.com/fenomenpop/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/huwybzbeppzv.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr63",
+    "name": "RADYO CAN",
+    "streamUrl": "http://yayin2.yayindakiler.com:4174/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/q3shh36zk2g3.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr64",
+    "name": "RADYO TIME TURK – Istanbul",
+    "streamUrl": "http://yayin.yayindakiler.com:4195",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/hx7gyn8ed68m.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr65",
+    "name": "Konya Gözyaþý FM – 102.9 FM – Gözyeri",
+    "streamUrl": "http://yayin1.canliyayin.org:8700/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/744pjmfsunec.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr66",
+    "name": "Radyo Alaturka – Istanbul",
+    "streamUrl": "https://yayin.jumboserver.net:9100/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aZcTszGMks.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr67",
+    "name": "FRED FILM RADIO Sardu – Istanbul",
+    "streamUrl": "http://stream.fred.fm:8122/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uxtxufmpsquy.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr68",
+    "name": "Show Radyo",
+    "streamUrl": "http://46.20.3.228/listen.pls",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/023/show-radyo.dc541106.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr69",
+    "name": "Turkuvaz Romantik",
+    "streamUrl": "http://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/etvfyp5y6mfs.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr70",
+    "name": "45 Lik – 89.4 FM – Istanbul",
+    "streamUrl": "https://stream.radyo45lik.com:4545/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/MBHGkuEtaM.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr71",
+    "name": "Mio Radio – Istanbul",
+    "streamUrl": "http://s2.myradiostream.com:13662/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/t3bzujk8vxvv.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr72",
+    "name": "Radyo Aktif",
+    "streamUrl": "http://yayin1.yayindakiler.com:3164/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sY6wVg2wY6.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr73",
+    "name": "Melodi FM – Babaeski",
+    "streamUrl": "http://yayin2.yayindakiler.com:4164/.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8kgdn9rczhsm.jpeg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr74",
+    "name": "Metro FM",
+    "streamUrl": "https://27783.live.streamtheworld.com/METRO_FM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wtWeSZWM4L.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr75",
+    "name": "Radyo Fenomen Turk",
+    "streamUrl": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aqar8le4bkkv.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr76",
+    "name": "Radyo 44",
+    "streamUrl": "https://radyo44.80.yayin.com.tr/steram",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ncm3m8rehe9w.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr77",
+    "name": "Power Dance",
+    "streamUrl": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/DTdXaqteZ9.png",
+    "genre": "genre_dance",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr78",
+    "name": "Radyo Ülkü",
+    "streamUrl": "http://radyo.yayin.com.tr:4006/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5r5bng45dswr.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr80",
+    "name": "Elazığ Mavi Radyo – Elâzığ – Elazığ",
+    "streamUrl": "https://yayin.turkhosted.com/6066/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sFFvp76dhP.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr81",
+    "name": "Radyo Venus – 91.5 FM – Izmir",
+    "streamUrl": "http://yayin.turkhosted.com:6010/listen.pls",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rd3s6ufwxncb.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr82",
+    "name": "Radyo Zergan – Istanbul",
+    "streamUrl": "http://yayin1.yayindakiler.com:3194/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/367/radyo-zergan.9b1706a7.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr83",
+    "name": "Incitek FM",
+    "streamUrl": "http://yayin2.yayindakiler.com:4204/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/km9aevfrhmd4.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr84",
+    "name": "Botan FM",
+    "streamUrl": "http://yayin1.canliyayin.org:8026/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ndequ9ktxdft.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr85",
+    "name": "Radio C 106.5 FM",
+    "streamUrl": "http://yayin.radyoc.com:8091/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/MJscWv7xuu.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr87",
+    "name": "KralTürk",
+    "streamUrl": "https://live.radyositesihazir.com/8032/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4egnjudgmyqm.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr88",
+    "name": "Super 2 FM – Istanbul",
+    "streamUrl": "https://27823.live.streamtheworld.com/SUPER2128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/g8eb6qkmwu8b.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr89",
+    "name": "Hatay Radyo Akdeniz",
+    "streamUrl": "http://yayin.netyayin.net:7077/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7vrnhqjrajhd.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr90",
+    "name": "SÖZ.FM",
+    "streamUrl": "https://radyo1.radyo-dinle.tc/8074/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ylud22jyhhr3.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr91",
+    "name": "Radyo Slayt",
+    "streamUrl": "https://live.radyo.in/8050/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/062/radyo-slayt.06e6e29c.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr92",
+    "name": "Radyo Fenomen Karışık",
+    "streamUrl": "https://live.radyofenomen.com/fenomenkarisik/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jw3ktzldfnxx.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr93",
+    "name": "AFN 360 Incirlik",
+    "streamUrl": "https://25443.live.streamtheworld.com/AFNE_ICK_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/emxxkqn4xcg5.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr94",
+    "name": "Radyo 13",
+    "streamUrl": "http://yayin1.yayindakiler.com:3050/listen.pls",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/carlpamlhpj6.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr95",
+    "name": "AÇS Radyo",
+    "streamUrl": "https://ip169.ozelip.com:10838/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8shcu9qvmyvn.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr96",
+    "name": "Joy Jazz",
+    "streamUrl": "https://22183.live.streamtheworld.com/JOY_JAZZ128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/afgmqn4mhbuj.png",
+    "genre": "genre_jazz",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr97",
+    "name": "Radyo Niva",
+    "streamUrl": "https://radyo1.radyo-dinle.tc/8214/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8dttrhjy3wxc.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr98",
+    "name": "Power Pop",
+    "streamUrl": "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/e9lulrqkzf7n.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr99",
+    "name": "Bizim Radyo FM",
+    "streamUrl": "http://95.173.188.166:9986/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pwvsverfg4st.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr100",
+    "name": "A Spor Radyo",
+    "streamUrl": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/an9vqdgbrmma.jpg",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr102",
+    "name": "Sivas FM",
+    "streamUrl": "http://yayin1.canliyayin.org:8180/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/lfedqgva5v8k.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr103",
+    "name": "Dogan 21 FM",
+    "streamUrl": "http://yayin1.yayindakiler.com:3024/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yTTyRYGhmB.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr104",
+    "name": "Radiology FM",
+    "streamUrl": "https://live.radyositesihazir.com/8090/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bhpfnjczbcyn.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr105",
+    "name": "Radyo Mola",
+    "streamUrl": "http://yayin.yayindakiler.com:2018/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ha8effcc7rxm.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr106",
+    "name": "TRT Trabzon Radyosu",
+    "streamUrl": "https://radio-trttrabzon.live.trt.com.tr/master.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5FgXJCfxjS.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr109",
+    "name": "Radyo Deva",
+    "streamUrl": "https://ssl123.ozelip.com/8108/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/140/radyo-deva.cd533ad5.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr110",
+    "name": "Cizre Botan FM",
+    "streamUrl": "http://yayin.netyayin.net:9914/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/lsdu9mce42wj.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr112",
+    "name": "IGDIR FM 93.0",
+    "streamUrl": "http://yayin2.yayindakiler.com:4158/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4xxqpusxjzw4.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr113",
+    "name": "Radyo Sevimli FM",
+    "streamUrl": "http://yayin2.canliyayin.org:7887/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eceumpjsckwx.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr114",
+    "name": "Bloomberg HT Radyo",
+    "streamUrl": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cb58ajxdbyhk.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr115",
+    "name": "Radyo Yıldız",
+    "streamUrl": "https://radyo1.radyo-dinle.tc/8046/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xkqnpybykbvp.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr116",
+    "name": "Ostim Radyo",
+    "streamUrl": "https://stream.netradyom.com/radio/8010/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ancpfrcblrze.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr117",
+    "name": "Karadeniz Sesi FM",
+    "streamUrl": "https://radyo3.okeylisans.com/karadenizsesifm/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/azrrnr7wn6ze.jpg",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr118",
+    "name": "NRG HipHop – Çankaya",
+    "streamUrl": "http://live.nrgplay.com/stream/hiphop",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pq5mmzhfheqf.png",
+    "genre": "genre_hiphop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr119",
+    "name": "Saray FM",
+    "streamUrl": "https://radio.saraypost.com/8002/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dztdf68jar2r.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr120",
+    "name": "Radyo Gri",
+    "streamUrl": "https://gribalkon.radioca.st/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/evnve7msfk5s.jpeg",
+    "genre": "genre_rock",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr121",
+    "name": "RadyoGorkem",
+    "streamUrl": "https://radyoserver1.okeylisans.com:8014/",
+    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr122",
+    "name": "Radyo Modoko",
+    "streamUrl": "https://sslyayin.radyoyayini.com:7002/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tsdwxrp7zhkl.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr123",
+    "name": "NRG Cage Club",
+    "streamUrl": "http://live.nrgplay.com/stream/cageclub",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rvcjlu3m34fb.png",
+    "genre": "genre_dance",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr124",
+    "name": "Radyo Banko",
+    "streamUrl": "http://yayin.netradyom.com:9910/RADYOBANKO",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/taQQYVB6KU.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr125",
+    "name": "Radyo Yorem",
+    "streamUrl": "http://live4.radyoyayini.com:9420/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xqttv7kwyzmu.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr126",
+    "name": "Number One Türk Slow FM",
+    "streamUrl": "https://n10101m.mediatriple.net/slow",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nmdqk9dtdm2t.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr127",
+    "name": "Radyo Ses Eskisehir",
+    "streamUrl": "http://live2.radyotvonline.com:8095/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/knwlqdf6p39p.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr128",
+    "name": "X Radio – 106.6 FM",
+    "streamUrl": "https://stream.xradio.com.tr:8770/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qac5ydwuysvd.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr129",
+    "name": "Turku Radyo",
+    "streamUrl": "http://radyo.turkuradyo.net:4591/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mvsjxvqtk5bg.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr130",
+    "name": "Radyo Aria",
+    "streamUrl": "http://ariaprme.80.yayin.com.tr",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pTxsy79NXK.jpeg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr131",
+    "name": "Radio Wanderlust",
+    "streamUrl": "http://radyo.yayin.com.tr:5898//stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/elzlhxgcbxlz.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr132",
+    "name": "1919 FM",
+    "streamUrl": "https://radyoserver3.okeylisans.com:8050/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/27vzpwthwb2b.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr133",
+    "name": "Radyo Gol",
+    "streamUrl": "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dhfbqckddv5r.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr134",
+    "name": "Can Radyo",
+    "streamUrl": "http://yayin1.yayindakiler.com:3124/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2nyn98byag43.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr135",
+    "name": "Power Smooth Jazz",
+    "streamUrl": "https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/TwkNtEmxUr.png",
+    "genre": "genre_jazz",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr136",
+    "name": "Uni FM",
+    "streamUrl": "https://unifmcom.80.yayin.com.tr",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2aca5rzx9k3j.jpg",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr137",
+    "name": "Number One Turk 90'lar",
+    "streamUrl": "https://n10101m.mediatriple.net/numberone90s",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/230/number-one-turk-90.b7a43df1.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr138",
+    "name": "Isra FM",
+    "streamUrl": "http://yayin1.canliyayin.org:8210/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jbrmaK5DjF.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr139",
+    "name": "Radio Dogubayazıt",
+    "streamUrl": "https://radyo1.radyo-dinle.tc/8156/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wnnutzyjmx7p.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr140",
+    "name": "Radyo Arabesk",
+    "streamUrl": "https://yayin.radyoarabesk.com.tr:8000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bqg8hyn8376g.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr141",
+    "name": "Radyo Hazar",
+    "streamUrl": "http://radyohazar.canliyayinda.com:8286/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xDtb4PJyaQ.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr142",
+    "name": "Radio Clubbin",
+    "streamUrl": "http://radyo.yayin.com.tr:6199",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xcqfth3vtn94.png",
+    "genre": "genre_dance",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr143",
+    "name": "Radyo Bizim FM",
+    "streamUrl": "http://radyo.radyobizimfm.com:9212/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pwvsverfg4st.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr144",
+    "name": "Pal Nostalji",
+    "streamUrl": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zrrq9dl36dww.jpg",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr145",
+    "name": "RADYO JUKE",
+    "streamUrl": "http://yayin.netradyom.com:9990/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kapmycwrvzbj.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr146",
+    "name": "Radyo Karamursel",
+    "streamUrl": "http://yayin1.yayindakiler.com:3052/listen.pls?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qjwn5yr3tz8z.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr147",
+    "name": "Radyo Deva Adana",
+    "streamUrl": "http://yayin.yayindakiler.com:3040/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mh2mclbdy5vj.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr148",
+    "name": "Radyo Nida",
+    "streamUrl": "https://radyo1.radyo-dinle.tc/8106/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kpvyrhtes5dc.jpg",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr149",
+    "name": "Radyo Yeditepe",
+    "streamUrl": "https://ip169.ozelip.com/8082/stream/*.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/p49lanycaufz.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr150",
+    "name": "Slow Karadeniz FM",
+    "streamUrl": "http://dinle.slowkaradenizfm.com:9578",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6KVKTJjnrc.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr151",
+    "name": "Hayal FM",
+    "streamUrl": "http://yayin.radyohayalfm.net:8050/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/XQht3vD8tr.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr152",
+    "name": "Radio Atilim",
+    "streamUrl": "https://radyoatilim.yayin.com.tr/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/m3zqggvnr8ec.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr153",
+    "name": "SOYLU Medya",
+    "streamUrl": "http://yayin.yayindakiler.com:4034/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ztmeqszkqsh8.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr154",
+    "name": "Radyo Tutkal",
+    "streamUrl": "https://live.radyositesihazir.com/8034/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wbtblkctpdcn.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr155",
+    "name": "Akustik Türküler",
+    "streamUrl": "http://46.20.4.54:8020/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/112/joyturk-akustik.49c35516.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr156",
+    "name": "Kilis Sultan Radyo 106.0 FM",
+    "streamUrl": "https://sslyayin.netyayin.net/7979/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gyhkskpcrn3u.jpeg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr157",
+    "name": "Radyo Ekin FM",
+    "streamUrl": "http://yayin.turkhosted.com:6006/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kepyktj7mady.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr158",
+    "name": "Radyo Yakamoz",
+    "streamUrl": "http://live4.radyotvonline.com:6570/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2ptkc964sk39.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr159",
+    "name": "Radyo Mugla",
+    "streamUrl": "http://yayin.yayindakiler.com:3006/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eshxycy7jx59.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr160",
+    "name": "Yozgat FM",
+    "streamUrl": "https://sslyayin.netyayin.net:10921/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9zagwdwus4da.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr161",
+    "name": "Radyo Piramit",
+    "streamUrl": "http://yayin.netyayin.net:2637",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yr39uq6s6wfe.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr164",
+    "name": "Radyo Slow Time",
+    "streamUrl": "http://46.20.7.104/listen.pls",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7eHrDaxWcP.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr169",
+    "name": "Radyo Natura",
+    "streamUrl": "https://live.radyo.in/8002/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ktmpvtcd3rbr.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr171",
+    "name": "Radyo Ihya FM",
+    "streamUrl": "http://radyo.yayin.com.tr:2727/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vnjaks6bjna6.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr172",
+    "name": "GÝMSA RADYO",
+    "streamUrl": "http://yayin1.canliyayin.org:9482/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eh6z7aujcym6.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr173",
+    "name": "Antakya Radyo Renk",
+    "streamUrl": "http://yayin1.yayindakiler.com:3016/renk",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jbjee4g8pw9m.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr174",
+    "name": "Kay Radyo",
+    "streamUrl": "http://yayin1.yayindakiler.com:3054/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rtmgmuyttqkn.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr176",
+    "name": "Radyo Ozgur FM",
+    "streamUrl": "http://yayin.turkhosted.com:6072/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vrptmpbjmnc2.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr177",
+    "name": "Borusan Klasik",
+    "streamUrl": "https://25653.live.streamtheworld.com/BORUSAN_KLASIK128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dmbykccp6fvm.png",
+    "genre": "genre_jazz",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr179",
+    "name": "Yunus FM",
+    "streamUrl": "http://95.173.162.184:7350/mp3/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/GJP7LhH75L.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr180",
+    "name": "Radyo Hayat",
+    "streamUrl": "http://live4.radyotvonline.com:9450/listen.pls",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yaxphmhhtssr.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr182",
+    "name": "Abuzer FM",
+    "streamUrl": "http://live.radyotvonline.com:9030",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/q37mysst5mpg.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr183",
+    "name": "BAU RADYO",
+    "streamUrl": "https://ssl120.radyotelekom.com.tr/8106/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uqNjx82MGJ.jpg",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr185",
+    "name": "Radyo Lades",
+    "streamUrl": "https://live.radyolades.com/8028/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5UynxtrU9C.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr186",
+    "name": "Radyo EN",
+    "streamUrl": "http://yayin2.canliyayin.org:7222/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dmbnwtmdsrnt.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr187",
+    "name": "Radyo Mastika 103.0 FM",
+    "streamUrl": "http://radyo.yayin.com.tr:5950/mp3/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/syehzyktz4zw.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr188",
+    "name": "Aral FM – 93.3 FM",
+    "streamUrl": "https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/b5dmeabcgyas.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr189",
+    "name": "Soft Radyo",
+    "streamUrl": "http://radyo.softradyo.com:1140/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9ppVT8J4eT.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr190",
+    "name": "HayatMix",
+    "streamUrl": "http://hayatmix.net/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/39pe2ba4jsvd.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr192",
+    "name": "Radyo Taksi",
+    "streamUrl": "https://live.radyo.in/8006/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tmddtxerhjt9.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr193",
+    "name": "Radyo Seymen",
+    "streamUrl": "http://yayin.radyoseymen.com.tr:1070/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/602/radyo-seymen.38d92b15.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr195",
+    "name": "Joy türk Rock",
+    "streamUrl": "https://25703.live.streamtheworld.com/JOYTURK_ROCK128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tnaagqcrtbyk.png",
+    "genre": "genre_rock",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr196",
+    "name": "Radyo Ilef",
+    "streamUrl": "http://radyo.cc.ankara.edu.tr:8089",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7UG2TeWbnf.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr198",
+    "name": "Radyo Trafik Marmara",
+    "streamUrl": "http://37.247.100.118/stream/68/https://www.facebook.com/radyotrafik",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6tdkucrwtes6.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr199",
+    "name": "Radyo Vegas",
+    "streamUrl": "https://anadolu.liderhost.com.tr/8090/stream:8090/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5hhjmgfqgkt3.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr200",
+    "name": "Pop 90",
+    "streamUrl": "https://25653.live.streamtheworld.com/POP90128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tybbvkqe64tw.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr204",
+    "name": "Datça OnAir",
+    "streamUrl": "http://185.126.217.8:9358",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4asnl4jzcm7e.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr205",
+    "name": "Number One Turk FM",
+    "streamUrl": "https://25533.live.streamtheworld.com/SUPER_FM_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6sugbvx983hq.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr206",
+    "name": "Londra Turk Radyosu",
+    "streamUrl": "https://s2.radio.co/s899a861e2/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ks2yxdwrctnz.png",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr210",
+    "name": "Radyo Eksen",
+    "streamUrl": "http://46.20.3.198/listen.pls",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/UjGPyqWWVz.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr212",
+    "name": "Radyo 34",
+    "streamUrl": "https://radyo34.radyotvonline.net/radyo34",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/e3wldfmw5ywn.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr214",
+    "name": "Medrese Radyo",
+    "streamUrl": "https://admin.medreseradyo.com/radio/8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/prpcmrbxvcm9.jpeg",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr217",
+    "name": "Safak FM",
+    "streamUrl": "http://yayin2.canliyayin.org:7070",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jcnKV5w9m3.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr218",
+    "name": "Radyo Tulu 104.5 FM",
+    "streamUrl": "http://yayin2.canliyayin.org:8248/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bu9dxb5rvdyz.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr219",
+    "name": "Birlik FM",
+    "streamUrl": "http://yayin1.canliyayin.org:7082/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eb6rhsjacfg9.png",
+    "genre": "genre_religious",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr220",
+    "name": "Arabesk Aski",
+    "streamUrl": "http://radyo.arabeskaski.com:4242/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/p2hzpjxntqbw.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr222",
+    "name": "Yidiz FM",
+    "streamUrl": "http://radyo.yayin.com.tr:5940/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zd7szduuxyjy.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr223",
+    "name": "Rock Station",
+    "streamUrl": "https://25653.live.streamtheworld.com/ROCK_STATION128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sbs2wspawfle.png",
+    "genre": "genre_rock",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr225",
+    "name": "Işleyen fm",
+    "streamUrl": "https://live.radyositesihazir.com/8060/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/q6znetyrb6e8.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr226",
+    "name": "Arabesk FM",
+    "streamUrl": "http://yayin.arabeskfm.biz:8042",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/blxt7nxdsc8v.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr228",
+    "name": "Damar FM Arabesk Radyo",
+    "streamUrl": "https://yayin.damarfm.com:8080/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JU4wQrAa8d.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr229",
+    "name": "Zerguwan FM",
+    "streamUrl": "https://zerguwanfm.kesintisizyayin.com:7366/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/301/zerguwan-fm.f953974d.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr230",
+    "name": "Hedef Radyo 91.8 FM",
+    "streamUrl": "http://wowza.radyogrup.com:4010/1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pjn4mdubufyh.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr231",
+    "name": "Radio Mood",
+    "streamUrl": "http://radyo.yayin.com.tr:5862//stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/v5bswlzbrcd3.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr232",
+    "name": "EFKAR",
+    "streamUrl": "https://29083.live.streamtheworld.com/EFKAR128AAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wV2HAv49DZ.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr233",
+    "name": "Radyo Gül",
+    "streamUrl": "http://yayin2.canliyayin.org:8866/*.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yhstqv7padsg.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr234",
+    "name": "Zade FM",
+    "streamUrl": "https://radyoserver1.okeylisans.com:14000/8048/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ycLGVwdVWb.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr235",
+    "name": "Karma turk FM",
+    "streamUrl": "http://radyo1.radyo-dinle.tc:8056/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wccqnmdewpht.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr236",
+    "name": "Ses Radyo",
+    "streamUrl": "http://95.173.161.133:9350/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/k2ahypdaghtg.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr237",
+    "name": "Kıyı Müzik",
+    "streamUrl": "http://proxima.shoutca.st:8223/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rw3md73mtxdr.png",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr238",
+    "name": "Uşak Damar FM",
+    "streamUrl": "http://anadolu.liderhost.com.tr:8358",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kjzv34fhvaxt.jpeg",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr240",
+    "name": "Retro Türk",
+    "streamUrl": "https://23543.live.streamtheworld.com/RETROTURKAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/78GMb3Dmd4.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr246",
+    "name": "Akustik Fm",
+    "streamUrl": "https://ip169.ozelip.com/8042/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/attLnrJeJp.jpg",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr247",
+    "name": "Radyo Gun",
+    "streamUrl": "http://95.173.162.188:9952",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/k2gfutfg6jmz.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr252",
+    "name": "Radio 5 – Deep",
+    "streamUrl": "https://radiotrc.80.yayin.com.tr",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nZHHW9qxwu.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr254",
+    "name": "Bizim iller Radyo",
+    "streamUrl": "http://yayin.yayindakiler.com:4078/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/3b5kagdqgwyq.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr256",
+    "name": "MoodCast Radio",
+    "streamUrl": "http://yayin.radiomoodtr.com:6321/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/fS5xgEwWxa.jpg",
+    "genre": "genre_relax",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr258",
+    "name": "Radyo kardelen FM",
+    "streamUrl": "http://178.32.4.127:8358",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jvnpvjb8bzya.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr260",
+    "name": "Lig Radyo",
+    "streamUrl": "https://ligradyo.radyotvonline.net/ligradyo",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nEFNVYFhek.jpg",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr261",
+    "name": "Radyovizyon Rock",
+    "streamUrl": "http://yayin.netradyom.com:8010/VIZYONROCK",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zyqerrfquhc6.jpg",
+    "genre": "genre_rock",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr262",
+    "name": "Arabesk Turkiye",
+    "streamUrl": "http://arabeskturkiye.xyz:9312/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vt8dkkyv5y7t.jpg",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr265",
+    "name": "Radyo 71",
+    "streamUrl": "http://radyo.yayin.com.tr:5924/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8rrmhhqbhkdm.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr266",
+    "name": "Radio 5 – Legend",
+    "streamUrl": "https://radiocom.80.yayin.com.tr",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/HWPNgevqyM.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr270",
+    "name": "Radyo Gezgin Korsan",
+    "streamUrl": "http://radyogezginkorsan.kesintisizyayin.com:8916/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/3xkajypzca4z.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr272",
+    "name": "Açık Radyo 94.9 FM",
+    "streamUrl": "http://stream.34bit.net/stream.mp3",
+    "imageUrl": "https://www.radio.net/175/acikradyo.png?version=ce094c9d6f751d5f6e59405ed66abcbf604cdd42",
+    "genre": "genre_news",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr273",
+    "name": "Radyo Hamsi",
+    "streamUrl": "http://radyo.hamsi.fm:8050/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vtq7t6ybadgf.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr279",
+    "name": "Radyotek 97.0 FM",
+    "streamUrl": "http://yayin2.yayindakiler.com:4202/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kex4rbnsjs9e.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr280",
+    "name": "ÜLKÜ FM",
+    "streamUrl": "http://yayin2.yayindakiler.com:4112/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/umdtup9hphwu.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr281",
+    "name": "Cemre FM",
+    "streamUrl": "http://yayin1.canliyayin.org:8024/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/knxvtsmt43n7.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr282",
+    "name": "RADYO YUKSEL",
+    "streamUrl": "http://yayin1.canliyayin.org:8232/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2hmlgbpfw5qu.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr285",
+    "name": "Hemdem Radyo",
+    "streamUrl": "https://radyoserver3.okeylisans.com:8040/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/661/hemdem-radyo.b286b514.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr288",
+    "name": "Arabesk Vadisi",
+    "streamUrl": "https://arabeskv.80.yayin.com.tr/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tumcfybhcabt.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr289",
+    "name": "RadyoFm 60 Tokat",
+    "streamUrl": "https://live.radyositesihazir.com/8016/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/svqr5cecn96m.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr290",
+    "name": "Radyo Extra 90.5 FM",
+    "streamUrl": "http://radyopiryolu.canliyayinda.com:8117/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uj6uvmqeqn97.jpg",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr291",
+    "name": "Tiryaki FM 101.4",
+    "streamUrl": "http://yayin.turkhosted.com:6056/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5zSrU9Hnhz.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr292",
+    "name": "Max FM 95.8",
+    "streamUrl": "http://live2.radyotvonline.com:8025",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zWDuCUufAa.png",
+    "genre": "genre_pop",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr294",
+    "name": "Rock FM 94.5 FM",
+    "streamUrl": "https://rockfm.rockfm.com.tr:9450/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JGAyCEjU6A.png",
+    "genre": "genre_rock",
+    "country": "country_turkey"
+  },
+  {
+    "id": "tr295",
+    "name": "Karadeniz Akustik Radyo",
+    "streamUrl": "http://karadenizakustik.radyotvonline.net/?type=http&nocache=3230",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cpXzF5YE8g.png",
+    "genre": "genre_folk",
+    "country": "country_turkey"
   }
 ]
