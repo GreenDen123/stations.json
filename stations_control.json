@@ -3,7 +3,7 @@
     "id": "mex1",
     "name": "Los 40",
     "streamUrl": "https://22123.live.streamtheworld.com/LOS40_MEXICOAAC_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/846/los-40-principales-mexico.b3eabffc.jpg",
     "genre": "genre_hits",
     "country": "country_mexico"
   },
@@ -11,7 +11,7 @@
     "id": "mex2",
     "name": "Free FM Classics Mexico",
     "streamUrl": "https://xxdelgado.radioca.st",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/812/roca-fm-clasicos-mexico.35407fe8.jpg",
     "genre": "genre_pop",
     "country": "country_mexico"
   },
@@ -19,31 +19,23 @@
     "id": "mex3",
     "name": "Exa FM Ensenada",
     "streamUrl": "https://19003.live.streamtheworld.com/XHADA_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/214/exa-fm-ensenada.0157b297.png",
     "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex4",
-    "name": "Jade Radio 21.6 Fm Online",
-    "streamUrl": "https://s01.digitalserver.org:7675",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_mexico"
   },
   {
     "id": "mex5",
     "name": "La Mejor Durango",
     "streamUrl": "https://18213.live.streamtheworld.com/XERCFM_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/507/knnr-la-mejor-977-fm.d57d3d95.jpg",
     "genre": "genre_folk",
     "country": "country_mexico"
   },
   {
     "id": "mex6",
-    "name": "Sol FM 89.7",
+    "name": "Sol FM",
     "streamUrl": "https://live.zuperdns.net:7015/stream.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/478/sol-fm-897.9228b47a.png",
     "genre": "genre_pop",
     "country": "country_mexico"
   },
@@ -51,7 +43,7 @@
     "id": "mex7",
     "name": "Love 101.5 FM",
     "streamUrl": "https://ss1.audiorama.com.mx:6632/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/750/love-1015-fm.1ed1e1c1.png",
     "genre": "genre_relax",
     "country": "country_mexico"
   },
@@ -59,7 +51,7 @@
     "id": "mex8",
     "name": "Radio XPlosion",
     "streamUrl": "https://stream9.mexiserver.com:7087/",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/755/radio-xplosion.17da7875.png",
     "genre": "genre_pop",
     "country": "country_mexico"
   },
@@ -67,7 +59,7 @@
     "id": "mex9",
     "name": "Clik Radio MX",
     "streamUrl": "https://streaming.servicioswebmx.com/8002/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/308/clik-radio.d20d22df.png",
     "genre": "genre_pop",
     "country": "country_mexico"
   },
@@ -75,31 +67,15 @@
     "id": "mex10",
     "name": "Radial Stereo",
     "streamUrl": "https://radioenlinea.click:8020/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/535/radial-stereo-mexico.13cdbe8a.png",
     "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex11",
-    "name": "Oro 94.9 Solo Hits",
-    "streamUrl": "https://sg.centrocibernetico.com/oro949",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex12",
-    "name": "Radio80s",
-    "streamUrl": "https://audio-edge-ey5nr.ams.s.radiomast.io/ac38fb2a-590d-45d0-9ee6-2a23eff4263d",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
     "country": "country_mexico"
   },
   {
     "id": "mex13",
     "name": "La Poderosa Aguascalientes",
     "streamUrl": "http://201.159.48.105:2871/",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/268/la-poderosa-aguascalientes.00b2db7f.png",
     "genre": "genre_folk",
     "country": "country_mexico"
   },
@@ -107,7 +83,7 @@
     "id": "mex14",
     "name": "Dance FM Mexico",
     "streamUrl": "https://sonic.streamingchilenos.com/8138/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/321/dance-fm-mexico.168aea5c.png",
     "genre": "genre_dance",
     "country": "country_mexico"
   },
@@ -115,7 +91,7 @@
     "id": "mex15",
     "name": "La Mejor Ciudad Obregón",
     "streamUrl": "https://streamingcwsradio30.com:7058/",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/507/knnr-la-mejor-977-fm.d57d3d95.jpg",
     "genre": "genre_folk",
     "country": "country_mexico"
   },
@@ -181,14 +157,6 @@
     "streamUrl": "http://148.228.50.32:8000/",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex24",
-    "name": "Imagen Radio 90.5 FM",
-    "streamUrl": "https://15313.live.streamtheworld.com/XEDAFMAAC_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
-    "genre": "genre_news",
     "country": "country_mexico"
   },
   {
@@ -280,14 +248,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex36",
-    "name": "La Tremenda 103.1 FM",
-    "streamUrl": "https://live.zuperdns.net:7014/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex37",
     "name": "Radio 13",
     "streamUrl": "http://tuasesorweb.com:8050",
@@ -296,25 +256,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex38",
-    "name": "Capital Máxima 97.1 FM",
-    "streamUrl": "https://14023.live.streamtheworld.com/XHCHHAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex39",
     "name": "Formula 1120 AM",
     "streamUrl": "https://sg.centrocibernetico.com/formula1120am",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex40",
-    "name": "El Heraldo Radio 90.1 FM",
-    "streamUrl": "http://mexicanradio.org:9412/stream",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_mexico"
@@ -328,25 +272,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex42",
-    "name": "Radio Guerrero",
-    "streamUrl": "https://stream9.mexiserver.com/8126/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex43",
     "name": "Radio Centro",
     "streamUrl": "https://17563.live.streamtheworld.com/XEN_AMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex44",
-    "name": "La Rancherita del Aire",
-    "streamUrl": "http://116.203.229.227:8000/radio.mp3.m3u",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -384,22 +312,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex49",
-    "name": "Jalisco Radio",
-    "streamUrl": "https://sp2.servidorrprivado.com:10766/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex50",
-    "name": "Hits FM 104.9",
-    "streamUrl": "https://18723.live.streamtheworld.com/XERAM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex51",
     "name": "Rock Band Radio",
     "streamUrl": "http://cdn.instream.audio:9105/stream",
@@ -408,43 +320,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex52",
-    "name": "D99 FM",
-    "streamUrl": "https://27063.live.streamtheworld.com/D99_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex53",
     "name": "Exa FM Mérida",
     "streamUrl": "https://18213.live.streamtheworld.com/XHMRA_SC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
     "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex54",
-    "name": "Pirata.FM Playa del Carmen",
-    "streamUrl": "https://14983.live.streamtheworld.com/XHLAYA_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex55",
-    "name": "Pirata.FM Puerto Vallarta",
-    "streamUrl": "https://25063.live.streamtheworld.com/XHGAIAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex56",
-    "name": "Cultura México Señal Internacional",
-    "streamUrl": "https://s2.mexside.net/8176/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
     "country": "country_mexico"
   },
   {
@@ -536,14 +416,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex68",
-    "name": "Vic Mar Producciones Radio Premier",
-    "streamUrl": "https://s01.digitalserver.org:7016",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex69",
     "name": "Rock Connection 77",
     "streamUrl": "https://s43.myradiostream.com/:22226/listen.mp3",
@@ -568,35 +440,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex72",
-    "name": "La Poderosa De Morelos",
-    "streamUrl": "http://radioenhd.com:8040/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex73",
     "name": "La Mejor Tampico",
     "streamUrl": "https://14223.live.streamtheworld.com/XHJT_SC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
     "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex74",
-    "name": "La T Grande XET 990 AM",
-    "streamUrl": "https://18683.live.streamtheworld.com/XETAM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex75",
-    "name": "Capital Pirata 89.3 FM",
-    "streamUrl": "https://25063.live.streamtheworld.com/XECHAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
     "country": "country_mexico"
   },
   {
@@ -621,14 +469,6 @@
     "streamUrl": "https://streamingcwsradio30.com:7030/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex79",
-    "name": "W Radio",
-    "streamUrl": "https://18723.live.streamtheworld.com/W_RADIO_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/W_Radio_logo.svg/250px-W_Radio_logo.svg.png",
-    "genre": "genre_news",
     "country": "country_mexico"
   },
   {
@@ -688,14 +528,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex87",
-    "name": "La Mejor Veracruz",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHVEFM_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex88",
     "name": "Super 2000",
     "streamUrl": "https://aguila1.netkairos.com:8140",
@@ -709,14 +541,6 @@
     "streamUrl": "https://19003.live.streamtheworld.com/XHCJX_SC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
     "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex90",
-    "name": "RG La Deportiva 690",
-    "streamUrl": "https://19253.live.streamtheworld.com/RG690AAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
     "country": "country_mexico"
   },
   {
@@ -744,34 +568,10 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex94",
-    "name": "Los 40 Principales Aguascalientes",
-    "streamUrl": "https://live.zuperdns.net/9570/stream/stream.mp3",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex95",
     "name": "La Gruperisima",
     "streamUrl": "https://sonic01.instainternet.com:7068",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex96",
-    "name": "Retro 90.5 FM HD",
-    "streamUrl": "https://s01.digitalserver.org:7637",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex97",
-    "name": "La Mejor Nogales",
-    "streamUrl": "https://14223.live.streamtheworld.com/XHNGS_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
     "genre": "genre_folk",
     "country": "country_mexico"
   },
@@ -816,22 +616,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex103",
-    "name": "Urbana Radio",
-    "streamUrl": "https://servidor18.brlogic.com:7370/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex104",
-    "name": "Mix 92.7 FM Puerto Vallarta",
-    "streamUrl": "https://24083.live.streamtheworld.com/XHVAYFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex105",
     "name": "Los 40 Mexicali",
     "streamUrl": "https://26303.live.streamtheworld.com/LOS40_MEXICO2AAC_SC",
@@ -848,14 +632,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex107",
-    "name": "Punto Fm Radio 93.5",
-    "streamUrl": "https://sonic01.instainternet.com:7004",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex108",
     "name": "La Raza 1060 AM",
     "streamUrl": "https://ice41.securenetsystems.net/LARAZA",
@@ -869,14 +645,6 @@
     "streamUrl": "http://ororadio2.serverroom.us:4638/",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
     "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex110",
-    "name": "Amor 95.3 FM",
-    "streamUrl": "https://24973.live.streamtheworld.com/XHSHFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
     "country": "country_mexico"
   },
   {
@@ -912,14 +680,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex115",
-    "name": "La Ranchera de Monterrey",
-    "streamUrl": "http://mexicanradio.org:9410/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex116",
     "name": "Imagen Querétaro 94.7 FM",
     "streamUrl": "http://radio.wnsol.com:8070/stream.mp3",
@@ -932,38 +692,6 @@
     "name": "La Mejor Monterrey",
     "streamUrl": "https://19003.live.streamtheworld.com/XHSROFM_SC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex118",
-    "name": "Radio Educación 96.5 FM",
-    "streamUrl": "https://s2.mexside.net/8174/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex119",
-    "name": "Radio FMX",
-    "streamUrl": "https://streaming.servicioswebmx.com/8062/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex120",
-    "name": "Génesis 98.1 FM",
-    "streamUrl": "http://streamingcwsradio20.com:9406/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex121",
-    "name": "Lobos FM 93.7",
-    "streamUrl": "http://streamingcwsradio20.com:9330",
-    "imageUrl": "__________________________",
     "genre": "genre_folk",
     "country": "country_mexico"
   },
@@ -1000,49 +728,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex126",
-    "name": "La Peligrosa",
-    "streamUrl": "https://streaming.servicioswebmx.com/8228/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex127",
     "name": "Ya! FM Villahermosa",
     "streamUrl": "https://sgaudio.centrocibernetico.com/yafmvillahermosa",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex128",
-    "name": "Opus 94",
-    "streamUrl": "https://s2.mexside.net/8016/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex129",
-    "name": "Super Stereo",
-    "streamUrl": "https://s2.mexside.net/8068/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex130",
-    "name": "Los 40 Principales Morelia",
-    "streamUrl": "http://s4.mexside.net:7040/stream.mp3",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex131",
-    "name": "Capital 105.3 FM",
-    "streamUrl": "https://24883.live.streamtheworld.com/XHCMRAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -1064,43 +752,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex134",
-    "name": "La Caliente FM 97.1",
-    "streamUrl": "https://15723.live.streamtheworld.com/XHNLOFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex135",
-    "name": "Ke Buena Guadalajara",
-    "streamUrl": "https://24083.live.streamtheworld.com/KEBUENA_GDLAAC_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ke_Buena_logo.png/200px-Ke_Buena_logo.png",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex136",
     "name": "Oldies Internet Radio",
     "streamUrl": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex137",
-    "name": "Capital Máxima 91.1 FM",
-    "streamUrl": "https://16613.live.streamtheworld.com/XHMZIAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex138",
-    "name": "Lobos FM 103.5",
-    "streamUrl": "http://streamingcwsradio20.com:9422/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
     "country": "country_mexico"
   },
   {
@@ -1112,26 +768,10 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex140",
-    "name": "91X FM",
-    "streamUrl": "https://14923.live.streamtheworld.com/XTRAFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex141",
     "name": "La Mejor Tuxtepec",
     "streamUrl": "https://14223.live.streamtheworld.com/XHXP_SC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex142",
-    "name": "La Caliente FM 94.1",
-    "streamUrl": "https://26153.live.streamtheworld.com/XETFM_SC",
-    "imageUrl": "__________________________",
     "genre": "genre_folk",
     "country": "country_mexico"
   },
@@ -1168,14 +808,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex147",
-    "name": "Match FM",
-    "streamUrl": "https://25023.live.streamtheworld.com/XHPOPFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex148",
     "name": "Super 92.5 FM",
     "streamUrl": "http://streamingcwsradio30.com:8126/",
@@ -1208,27 +840,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex152",
-    "name": "Romántica 1380 AM",
-    "streamUrl": "http://s1.audiorama.mx:6582/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex153",
     "name": "Capital Máxima 103.3 FM",
     "streamUrl": "https://27163.live.streamtheworld.com/XHZLAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex154",
-    "name": "La Bestia Grupera Chilpancingo",
-    "streamUrl": "http://s1.audiorama.mx:6614/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
     "country": "country_mexico"
   },
   {
@@ -1264,49 +880,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex159",
-    "name": "Radio Fórmula 103.3 FM",
-    "streamUrl": "https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/61e1e0125e404b0836c1e402/playlist.m3u8",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Radio_Formula_logo.svg/200px-Radio_Formula_logo.svg.png",
-    "genre": "genre_news",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex160",
     "name": "Imagen Mexicali 105.5 FM",
     "streamUrl": "http://mexicali.radio.wnsol.com:8340/",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
-    "genre": "genre_news",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex161",
-    "name": "Star Radio FM",
-    "streamUrl": "https://s01.digitalserver.org/8036/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex162",
-    "name": "La Grande de Michoacán",
-    "streamUrl": "https://sonicpanel.tmcreativos.com/8026/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex163",
-    "name": "Radio Disney México",
-    "streamUrl": "https://22203.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Radio_Disney.svg/200px-Radio_Disney.svg.png",
-    "genre": "genre_kids",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex164",
-    "name": "Imagen Cancún 90.7 FM",
-    "streamUrl": "http://radio.wnsol.com:8162/stream.mp3",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Imagen_Radio_logo.svg/200px-Imagen_Radio_logo.svg.png",
     "genre": "genre_news",
     "country": "country_mexico"
@@ -1320,22 +896,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex166",
-    "name": "ABC Radio Querétaro FM 107.9",
-    "streamUrl": "https://streaming.servicioswebmx.com/8282/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex167",
-    "name": "La Zeta 96.3 FM",
-    "streamUrl": "http://srmx.ddns.net:8100/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex168",
     "name": "La Mejor Cuernavaca",
     "streamUrl": "https://19003.live.streamtheworld.com/XHVZ_SC",
@@ -1344,49 +904,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex169",
-    "name": "Classic Rock Universal",
-    "streamUrl": "https://27063.live.streamtheworld.com/XHNZ_COMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex170",
-    "name": "Los 40 Principales Monterrey",
-    "streamUrl": "https://24083.live.streamtheworld.com/LOS40_MTYAAC_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_40_logo.svg/250px-Los_40_logo.svg.png",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex171",
-    "name": "Amor 97.9 FM",
-    "streamUrl": "https://17803.live.streamtheworld.com/XHQTO_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex172",
-    "name": "La Mejor 102.1 FM",
-    "streamUrl": "http://ais-sa2.cdnstream1.com/2364_64.aac",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex173",
     "name": "Vibra Mazatlán",
     "streamUrl": "https://sp3.servidorrprivado.com:10827/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex174",
-    "name": "Pirata.FM Cancún",
-    "streamUrl": "https://16603.live.streamtheworld.com/XHCQR_SC",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -1408,35 +928,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex177",
-    "name": "Radio Recuerdo 860",
-    "streamUrl": "https://22213.live.streamtheworld.com/XENLAM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex178",
-    "name": "Dinámica 94.5 FM",
-    "streamUrl": "https://16603.live.streamtheworld.com/XHTAFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex179",
     "name": "Noticias MVS",
     "streamUrl": "https://20593.live.streamtheworld.com/XHMVSFM_SC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MVS_Radio_logo.png/200px-MVS_Radio_logo.png",
     "genre": "genre_news",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex180",
-    "name": "La TKR 1480 AM",
-    "streamUrl": "https://18153.live.streamtheworld.com/XETKRAM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_mexico"
   },
   {
@@ -1453,14 +949,6 @@
     "streamUrl": "https://panel.retrolandigital.com/radio/8150/listen",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex183",
-    "name": "Olas Altas Radio",
-    "streamUrl": "https://janus.shoutca.st/tunein/olasalta.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_mexico"
   },
   {
@@ -1496,33 +984,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex188",
-    "name": "Mix 103.1 León",
-    "streamUrl": "https://24943.live.streamtheworld.com/XHXFAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex189",
     "name": "Radio Zacatecas",
     "streamUrl": "https://streamingcwsradio30.com:7051/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex190",
-    "name": "Es Amor 104.5 FM",
-    "streamUrl": "https://s01.digitalserver.org:7026",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex191",
-    "name": "Super Estelar 92.9 FM",
-    "streamUrl": "https://25083.live.streamtheworld.com/XHCDUFMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -1533,22 +997,6 @@
     "streamUrl": "https://streamingcwsradio30.com:7022/stream",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex193",
-    "name": "La Reverenda FM",
-    "streamUrl": "https://s2.mexside.net:7080/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex194",
-    "name": "Color Classic FM 96.1",
-    "streamUrl": "https://26303.live.streamtheworld.com/XHON_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
     "country": "country_mexico"
   },
   {
@@ -1584,22 +1032,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex199",
-    "name": "AW 1280 AM",
-    "streamUrl": "https://26293.live.streamtheworld.com/XEAWAM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex200",
-    "name": "Capital Máxima 91.3 FM",
-    "streamUrl": "https://24933.live.streamtheworld.com/XHEIMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex201",
     "name": "Exa FM Mexicali",
     "streamUrl": "https://14223.live.streamtheworld.com/XHJCFM_SC",
@@ -1621,22 +1053,6 @@
     "streamUrl": "https://sp2.servidorrprivado.com:10859/stream",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex204",
-    "name": "Horizonte 107.9",
-    "streamUrl": "https://s2.mexside.net/8014/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex205",
-    "name": "Capital FM 92.1 FM",
-    "streamUrl": "https://15723.live.streamtheworld.com/XHUXAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
     "country": "country_mexico"
   },
   {
@@ -1688,27 +1104,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex212",
-    "name": "Hits FM 106.1",
-    "streamUrl": "https://18723.live.streamtheworld.com/HITS106_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex213",
     "name": "Exa FM Veracruz",
     "streamUrl": "https://18213.live.streamtheworld.com/XHPSFM_SC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exa_FM_logo.svg/250px-Exa_FM_logo.svg.png",
     "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex214",
-    "name": "La Caliente FM 93.1",
-    "streamUrl": "https://26303.live.streamtheworld.com/XHAAAFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
     "country": "country_mexico"
   },
   {
@@ -1728,33 +1128,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex217",
-    "name": "Somos D95",
-    "streamUrl": "https://22203.live.streamtheworld.com/XHCHHFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex218",
     "name": "Stereorey México",
     "streamUrl": "https://14153.live.streamtheworld.com/STEREOREY_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex219",
-    "name": "Radio Felicidad 1180 AM",
-    "streamUrl": "https://17793.live.streamtheworld.com/XEFRAMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex220",
-    "name": "La Kaliente 90.7 FM",
-    "streamUrl": "https://26353.live.streamtheworld.com/XHHLLAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -1765,22 +1141,6 @@
     "streamUrl": "http://hd.digitalradio.mx:6121/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex222",
-    "name": "Universo 94.9",
-    "streamUrl": "http://192.99.233.46:9738/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex223",
-    "name": "Reactor 105.7 FM",
-    "streamUrl": "https://s2.mexside.net/8002/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
     "country": "country_mexico"
   },
   {
@@ -1800,22 +1160,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex226",
-    "name": "Tropicalísima 1350 AM",
-    "streamUrl": "https://s2.mexside.net/8030/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex227",
-    "name": "XEB La B Grande 1220 AM",
-    "streamUrl": "https://s2.mexside.net/8024/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex228",
     "name": "88.9 Noticias",
     "streamUrl": "https://15723.live.streamtheworld.com/XHMFMAAC_SC",
@@ -1827,14 +1171,6 @@
     "id": "mex229",
     "name": "Magia 101.7 FM",
     "streamUrl": "https://magia101.streaming.radiogrupo.com/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex230",
-    "name": "La Comadre 1260 AM",
-    "streamUrl": "https://25013.live.streamtheworld.com/XELAMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -1864,41 +1200,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex234",
-    "name": "La Caliente FM 90.9",
-    "streamUrl": "https://18723.live.streamtheworld.com/XHAHCFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex235",
     "name": "Evolucion 98.5 FM",
     "streamUrl": "https://whmsonic.playerfullhd.com/8040/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex236",
-    "name": "Hits FM 93.1",
-    "streamUrl": "https://14123.live.streamtheworld.com/XHCTOFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex237",
-    "name": "ZOOM 95.5 FM",
-    "streamUrl": "http://rosetta.shoutca.st:8125/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex238",
-    "name": "Stereo Saltillo 93.5",
-    "streamUrl": "https://18163.live.streamtheworld.com/XHQCFM_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -1920,22 +1224,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex241",
-    "name": "Yucatán FM",
-    "streamUrl": "https://s2.mexside.net/8054/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex242",
-    "name": "Milenio Radio 103.7",
-    "streamUrl": "https://26113.live.streamtheworld.com/FMTU_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex243",
     "name": "Mix 106.5 Querétaro",
     "streamUrl": "https://14613.live.streamtheworld.com/XHGVAAC_SC",
@@ -1952,30 +1240,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex245",
-    "name": "La Caliente FM 94.5",
-    "streamUrl": "https://27063.live.streamtheworld.com/XHTPOFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex246",
-    "name": "AW Inolvidable 101.3",
-    "streamUrl": "https://26223.live.streamtheworld.com/XHAWFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex247",
-    "name": "Z90.3 FM",
-    "streamUrl": "https://18543.live.streamtheworld.com/XHTZFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex248",
     "name": "Vibra Los Mochis",
     "streamUrl": "https://sp3.servidorrprivado.com:10828/stream",
@@ -1984,27 +1248,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex249",
-    "name": "Hits FM 103.7",
-    "streamUrl": "https://22113.live.streamtheworld.com/XHCHAFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex250",
     "name": "Studio 93.1 FM",
     "streamUrl": "https://14223.live.streamtheworld.com/XHMZTFMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex251",
-    "name": "Classic FM 103.7",
-    "streamUrl": "https://15723.live.streamtheworld.com/XHHEMFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
     "country": "country_mexico"
   },
   {
@@ -2024,22 +1272,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex254",
-    "name": "La Caliente FM 92.3",
-    "streamUrl": "https://26353.live.streamtheworld.com/XHTRRFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex255",
-    "name": "La Caliente 105.7 FM",
-    "streamUrl": "https://19303.live.streamtheworld.com/XHLRSFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex256",
     "name": "104.3 HIT-FM",
     "streamUrl": "https://14553.live.streamtheworld.com/XHTO_FMAAC_SC",
@@ -2053,14 +1285,6 @@
     "streamUrl": "https://14553.live.streamtheworld.com/XHQQ_FMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex258",
-    "name": "Felicidad 95.5 FM",
-    "streamUrl": "https://25003.live.streamtheworld.com/XEHIT_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_mexico"
   },
   {
@@ -2112,14 +1336,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex265",
-    "name": "106.5 Mix",
-    "streamUrl": "https://25013.live.streamtheworld.com/XHDFMFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex266",
     "name": "Radio Tulum",
     "streamUrl": "https://streaming.radio.co/s510dd57df/listen",
@@ -2136,27 +1352,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex268",
-    "name": "Classic FM 106.9",
-    "streamUrl": "https://15723.live.streamtheworld.com/CLASSIC106_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex269",
     "name": "Stereo Joya FM",
     "streamUrl": "https://26423.live.streamtheworld.com/XEJP_FMAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_relax",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex270",
-    "name": "Mix MIX 92.5 FM Pachuca",
-    "streamUrl": "https://25013.live.streamtheworld.com/XHPKFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
     "country": "country_mexico"
   },
   {
@@ -2176,51 +1376,11 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex273",
-    "name": "La Caliente 107.3 FM",
-    "streamUrl": "https://26303.live.streamtheworld.com/XHXTFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex274",
-    "name": "La Sabrosita 95.7",
-    "streamUrl": "https://18693.live.streamtheworld.com/LASABROSITA_957FM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex275",
     "name": "Digital Radio Mex",
     "streamUrl": "https://radioenlinea.click:8030/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex276",
-    "name": "Azul FM 103.9",
-    "streamUrl": "https://14943.live.streamtheworld.com/ACIR24_S01AAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex277",
-    "name": "Smooth Jazz MX OnLine",
-    "streamUrl": "https://listen.radionomy.com/smoothjazzmxonline.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex278",
-    "name": "La Mejor Tijuana",
-    "streamUrl": "https://14223.live.streamtheworld.com/XHTIM_SC",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Mejor_logo.png/200px-La_Mejor_logo.png",
-    "genre": "genre_folk",
     "country": "country_mexico"
   },
   {
@@ -2256,14 +1416,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex283",
-    "name": "104.5 Radio Latina",
-    "streamUrl": "https://26313.live.streamtheworld.com/XLTNFM_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex284",
     "name": "Ibero 90.9 FM",
     "streamUrl": "https://noasrv.caster.fm:10182/live",
@@ -2277,30 +1429,6 @@
     "streamUrl": "https://streamingcwsradio30.com:7026/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex286",
-    "name": "Lobos FM 97.3",
-    "streamUrl": "http://streamingcwsradio20.com:9418/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex287",
-    "name": "MavisFox Radio 91.5 FM",
-    "streamUrl": "https://sp2.servidorrprivado.com/8994/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex288",
-    "name": "Capital FM Coahuila",
-    "streamUrl": "https://16613.live.streamtheworld.com/XHLZAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
     "country": "country_mexico"
   },
   {
