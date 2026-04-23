@@ -16,22 +16,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp3",
-    "name": "Radio-f Jcba",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB041.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp4",
-    "name": "Radio Niseko",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30060/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp5",
     "name": "CTY FM",
     "streamUrl": "http://www.simulradio.info/asx/portwavefm.asx",
@@ -40,25 +24,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp6",
-    "name": "FM Kurashiki",
-    "streamUrl": "http://jcbasimul056-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul056-live1/_definst_/jcbasimul056-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp7",
     "name": "fm GIG",
     "streamUrl": "http://219.117.222.167:8020/giglive",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp8",
-    "name": "United North",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB046.stream/playlist.m3u8?args=web_03",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -128,33 +96,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp17",
-    "name": "Noas FM",
-    "streamUrl": "http://jcbasimul010-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul010-live1/_definst_/jcbasimul010-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp18",
-    "name": "Nara FM",
-    "streamUrl": "http://jcbasimul053-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul053-live1/_definst_/jcbasimul053-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp19",
     "name": "Absolute Jazz Album Chart",
     "streamUrl": "http://65.108.120.179:9208/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp20",
-    "name": "All Smooth Christmas Jazz",
-    "streamUrl": "https://cast1.asurahosting.com/proxy/neil/stream",
     "imageUrl": "__________________________",
     "genre": "genre_jazz",
     "country": "country_japan"
@@ -176,22 +120,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp23",
-    "name": "FM Onomichi",
-    "streamUrl": "http://jcbasimul057-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul057-live1/_definst_/jcbasimul057-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp24",
-    "name": "Rockets785",
-    "streamUrl": "http://jcbasimul081-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul081-live1/_definst_/jcbasimul081-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_japan"
-  },
-  {
     "id": "jp25",
     "name": "FM N1",
     "streamUrl": "https://hls.fmn1.jp/fmn1/live01.m3u8",
@@ -203,14 +131,6 @@
     "id": "jp26",
     "name": "FM Tatsugou",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp27",
-    "name": "Radio SANQ FM",
-    "streamUrl": "http://jcbasimul006-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul006-live1/_definst_/jcbasimul006-live/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -256,14 +176,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp33",
-    "name": "All Jazz Solo Guitar",
-    "streamUrl": "https://mpc1.mediacp.eu/stream/solojazzguitar",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_japan"
-  },
-  {
     "id": "jp34",
     "name": "FM Naha",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30068/livestream/playlist.m3u8",
@@ -272,25 +184,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp35",
-    "name": "i Station",
-    "streamUrl": "http://jcbasimul048-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul048-live1/_definst_/jcbasimul048-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp36",
     "name": "Japan Net Radio",
     "streamUrl": "https://www.radioking.com/play/japan-net-radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp37",
-    "name": "FM Hana",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB069.stream/playlist.m3u8?args=web_03",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -328,14 +224,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp42",
-    "name": "FM West Tokyo",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB031.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp43",
     "name": "Ottava",
     "streamUrl": "https://ottava.out.airtime.pro/ottava_a",
@@ -355,30 +243,6 @@
     "id": "jp45",
     "name": "Reds Wave",
     "streamUrl": "http://www.simulradio.info/asx/reds-wave.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp46",
-    "name": "FM Karuizawa",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB108.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp47",
-    "name": "Nightwave Plaza",
-    "streamUrl": "https://radio.plaza.one/mp3_96",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp48",
-    "name": "FM Inabe",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB050.stream/playlist.m3u8?args=web_03",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -416,22 +280,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp53",
-    "name": "FM Baribari",
-    "streamUrl": "http://jcbasimul009-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul009-live1/_definst_/jcbasimul009-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp54",
-    "name": "FM Watch",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB044.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp55",
     "name": "FM Apple Sapporo",
     "streamUrl": "http://www.simulradio.info/asx/fmapple.asx",
@@ -451,14 +299,6 @@
     "id": "jp57",
     "name": "Beam FM",
     "streamUrl": "https://ice1.streeemer.com:8030/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp58",
-    "name": "FM Chupea",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB082.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -488,25 +328,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp62",
-    "name": "FM Hashimoto",
-    "streamUrl": "https://fsn-ais-edge3.leanstream.co/musicbird/JCB120.stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp63",
     "name": "CHOKUラジ!",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp64",
-    "name": "Radio Chat 76.1 FM",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB107.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -517,14 +341,6 @@
     "streamUrl": "http://gyusyabu.ddo.jp:8000/listen.pls",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp66",
-    "name": "FM-J 761",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB095.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_japan"
   },
   {
@@ -608,30 +424,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp77",
-    "name": "FM Shimabara",
-    "streamUrl": "https://www.shimabara.fm/st/fm-shimabara-live.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp78",
-    "name": "FM Nanjo",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30055/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp79",
-    "name": "FM Radio Bingo",
-    "streamUrl": "http://jcbasimul008-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul008-live1/_definst_/jcbasimul008-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp80",
     "name": "All Classical Piano",
     "streamUrl": "https://mpc1.mediacp.eu/stream/allchamberwithpiano",
@@ -672,22 +464,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp85",
-    "name": "Vocaloid Radio",
-    "streamUrl": "http://curiosity.shoutca.st:8019/128",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp86",
-    "name": "Banana FM",
-    "streamUrl": "http://jcbasimul054-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul054-live1/_definst_/jcbasimul054-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp87",
     "name": "Ginowan City FM",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
@@ -704,38 +480,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp89",
-    "name": "COMI×TEN",
-    "streamUrl": "http://comiten.jp/live.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp90",
-    "name": "Sound Street Radio",
-    "streamUrl": "https://stream.radio.co/s71a30a170/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp91",
-    "name": "Kappa FM",
-    "streamUrl": "http://jcbasimul063-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul063-live1/_definst_/jcbasimul063-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp92",
-    "name": "Coast 76.7 FM",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB042.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp93",
     "name": "FM Jungle",
     "streamUrl": "http://www.simulradio.info/asx/jungle.asx",
@@ -747,14 +491,6 @@
     "id": "jp94",
     "name": "JPHiP Radio",
     "streamUrl": "http://radio.jphip.com:8800/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp95",
-    "name": "g-sky FM Shimada",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB036.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -800,41 +536,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp101",
-    "name": "FM Tonami",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB059.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp102",
-    "name": "FM Ciao! Atami",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30062/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp103",
-    "name": "FM Ikaru",
-    "streamUrl": "http://jcbasimul050-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul050-live1/_definst_/jcbasimul050-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp104",
     "name": "FM Aizu",
     "streamUrl": "http://www.simulradio.info/asx/aizu.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp105",
-    "name": "FM Iwanuma",
-    "streamUrl": "http://jcbasimul016-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul016-live1/_definst_/jcbasimul016-live/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -904,14 +608,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp114",
-    "name": "FM NCV Go!",
-    "streamUrl": "http://jcbasimul013-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul013-live1/_definst_/jcbasimul013-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp115",
     "name": "FM Shonan Napasa",
     "streamUrl": "https://musicbird.leanstream.co/JCB014-MP3",
@@ -936,35 +632,11 @@
     "country": "country_japan"
   },
   {
-    "id": "jp118",
-    "name": "FM One 787",
-    "streamUrl": "http://jcbasimul012-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul012-live1/_definst_/jcbasimul012-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp119",
     "name": "FM Shimizu",
     "streamUrl": "https://musicbird.leanstream.co/JCB039-MP3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp120",
-    "name": "Radio AGATT",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB052.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp121",
-    "name": "Soulful Web Station",
-    "streamUrl": "https://listen.radionomy.com/soulful-web-station.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
     "country": "country_japan"
   },
   {
@@ -992,33 +664,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp125",
-    "name": "FM Yukiguni",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB054.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp126",
     "name": "FM Edogawa",
     "streamUrl": "https://musicbird.leanstream.co/JCB033-MP3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp127",
-    "name": "Musashino FM 78.2",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB032.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp128",
-    "name": "FM Shinagawa",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB115.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1032,27 +680,11 @@
     "country": "country_japan"
   },
   {
-    "id": "jp130",
-    "name": "FM Kofu",
-    "streamUrl": "http://jcbasimul028-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul028-live1/_definst_/jcbasimul028-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp131",
     "name": "Block.fm",
     "streamUrl": "https://edge.mixlr.com/channel/bsuau",
     "imageUrl": "__________________________",
     "genre": "genre_electronic",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp132",
-    "name": "FM Karatsu",
-    "streamUrl": "http://jcbasimul064-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul064-live1/_definst_/jcbasimul064-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_japan"
   },
   {
@@ -1072,14 +704,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp135",
-    "name": "AFN 360 Legacy",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_LGYP_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp136",
     "name": "Suzuka Voice FM",
     "streamUrl": "http://www.simulradio.info/asx/suzuka.asx",
@@ -1088,33 +712,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp137",
-    "name": "AFN 360 Joe Radio",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_JOEP_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp138",
     "name": "Kyoto Radio Cafe",
     "streamUrl": "http://www.simulradio.info/asx/radiocafe.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp139",
-    "name": "Great 80s from Japan",
-    "streamUrl": "https://streaming.radio.co/sb8bbe1f3e/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp140",
-    "name": "FM Takaoka",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB058.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1216,22 +816,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp153",
-    "name": "FM Hirakata",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30049/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp154",
-    "name": "FM Miki",
-    "streamUrl": "https://musicbird.leanstream.co/JCB110-MP3.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp155",
     "name": "Kaidenpa567",
     "streamUrl": "http://std1.ladio.net:8050/kaidenpa567",
@@ -1240,25 +824,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp156",
-    "name": "Sakata FM",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB009.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp157",
     "name": "FM K-City",
     "streamUrl": "http://www.simulradio.info/asx/kawasaki.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp158",
-    "name": "FM Sakura",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB072.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1277,14 +845,6 @@
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_CTYP_SC",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp161",
-    "name": "FM PiPi Tajimi",
-    "streamUrl": "http://jcbasimul040-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul040-live1/_definst_/jcbasimul040-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_japan"
   },
   {
@@ -1312,51 +872,11 @@
     "country": "country_japan"
   },
   {
-    "id": "jp165",
-    "name": "Shibuyacross FM",
-    "streamUrl": "http://round4018.lve.jp/live/_definst_/TtS9ARlkP6Y6/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp166",
     "name": "Nonstop Casiopea",
     "streamUrl": "http://hyades.shoutca.st:8551/",
     "imageUrl": "__________________________",
     "genre": "genre_jazz",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp167",
-    "name": "FM Ito Nagisa",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB116.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp168",
-    "name": "Come On! FM",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB084.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp169",
-    "name": "Kazusa FM",
-    "streamUrl": "http://jcbasimul024-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul024-live1/_definst_/jcbasimul024-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp170",
-    "name": "Kitakata City FM",
-    "streamUrl": "http://jcbasimul018-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul018-live1/_definst_/jcbasimul018-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_japan"
   },
   {
@@ -1424,22 +944,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp179",
-    "name": "FM Uji",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB065.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp180",
-    "name": "FM Urayasu",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB020.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp181",
     "name": "Radio Morioka",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
@@ -1451,14 +955,6 @@
     "id": "jp182",
     "name": "Miyako Harbor Radio",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp183",
-    "name": "FM Odawara",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB017.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1499,38 +995,6 @@
     "id": "jp188",
     "name": "FmHaro!",
     "streamUrl": "https://musicbird.leanstream.co/JCB034-MP3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp189",
-    "name": "FM Chashaku",
-    "streamUrl": "http://jcbasimul022-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul022-live1/_definst_/jcbasimul022-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp190",
-    "name": "FM Itami",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB070.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp191",
-    "name": "FM KITAQ",
-    "streamUrl": "http://www.simulradio.jp/asx/FmKitaq.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp192",
-    "name": "FM IS Mirai Station",
-    "streamUrl": "http://jcbasimul035-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul035-live1/_definst_/jcbasimul035-live/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1589,14 +1053,6 @@
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp200",
-    "name": "NHK FM",
-    "streamUrl": "https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
     "country": "country_japan"
   },
   {
@@ -1680,14 +1136,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp211",
-    "name": "Radio Nikkey",
-    "streamUrl": "http://198.7.62.157:8052/listen.pls?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp212",
     "name": "FM Fujiyama",
     "streamUrl": "https://musicbird.leanstream.co/JCB026-MP3",
@@ -1712,41 +1160,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp215",
-    "name": "Amami FM",
-    "streamUrl": "http://www.npo-d.org/simul/AmamiFM.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp216",
-    "name": "FM Nagaoka",
-    "streamUrl": "http://jcbasimul046-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul046-live1/_definst_/jcbasimul046-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp217",
-    "name": "FM Chao",
-    "streamUrl": "http://jcbasimul051-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul051-live1/_definst_/jcbasimul051-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp218",
     "name": "BAYWAVE",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp219",
-    "name": "FM Moeru",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB002.stream/playlist.m3u8?args=web_03",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1784,25 +1200,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp224",
-    "name": "Fukuro FM",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB100.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp225",
     "name": "FM Tachikawa Marine",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp226",
-    "name": "Lovehkradio",
-    "streamUrl": "https://streaming.radio.co/s6f4c5734d/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1832,33 +1232,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp230",
-    "name": "FM Fuchues",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30059/livestream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp231",
-    "name": "AFN 360 Hot AC",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_HOTP_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp232",
     "name": "SOUND UP STATION NFRS",
     "streamUrl": "http://std1.ladio.net:8090/NFRS",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp233",
-    "name": "Katsushika FM",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB130.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1880,14 +1256,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp236",
-    "name": "NHK R2",
-    "streamUrl": "https://radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_japan"
-  },
-  {
     "id": "jp237",
     "name": "FM Koshigaya",
     "streamUrl": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
@@ -1896,41 +1264,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp238",
-    "name": "FM Daigo",
-    "streamUrl": "http://jcbasimul026-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul026-live1/_definst_/jcbasimul026-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp239",
     "name": "FM Kento",
     "streamUrl": "http://www.simulradio.info/asx/fmkento.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp240",
-    "name": "FM Palulun",
-    "streamUrl": "https://round4x.lve.jp/live/_definst_/ZStYp14JYyxU/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp241",
-    "name": "FM Gotemba",
-    "streamUrl": "http://jcbasimul037-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul037-live1/_definst_/jcbasimul037-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp242",
-    "name": "A&G Radio",
-    "streamUrl": "https://hls-base1.mitene.ad.jp/agqr1/iphone/3Gaudios.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -1968,14 +1304,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp247",
-    "name": "FM 802",
-    "streamUrl": "https://rpaa.smartstream.ne.jp/so/playlist.m3u8?station_id=802&l=15&lsid=7613780dca2b1154e23964f11a82922f&type=b",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp248",
     "name": "J-Club Powerplay HipHop",
     "streamUrl": "https://kathy.torontocast.com:3350/",
@@ -1992,33 +1320,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp250",
-    "name": "FM Apple Wave Hirosaki",
-    "streamUrl": "http://jcbasimul011-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul011-live1/_definst_/jcbasimul011-live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp251",
     "name": "BOX J-POP Radio",
     "streamUrl": "https://play.streamafrica.net/jpopradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp252",
-    "name": "FM Iruka",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB122.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp253",
-    "name": "FM Shunan",
-    "streamUrl": "http://jcbasimul059-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul059-live1/_definst_/jcbasimul059-live/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -2043,30 +1347,6 @@
     "id": "jp256",
     "name": "NeKo Radio",
     "streamUrl": "http://www.neko-radio.com:8000/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp257",
-    "name": "FM AZUR",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB106.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp258",
-    "name": "NHK World",
-    "streamUrl": "https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp259",
-    "name": "Moon Music",
-    "streamUrl": "https://stream.zeno.fm/b09zk68m8k8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -2104,25 +1384,9 @@
     "country": "country_japan"
   },
   {
-    "id": "jp264",
-    "name": "FM Senri",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB112.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp265",
     "name": "Sapporo City FM",
     "streamUrl": "http://std1.ladio.net:8030/scfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp266",
-    "name": "Monster Radio 76.2",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB006.stream/playlist.m3u8?args=web_03",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -2136,27 +1400,11 @@
     "country": "country_japan"
   },
   {
-    "id": "jp268",
-    "name": "AFN 360 Fans",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_FAN_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_japan"
-  },
-  {
     "id": "jp269",
     "name": "JRadio Japanese Christian Radio",
     "streamUrl": "http://music.jradio.net:8001/listen",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp270",
-    "name": "FM Castle",
-    "streamUrl": "http://www.fm-castle.jp/simul.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_japan"
   },
   {
@@ -2200,14 +1448,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp276",
-    "name": "Dreams FM",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB093.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp277",
     "name": "AFN 360 Sasebo",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_SBO_SC",
@@ -2219,14 +1459,6 @@
     "id": "jp278",
     "name": "FM Okazaki",
     "streamUrl": "http://www.simulradio.info/asx/FmOkazaki.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp279",
-    "name": "FM Uruma",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30011/livestream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -2272,22 +1504,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp285",
-    "name": "AFN 360 Freedom",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_FREP_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp286",
-    "name": "FM Ishigaki",
-    "streamUrl": "https://round4x.lve.jp/live/_definst_/hiDL-lMqLU13/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp287",
     "name": "The FDGN & R",
     "streamUrl": "http://78.129.159.25:8110/",
@@ -2296,51 +1512,11 @@
     "country": "country_japan"
   },
   {
-    "id": "jp288",
-    "name": "AFN 360 Powertalk",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_PTK_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp289",
-    "name": "FM Ginga",
-    "streamUrl": "http://csra.fm/asx/ginga.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp290",
-    "name": "NHK R1",
-    "streamUrl": "https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_japan"
-  },
-  {
     "id": "jp291",
     "name": "Pioneer DJ Radio",
     "streamUrl": "http://listen.pioneerdjradio.com:8550/listen.pls",
     "imageUrl": "__________________________",
     "genre": "genre_electronic",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp292",
-    "name": "FM TARO",
-    "streamUrl": "https://musicbird-hls.leanstream.co/musicbird/JCB029.stream/playlist.m3u8?args=web_03",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp293",
-    "name": "FM Setagaya",
-    "streamUrl": "http://radio2.bitmedia.ne.jp/hlsdata/fm834/playlist.m3u8?n=3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_japan"
   },
   {
@@ -2371,14 +1547,6 @@
     "id": "jp297",
     "name": "FM Waiwai",
     "streamUrl": "http://www.simulradio.info/asx/fmyy.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp298",
-    "name": "FM Nanani",
-    "streamUrl": "http://jcbasimul044-live1.sp1.fmslive.stream.ne.jp:1935/jcbasimul044-live1/_definst_/jcbasimul044-live/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
@@ -2456,14 +1624,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp308",
-    "name": "AFN 360 The Voice",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_VCE_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_japan"
-  },
-  {
     "id": "jp309",
     "name": "Radio Hayama",
     "streamUrl": "http://199.195.194.140:8073/",
@@ -2475,14 +1635,6 @@
     "id": "jp310",
     "name": "Radio Phoenix",
     "streamUrl": "http://server2.webradios.com.br:9504/9504",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp311",
-    "name": "Japan-a-Radio",
-    "streamUrl": "http://audio.misproductions.com/japan128k",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_japan"
