@@ -144,6 +144,14 @@
     "country": "country_russia"
   }, 
   {
+    "id": "ru128",
+    "name": "Ретро Хит",
+    "streamUrl": "https://retro.amgradio.ru/Retro",
+    "imageUrl": "https://radiopotok.ru/f/station_webp/512/1570.webp",
+    "genre": "genre_retro",
+    "country": "country_russia"
+  }, 
+  {
     "id": "ru10",
     "name": "Радио Дача",
     "streamUrl": "https://ic1.radiosignal.one/vanya",
