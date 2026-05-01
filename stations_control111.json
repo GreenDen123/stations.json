@@ -1,306 +1,1002 @@
 [
   {
-    "id": "jp12",
-    "name": "Tokyo Star Radio",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nkdjrxrksehq.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th1",
+    "name": "ปวงข้าพระพุทธเจ้า",
+    "streamUrl": "http://radio12.plathong.net:7002/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
   },
   {
-    "id": "jp16",
-    "name": "Radio Odate",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9k4rljfa9chm.png",
+    "id": "th2",
+    "name": "FM102 คลื่นคนทำงาน",
+    "streamUrl": "http://media.login.in.th:1100/stream.nsv",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp21",
-    "name": "FM Wing",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30044/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/du2njpjydx.jpg",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th3",
+    "name": "MCOT Radio Nakhon Si Thammarat",
+    "streamUrl": "https://lb-media.mcot.net/RegionRadio/Chanthaburi.stream_aac/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
   },
   {
-    "id": "jp25",
-    "name": "FM N1",
-    "streamUrl": "https://hls.fmn1.jp/fmn1/live01.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/WtRyZmqLkY.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th4",
+    "name": "Hatyai Songkhla FM 89.5",
+    "streamUrl": "https://plus.onair.network:8170/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
   },
   {
-    "id": "jp26",
-    "name": "FM Tatsugou",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yuqen28aqef8.png",
+    "id": "th5",
+    "name": "Bestradio 89.0 FM",
+    "streamUrl": "https://www.hostpleng.com/",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp34",
-    "name": "FM Naha",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30068/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pxbdrzqc8hmn.jpg",
+    "id": "th6",
+    "name": "MUNforward",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8730",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp38",
-    "name": "FM Jaga",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30016/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/AhJEbMKYeN.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th7",
+    "name": "90 Hip FM",
+    "streamUrl": "http://radio12.plathong.net:8116/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_thailand"
   },
   {
-    "id": "jp60",
-    "name": "FM Maple",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ansnwqckrzwf.png",
+    "id": "th8",
+    "name": "FM91 Pattaya",
+    "streamUrl": "https://plus.onair.network:8100/OBdirect",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp63",
-    "name": "CHOKUラジ!",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/schnxvy7rgey.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th9",
+    "name": "Beats FM",
+    "streamUrl": "https://radio14.plathong.net/7208/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_thailand"
   },
   {
-    "id": "jp71",
-    "name": "FM Hitachi",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30023/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tha998knhqw6.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th10",
+    "name": "106 ครอบครัวข่าว",
+    "streamUrl": "http://radio12.plathong.net:8648/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
   },
   {
-    "id": "jp75",
-    "name": "FM Yanbaru",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/usxag3vx7bka.png",
+    "id": "th11",
+    "name": "Yesterday 106.5 FM",
+    "streamUrl": "http://radio4.thzhost.com:4122/",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp76",
-    "name": "FM Nemuro",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30045/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/u8cnu77ep54g.jpg",
+    "id": "th12",
+    "name": "Konsurinradio",
+    "streamUrl": "https://radio10.plathong.net/7230/stream.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp87",
-    "name": "Ginowan City FM",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pawcyvagcsmt.jpg",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th13",
+    "name": "FM 95 ลูกทุ่งมหานคร",
+    "streamUrl": "https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
   },
   {
-    "id": "jp99",
-    "name": "Heart FM Nanjo",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30091/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sxgydwdy8njv.png",
+    "id": "th14",
+    "name": "FM 98 Dongtan Beach Pattaya",
+    "streamUrl": "https://plus.onair.network:8030/98",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp106",
-    "name": "FM Abashiri",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30058/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/glwrvcad8yfe.png",
+    "id": "th15",
+    "name": "FM 103.0 Pramong Chiang Rai",
+    "streamUrl": "http://lnwradio.hostsevenplus.com:9568/listen.pls",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp122",
-    "name": "Radio Ishinomaki",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th16",
+    "name": "FLEX 104.5 FM",
+    "streamUrl": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_thailand"
   },
   {
-    "id": "jp123",
-    "name": "Komae Radio",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30051/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th17",
+    "name": "Good 95.5 Hatyai",
+    "streamUrl": "https://a.hostpleng.cloud/9114/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
   },
   {
-    "id": "jp142",
-    "name": "RADIO3 FM 76.2",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/AZSGm5UgMV.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th18",
+    "name": "Request Radio Dance Mix",
+    "streamUrl": "https://cast.requestradio.in.th:850//stream/3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_thailand"
   },
   {
-    "id": "jp145",
-    "name": "FM Toyomi",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/NdEjuGTLMK.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th19",
+    "name": "Boonma FM",
+    "streamUrl": "http://radio10.plathong.net:7030/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
   },
   {
-    "id": "jp146",
-    "name": "FM Tsubakidai",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30014/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th20",
+    "name": "เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ",
+    "streamUrl": "http://43.229.135.187:8020/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
   },
   {
-    "id": "jp150",
-    "name": "FM Otokuni",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aqygbzeawqqb.png",
+    "id": "th21",
+    "name": "FM88 Nongkhai Radio",
+    "streamUrl": "https://radio14.plathong.net/7114/stream.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp178",
-    "name": "Radio Myu",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+    "id": "th22",
+    "name": "Request Radio Strings",
+    "streamUrl": "http://cast.requestradio.in.th:8100/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp181",
-    "name": "Radio Morioka",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/k5fRz4vfTj.jpg",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th23",
+    "name": "Looktung Eingdoi Station",
+    "streamUrl": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
   },
   {
-    "id": "jp182",
-    "name": "Miyako Harbor Radio",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Kk69pnUutt.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th24",
+    "name": "คนรักเรดิโอ Relax Station",
+    "streamUrl": "https://inter.lannaradio.com/radio/8050/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_thailand"
   },
   {
-    "id": "jp185",
-    "name": "Cassiopeia FM",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+    "id": "th25",
+    "name": "CityLife FM",
+    "streamUrl": "http://onair.onair.network:8076/",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp198",
-    "name": "FM Ginowan",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30093/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uwqtqhbsahhe.png",
+    "id": "th26",
+    "name": "iBestradio",
+    "streamUrl": "https://radio11.plathong.net/7040/stream.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp207",
-    "name": "Harbor Station",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/QHbQFXWU2M.jpg",
+    "id": "th27",
+    "name": "Shan Online Radio",
+    "streamUrl": "http://radio11.plathong.net:7114/",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp210",
-    "name": "FM Takamatsu",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30024/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/NnHpuPCwjJ.png",
+    "id": "th28",
+    "name": "Top View Point Radio 93.7 FM",
+    "streamUrl": "https://radio9.plathong.net/7146/stream.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp214",
-    "name": "FM Kesennuma",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/T7u4ZCcLws.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th29",
+    "name": "FM 101 Talk Bangkok",
+    "streamUrl": "http://media.login.in.th:8135/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
   },
   {
-    "id": "jp218",
-    "name": "BAYWAVE",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/LfNNSYN25U.png",
+    "id": "th30",
+    "name": "BKK.FM",
+    "streamUrl": "https://rsas.bkk.fm/radio",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp220",
-    "name": "wi-radio",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/efqpy4k3jdqb.png",
+    "id": "th31",
+    "name": "Pophits Radio Eingdoi",
+    "streamUrl": "https://inter.wowradiohit.com/radio/8000/stream.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp225",
-    "name": "FM Tachikawa Marine",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ybtq9z44zhtb.png",
+    "id": "th32",
+    "name": "97 Mazz Radio",
+    "streamUrl": "http://radio1.comgig.com:4096/stream.m4a",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp234",
-    "name": "Flower FM",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Rw4XBcnRG9.jpg",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th33",
+    "name": "WatBuddhawas 98.2 FM",
+    "streamUrl": "http://radio1.serverradio.net:8060/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
   },
   {
-    "id": "jp237",
-    "name": "FM Koshigaya",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vz2emwzwq6ls.png",
+    "id": "th34",
+    "name": "102 Radio ขส.ทบ",
+    "streamUrl": "http://media.login.in.th:1100/stream.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp261",
-    "name": "Nataraji FM 80.1",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/BcEDgNBR2D.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th35",
+    "name": "98 อีสาน เอฟเอ็ม",
+    "streamUrl": "http://radio11.plathong.net:8900/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
   },
   {
-    "id": "jp263",
-    "name": "Radio Mix Kyoto",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xnkf3kx5vejm.png",
+    "id": "th36",
+    "name": "Xansiam",
+    "streamUrl": "http://radio12.plathong.net:8480/",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
   },
   {
-    "id": "jp273",
-    "name": "Lively FM 77.5",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/grnz2aeurpsu.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
+    "id": "th37",
+    "name": "Request Radio International Music",
+    "streamUrl": "http://27.254.142.208:8400/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_thailand"
   },
   {
-    "id": "jp284",
-    "name": "Sankakuyama Radio",
-    "streamUrl": "https://mtist.as.smartstream.ne.jp/30005/livestream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/H4GxSQQ3Ha.png",
+    "id": "th38",
+    "name": "Myfamily Radio",
+    "streamUrl": "http://server1.lannaradio.com:8020",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th39",
+    "name": "FM 101 Wat Lom Phra Chaotong",
+    "streamUrl": "https://apps4.mcot.net/stream729.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th40",
+    "name": "Keangun Radio",
+    "streamUrl": "https://radio9.plathong.net/7054/stream.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_japan"
+    "country": "country_thailand"
+  },
+  {
+    "id": "th41",
+    "name": "97 Tourist Station",
+    "streamUrl": "http://link.onair.network:8058/audio.mp3?hash=1557998027507",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th42",
+    "name": "Sukson Radio",
+    "streamUrl": "https://stream.pjcdn.com:8000/1&type=mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th43",
+    "name": "Ezy Radio Old",
+    "streamUrl": "http://112.121.150.133:9008/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th44",
+    "name": "Rad Radio 89.5",
+    "streamUrl": "http://radio1.serverradio.net:8592/?type=http",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th45",
+    "name": "mjuradio",
+    "streamUrl": "http://112.121.150.133:9000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th46",
+    "name": "HITZ 955",
+    "streamUrl": "https://28103.live.streamtheworld.com/HITZ_955AAC_128_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th47",
+    "name": "Smart News 90.5 FM",
+    "streamUrl": "http://live3.smartbomb.co.th:8624/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th48",
+    "name": "Big FM",
+    "streamUrl": "http://media.login.in.th:8195/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th49",
+    "name": "Chili Classics Thailand",
+    "streamUrl": "https://stream.chiliradio.app/chiliclassics",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th50",
+    "name": "CH19 FM",
+    "streamUrl": "http://s7.reliastream.com:8003",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th51",
+    "name": "Sangkaew Radio 90.2 FM",
+    "streamUrl": "http://radio.nkradio.info:8002/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th52",
+    "name": "Met 107 FM",
+    "streamUrl": "https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th53",
+    "name": "Huahin Radio เพลงลูกทุ่ง",
+    "streamUrl": "https://inter1.plathong.net/7008/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th54",
+    "name": "FM99 Active Radio",
+    "streamUrl": "https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th55",
+    "name": "Capitol FM Bangkok",
+    "streamUrl": "http://atlanticthai.primcast.com:5898/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th56",
+    "name": "Love FM 107",
+    "streamUrl": "http://radio10.plathong.net:7296/",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th57",
+    "name": "104 GREEN FM",
+    "streamUrl": "https://radio14.plathong.net/7072/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th58",
+    "name": "Request Radio For Life",
+    "streamUrl": "https://cast.requestradio.in.th:830/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th59",
+    "name": "THAI MUSIC",
+    "streamUrl": "https://listen.thai-radio.net/trlq",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th60",
+    "name": "สวพ FM 91",
+    "streamUrl": "http://122.155.16.48:8955/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th61",
+    "name": "Chili Pop Thailand",
+    "streamUrl": "https://stream.chiliradio.app/chilipop",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th62",
+    "name": "เพลงสตริงเก่า Eingdoi Radio",
+    "streamUrl": "http://ohmi-design.com:8170/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th63",
+    "name": "90 ลูกทุ่ง รักไทย",
+    "streamUrl": "http://radio11.plathong.net:8896/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th64",
+    "name": "Request Radio Country Music",
+    "streamUrl": "http://27.254.142.208:8200/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th65",
+    "name": "FM 88.7",
+    "streamUrl": "http://radio12.plathong.net:8206/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th66",
+    "name": "YES Radio Thai Family",
+    "streamUrl": "http://27.254.65.244:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th67",
+    "name": "MUNforward Xtra",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8795",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th68",
+    "name": "เพลงลูกทุ่งหมอลำ กันตรึม",
+    "streamUrl": "http://43.229.135.187:8040/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th69",
+    "name": "XFM 94.5",
+    "streamUrl": "https://radio12.plathong.net/7360/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th70",
+    "name": "Farclubradio",
+    "streamUrl": "https://radio14.plathong.net/7030/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th71",
+    "name": "Northeastenjoymusic",
+    "streamUrl": "https://radio10.plathong.net/7084/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th72",
+    "name": "American Top 40",
+    "streamUrl": "https://listen.radionomy.com/americantop40.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th73",
+    "name": "Eazy FM 105.5",
+    "streamUrl": "https://22243.live.streamtheworld.com/EAZYFM_1055AAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th74",
+    "name": "FM 96.5 Thinking Radio",
+    "streamUrl": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th75",
+    "name": "เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ",
+    "streamUrl": "http://43.229.135.187:8040/radio.mp3?type=http",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th76",
+    "name": "วิทยุเสียงอิสลาม",
+    "streamUrl": "https://radio12.plathong.net/7234/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th77",
+    "name": "Request Radio Looktung",
+    "streamUrl": "http://27.254.142.208:8300/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th78",
+    "name": "สถานีวิทยุบึงกาฬเรดิโอ",
+    "streamUrl": "https://c16.radioboss.fm:8332/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th79",
+    "name": "James Radio",
+    "streamUrl": "https://radio14.plathong.net/7120/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th80",
+    "name": "Sukson Radio Thai Easy Listening",
+    "streamUrl": "https://stream.pjcdn.com:9000/SuksonRadio",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th81",
+    "name": "สถานีวิทยุราชดำริสัมพันธ์ 1 FM",
+    "streamUrl": "http://radio.servradio.com:8614/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th82",
+    "name": "SMP Radio FM 100.5",
+    "streamUrl": "http://radio11.plathong.net:8774/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th83",
+    "name": "Modern 98.7 FM",
+    "streamUrl": "http://112.121.150.133:9102/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th84",
+    "name": "GBN US Channel",
+    "streamUrl": "https://us.gbnus.com/live/th_sound.stream/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th85",
+    "name": "NEZ Radio",
+    "streamUrl": "http://lnwradio.hostsevenplus.com:9734/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th86",
+    "name": "iKiwMusic",
+    "streamUrl": "http://radio14.plathong.net:7338/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th87",
+    "name": "OnAirPlus 89.75 FM Sadao Songkhla",
+    "streamUrl": "https://plus.onair.network:8010/8975",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th88",
+    "name": "Parwaaz Radio",
+    "streamUrl": "http://192.99.8.192:3404/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th89",
+    "name": "Alpharadio",
+    "streamUrl": "http://radio12.plathong.net:7338/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th90",
+    "name": "Request Radio String",
+    "streamUrl": "http://27.254.142.208:8100/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th91",
+    "name": "FM ONE",
+    "streamUrl": "https://apps4.mcot.net/stream578.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th92",
+    "name": "โสรยามิวสิค",
+    "streamUrl": "https://radio9.plathong.net/7264/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th93",
+    "name": "Metro Phuket",
+    "streamUrl": "https://s3.free-shoutcast.com/stream/18100",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th94",
+    "name": "สถานีวิทยุ จส.6 AM 1458 KHz ศรีสะเกษ",
+    "streamUrl": "http://media.login.in.th:8220/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th95",
+    "name": "FM 97.25 Techno Radio",
+    "streamUrl": "http://media.login.in.th:8080/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th96",
+    "name": "สถานีวิทยุ จส.3 AM 1251 KHz ร้อยเอ็ด",
+    "streamUrl": "http://media.login.in.th:8225/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th97",
+    "name": "แม่คำมี FM 88.75 แพร่",
+    "streamUrl": "http://ohmi-design.com:9056/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th98",
+    "name": "ทีเค เรดิโอ แพร่",
+    "streamUrl": "https://apps4.mcot.net/stream153.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th99",
+    "name": "วัดป่าไทรงาม",
+    "streamUrl": "http://103.22.182.105:7110/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th100",
+    "name": "RequestRadio เพื่อชีวิต",
+    "streamUrl": "https://cast.requestradio.in.th:830/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th101",
+    "name": "RequestRadio Inter",
+    "streamUrl": "https://cast.requestradio.in.th:840//stream/3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th102",
+    "name": "บ้านธัมมะ",
+    "streamUrl": "https://radio10.plathong.net/7238/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th103",
+    "name": "วัดป่าไทรงาม (ลำพูน)",
+    "streamUrl": "https://radio10.plathong.net/7110/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th104",
+    "name": "สถานีวิทยุ จส.4 AM 1404 KHz ยโสธร",
+    "streamUrl": "http://media.login.in.th:8230/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th105",
+    "name": "Love Radio Pattani",
+    "streamUrl": "http://103.22.182.14:8060/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th106",
+    "name": "สถานีวิทยุ จส.1 AM 657 KHz กรุงเทพฯ",
+    "streamUrl": "http://media.login.in.th:8205/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th107",
+    "name": "สถานีวิทยุ จส.5 AM 567 KHz ชัยภูมิ",
+    "streamUrl": "http://media.login.in.th:8235/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th108",
+    "name": "BKK1",
+    "streamUrl": "http://s6.myradiostream.com:49002/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th109",
+    "name": "Muingtest Radio",
+    "streamUrl": "http://ohmi-design.com:8364/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th110",
+    "name": "Fab Radio",
+    "streamUrl": "https://4146.radio2.thzhost.com/?type=http",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th111",
+    "name": "Looktung Network",
+    "streamUrl": "http://media.login.in.th:8200/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th112",
+    "name": "Mellow 97.5 FM",
+    "streamUrl": "https://rcdn.mcot.net/radiocdn_edge/fm975.stream_aac/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th113",
+    "name": "Sawasdee 106.2",
+    "streamUrl": "http://radio11.plathong.net:7002/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th114",
+    "name": "VOICE OF NAVY 5 SATTAHIP",
+    "streamUrl": "http://radio12.plathong.net:9918/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th115",
+    "name": "Family Radio FM 93.7",
+    "streamUrl": "https://radio14.plathong.net/7298/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th116",
+    "name": "Ban Kruat FM 99.25",
+    "streamUrl": "http://lnwradio.hostsevenplus.com:9564/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th117",
+    "name": "JS100",
+    "streamUrl": "http://103.246.19.203:8004/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th118",
+    "name": "สังฆทานธรรม",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th119",
+    "name": "คนรักเรดิโอ",
+    "streamUrl": "http://server1.lannaradio.com:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th120",
+    "name": "Fung Fung Fung Bangkok",
+    "streamUrl": "https://plus.onair.network:8170/my",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th121",
+    "name": "สวท.ชลบุรี FM 99.75 RadioThailand",
+    "streamUrl": "http://radio-org-02-ott.prd.go.th:8960/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th122",
+    "name": "Ice Radio 94.5 FM แพร่",
+    "streamUrl": "http://1.10.141.185:7106/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th123",
+    "name": "Very Radio",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8505",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th124",
+    "name": "สถานีวิทยุ จส.2 AM 1503 KHz สุราษฎร์ธานี",
+    "streamUrl": "http://media.login.in.th:8515/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th125",
+    "name": "OnAirPlus 106.25 FM สะเดา หาดใหญ่",
+    "streamUrl": "https://plus.onair.network:8010/10625",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_thailand"
   }
 ]
