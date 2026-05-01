@@ -11,7 +11,7 @@
     "id": "pl2",
     "name": "Radio Index",
     "streamUrl": "https://stream.wzielonej.pl/radio/8000/1",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/291/radio-index.ba9d9654.jpg",
     "genre": "genre_pop",
     "country": "country_poland"
   },
@@ -27,7 +27,7 @@
     "id": "pl4",
     "name": "SuperNova Trójmiasto",
     "streamUrl": "https://ic1.smcdn.pl/1170-1.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://www.radio.pl/100/supernovafm.jpeg?version=f0e0c22a286380c16f5bd1fa7ba171fce01a2eb5",
     "genre": "genre_hits",
     "country": "country_poland"
   },
@@ -35,7 +35,7 @@
     "id": "pl5",
     "name": "RMF MAXXX",
     "streamUrl": "http://217.74.72.4:8000/rmf_maxxx",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
     "genre": "genre_pop",
     "country": "country_poland"
   },
@@ -51,7 +51,7 @@
     "id": "pl7",
     "name": "Radio Kapitał",
     "streamUrl": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/212/radio-kapital.988b9e1b.png",
     "genre": "genre_pop",
     "country": "country_poland"
   },
@@ -67,7 +67,7 @@
     "id": "pl9",
     "name": "Radio Muzo.fm",
     "streamUrl": "https://n14a-eu.rcs.revma.com/1nnezw8qz7zuv",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/_GH5qlm8KR-Mu6BoHu-NxvaoMrx_qGOlTuKZqZc_slg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWI5NzlhMzMtMWZiYS00ZDVkLWFiODItYjlkYjI4NDIzYTkyL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
     "genre": "genre_pop",
     "country": "country_poland"
   },
@@ -75,7 +75,7 @@
     "id": "pl10",
     "name": "Radio ESKA Warszawa",
     "streamUrl": "https://ic2.smcdn.pl/2380-1.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/938/radio-eska.5fe77e51.jpg",
     "genre": "genre_hits",
     "country": "country_poland"
   },
@@ -83,7 +83,7 @@
     "id": "pl11",
     "name": "Radio Victoria",
     "streamUrl": "http://stream.v4.radiovictoria.pl:8176/",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/452/radio-victoria-poland.1bca40e0.png",
     "genre": "genre_pop",
     "country": "country_poland"
   },
@@ -91,7 +91,7 @@
     "id": "pl12",
     "name": "Goa Channel One",
     "streamUrl": "https://goa-channel-one.stream.laut.fm/goa-channel-one",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/916/goa-channel-one.91428256.png",
     "genre": "genre_dance",
     "country": "country_poland"
   },
@@ -107,7 +107,7 @@
     "id": "pl14",
     "name": "Radio Leliwa",
     "streamUrl": "https://streaming.g-news.pl:8050/leliwa",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/289/radio-leliwa.31a671b3.png",
     "genre": "genre_pop",
     "country": "country_poland"
   },
@@ -123,7 +123,7 @@
     "id": "pl16",
     "name": "InterStacja Eurodance",
     "streamUrl": "http://4stream.pl:18180/stream.nsv",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/689/interstacja.19b98ff4.png",
     "genre": "genre_dance",
     "country": "country_poland"
   },
@@ -139,7 +139,7 @@
     "id": "pl18",
     "name": "SuperNova Trzebnica",
     "streamUrl": "https://ic1.smcdn.pl/1510-1.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/gFOAS2NYAdSAFwYZcarmuIBPfYik0g4KvN9Qwya46nE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWU3NTI2ZjgtMGQxOC00OWEyLWJmMGEtODg3YzNiNDA3YjFiL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
     "genre": "genre_hits",
     "country": "country_poland"
   },
@@ -147,7 +147,7 @@
     "id": "pl19",
     "name": "Radio FAMA",
     "streamUrl": "http://stream2.nadaje.com:8076/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/286/radio-fama.11ca49aa.png",
     "genre": "genre_pop",
     "country": "country_poland"
   },
