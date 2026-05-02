@@ -19766,5 +19766,2605 @@
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/H4GxSQQ3Ha.png",
     "genre": "genre_pop",
     "country": "country_japan"
+  },
+  {
+    "id": "th2",
+    "name": "FM102 คลื่นคนทำงาน",
+    "streamUrl": "http://media.login.in.th:1100/stream.nsv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rvk9j5ak7cqs.jpeg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th3",
+    "name": "MCOT Radio Nakhon Si Thammarat",
+    "streamUrl": "https://lb-media.mcot.net/RegionRadio/Chanthaburi.stream_aac/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nb2ery3pqq9y.png",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th4",
+    "name": "Hatyai Songkhla FM 89.5",
+    "streamUrl": "https://plus.onair.network:8170/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th6",
+    "name": "MUNforward",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8730",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5qHHXe7LRX.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th8",
+    "name": "FM91 Pattaya",
+    "streamUrl": "https://plus.onair.network:8100/OBdirect",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/156/city-radio-pattaya.ea03ead4.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th9",
+    "name": "Beats FM",
+    "streamUrl": "https://radio14.plathong.net/7208/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/4dkk9eq4jn86.jpeg",
+    "genre": "genre_hiphop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th10",
+    "name": "106 ครอบครัวข่าว",
+    "streamUrl": "http://radio12.plathong.net:8648/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/181/106-khrbkhrawkhaaw.7d16a7d7.png",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th12",
+    "name": "Konsurinradio",
+    "streamUrl": "https://radio10.plathong.net/7230/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/43HVLECHLh.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th14",
+    "name": "FM 98 Dongtan Beach Pattaya",
+    "streamUrl": "https://plus.onair.network:8030/98",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/681/fm-98.3029d284.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th16",
+    "name": "FLEX 104.5 FM",
+    "streamUrl": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.jpeg",
+    "genre": "genre_dance",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th17",
+    "name": "Good 95.5 Hatyai",
+    "streamUrl": "https://a.hostpleng.cloud/9114/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/784/good-955-hatyai.b9f2096f.jpg",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th18",
+    "name": "Request Radio Dance Mix",
+    "streamUrl": "https://cast.requestradio.in.th:850//stream/3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/wryg76p7ebax.png",
+    "genre": "genre_dance",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th19",
+    "name": "Boonma FM",
+    "streamUrl": "http://radio10.plathong.net:7030/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/95eeadbawa4q.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th21",
+    "name": "FM88 Nongkhai Radio",
+    "streamUrl": "https://radio14.plathong.net/7114/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yzrff4srdspu.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th22",
+    "name": "Request Radio Strings",
+    "streamUrl": "http://cast.requestradio.in.th:8100/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/RKj5SekkUY.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th23",
+    "name": "Looktung Eingdoi Station",
+    "streamUrl": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eln9tfyqce5h.jpg",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th24",
+    "name": "คนรักเรดิโอ Relax Station",
+    "streamUrl": "https://inter.lannaradio.com/radio/8050/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/8bRsTFfU3M.png",
+    "genre": "genre_relax",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th28",
+    "name": "Top View Point Radio 93.7 FM",
+    "streamUrl": "https://radio9.plathong.net/7146/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/338/wify-the-point-937-fm.7fbb282f.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th29",
+    "name": "FM 101 Talk Bangkok",
+    "streamUrl": "http://media.login.in.th:8135/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/LwKKkQyUcD.png",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th30",
+    "name": "BKK.FM",
+    "streamUrl": "https://rsas.bkk.fm/radio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ftnqxpw4uzeh.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th31",
+    "name": "Pophits Radio Eingdoi",
+    "streamUrl": "https://inter.wowradiohit.com/radio/8000/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mbtcqejrg3ca.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th34",
+    "name": "102 Radio ขส.ทบ",
+    "streamUrl": "http://media.login.in.th:1100/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kD8W96emy7.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th35",
+    "name": "98 อีสาน เอฟเอ็ม",
+    "streamUrl": "http://radio11.plathong.net:8900/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/naazdc5h6kuz.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th37",
+    "name": "Request Radio International Music",
+    "streamUrl": "http://27.254.142.208:8400/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pFkhvW6wPL.png",
+    "genre": "genre_hits",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th40",
+    "name": "Keangun Radio",
+    "streamUrl": "https://radio9.plathong.net/7054/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/m9YP2x4NvQ.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th42",
+    "name": "Sukson Radio",
+    "streamUrl": "https://stream.pjcdn.com:8000/1&type=mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nwnkznfaktkv.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th44",
+    "name": "Rad Radio 89.5",
+    "streamUrl": "http://radio1.serverradio.net:8592/?type=http",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/972/rad-radio-895.bfe6a248.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th49",
+    "name": "Chili Classics Thailand",
+    "streamUrl": "https://stream.chiliradio.app/chiliclassics",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gzj7ykju83b3.png",
+    "genre": "genre_clasic",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th57",
+    "name": "104 GREEN FM",
+    "streamUrl": "https://radio14.plathong.net/7072/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7t8tsnDj3V.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th59",
+    "name": "THAI MUSIC",
+    "streamUrl": "https://listen.thai-radio.net/trlq",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/gcevqeh6xptz.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th60",
+    "name": "สวพ FM 91",
+    "streamUrl": "http://122.155.16.48:8955/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ptshgz8bvtsk.jpeg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th61",
+    "name": "Chili Pop Thailand",
+    "streamUrl": "https://stream.chiliradio.app/chilipop",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/PLKesCmPUA.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th63",
+    "name": "90 ลูกทุ่ง รักไทย",
+    "streamUrl": "http://radio11.plathong.net:8896/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th64",
+    "name": "Request Radio Country Music",
+    "streamUrl": "http://27.254.142.208:8200/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/GSJSFuqNnJ.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th67",
+    "name": "MUNforward Xtra",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8795",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/fANqGSV3WH.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th69",
+    "name": "XFM 94.5",
+    "streamUrl": "https://radio12.plathong.net/7360/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/u3bfzuhvj9mh.jpg",
+    "genre": "genre_dance",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th70",
+    "name": "Farclubradio",
+    "streamUrl": "https://radio14.plathong.net/7030/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/NSqcBWyWsA.jpg",
+    "genre": "genre_dance",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th71",
+    "name": "Northeastenjoymusic",
+    "streamUrl": "https://radio10.plathong.net/7084/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/DCFHUAWJq2.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th75",
+    "name": "เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ",
+    "streamUrl": "http://43.229.135.187:8040/radio.mp3?type=http",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dkbtbmamjlxr.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th76",
+    "name": "วิทยุเสียงอิสลาม",
+    "streamUrl": "https://radio12.plathong.net/7234/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/954/withyuesiiyngpwngchn-fm-9775-aephr.ffed444c.png",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th77",
+    "name": "Request Radio Looktung",
+    "streamUrl": "http://27.254.142.208:8300/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/RKj5SekkUY.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th78",
+    "name": "สถานีวิทยุบึงกาฬเรดิโอ",
+    "streamUrl": "https://c16.radioboss.fm:8332/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uJhLZVLhCb.webp",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th79",
+    "name": "James Radio",
+    "streamUrl": "https://radio14.plathong.net/7120/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/guhpqtvqbnmh.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th80",
+    "name": "Sukson Radio Thai Easy Listening",
+    "streamUrl": "https://stream.pjcdn.com:9000/SuksonRadio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nwnkznfaktkv.png",
+    "genre": "genre_relax",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th83",
+    "name": "Modern 98.7 FM",
+    "streamUrl": "http://112.121.150.133:9102/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/s6ymtarkmare.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th84",
+    "name": "GBN US Channel",
+    "streamUrl": "https://us.gbnus.com/live/th_sound.stream/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qy52ezxawspc.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th90",
+    "name": "Request Radio String",
+    "streamUrl": "http://27.254.142.208:8100/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/RKj5SekkUY.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th92",
+    "name": "โสรยามิวสิค",
+    "streamUrl": "https://radio9.plathong.net/7264/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cwkbwqxz6epw.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th93",
+    "name": "Metro Phuket",
+    "streamUrl": "https://s3.free-shoutcast.com/stream/18100",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/333/metro-phuket.cbf8019a.png",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th100",
+    "name": "RequestRadio เพื่อชีวิต",
+    "streamUrl": "https://cast.requestradio.in.th:830/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Shf4dp98ac.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th101",
+    "name": "RequestRadio Inter",
+    "streamUrl": "https://cast.requestradio.in.th:840//stream/3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pFkhvW6wPL.png",
+    "genre": "genre_hits",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th102",
+    "name": "บ้านธัมมะ",
+    "streamUrl": "https://radio10.plathong.net/7238/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/795/fm935-hatyai-radio.d06dda30.png",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th106",
+    "name": "สถานีวิทยุ จส.1 AM 657 KHz กรุงเทพฯ",
+    "streamUrl": "http://media.login.in.th:8205/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dfhjrpsqxweu.png",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th111",
+    "name": "Looktung Network",
+    "streamUrl": "http://media.login.in.th:8200/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bk6a8wzk9wsr.png",
+    "genre": "genre_folk",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th117",
+    "name": "JS100",
+    "streamUrl": "http://103.246.19.203:8004/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/470/js-100-radio.425b78b2.jpg",
+    "genre": "genre_news",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th118",
+    "name": "สังฆทานธรรม",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yJ6b8bJwjE.png",
+    "genre": "genre_religious",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th120",
+    "name": "Fung Fung Fung Bangkok",
+    "streamUrl": "https://plus.onair.network:8170/my",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/492/fung-fung-fung-bangkok.57342413.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "th123",
+    "name": "Very Radio",
+    "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8505",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/USymFqfdNt.jpg",
+    "genre": "genre_pop",
+    "country": "country_thailand"
+  },
+  {
+    "id": "pl1",
+    "name": "Radio Sochaczew",
+    "streamUrl": "https://stream.radiosochaczew.pl//stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/294/radio-sochaczew.7e45f89a.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl2",
+    "name": "Radio Index",
+    "streamUrl": "https://stream.wzielonej.pl/radio/8000/1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/291/radio-index.ba9d9654.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl4",
+    "name": "SuperNova Trójmiasto",
+    "streamUrl": "https://ic1.smcdn.pl/1170-1.aac",
+    "imageUrl": "https://www.radio.pl/100/supernovafm.jpeg?version=f0e0c22a286380c16f5bd1fa7ba171fce01a2eb5",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl5",
+    "name": "RMF MAXXX",
+    "streamUrl": "http://217.74.72.4:8000/rmf_maxxx",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl7",
+    "name": "Radio Kapitał",
+    "streamUrl": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/212/radio-kapital.988b9e1b.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl8",
+    "name": "RMF Love",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/LOVEF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/928/rmf-love.77d86c22.jpg",
+    "genre": "genre_relax",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl9",
+    "name": "Radio Muzo.fm",
+    "streamUrl": "https://n14a-eu.rcs.revma.com/1nnezw8qz7zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/_GH5qlm8KR-Mu6BoHu-NxvaoMrx_qGOlTuKZqZc_slg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWI5NzlhMzMtMWZiYS00ZDVkLWFiODItYjlkYjI4NDIzYTkyL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl10",
+    "name": "Radio ESKA Warszawa",
+    "streamUrl": "https://ic2.smcdn.pl/2380-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/938/radio-eska.5fe77e51.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl12",
+    "name": "Goa Channel One",
+    "streamUrl": "https://goa-channel-one.stream.laut.fm/goa-channel-one",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/916/goa-channel-one.91428256.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl13",
+    "name": "RMF Niezapomniane Melodie",
+    "streamUrl": "https://rs203-krk.rmfstream.pl/NIEZAPOMNIANEMELODIEF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/892/rmf-niezapomniane-melodie.323c6f47.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl14",
+    "name": "Radio Leliwa",
+    "streamUrl": "https://streaming.g-news.pl:8050/leliwa",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/289/radio-leliwa.31a671b3.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl15",
+    "name": "RMF Francais",
+    "streamUrl": "https://rs202-krk.rmfstream.pl/FRANCAISF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/918/rmf-francais.80136cbb.png",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl16",
+    "name": "InterStacja Eurodance",
+    "streamUrl": "http://4stream.pl:18180/stream.nsv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/689/interstacja.19b98ff4.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl18",
+    "name": "SuperNova Trzebnica",
+    "streamUrl": "https://ic1.smcdn.pl/1510-1.aac",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/gFOAS2NYAdSAFwYZcarmuIBPfYik0g4KvN9Qwya46nE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWU3NTI2ZjgtMGQxOC00OWEyLWJmMGEtODg3YzNiNDA3YjFiL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl19",
+    "name": "Radio FAMA",
+    "streamUrl": "http://stream2.nadaje.com:8076/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/286/radio-fama.11ca49aa.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl20",
+    "name": "Radio Centrum 11",
+    "streamUrl": "http://51.255.8.139:11120/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/2DepZRUPVy.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl21",
+    "name": "Radio Anioł Beskidów",
+    "streamUrl": "http://88.135.172.249:22000/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/014/radio-aniol-beskidow.068e2212.png",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl22",
+    "name": "SuperNova Classic",
+    "streamUrl": "https://ic1.smcdn.pl/6040-1.aac",
+    "imageUrl": "https://www.radio.pl/100/rmfclassic.jpeg?version=0b2e1da4ec065b2ba336b7e0cb2732b8293c7c50",
+    "genre": "genre_clasic",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl23",
+    "name": "RMF 60s",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/60SF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/896/rmf-60s.5bb37f1f.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl24",
+    "name": "RMF Classic",
+    "streamUrl": "https://rs101-krk.rmfstream.pl/RMFCLASSIC48",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/872/rmf-classic.1a0c50f0.png",
+    "genre": "genre_clasic",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl26",
+    "name": "SuperNova Szczecin",
+    "streamUrl": "https://ic2.smcdn.pl/1260-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/750/pr-radio-szczecin.096a91fe.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl27",
+    "name": "Radio Kielce 101.4",
+    "streamUrl": "https://streaming.g-news.pl:8030/rk2",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/467/pr-radio-kielce-1014.109ad233.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl29",
+    "name": "Radio Vanessa FM",
+    "streamUrl": "http://s1.slotex.pl:7358/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/941/radio-vanessa-fm.87e6e982.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl34",
+    "name": "Metal Live Radio",
+    "streamUrl": "http://51.255.8.139:8738/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/605/metal-live-radio.5ca6804a.png",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl36",
+    "name": "VOX Best Lista",
+    "streamUrl": "https://ic1.smcdn.pl/6100-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/631/vox-best-lista-poland.7ff5be7f.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl39",
+    "name": "Radio Różaniec",
+    "streamUrl": "http://cp.eu8.fastcast4u.com:5696/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/728/radio-rozaniec.3583674e.jpg",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl40",
+    "name": "Radio Mbox Disco Polo",
+    "streamUrl": "http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/383/radio-mbox-disco-polo.3a0dd08d.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl42",
+    "name": "RMF Hip Hop",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/HIPHOPF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/923/rmf-hip-hop.14b934d0.jpg",
+    "genre": "genre_hiphop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl43",
+    "name": "Radio Zamek Nadaje",
+    "streamUrl": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nHRWpNX26b.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl44",
+    "name": "ESKA G20",
+    "streamUrl": "https://ic2.smcdn.pl/6130-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/938/radio-eska.5fe77e51.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl46",
+    "name": "Antyradio",
+    "streamUrl": "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/789/antyradio.7bbc4249.png",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl47",
+    "name": "Radio Ostrowiec",
+    "streamUrl": "http://s1.slotex.pl:7050/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/141/radio-ostrowiec.b1403f6e.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl48",
+    "name": "RMF Piosenka Filmowa",
+    "streamUrl": "https://rs201-krk.rmfstream.pl/PIOSENKAFILMOWAF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/895/rmf-piosenka-filmowa.56e4b6e1.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl49",
+    "name": "Hitradio",
+    "streamUrl": "http://51.255.8.139:9090/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/976/hitradio.69eb3c31.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl50",
+    "name": "Polskie Radio Rzeszów",
+    "streamUrl": "https://streaming.g-news.pl:8040/rzeszow",
+    "imageUrl": "https://www.radio.pl/100/rzeszow.png?version=ae791352ee02eb7773c221ff9f5ae4a3e4fbf9da",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl52",
+    "name": "SuperNova Opole",
+    "streamUrl": "https://ic1.smcdn.pl/1120-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/134/pr-radio-opole.10a77d26.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl55",
+    "name": "RMF 2000",
+    "streamUrl": "https://rs203-krk.rmfstream.pl/2000F",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/894/rmf-2000.74dc4e87.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl56",
+    "name": "ZET Chilli",
+    "streamUrl": "https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/888/zet-chilli.9bfde6ae.jpg",
+    "genre": "genre_relax",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl57",
+    "name": "Gdynia Radio",
+    "streamUrl": "https://ssl-1.radiohost.pl:8064/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/925/gdynia-radio.361e2bc1.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl60",
+    "name": "Radio Bercik Silesia",
+    "streamUrl": "http://s3.slotex.pl:7770/listen.xtl?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/732/radio-bercik-silesia.b9fb4ca3.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl61",
+    "name": "RMF Muzyka Klasyczna",
+    "streamUrl": "http://31.192.216.7:8000/rmf_muzyka_klasyczna",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/888/rmf-muzyka-klasyczna.69ade96d.jpg",
+    "genre": "genre_clasic",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl62",
+    "name": "RMF Hity Wakacji",
+    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/TOP3F",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/859/rmf-hity-wakacji-2021.35594b90.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl63",
+    "name": "RMF Top 30 Disco Polo",
+    "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/TOP5RNBF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/921/rmf-top-30-disco-polo.1d21309e.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl64",
+    "name": "Polskie Radio Zachód 103FM",
+    "streamUrl": "http://stream2.nadaje.com:10103/test",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/654/rz-pr-radio-zachod.2d608104.png",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl65",
+    "name": "Radio Widzew",
+    "streamUrl": "https://widzewfm.ovh/radio/8000/live.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/624/radio-widzew.5e4c83f9.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl66",
+    "name": "SuperNova Łódź",
+    "streamUrl": "https://ic2.smcdn.pl/1100-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/555/pr-radio-lodz.c1e65c7b.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl67",
+    "name": "Flash FM",
+    "streamUrl": "http://91.201.235.225:8017/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/606/flash-fm-poland.b8e628b1.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl69",
+    "name": "Radio Arkadia",
+    "streamUrl": "https://s1.slotex.pl:7238/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/h6G85aNWsH.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl70",
+    "name": "Radio TPI",
+    "streamUrl": "https://s1.slotex.pl:7632/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/393/radio-tpi.b4acf934.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl71",
+    "name": "RMF Polski Hip Hop",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/ZIOMF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/969/rmf-club-breaks.b271dff5.jpg",
+    "genre": "genre_hiphop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl74",
+    "name": "Radio Poland",
+    "streamUrl": "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/263/radio-poland.a0d6650e.png",
+    "genre": "genre_info",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl75",
+    "name": "SuperNova Wrocław",
+    "streamUrl": "https://ic2.smcdn.pl/1180-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/225/pr-radio-wroclaw-1023.561bf0fd.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl76",
+    "name": "Radio 357",
+    "streamUrl": "https://n18a-eu.rcs.revma.com/ye5kghkgcm0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/188/radio-357.6648c6a0.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl79",
+    "name": "DiscoParty Club Mix",
+    "streamUrl": "https://s3.slotex.pl:7354/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/666/discopartypl-club-mix.8139ea9b.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl80",
+    "name": "Eska ROCK Teraz Polski Rock",
+    "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6090-1.aac/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/562/eska-rock-teraz-polski-rock.23ce19b5.png",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl81",
+    "name": "RMF Fitness",
+    "streamUrl": "https://rs203-krk.rmfstream.pl/FITNESSF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/882/rmf-fitness.d8fba772.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl82",
+    "name": "Sizeer FM",
+    "streamUrl": "https://rs103-krk.rmfstream.pl/SIZEERFM",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/909/sizeer-fm.364d11c6.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl83",
+    "name": "RMF FM",
+    "streamUrl": "http://31.192.216.8:8000/rmf_fm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl85",
+    "name": "Norda FM",
+    "streamUrl": "http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/493/norda-fm.8285c8da.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl86",
+    "name": "Radio Express",
+    "streamUrl": "https://n09a-eu.rcs.revma.com/yx6cub73kwzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/945/radio-express.b8a0fbc3.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl88",
+    "name": "SuperNova Disco Polo",
+    "streamUrl": "https://ic2.smcdn.pl/6110-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/856/rmf-disco-polo.0f3c343a.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl89",
+    "name": "SuperNova Rzeszów",
+    "streamUrl": "https://ic2.smcdn.pl/1240-1.aac",
+    "imageUrl": "https://theproadmin.online/radio5/world/images/poland/75621_radio.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl90",
+    "name": "RMF Polskie Przeboje",
+    "streamUrl": "http://195.150.20.242:8000/rmf_polskie_przeboje",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/972/rmf-polskie-przeboje.640e36ad.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl91",
+    "name": "Radio w Nienagannym Stylu",
+    "streamUrl": "http://51.255.8.139:8810/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/479/radio-w-nienagannym-stylu.bbb816f9.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl92",
+    "name": "RMF Grunge",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/GRUNGEF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/921/rmf-grunge.6eaea606.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl93",
+    "name": "SuperNova Kraków",
+    "streamUrl": "https://ic1.smcdn.pl/1070-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/930/pr-radio-krakow.822f42ed.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl94",
+    "name": "SuperNova Nowy Sącz",
+    "streamUrl": "https://ic2.smcdn.pl/1290-1.aac",
+    "imageUrl": "https://theproadmin.online/radio5/world/images/poland/75621_radio.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl95",
+    "name": "RMF Top 30 Dance",
+    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/TOP5DANCEF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/920/rmf-top-30-dance.ad1583dc.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl96",
+    "name": "RMF W Pracy",
+    "streamUrl": "http://31.192.216.10/WPRACY",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/700/rmf-w-pracy.76009e9e.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl97",
+    "name": "Radio Elka Leszno",
+    "streamUrl": "https://rs103-krk.rmfstream.pl/AUDIOXIELKA",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/113/radio-elka-leszno.07fec981.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl98",
+    "name": "Radio FortyPlus",
+    "streamUrl": "https://s1.slotex.pl:7178/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/290/radio-fortyplus.5d5cdcfd.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl99",
+    "name": "Radio MIRAGE",
+    "streamUrl": "https://ssl-1.radiohost.pl:9569/stream",
+    "imageUrl": "https://www.radio.pl/100/mirage.png?version=884f85e4907c36542412d618e18736002c0a261e",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl100",
+    "name": "Radio DHT",
+    "streamUrl": "https://radiodht.com/stream_main/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/524/radio-dht.43eea6dd.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl101",
+    "name": "Radio Sekret",
+    "streamUrl": "https://s1.slotex.pl:7556/stream/1/?sid=1",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl107",
+    "name": "ESKA Rap20",
+    "streamUrl": "https://ic1.smcdn.pl/6190-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/785/eska-rap-20.2a73bf9c.jpg",
+    "genre": "genre_hiphop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl110",
+    "name": "Radio Nowy Świat",
+    "streamUrl": "https://stream.rcs.revma.com/ypqt40u0x1zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/460/radio-nowy-swiat.1e8810ed.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl112",
+    "name": "RMF Top 30 PL",
+    "streamUrl": "https://rs101-krk.rmfstream.pl/TOP5PLF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/922/rmf-top-30-pl.e573d6a5.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl113",
+    "name": "Banita Maxx Radio",
+    "streamUrl": "http://91.232.4.33:9454/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/706/banita-maxx-radio.4f49c6b9.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl114",
+    "name": "Radio Gra Wroclaw",
+    "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/RADIOGRAWROC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/347/radio-gra-wroclaw.a5955d19.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl115",
+    "name": "SuperNova Party",
+    "streamUrl": "https://ic1.smcdn.pl/6160-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/125/radio-party.6f97f269.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl118",
+    "name": "Radio MRS",
+    "streamUrl": "https://s1.slotex.pl:7494/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/847/radio-mrs.40b11b47.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl119",
+    "name": "JAZZKULTURA",
+    "streamUrl": "https://stream.radio.co/s1136b59f3/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/016/jazzkultura.987f9452.jpg",
+    "genre": "genre_jazz",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl121",
+    "name": "Radio Safira",
+    "streamUrl": "https://stream12.hosterion.pl/stream/safira",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/456/radio-safira.99103e66.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl123",
+    "name": "RM80",
+    "streamUrl": "http://s0.radiohost.pl:9011/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/061/rm80.85c2c5e2.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl124",
+    "name": "Radio Paranormalium",
+    "streamUrl": "http://paranormalium.waw.pl/radio/8000/5",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/929/radio-paranormalium.d8e34a34.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl125",
+    "name": "Radio Zawiercie",
+    "streamUrl": "http://51.255.8.139:9078/stream?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/725/radio-zawiercie.f7f6f11a.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl127",
+    "name": "30 lat RMF FM",
+    "streamUrl": "https://rs102-krk.rmfstream.pl/20LATF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/866/30-lat-rmf-fm.f6f3e21f.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl128",
+    "name": "Kanał House",
+    "streamUrl": "https://s2.radioparty.pl:8015/house",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/521/kanal-house.1fa26eac.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl129",
+    "name": "VOX HIT",
+    "streamUrl": "https://ic1.smcdn.pl/6020-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/255/radio-vox-fm-933.26c4e4f3.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl130",
+    "name": "Radio Disco Polo Non Stop FM",
+    "streamUrl": "https://s3.slotex.pl:7496/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qfkTu9stZm.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl131",
+    "name": "Radio Prestige",
+    "streamUrl": "https://s3.slotex.pl:7524/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/731/radio-prestige.1508727c.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl132",
+    "name": "Goryl Radio",
+    "streamUrl": "https://listen.radioking.com/radio/1743/stream/125",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/038/goryl-radio.a12eb647.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl133",
+    "name": "Radio Koszalin",
+    "streamUrl": "http://91.232.4.33:9680/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/702/radio-koszalin.77d5d0d9.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl136",
+    "name": "Radio The Best Euro Dance",
+    "streamUrl": "https://s3.slotex.pl:7308/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/113/radio-the-best-euro-dance.8b252ccc.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl138",
+    "name": "VOX Disco 90",
+    "streamUrl": "https://ic2.smcdn.pl/6170-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/625/vox-disco-90.d81ff426.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl139",
+    "name": "VOX Radom",
+    "streamUrl": "https://ic2.smcdn.pl/3210-2.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/626/vox-radom.26c4e4f3.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl140",
+    "name": "Radio Mbox Gold Hits",
+    "streamUrl": "https://panel.radiombox.pl/radio/8040/GoldHits128kbps",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/813/radio-mbox-gold-hits.3d15b1c1.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl141",
+    "name": "Radio Doxa FM",
+    "streamUrl": "http://81.210.92.213:8000/play.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/583/radio-doxa-fm.9da0584f.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl142",
+    "name": "Radio FTB Rap Music",
+    "streamUrl": "http://play.radioftb.net:8028/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/181/radio-ftb-trance.6e43caf4.png",
+    "genre": "genre_hiphop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl143",
+    "name": "Punkowe Radio Underground",
+    "streamUrl": "https://s1.slotex.pl:7604/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/T7xVRYyWYg.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl144",
+    "name": "SuperNova Jelenia Góra",
+    "streamUrl": "https://ic1.smcdn.pl/1480-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/480/radio-cyfrowa-moja-jelenia-gora.44617395.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl145",
+    "name": "VOX Disco Party",
+    "streamUrl": "https://ic2.smcdn.pl/6180-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/630/vox-disco-party.7b17b2e4.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl146",
+    "name": "Polskie Radio Kierowców",
+    "streamUrl": "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/623/polskie-radio-kierowcow.e2fc1e37.jpg",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl147",
+    "name": "Radio EMKA",
+    "streamUrl": "https://ec1.yesstreaming.net:1145/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/057/radio-emka.967d2a04.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl150",
+    "name": "RMF Top 30 Pop",
+    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/TOP5POPF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/923/rmf-top-30-pop.00a020af.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl152",
+    "name": "RadioFlirt.pl",
+    "streamUrl": "https://s3.slotex.pl:7684/stream/1/",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl153",
+    "name": "RMF Wakacyjne TOP 100",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/TOP4F",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/862/rmf-wakacyjne-top-100.78163fa0.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl155",
+    "name": "HiphopStacja",
+    "streamUrl": "http://s3.slotex.pl:7150/stream1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xdY5NYJL9L.png",
+    "genre": "genre_hiphop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl156",
+    "name": "ESKA G100",
+    "streamUrl": "https://ic2.smcdn.pl/6120-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/938/radio-eska.5fe77e51.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl158",
+    "name": "SuperNova Toruń",
+    "streamUrl": "https://ic2.smcdn.pl/1150-1.aac",
+    "imageUrl": "https://theproadmin.online/radio5/world/images/poland/75621_radio.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl160",
+    "name": "Radio Cyganeczka",
+    "streamUrl": "http://s1.slotex.pl:7474/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/343/radio-cyganeczka.dacc2048.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl162",
+    "name": "Polskie Radio Larmo",
+    "streamUrl": "http://larmo.stream.laut.fm/larmo",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/288/polskie-radio-larmo.c8e1339f.png",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl163",
+    "name": "Radio Świnoujście",
+    "streamUrl": "http://185.243.52.116:8010/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/788/radio-swinoujscie.b8bee90c.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl164",
+    "name": "SuperNova Sanah",
+    "streamUrl": "https://ic2.smcdn.pl/6220-1.aac",
+    "imageUrl": "https://theproadmin.online/radio5/world/images/poland/75621_radio.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl165",
+    "name": "RMF Bravo",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/BRAVOF",
+    "imageUrl": "https://www.radio.pl/100/rmffm.jpeg?version=109e2a774449f352eefdbc8a9bb8b2591a742767",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl166",
+    "name": "RMF Disco",
+    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/DISCOF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/881/rmf-disco.5c088c2e.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl167",
+    "name": "SuperNova Kielce",
+    "streamUrl": "https://ic1.smcdn.pl/1050-1.aac",
+    "imageUrl": "https://theproadmin.online/radio5/world/images/poland/75621_radio.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl168",
+    "name": "RMF Studencka Impreza",
+    "streamUrl": "https://rs202-krk.rmfstream.pl/STUDENCKAIMPREZAF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/917/rmf-studencka-impreza.35594b90.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl169",
+    "name": "RMF Kolędy",
+    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/KOLEDYF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/918/rmf-koledy.ac3544ab.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl171",
+    "name": "RMF Smooth Jazz",
+    "streamUrl": "http://195.150.20.8/SJAZZ",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/966/rmf-smooth-jazz.109d15b4.jpg",
+    "genre": "genre_jazz",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl172",
+    "name": "ESKA Impreska",
+    "streamUrl": "https://ic2.smcdn.pl/6030-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/629/eska-goraca-100.1491df0c.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl174",
+    "name": "RMF 10s",
+    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/2010F",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/872/rmf-10s.fc3fb711.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl175",
+    "name": "SuperNova Rock",
+    "streamUrl": "https://ic2.smcdn.pl/6090-1.aac",
+    "imageUrl": "https://theproadmin.online/radio5/world/images/poland/75621_radio.png",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl176",
+    "name": "RMF 80s Disco",
+    "streamUrl": "https://rs203-krk.rmfstream.pl/80SDISCOF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/871/rmf-80s-disco.fcf9d1ec.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl179",
+    "name": "RMF Beatle Mania",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/BEATLEMANIAF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/902/rmf-beatle-mania.8a6ea6cc.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl180",
+    "name": "RMF FRESH 2021",
+    "streamUrl": "https://rs102-krk.rmfstream.pl/TOPF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl183",
+    "name": "RMF Relaks",
+    "streamUrl": "https://rs101-krk.rmfstream.pl/RELAKSF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/699/rmf-relaks.9e59a489.jpg",
+    "genre": "genre_relax",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl184",
+    "name": "Radio Elka Głogów",
+    "streamUrl": "https://rs102-krk.rmfstream.pl/AUDIOXIELKAGLOGOW",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/379/radio-elka-glogow.07fec981.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl185",
+    "name": "RMF 70s Disco",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/70SDISCOF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/840/rmf-70s.1b60a0a7.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl186",
+    "name": "Eska ROCK Warszawa",
+    "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/5380-1.aac/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/707/radio-eska-rock.c7b07a9e.png",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl187",
+    "name": "Eska ROCK Rock Ballads",
+    "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6010-1.aac/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/560/eska-rock-rock-ballads.26c87ded.png",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl188",
+    "name": "RMF Styl",
+    "streamUrl": "https://rs101-krk.rmfstream.pl/STYLF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/946/rmf-styl.c77caea0.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl190",
+    "name": "Disco Radio",
+    "streamUrl": "https://stream.rcs.revma.com/cvswvmyewzzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/069/disco-radio3.de46b0c2.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl191",
+    "name": "RMF24",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/RMF24",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/243/rmf24.572f9eb1.png",
+    "genre": "genre_info",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl192",
+    "name": "Radio DHT Drugi Kanał",
+    "streamUrl": "https://radiodht.com/stream_second/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/967/radio-dht-kanal-drugi.9c9c441c.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl193",
+    "name": "Radio Kultura",
+    "streamUrl": "https://ssl-1.radiohost.pl:9772/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/erwutdnbrldv.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl198",
+    "name": "RADIO NIESIOŁOWICE",
+    "streamUrl": "https://s3.slotex.pl:7156/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Myahv86wag.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl199",
+    "name": "Katolickie Radio Zamość",
+    "streamUrl": "https://stream.rcs.revma.com/0n8y7mxcay8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/103/katolickie-radio-zamosc.8e8590ea.jpg",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl200",
+    "name": "RMF Alternatywa",
+    "streamUrl": "http://217.74.72.11:8000/rmf_alternatywa",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/900/rmf-alternatywa.9783b9e1.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl201",
+    "name": "SuperNova Konin",
+    "streamUrl": "https://ic1.smcdn.pl/1530-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/148/konin-fm-1041.09df058b.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl205",
+    "name": "CYBERStacja",
+    "streamUrl": "http://sc.cyberstacja.pl:8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/202/cyberstacja.78c0d6e2.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl207",
+    "name": "Radio FTB Disco Polo",
+    "streamUrl": "http://play.radioftb.net:8022/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/180/radio-ftb-disco-polo.6e43caf4.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl208",
+    "name": "VOX Gorzów Wlkp",
+    "streamUrl": "https://ic2.smcdn.pl/3040-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/627/vox-gorzow-wlkp.26c4e4f3.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl209",
+    "name": "Największe Polskie Przeboje",
+    "streamUrl": "https://rs202-krk.rmfstream.pl/NPPRMFONF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/972/rmf-polskie-przeboje.640e36ad.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl210",
+    "name": "RMF Chopin",
+    "streamUrl": "http://195.150.20.242:8000/rmf_chopin",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/952/rmf-chopin.23db8049.jpg",
+    "genre": "genre_clasic",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl211",
+    "name": "RMF 50s",
+    "streamUrl": "https://rs6-krk2-cyfronet.rmfstream.pl/50S",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/895/rmf-50s.77149bad.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl213",
+    "name": "Disco-Mix",
+    "streamUrl": "https://radiodd.cloud/radio/8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/714/disco-80-90-i-polo.7d3877dd.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl214",
+    "name": "RMF Piosenka Literacka",
+    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/PIOSENKALITERACKAF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/934/rmf-piosenka-literacka.b065a0e0.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl215",
+    "name": "Radio SOK Sulecin",
+    "streamUrl": "https://s3.slotex.pl:7230/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/691/radio-sok-sulecin.d8d99b1f.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl217",
+    "name": "Radio Biedrzychowice",
+    "streamUrl": "http://195.164.158.230:9070/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/421/radio-biedrzychowice.500e8078.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl218",
+    "name": "RMF Best of Krzysztof Krawczyk",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/TOP5F",
+    "imageUrl": "https://www.radio.pl/100/rmffm.jpeg?version=109e2a774449f352eefdbc8a9bb8b2591a742767",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl219",
+    "name": "Radio ElitaCafe",
+    "streamUrl": "http://91.232.4.33:7166/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/636/radio-elita-cafe.8096c20b.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl220",
+    "name": "103 RADIO",
+    "streamUrl": "https://s2.ssl-stream.com/radio/8230/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/962/103-radio-poland.c82521a4.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl222",
+    "name": "Radio Pryzmat",
+    "streamUrl": "http://51.255.8.139:8822/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/618/radio-pryzmat.c80c7c7e.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl224",
+    "name": "Radio Nuta",
+    "streamUrl": "https://stream.rcs.revma.com/0004tehdxzzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/645/radio-nuta.730988b2.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl225",
+    "name": "Radio FTB Club",
+    "streamUrl": "http://play.radioftb.net:8000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/153/radioftb-kanal-club.6e43caf4.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl226",
+    "name": "Cymru FM",
+    "streamUrl": "https://streamer.radio.co/s6832865c1/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/722/cymru-fm.4a9bbd5a.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl227",
+    "name": "RMF Top Disco Polo",
+    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/TOP2F",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/921/rmf-top-30-disco-polo.1d21309e.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl228",
+    "name": "ESKA Do Pracy",
+    "streamUrl": "https://ic1.smcdn.pl/6140-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/784/eska-do-pracy.72490af8.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl230",
+    "name": "VOX Najlepszy Koncert Świata",
+    "streamUrl": "https://ic2.smcdn.pl/6080-1.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/255/radio-vox-fm-933.26c4e4f3.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl231",
+    "name": "RMF Trend Sounds",
+    "streamUrl": "http://217.74.72.11:8000/rmf_club",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl232",
+    "name": "Radio Mbox Club",
+    "streamUrl": "https://panel.radiombox.pl/radio/8070/Club128kbps",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/814/radio-mbox-club.ad86e926.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl234",
+    "name": "RMF Celtic",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/CELTICF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/905/rmf-celtic.e9a3ed1a.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl235",
+    "name": "RMF 90s Dance",
+    "streamUrl": "http://31.192.216.8/90SDANCE",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/877/rmf-90s.b73bca27.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl236",
+    "name": "RMF GameMusic",
+    "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/GAMEMUSICF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_electronic",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl237",
+    "name": "RMF Michael Jackson",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/MICHALEJACKSONF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/929/rmf-michael-jackson.5d8d9df5.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl238",
+    "name": "Radio MBox",
+    "streamUrl": "http://panel.radiombox.pl/radio/8000/RadioMbox128",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/814/radio-mbox-club.ad86e926.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl239",
+    "name": "RMF Święta",
+    "streamUrl": "http://195.150.20.7:8000/rmf_swieta",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/928/rmf-swieta.6ba24fa1.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl240",
+    "name": "RMF Latino",
+    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/LATINOF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/890/rmf-latino.06b2f406.jpg",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl241",
+    "name": "DiscoParty Disco Impreza",
+    "streamUrl": "https://s3.slotex.pl:7046/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/667/discopartypl-disco-impreza.3afe219c.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl243",
+    "name": "RMF R&B",
+    "streamUrl": "http://217.74.72.11:8000/rmf_rnb",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/893/rmf-rb.50bddebf.jpg",
+    "genre": "genre_hiphop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl245",
+    "name": "Best of RMFON",
+    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/BESTOFRMFONF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/880/best-of-rmfon.c60f0fb7.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl247",
+    "name": "Radio Paweł MIAZGA",
+    "streamUrl": "https://s3.slotex.pl:7024/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/051/radio-pawel-miazga.b43c19e1.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl248",
+    "name": "RMF Top 30 Święta",
+    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/TOP30SWIETAF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/919/rmf-top-30-swieta.a1925dcb.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl249",
+    "name": "Radio ONY 93.1 FM",
+    "streamUrl": "https://stream.rcs.revma.com/yxv344rra2zuv.m4a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/614/radio-ony-931-fm.92e08907.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl250",
+    "name": "Radio GRA 95.1 Wrocław",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/RADIOGRAWROC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/441/radio-gra-951-wroclaw.a5955d19.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl251",
+    "name": "SuperNova Super 13",
+    "streamUrl": "https://ic2.smcdn.pl/6230-1.aac",
+    "imageUrl": "https://theproadmin.online/radio5/world/images/poland/75621_radio.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl252",
+    "name": "Radio Bielsko 106.7",
+    "streamUrl": "https://n09a-eu.rcs.revma.com/062uq3z3kwzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/939/radio-bielsko-1067.53d7545b.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl255",
+    "name": "Radio Party",
+    "streamUrl": "https://s2.radioparty.pl:8015/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/125/radio-party.6f97f269.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl256",
+    "name": "DiscoParty Disco Polo",
+    "streamUrl": "https://s1.slotex.pl:7432/stream/1/?sid=1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/092/discopartypl.1e4c9d7b.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl257",
+    "name": "RMF Szanty",
+    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/SZANTYF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/937/rmf-szanty.015061d8.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl258",
+    "name": "RMF Rock Progresywny",
+    "streamUrl": "http://195.150.20.242:8000/rmf_rock_progresywny",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/892/rmf-rock-progresywny.74e5a6f6.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl259",
+    "name": "RMF 3",
+    "streamUrl": "http://195.150.20.242:8000/rmf_3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl260",
+    "name": "RMF 2 Pop",
+    "streamUrl": "http://195.150.20.242:8000/rmf_2",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/890/rmf-2-pop.583eee8f.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl261",
+    "name": "RMF Queen",
+    "streamUrl": "https://rs203-krk.rmfstream.pl/QUEENF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/889/rmf-queen.61418676.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl262",
+    "name": "RMF Przebój Roku",
+    "streamUrl": "https://rs102-krk.rmfstream.pl/PRZEBOJROKUF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/888/rmf-przeboj-roku.72578ed2.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl263",
+    "name": "RMF Cuba",
+    "streamUrl": "http://217.74.72.11:8000/rmf_cuba",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/884/rmf-cuba.e1fe6c1f.jpg",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl264",
+    "name": "RMF Party",
+    "streamUrl": "https://rs201-krk.rmfstream.pl/PARTYF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/883/rmf-party.7321dc9f.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl265",
+    "name": "RMF Muzyka Filmowa",
+    "streamUrl": "https://rs102-krk.rmfstream.pl/MUZYKAFILMOWAF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/882/rmf-muzyka-filmowa.dd7c47b5.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl266",
+    "name": "RMF Hot New",
+    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/HOTNEWF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/881/rmf-hot-new.60baf834.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl267",
+    "name": "RMF Dance",
+    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/DANCEF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/880/rmf-dance.5616b328.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl268",
+    "name": "RMF Blues",
+    "streamUrl": "https://rs201-krk.rmfstream.pl/BLUESF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/879/rmf-blues.b852cf5d.jpg",
+    "genre": "genre_blues",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl269",
+    "name": "RMF Baby Dla Dzieci",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/BABYF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/878/rmf-baby.dd20ad1e.jpg",
+    "genre": "genre_kids",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl270",
+    "name": "RMF 90s",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/90SF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/877/rmf-90s.b73bca27.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl271",
+    "name": "RMF Rock",
+    "streamUrl": "https://rs203-krk.rmfstream.pl/ROCKF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/871/rmf-rock.d3763681.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl272",
+    "name": "RMF PRL",
+    "streamUrl": "https://rs101-krk.rmfstream.pl/PRLF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/870/rmf-prl.bef93223.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl273",
+    "name": "RMF Lady Pank",
+    "streamUrl": "https://rs202-krk.rmfstream.pl/LADYPANKF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/869/rmf-lady-pank.8753614a.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl274",
+    "name": "RMF Reggae",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/REGGAEF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/863/rmf-reggae.1f8caec4.jpg",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl275",
+    "name": "RMF Poplista",
+    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/POPLISTAF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/862/rmf-poplista.971a06ee.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl276",
+    "name": "RMF Polski Rock",
+    "streamUrl": "https://rs201-krk.rmfstream.pl/POLSKIROCKF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/861/rmf-polski-rock.91d3e289.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl277",
+    "name": "RMF Hard & Heavy",
+    "streamUrl": "http://31.192.216.7/HARDHEAVY",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/858/rmf-hard-heavy.40061279.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl278",
+    "name": "RMF Depeche Mode",
+    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/DEPECHEMODEF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/857/rmf-depeche-mode.b2f6d2d1.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl279",
+    "name": "RMF Club",
+    "streamUrl": "https://rs102-krk.rmfstream.pl/CLUBF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/856/rmf-club.6df3de0d.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl280",
+    "name": "RMF 80s",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/80SF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/854/rmf-80s.0f1445ba.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl281",
+    "name": "RMF 5 Łagodne Przeboje",
+    "streamUrl": "http://217.74.72.11/RMF5",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/853/rmf-5.f190bd28.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl282",
+    "name": "RMF 4 Dance & RNB",
+    "streamUrl": "http://217.74.72.11/RMF4",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/852/rmf-4.301183dd.jpg",
+    "genre": "genre_hiphop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl283",
+    "name": "RMF Ballady",
+    "streamUrl": "http://217.74.72.11/NOSTALGIA",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/851/rmf-nostalgia.9ea99d5f.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl284",
+    "name": "RMF Słoneczne Przeboje",
+    "streamUrl": "http://217.74.72.11:8000/rmf_sloneczne_przeboje",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/848/rmf-sloneczne-przeboje.88d9734c.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl285",
+    "name": "RMF Gold",
+    "streamUrl": "http://217.74.72.11:8000/rmf_gold",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/846/rmf-gold.bd53032a.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl286",
+    "name": "RMF Classic Rock",
+    "streamUrl": "http://217.74.72.11:8000/rmf_classic_rock",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/843/rmf-classic-rock.1758593c.jpg",
+    "genre": "genre_clasic",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl287",
+    "name": "RMF Chillout",
+    "streamUrl": "http://217.74.72.11:8000/rmf_chillout",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/842/rmf-chillout.1a439f9e.jpg",
+    "genre": "genre_relax",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl288",
+    "name": "RMF 70s",
+    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/70SF",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/840/rmf-70s.1b60a0a7.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl291",
+    "name": "Radio RMF FM",
+    "streamUrl": "http://217.74.72.12/rmf_fm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl293",
+    "name": "Eska Białystok",
+    "streamUrl": "https://ic2.smcdn.pl/2020-1.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/158/eska-bialystok.5fe77e51.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl294",
+    "name": "Radio Alex",
+    "streamUrl": "http://proxima.shoutca.st:9045/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/VCQR9ggTyK.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl295",
+    "name": "4Music",
+    "streamUrl": "https://s1.slotex.pl:7102/stream/1/",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl296",
+    "name": "RMF MAXXX Kielce",
+    "streamUrl": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
+    "imageUrl": "https://www.radio.pl/100/rmfmaxxx.jpeg?version=269f52fbe8febb80ddd8bf0c92ee3abbdc2d62af",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl298",
+    "name": "Radio Pasja Pop",
+    "streamUrl": "http://91.232.4.33:8084/stream2",
+    "imageUrl": "https://www.radio.pl/100/pasjapop.png?version=c1ec054492ca08b6e7aab8f93682e28daeb56fa2",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl301",
+    "name": "RMF MAXXX 99.7 Pomorze",
+    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx",
+    "imageUrl": "https://www.radio.pl/100/rmfmaxxx.jpeg?version=269f52fbe8febb80ddd8bf0c92ee3abbdc2d62af",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl303",
+    "name": "Radio Centrum Lublin",
+    "streamUrl": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/560/pr-polskie-radio-lublin.6f4baab7.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl305",
+    "name": "Mittendrin Radio der deutschen Minderheit",
+    "streamUrl": "http://s1.slotex.pl:7430/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl309",
+    "name": "Głos Nadziei",
+    "streamUrl": "https://ssl-1.radiohost.pl:9548/index",
+    "imageUrl": "https://www.radio.pl/100/glosnadziei.png?version=6873b94ab3da42eb90b45f2e627af07b719ff430",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl314",
+    "name": "Radio Nowej Generacji",
+    "streamUrl": "https://s1.slotex.pl:7488/stream/1/",
+    "imageUrl": "https://www.radio.pl/podcast-images/100/podcast-nowej-generacji.jpeg?version=f85ea9ce20511be3f2aa490824cd67d79b5237ac",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl317",
+    "name": "FutrzakFM",
+    "streamUrl": "https://audio.futrzak.fm/futrzakfm-128",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl319",
+    "name": "Radioparty.pl DJ Mixes",
+    "streamUrl": "http://djmixes.radioparty.pl:8035/",
+    "imageUrl": "https://www.radio.pl/100/radiopartydj.png?version=60736fc7d58727aa9332af3df7c041dcac020e7e",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl320",
+    "name": "Radio Eska Kraków",
+    "streamUrl": "http://ic1.smcdn.pl/2070-1.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/168/eska-krakow.5fe77e51.jpg",
+    "genre": "genre_hits",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl321",
+    "name": "Radio Plus Kraków",
+    "streamUrl": "https://ic2.smcdn.pl/4070-1.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/196/radio-plus-krakow.eb888026.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl322",
+    "name": "Radioparty Energy2000",
+    "streamUrl": "http://energy2000.radioparty.pl:8005/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/278/radio-party-kanal-energy-2000.18dfc3d2.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl323",
+    "name": "Radio Karolinka",
+    "streamUrl": "http://91.232.4.33:8358/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl325",
+    "name": "Fitness Music",
+    "streamUrl": "https://s3.slotex.pl:7060/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/882/rmf-fitness.d8fba772.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl326",
+    "name": "Radio Sierpc",
+    "streamUrl": "https://ssl-1.radiohost.pl:10700/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl328",
+    "name": "Radio Opatów",
+    "streamUrl": "http://stream2.nadaje.com:11144/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl329",
+    "name": "Radio TOP80",
+    "streamUrl": "https://top80.pl:8000/listen.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/DcZJaMdjQs.jpg",
+    "genre": "genre_retro",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl331",
+    "name": "RMF Funk",
+    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl333",
+    "name": "Radio RM80",
+    "streamUrl": "http://91.232.4.33:9011/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/061/rm80.85c2c5e2.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl334",
+    "name": "Radio Guardian",
+    "streamUrl": "https://s1.slotex.pl:7508/stream/1/",
+    "imageUrl": "https://www.radio.pl/podcast-images/100/guardian-radio2.jpeg?version=3997f7d30b2293bea363745c8d4bf3e2237412b2",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl335",
+    "name": "NiUS Radio",
+    "streamUrl": "https://nius.out.airtime.pro/nius_a",
+    "imageUrl": "https://www.radio.pl/100/nius.png?version=c86ee18e7654bb1875d8d040f094a2bca60299da",
+    "genre": "genre_info",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl336",
+    "name": "Radio Damismania DJ Radio",
+    "streamUrl": "https://s1.slotex.pl:7512/stream/1/",
+    "imageUrl": "https://www.radio.pl/100/lautfm-djcryexx.png?version=8ffa3df91a00d13ccf2f7393468d98b8ebbc5d82",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl339",
+    "name": "Radio Duch",
+    "streamUrl": "https://s1.slotex.pl:7174/stream/1/",
+    "imageUrl": "https://www.radio.pl/assets/images/station_avatar.svg",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl342",
+    "name": "Radio Na Tak",
+    "streamUrl": "https://c30.radioboss.fm:8615/stream",
+    "imageUrl": "https://assets.podomatic.net/ts/bb/30/95/kontakt68065/640x640_16514790.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl343",
+    "name": "Radio7 Mława",
+    "streamUrl": "http://stream.radio7.pl:443/radio7.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/109/radio-72.60d43859.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl345",
+    "name": "Radio Awangarda",
+    "streamUrl": "https://s1.slotex.pl:7870/stream/1/",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/cpVqMx-W11cq1gkzpos3ELzC10073mrXWXW9h8tHrZM/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREFwWVdrcmdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dtTnJhNUFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3MTE0NjU3MzAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl347",
+    "name": "Internetowe Radio Mittendrin",
+    "streamUrl": "http://s1.slotex.pl:7592/stream",
+    "imageUrl": "https://www.radio.pl/175/mittendrin.jpeg?version=fdc7bde93fdd178b3ef5e930779fa2d77e8947de",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl348",
+    "name": "Radio Italo4you 256kbps",
+    "streamUrl": "http://s0.radiohost.pl:8018/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/710/radio-italo4you.017fc8b5.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl349",
+    "name": "Radio Odzew",
+    "streamUrl": "https://s3.slotex.pl:7468/stream/1/",
+    "imageUrl": "https://www.radio.pl/100/odzewfm.jpeg?version=217a43e3e042fae7c5681c3743d38da4f9a2eb60",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl351",
+    "name": "Radio Maryja",
+    "streamUrl": "http://198.50.238.178:5946/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/038/radio-maryja.76b6d2cb.png",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl352",
+    "name": "Folk Radio",
+    "streamUrl": "https://streaming.g-news.pl:8030/fr1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kukuaw2ukf9q.jpg",
+    "genre": "genre_folk",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl353",
+    "name": "Radio Bahary",
+    "streamUrl": "https://s1.slotex.pl:7838/stream/1/",
+    "imageUrl": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_189086.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl354",
+    "name": "Idź Pod Prąd FM",
+    "streamUrl": "http://idzpodprad.out.airtime.pro:8000/idzpodprad_a",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/EuROElh51gj8xCyAIcY5cw0q2JhzPlg7fjKI8sRh7_8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZTBjMzU4OTctNGRlMC00NzY5LTgzMjEtNzk5YzE3MDJhMDc0L2ltYWdlLz91PTE3NzAxMjE0NDYwMDA.webp",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl355",
+    "name": "Radio Nestolatki",
+    "streamUrl": "https://s1.slotex.pl:7306/stream/1/",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/wzGXvaXNEg0p92L1Xocp4PQ3UYfmPSVtM-lqUefAI28/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNGQ4YjdjYzItYmFmOS00OWFmLWI4MjQtZmM4Y2Y1YWZkNzEzL2ltYWdlLz91PTE3NzAwNTYwMTIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl358",
+    "name": "Radioparty House Party",
+    "streamUrl": "http://house.radioparty.pl:8010/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/125/radio-party.6f97f269.jpg",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl361",
+    "name": "Radio Elka Miedziowe",
+    "streamUrl": "https://rs102-krk.rmfstream.pl/audioxi_elka_glogow",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/113/radio-elka-leszno.07fec981.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl363",
+    "name": "Radio Horyzont",
+    "streamUrl": "http://s1.slotex.pl:7328/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/916/radio-horyzont.a3e774ac.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl365",
+    "name": "SuperOrbita",
+    "streamUrl": "https://s1.slotex.pl:7086/stream/1/",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl366",
+    "name": "RMC Radio Muzyka Człowiek",
+    "streamUrl": "http://s1.slotex.pl:7030/stream/",
+    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl367",
+    "name": "TWR Impuls",
+    "streamUrl": "https://s1.slotex.pl:7504/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/033/radio-impuls-972-fm.35e4bda0.jpg",
+    "genre": "genre_religious",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl368",
+    "name": "Radio Koszalin Słupsk",
+    "streamUrl": "https://ssl-1.radiohost.pl:8240/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/320/radio-slupsk.3d6ff44e.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl369",
+    "name": "Radio Start",
+    "streamUrl": "https://s1.slotex.pl:7644/stream/1/",
+    "imageUrl": "https://www.radio.net/175/startfm.png?version=3aa8cf1c4bf529243b2813ba8f33e15a8e7bdb4c",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl372",
+    "name": "Radioparty Energy 2000 AAC",
+    "streamUrl": "http://s2.radioparty.pl:8040/energy2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/278/radio-party-kanal-energy-2000.18dfc3d2.png",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl374",
+    "name": "Radio Melody Express",
+    "streamUrl": "https://s1.slotex.pl:7588/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/945/radio-express.b8a0fbc3.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl375",
+    "name": "RMF 3 Pop Rock",
+    "streamUrl": "http://195.150.20.8/RMF3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/891/rmf-3.15c70448.jpg",
+    "genre": "genre_rock",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl377",
+    "name": "Radioparty.pl Main",
+    "streamUrl": "http://s7.radioparty.pl:8000/",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/0thgK1Meu8PhA4_CLK-9mu_vWKA_iseqCCq5eKEX7XQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTYxMDI1NzctMDYwMS0xMWU4LWFlOTctNTI1NDNiZTA0YzgxL2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
+    "genre": "genre_dance",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl379",
+    "name": "RMF MAXXX Krosno",
+    "streamUrl": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn",
+    "imageUrl": "https://www.radio.pl/100/rmfmaxxx.jpeg?version=269f52fbe8febb80ddd8bf0c92ee3abbdc2d62af",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl380",
+    "name": "RMF MAXX Podlasie",
+    "streamUrl": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
+    "imageUrl": "https://www.radio.pl/100/rmfmaxxx.jpeg?version=269f52fbe8febb80ddd8bf0c92ee3abbdc2d62af",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl381",
+    "name": "RMF MAXXX Włocławek",
+    "streamUrl": "http://195.150.20.4/rmf_maxxx_wlc",
+    "imageUrl": "https://www.radio.pl/100/rmfmaxxx.jpeg?version=269f52fbe8febb80ddd8bf0c92ee3abbdc2d62af",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl383",
+    "name": "Radio KECh Nowogard",
+    "streamUrl": "https://s3.slotex.pl:7016/stream/1/",
+    "imageUrl": "https://cdn.instant.audio/images/logos/onlineradio-pl/nowogard.png",
+    "genre": "genre_pop",
+    "country": "country_poland"
+  },
+  {
+    "id": "pl385",
+    "name": "Radio Nowy Świat 256k",
+    "streamUrl": "https://go-audio.toya.net.pl/63214",
+    "imageUrl": "https://www.radio.pl/100/radionowyswiat.png?version=b0b222500ed9991934b70364547134ed19209d61",
+    "genre": "genre_pop",
+    "country": "country_poland"
   }
 ]
