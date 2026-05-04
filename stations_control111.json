@@ -1,3082 +1,1194 @@
 [
   {
-    "id": "pl1",
-    "name": "Radio Sochaczew",
-    "streamUrl": "https://stream.radiosochaczew.pl//stream.mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/294/radio-sochaczew.7e45f89a.png",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl2",
-    "name": "Radio Index",
-    "streamUrl": "https://stream.wzielonej.pl/radio/8000/1",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/291/radio-index.ba9d9654.jpg",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl3",
-    "name": "Radio Kolobrzeg",
-    "streamUrl": "http://194.24.244.11:8000/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl4",
-    "name": "SuperNova Trójmiasto",
-    "streamUrl": "https://ic1.smcdn.pl/1170-1.aac",
-    "imageUrl": "https://www.radio.pl/100/supernovafm.jpeg?version=f0e0c22a286380c16f5bd1fa7ba171fce01a2eb5",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl5",
-    "name": "RMF MAXXX",
-    "streamUrl": "http://217.74.72.4:8000/rmf_maxxx",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl6",
-    "name": "UWM FM",
-    "streamUrl": "http://213.184.18.156:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl7",
-    "name": "Radio Kapitał",
-    "streamUrl": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/212/radio-kapital.988b9e1b.png",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl8",
-    "name": "RMF Love",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/LOVEF",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl9",
-    "name": "Radio Muzo.fm",
-    "streamUrl": "https://n14a-eu.rcs.revma.com/1nnezw8qz7zuv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/_GH5qlm8KR-Mu6BoHu-NxvaoMrx_qGOlTuKZqZc_slg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWI5NzlhMzMtMWZiYS00ZDVkLWFiODItYjlkYjI4NDIzYTkyL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl10",
-    "name": "Radio ESKA Warszawa",
-    "streamUrl": "https://ic2.smcdn.pl/2380-1.aac",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/938/radio-eska.5fe77e51.jpg",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl11",
-    "name": "Radio Victoria",
-    "streamUrl": "http://stream.v4.radiovictoria.pl:8176/",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/452/radio-victoria-poland.1bca40e0.png",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl12",
-    "name": "Goa Channel One",
-    "streamUrl": "https://goa-channel-one.stream.laut.fm/goa-channel-one",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/916/goa-channel-one.91428256.png",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl13",
-    "name": "RMF Niezapomniane Melodie",
-    "streamUrl": "https://rs203-krk.rmfstream.pl/NIEZAPOMNIANEMELODIEF",
+    "id": "se01",
+    "name": "Guldkanalen 70-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk70tal96",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl14",
-    "name": "Radio Leliwa",
-    "streamUrl": "https://streaming.g-news.pl:8050/leliwa",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/289/radio-leliwa.31a671b3.png",
+    "id": "se02",
+    "name": "Puls FM Varberg",
+    "streamUrl": "https://pulsfmvbg.radioca.st/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl15",
-    "name": "RMF Francais",
-    "streamUrl": "https://rs202-krk.rmfstream.pl/FRANCAISF",
+    "id": "se03",
+    "name": "RIX FM",
+    "streamUrl": "http://fm01-ice.stream.khz.se/fm01_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se04",
+    "name": "Radio Krokom",
+    "streamUrl": "https://www.radiokrokom.se/Webradio/webbradio_mediaspelare.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se05",
+    "name": "Pulsefm.se",
+    "streamUrl": "http://quasar.shoutca.st:8092/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se06",
+    "name": "NRJ Sweden",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se07",
+    "name": "All Radio",
+    "streamUrl": "https://s5.radio.co/s0072b90d9/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se08",
+    "name": "Dj Lobo Radio",
+    "streamUrl": "http://streaming.xtservers.com:8000",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se09",
+    "name": "Sveriges Radio P4 Stockholm",
+    "streamUrl": "https://edge2.sr.se/p4sth-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se10",
+    "name": "Radio Gbg Folk",
+    "streamUrl": "http://studio.isasecret.com:8010/",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl16",
-    "name": "InterStacja Eurodance",
-    "streamUrl": "http://4stream.pl:18180/stream.nsv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/689/interstacja.19b98ff4.png",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl17",
-    "name": "Radio Gra",
-    "streamUrl": "https://app.rmfon.pl/n/radiogra.pls",
+    "id": "se11",
+    "name": "Bandit Metal",
+    "streamUrl": "http://wr03-ice.stream.khz.se/wr03_mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
+    "genre": "genre_rock",
+    "country": "country_sweden"
   },
   {
-    "id": "pl18",
-    "name": "SuperNova Trzebnica",
-    "streamUrl": "https://ic1.smcdn.pl/1510-1.aac",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/gFOAS2NYAdSAFwYZcarmuIBPfYik0g4KvN9Qwya46nE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWU3NTI2ZjgtMGQxOC00OWEyLWJmMGEtODg3YzNiNDA3YjFiL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
+    "id": "se12",
+    "name": "Radio Topp 40 Sverige",
+    "streamUrl": "https://live-bauersehls.sharp-stream.com/topp40_aac/playlist.m3u8",
+    "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl19",
-    "name": "Radio FAMA",
-    "streamUrl": "http://stream2.nadaje.com:8076/stream",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/286/radio-fama.11ca49aa.png",
-    "genre": "genre_pop",
-    "country": "country_poland"
+    "id": "se13",
+    "name": "Pop & Rock",
+    "streamUrl": "http://62.101.46.15:8000/poporock",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_sweden"
   },
   {
-    "id": "pl20",
-    "name": "Radio Centrum 11",
-    "streamUrl": "http://51.255.8.139:11120/stream",
+    "id": "se14",
+    "name": "Sveriges Radio P4 Skaraborg",
+    "streamUrl": "https://edge1.sr.se/p4skbg-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se15",
+    "name": "Sveriges Radio P4 Väst",
+    "streamUrl": "https://edge1.sr.se/p4vast-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se16",
+    "name": "Trucknet Radio",
+    "streamUrl": "http://stream.ueteknik.se:8000/trucknetradio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl21",
-    "name": "Radio Anioł Beskidów",
-    "streamUrl": "http://88.135.172.249:22000/stream/1/",
+    "id": "se17",
+    "name": "Lugna Favoriter",
+    "streamUrl": "http://fm03-ice.stream.khz.se/fm03_mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
+    "genre": "genre_relax",
+    "country": "country_sweden"
   },
   {
-    "id": "pl22",
-    "name": "SuperNova Classic",
-    "streamUrl": "https://ic1.smcdn.pl/6040-1.aac",
+    "id": "se18",
+    "name": "Sveriges Radio P4 Malmöhus",
+    "streamUrl": "https://edge2.sr.se/p4malm-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se19",
+    "name": "Svenska Favoriter",
+    "streamUrl": "http://wr13-ice.stream.khz.se/wr13_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se20",
+    "name": "Sveriges Radio SR Extra13",
+    "streamUrl": "https://http-live.sr.se/srextra13-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se21",
+    "name": "Svensk Pop",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/svenskpop_se_aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se22",
+    "name": "Country Rocks Radio",
+    "streamUrl": "https://webradio.dbmedia.se/streams/crr96.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se23",
+    "name": "Dansbandsfavoriter",
+    "streamUrl": "http://wr15-ice.stream.khz.se/wr15_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se24",
+    "name": "RIX FM Festival",
+    "streamUrl": "http://wr17-ice.stream.khz.se/wr17_mp3?platform=web?playerid=mtgradio-mytuner",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se25",
+    "name": "Vinyl FM 107",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se26",
+    "name": "Mix Megapol",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se27",
+    "name": "Sveriges Radio P2",
+    "streamUrl": "https://edge1.sr.se/p2-mp3-96",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl23",
-    "name": "RMF 60s",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/60SF",
+    "id": "se28",
+    "name": "Power Hit Radio",
+    "streamUrl": "http://fm04-ice.stream.khz.se/fm04_mp3?playerid=mtgradio-mytuner",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se29",
+    "name": "Radio Gävle 102.7",
+    "streamUrl": "http://kepler.shoutca.st:8271/stream1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se30",
+    "name": "Lugna Klassiker",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl24",
-    "name": "RMF Classic",
-    "streamUrl": "https://rs101-krk.rmfstream.pl/RMFCLASSIC48",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl25",
-    "name": "Radio OKO",
-    "streamUrl": "http://stream2.nadaje.com:8094/listen.pls",
+    "id": "se31",
+    "name": "Bandit Ballads",
+    "streamUrl": "http://wr21-ice.stream.khz.se/wr21_mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl26",
-    "name": "SuperNova Szczecin",
-    "streamUrl": "https://ic2.smcdn.pl/1260-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl27",
-    "name": "Radio Kielce 101.4",
-    "streamUrl": "https://streaming.g-news.pl:8030/rk2",
+    "id": "se32",
+    "name": "Hallsta-Sura Närradio",
+    "streamUrl": "http://s16.myradiostream.com:6630/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl28",
-    "name": "HellsFM",
-    "streamUrl": "https://s3.slotex.pl:7426/stream/1/",
+    "id": "se33",
+    "name": "Lite FM",
+    "streamUrl": "https://streaming.943.se/litefm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl29",
-    "name": "Radio Vanessa FM",
-    "streamUrl": "http://s1.slotex.pl:7358/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl30",
-    "name": "Polski.FM",
-    "streamUrl": "http://usa8.fastcast4u.com:5248/",
+    "id": "se34",
+    "name": "Country Classics",
+    "streamUrl": "http://wr14-ice.stream.khz.se/wr14_mp3?playerid=mtgradio-mytuner",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl31",
-    "name": "Radio Hit FM",
-    "streamUrl": "http://91.232.4.33:7034/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl32",
-    "name": "Katolickie Radio Podlasie",
-    "streamUrl": "http://s1.slotex.pl:7038/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl33",
-    "name": "Toksyna FM Elektronica",
-    "streamUrl": "http://s01.toksyna.fm:8010/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl34",
-    "name": "Metal Live Radio",
-    "streamUrl": "http://51.255.8.139:8738/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl35",
-    "name": "Radio Szczecin",
-    "streamUrl": "https://radioszczecin.pl/prs.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl36",
-    "name": "VOX Best Lista",
-    "streamUrl": "https://ic1.smcdn.pl/6100-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl37",
-    "name": "InterStacja Club",
-    "streamUrl": "http://4stream.pl:18268/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl38",
-    "name": "Radio Chrześcijanin Instrumentalna",
-    "streamUrl": "http://s1.slotex.pl:7172",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl39",
-    "name": "Radio Różaniec",
-    "streamUrl": "http://cp.eu8.fastcast4u.com:5696/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl40",
-    "name": "Radio Mbox Disco Polo",
-    "streamUrl": "http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl41",
-    "name": "Radio Forte",
-    "streamUrl": "http://s1.slotex.pl:7856/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl42",
-    "name": "RMF Hip Hop",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/HIPHOPF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl43",
-    "name": "Radio Zamek Nadaje",
-    "streamUrl": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl44",
-    "name": "ESKA G20",
-    "streamUrl": "https://ic2.smcdn.pl/6130-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl45",
-    "name": "Radio Chrześcijanin Biblia",
-    "streamUrl": "http://s1.slotex.pl:7116/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl46",
-    "name": "Antyradio",
-    "streamUrl": "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl47",
-    "name": "Radio Ostrowiec",
-    "streamUrl": "http://s1.slotex.pl:7050/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl48",
-    "name": "RMF Piosenka Filmowa",
-    "streamUrl": "https://rs201-krk.rmfstream.pl/PIOSENKAFILMOWAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl49",
-    "name": "Hitradio",
-    "streamUrl": "http://51.255.8.139:9090/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl50",
-    "name": "Polskie Radio Rzeszów",
-    "streamUrl": "https://streaming.g-news.pl:8040/rzeszow",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl51",
-    "name": "Toksyna FM",
-    "streamUrl": "http://www.toksyna.fm/toksyna.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl52",
-    "name": "SuperNova Opole",
-    "streamUrl": "https://ic1.smcdn.pl/1120-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl53",
-    "name": "Radio Kaszebe",
-    "streamUrl": "http://stream2.nadaje.com:8060/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl54",
-    "name": "247PolkaHeaven",
-    "streamUrl": "http://s7.nexuscast.com:8046/",
+    "id": "se35",
+    "name": "Sveriges Radio P4 Plus",
+    "streamUrl": "https://edge2.sr.se/p4plus-mp3-96",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl55",
-    "name": "RMF 2000",
-    "streamUrl": "https://rs203-krk.rmfstream.pl/2000F",
+    "id": "se36",
+    "name": "Pirate Rock",
+    "streamUrl": "https://stream.piraterock.se:8100/webradio",
     "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
+    "genre": "genre_rock",
+    "country": "country_sweden"
   },
   {
-    "id": "pl56",
-    "name": "ZET Chilli",
-    "streamUrl": "https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx",
+    "id": "se37",
+    "name": "Radio Hope",
+    "streamUrl": "https://s2.radio.co/sfbf5f5b85/listen",
     "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
+    "genre": "genre_religious",
+    "country": "country_sweden"
   },
   {
-    "id": "pl57",
-    "name": "Gdynia Radio",
-    "streamUrl": "https://ssl-1.radiohost.pl:8064/stream",
+    "id": "se38",
+    "name": "Star 60",
+    "streamUrl": "http://wr09-ice.stream.khz.se/wr09_mp3?playerid=mtgradio-mytuner",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
+    "genre": "genre_retro",
+    "country": "country_sweden"
   },
   {
-    "id": "pl58",
-    "name": "Radio Manhattan",
-    "streamUrl": "http://s1.slotex.pl:7780/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl59",
-    "name": "Toksyna FM PsyTrance",
-    "streamUrl": "http://s01.toksyna.fm:8030/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl60",
-    "name": "Radio Bercik Silesia",
-    "streamUrl": "http://s3.slotex.pl:7770/listen.xtl?sid=1",
+    "id": "se39",
+    "name": "Radio pE20",
+    "streamUrl": "https://streaming.943.se/radiope20",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl61",
-    "name": "RMF Muzyka Klasyczna",
-    "streamUrl": "http://31.192.216.7:8000/rmf_muzyka_klasyczna",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl62",
-    "name": "RMF Hity Wakacji",
-    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/TOP3F",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl63",
-    "name": "RMF Top 30 Disco Polo",
-    "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/TOP5RNBF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl64",
-    "name": "Polskie Radio Zachód 103FM",
-    "streamUrl": "http://stream2.nadaje.com:10103/test",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl65",
-    "name": "Radio Widzew",
-    "streamUrl": "https://widzewfm.ovh/radio/8000/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl66",
-    "name": "SuperNova Łódź",
-    "streamUrl": "https://ic2.smcdn.pl/1100-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl67",
-    "name": "Flash FM",
-    "streamUrl": "http://91.201.235.225:8017/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl68",
-    "name": "Toksyna FM Classic",
-    "streamUrl": "http://s01.toksyna.fm:8060/",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl69",
-    "name": "Radio Arkadia",
-    "streamUrl": "https://s1.slotex.pl:7238/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl70",
-    "name": "Radio TPI",
-    "streamUrl": "https://s1.slotex.pl:7632/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl71",
-    "name": "RMF Polski Hip Hop",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/ZIOMF",
+    "id": "se40",
+    "name": "Power Street",
+    "streamUrl": "http://wr07-ice.stream.khz.se/wr07_mp3?playerid=mtgradio-mytuner",
     "imageUrl": "__________________________",
     "genre": "genre_hiphop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl72",
-    "name": "Radio Romans",
-    "streamUrl": "https://widget.radiohost.pl/tunein/Radio%20Romans/544-4786a.pls",
+    "id": "se41",
+    "name": "Indie 101",
+    "streamUrl": "http://wr05-ice.stream.khz.se/wr05_mp3?playerid=mtgradio-mytuner",
     "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
+    "genre": "genre_rock",
+    "country": "country_sweden"
   },
   {
-    "id": "pl73",
-    "name": "Radio Wrzesnia",
-    "streamUrl": "http://s1.slotex.pl:7446/",
+    "id": "se42",
+    "name": "Star 90",
+    "streamUrl": "http://wr12-ice.stream.khz.se/wr12_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se43",
+    "name": "Sveriges Radio P3",
+    "streamUrl": "https://edge2.sr.se/p3-mp3-96",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl74",
-    "name": "Radio Poland",
-    "streamUrl": "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8",
+    "id": "se44",
+    "name": "Radio Gagnef",
+    "streamUrl": "http://stream.ueteknik.se:8000/gagnef",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se45",
+    "name": "Sabaton On Air",
+    "streamUrl": "http://wr20-ice.stream.khz.se/wr20_mp3?platform=web",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se46",
+    "name": "Radio Siljan",
+    "streamUrl": "http://stream.radiosiljan.com:8000/siljan",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se47",
+    "name": "Star 70",
+    "streamUrl": "http://wr10-ice.stream.khz.se/wr10_mp3?playerid=mtgradio-mytuner",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se48",
+    "name": "Bandit Classic Rock",
+    "streamUrl": "http://wr11-ice.stream.khz.se/wr11_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se49",
+    "name": "Guldkanalen 90-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk90tal96",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se50",
+    "name": "Sveriges Radio P4 Västerbotten",
+    "streamUrl": "https://edge1.sr.se/p4vbtn-mp3-96",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl75",
-    "name": "SuperNova Wrocław",
-    "streamUrl": "https://ic2.smcdn.pl/1180-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl76",
-    "name": "Radio 357",
-    "streamUrl": "https://n18a-eu.rcs.revma.com/ye5kghkgcm0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl77",
-    "name": "InterStacja Oldies",
-    "streamUrl": "http://4stream.pl:18290/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl78",
-    "name": "Radio Slupsk",
-    "streamUrl": "http://91.232.4.33:8240/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl79",
-    "name": "DiscoParty Club Mix",
-    "streamUrl": "https://s3.slotex.pl:7354/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl80",
-    "name": "EskaROCK Teraz Polski Rock",
-    "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6090-1.aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl81",
-    "name": "RMF Fitness",
-    "streamUrl": "https://rs203-krk.rmfstream.pl/FITNESSF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl82",
-    "name": "Sizeer FM",
-    "streamUrl": "https://rs103-krk.rmfstream.pl/SIZEERFM",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl83",
-    "name": "RMF FM",
-    "streamUrl": "http://31.192.216.8:8000/rmf_fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl84",
-    "name": "Radio Zak",
-    "streamUrl": "http://www.radio.pionier.net.pl/stream.pls?radio=radiozak",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl85",
-    "name": "Norda FM",
-    "streamUrl": "http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl86",
-    "name": "Radio Express",
-    "streamUrl": "https://n09a-eu.rcs.revma.com/yx6cub73kwzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl87",
-    "name": "Radio 90",
-    "streamUrl": "https://www.radio90.pl/files/streams/radio90.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl88",
-    "name": "SuperNova Disco Polo",
-    "streamUrl": "https://ic2.smcdn.pl/6110-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl89",
-    "name": "SuperNova Rzeszów",
-    "streamUrl": "https://ic2.smcdn.pl/1240-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl90",
-    "name": "RMF Polskie Przeboje",
-    "streamUrl": "http://195.150.20.242:8000/rmf_polskie_przeboje",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl91",
-    "name": "Radio w Nienagannym Stylu",
-    "streamUrl": "http://51.255.8.139:8810/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl92",
-    "name": "RMF Grunge",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/GRUNGEF",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl93",
-    "name": "SuperNova Kraków",
-    "streamUrl": "https://ic1.smcdn.pl/1070-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl94",
-    "name": "SuperNova Nowy Sącz",
-    "streamUrl": "https://ic2.smcdn.pl/1290-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl95",
-    "name": "RMF Top 30 Dance",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/TOP5DANCEF",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl96",
-    "name": "RMF W Pracy",
-    "streamUrl": "http://31.192.216.10/WPRACY",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl97",
-    "name": "Radio Elka Leszno",
-    "streamUrl": "https://rs103-krk.rmfstream.pl/AUDIOXIELKA",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl98",
-    "name": "Radio FortyPlus",
-    "streamUrl": "https://s1.slotex.pl:7178/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl99",
-    "name": "Radio MIRAGE",
-    "streamUrl": "https://ssl-1.radiohost.pl:9569/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl100",
-    "name": "Radio DHT",
-    "streamUrl": "https://radiodht.com/stream_main/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl101",
-    "name": "Radio Sekret",
-    "streamUrl": "https://s1.slotex.pl:7556/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl102",
-    "name": "RMF Disco Polo",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/DISCOPOLOVTF",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl103",
-    "name": "RMF Polska Prywatka",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/POLSKAPRYWATKAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl104",
-    "name": "RMF Fitness Rock",
-    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/FITNESSROCKF",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl105",
-    "name": "RMF Maxxx Hop Bec",
-    "streamUrl": "https://rs101-krk.rmfstream.pl/HOPBECF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl106",
-    "name": "InterStacja Najnowsze Hity",
-    "streamUrl": "http://4stream.pl:18410/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl107",
-    "name": "ESKA Rap20",
-    "streamUrl": "https://ic1.smcdn.pl/6190-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl108",
-    "name": "Radio Kujawy",
-    "streamUrl": "http://radio.kujawy.info:9940/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl109",
-    "name": "StrefaDobrejMuzy Radio SDM",
-    "streamUrl": "http://4stream.pl:18226/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl110",
-    "name": "Radio Nowy Świat",
-    "streamUrl": "https://stream.rcs.revma.com/ypqt40u0x1zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl111",
-    "name": "Radio Naklo",
-    "streamUrl": "https://sluchaj.107i5.fm/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl112",
-    "name": "RMF Top 30 PL",
-    "streamUrl": "https://rs101-krk.rmfstream.pl/TOP5PLF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl113",
-    "name": "Banita Maxx Radio",
-    "streamUrl": "http://91.232.4.33:9454/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl114",
-    "name": "Radio Gra Wroclaw",
-    "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/RADIOGRAWROC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl115",
-    "name": "SuperNova Party",
-    "streamUrl": "https://ic1.smcdn.pl/6160-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl116",
-    "name": "Radio Anime 24",
-    "streamUrl": "http://91.232.4.33:7028/",
+    "id": "se51",
+    "name": "Sveriges Radio P4 Kalmar",
+    "streamUrl": "https://edge2.sr.se/p4kalm-mp3-96",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl117",
-    "name": "Radio Forever 80s",
-    "streamUrl": "http://207.180.234.221:8761/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl118",
-    "name": "Radio MRS",
-    "streamUrl": "https://s1.slotex.pl:7494/stream/1/?sid=1",
+    "id": "se52",
+    "name": "All Radio Sommar",
+    "streamUrl": "https://s5.radio.co/s0072b90d9/low",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl119",
-    "name": "JAZZKULTURA",
-    "streamUrl": "https://stream.radio.co/s1136b59f3/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl120",
-    "name": "4YouFM",
-    "streamUrl": "https://s3.slotex.pl:7078/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl121",
-    "name": "Radio Safira",
-    "streamUrl": "https://stream12.hosterion.pl/stream/safira",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl122",
-    "name": "Pallotti.FM",
-    "streamUrl": "http://s1.slotex.pl:7074/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl123",
-    "name": "RM80",
-    "streamUrl": "http://s0.radiohost.pl:9011/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl124",
-    "name": "Radio Paranormalium",
-    "streamUrl": "http://paranormalium.waw.pl/radio/8000/5",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl125",
-    "name": "Radio Zawiercie",
-    "streamUrl": "http://51.255.8.139:9078/stream?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl126",
-    "name": "RMF Pobudka",
-    "streamUrl": "https://rs202-krk.rmfstream.pl/POBUDKAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl127",
-    "name": "30 lat RMF FM",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/20LATF",
+    "id": "se53",
+    "name": "HitNet",
+    "streamUrl": "https://hitnet.live/",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl128",
-    "name": "Kanał House",
-    "streamUrl": "https://s2.radioparty.pl:8015/house",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl129",
-    "name": "VOX HIT",
-    "streamUrl": "https://ic1.smcdn.pl/6020-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl130",
-    "name": "Radio Disco Polo Non Stop FM",
-    "streamUrl": "https://s3.slotex.pl:7496/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl131",
-    "name": "Radio Prestige",
-    "streamUrl": "https://s3.slotex.pl:7524/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl132",
-    "name": "Goryl Radio",
-    "streamUrl": "https://listen.radioking.com/radio/1743/stream/125",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl133",
-    "name": "Radio Koszalin",
-    "streamUrl": "http://91.232.4.33:9680/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl134",
-    "name": "PAWAROTA Radio",
-    "streamUrl": "https://pawarota.out.airtime.pro/pawarota_a",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl135",
-    "name": "Radio Spin",
-    "streamUrl": "http://s01.radiospin.pl:8080/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl136",
-    "name": "Radio The Best Euro Dance",
-    "streamUrl": "https://s3.slotex.pl:7308/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl137",
-    "name": "Akademickie Radio LUZ",
-    "streamUrl": "http://radioluz.pwr.wroc.pl/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl138",
-    "name": "VOX Disco 90",
-    "streamUrl": "https://ic2.smcdn.pl/6170-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl139",
-    "name": "VOX Radom",
-    "streamUrl": "https://ic2.smcdn.pl/3210-2.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl140",
-    "name": "Radio Mbox Gold Hits",
-    "streamUrl": "https://panel.radiombox.pl/radio/8040/GoldHits128kbps",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl141",
-    "name": "Radio Doxa FM",
-    "streamUrl": "http://81.210.92.213:8000/play.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl142",
-    "name": "Radio FTB Rap Music",
-    "streamUrl": "http://play.radioftb.net:8028/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl143",
-    "name": "Punkowe Radio Underground",
-    "streamUrl": "https://s1.slotex.pl:7604/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl144",
-    "name": "SuperNova Jelenia Góra",
-    "streamUrl": "https://ic1.smcdn.pl/1480-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl145",
-    "name": "VOX Disco Party",
-    "streamUrl": "https://ic2.smcdn.pl/6180-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl146",
-    "name": "Polskie Radio Kierowców",
-    "streamUrl": "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl147",
-    "name": "Radio EMKA",
-    "streamUrl": "https://ec1.yesstreaming.net:1145/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl148",
-    "name": "Radio Fiat",
-    "streamUrl": "http://stream2.nadaje.com:8056/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl149",
-    "name": "DiscoPlaneta",
-    "streamUrl": "https://discoplaneta.eu/pobieranie/discoplaneta.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl150",
-    "name": "RMF Top 30 Pop",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/TOP5POPF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl151",
-    "name": "InterStacja Disco Polo",
-    "streamUrl": "http://4stream.pl:18274/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl152",
-    "name": "RadioFlirt.pl",
-    "streamUrl": "https://s3.slotex.pl:7684/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl153",
-    "name": "RMF Wakacyjne TOP 100",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/TOP4F",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl154",
-    "name": "Radio Glos",
-    "streamUrl": "http://87.204.92.180:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl155",
-    "name": "HiphopStacja",
-    "streamUrl": "http://s3.slotex.pl:7150/stream1",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl156",
-    "name": "ESKA G100",
-    "streamUrl": "https://ic2.smcdn.pl/6120-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl157",
-    "name": "Radio Italo4you",
-    "streamUrl": "http://91.232.4.20:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl158",
-    "name": "SuperNova Toruń",
-    "streamUrl": "https://ic2.smcdn.pl/1150-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl159",
-    "name": "Radio Jura",
-    "streamUrl": "https://www.radiojura.pl/pliki/streams/jura.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl160",
-    "name": "Radio Cyganeczka",
-    "streamUrl": "http://s1.slotex.pl:7474/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl161",
-    "name": "InterStacja",
-    "streamUrl": "http://4stream.pl:18322/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl162",
-    "name": "Polskie Radio Larmo",
-    "streamUrl": "http://larmo.stream.laut.fm/larmo",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl163",
-    "name": "Radio Świnoujście",
-    "streamUrl": "http://185.243.52.116:8010/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl164",
-    "name": "SuperNova Sanah",
-    "streamUrl": "https://ic2.smcdn.pl/6220-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl165",
-    "name": "RMF Bravo",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/BRAVOF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl166",
-    "name": "RMF Disco",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/DISCOF",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl167",
-    "name": "SuperNova Kielce",
-    "streamUrl": "https://ic1.smcdn.pl/1050-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl168",
-    "name": "RMF Studencka Impreza",
-    "streamUrl": "https://rs202-krk.rmfstream.pl/STUDENCKAIMPREZAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl169",
-    "name": "RMF Kolędy",
-    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/KOLEDYF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl170",
-    "name": "Radio VIA",
-    "streamUrl": "http://62.133.128.18:8040/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl171",
-    "name": "RMF Smooth Jazz",
-    "streamUrl": "http://195.150.20.8/SJAZZ",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl172",
-    "name": "ESKA Impreska",
-    "streamUrl": "https://ic2.smcdn.pl/6030-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl173",
-    "name": "Radio Orbit",
-    "streamUrl": "http://s1.slotex.pl:7390/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl174",
-    "name": "RMF 10s",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/2010F",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl175",
-    "name": "SuperNova Rock",
-    "streamUrl": "https://ic2.smcdn.pl/6090-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl176",
-    "name": "RMF 80s Disco",
-    "streamUrl": "https://rs203-krk.rmfstream.pl/80SDISCOF",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl177",
-    "name": "Toksyna FM DJ Channel",
-    "streamUrl": "http://s01.toksyna.fm:8040/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl178",
-    "name": "Radio Slask",
-    "streamUrl": "http://www.radioslask.pl/webplayer/play.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl179",
-    "name": "RMF Beatle Mania",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/BEATLEMANIAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl180",
-    "name": "RMF FRESH 2021",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/TOPF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl181",
-    "name": "Radio Niepokalanów",
-    "streamUrl": "http://88.199.169.10:8004/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl182",
-    "name": "Radio Uniwersytet",
-    "streamUrl": "https://www.radiouniwersytet.pl/player/player.php?playlista=m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl183",
-    "name": "RMF Relaks",
-    "streamUrl": "https://rs101-krk.rmfstream.pl/RELAKSF",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl184",
-    "name": "Radio Elka Głogów",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/AUDIOXIELKAGLOGOW",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl185",
-    "name": "RMF 70s Disco",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/70SDISCOF",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl186",
-    "name": "EskaROCK Warszawa",
-    "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/5380-1.aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl187",
-    "name": "EskaROCK Rock Ballads",
-    "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6010-1.aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl188",
-    "name": "RMF Styl",
-    "streamUrl": "https://rs101-krk.rmfstream.pl/STYLF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl189",
-    "name": "Radio Muzyczna Fala",
-    "streamUrl": "https://stream10.hosterion.pl/cp/links.php?p=8080&m=pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl190",
-    "name": "Disco Radio",
-    "streamUrl": "https://stream.rcs.revma.com/cvswvmyewzzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl191",
-    "name": "RMF24",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/RMF24",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl192",
-    "name": "Radio DHT Drugi Kanał",
-    "streamUrl": "https://radiodht.com/stream_second/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl193",
-    "name": "Radio Kultura",
-    "streamUrl": "https://ssl-1.radiohost.pl:9772/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl194",
-    "name": "DobraStacja Disco Polo",
-    "streamUrl": "https://s3.slotex.pl/shoutcast/7344/listen.pls?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl195",
-    "name": "Lokalne Radio Ryn",
-    "streamUrl": "http://cmr-hosting.com:8050/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl196",
-    "name": "Radio Silesia",
-    "streamUrl": "http://s1.slotex.pl:7926/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl197",
-    "name": "Toksyna FM New Romantic",
-    "streamUrl": "http://s01.toksyna.fm:8020/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl198",
-    "name": "RADIO NIESIOŁOWICE",
-    "streamUrl": "https://s3.slotex.pl:7156/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl199",
-    "name": "Katolickie Radio Zamość",
-    "streamUrl": "https://stream.rcs.revma.com/0n8y7mxcay8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl200",
-    "name": "RMF Alternatywa",
-    "streamUrl": "http://217.74.72.11:8000/rmf_alternatywa",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl201",
-    "name": "SuperNova Konin",
-    "streamUrl": "https://ic1.smcdn.pl/1530-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl202",
-    "name": "RadioWoM",
-    "streamUrl": "http://gra.radiowom.pl:9120/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl203",
-    "name": "Povi",
-    "streamUrl": "http://nebula.shoutca.st:8616/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl204",
-    "name": "Eurostacja.pl",
-    "streamUrl": "https://s7.radiohost.pl:2199/tunein/martiuhw.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl205",
-    "name": "CYBERStacja",
-    "streamUrl": "http://sc.cyberstacja.pl:8000/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl206",
-    "name": "Radio Maxx UK",
-    "streamUrl": "http://s1.slotex.pl:7028/listen.pls?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl207",
-    "name": "Radio FTB Disco Polo",
-    "streamUrl": "http://play.radioftb.net:8022/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl208",
-    "name": "VOX Gorzów Wlkp",
-    "streamUrl": "https://ic2.smcdn.pl/3040-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl209",
-    "name": "Największe Polskie Przeboje",
-    "streamUrl": "https://rs202-krk.rmfstream.pl/NPPRMFONF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl210",
-    "name": "RMF Chopin",
-    "streamUrl": "http://195.150.20.242:8000/rmf_chopin",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl211",
-    "name": "RMF 50s",
-    "streamUrl": "https://rs6-krk2-cyfronet.rmfstream.pl/50S",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl212",
-    "name": "EskaROCK Dobrze Rockuje",
-    "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6060-1.aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl213",
-    "name": "Disco-Mix",
-    "streamUrl": "https://radiodd.cloud/radio/8000/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl214",
-    "name": "RMF Piosenka Literacka",
-    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/PIOSENKALITERACKAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl215",
-    "name": "Radio SOK Sulecin",
-    "streamUrl": "https://s3.slotex.pl:7230/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl216",
-    "name": "Kiss The Beat",
-    "streamUrl": "https://fm.tuba.pl/stream.pls?radio=6&mp3=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl217",
-    "name": "Radio Biedrzychowice",
-    "streamUrl": "http://195.164.158.230:9070/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl218",
-    "name": "RMF Best of Krzysztof Krawczyk",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/TOP5F",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl219",
-    "name": "Radio ElitaCafe",
-    "streamUrl": "http://91.232.4.33:7166/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl220",
-    "name": "103 RADIO",
-    "streamUrl": "https://s2.ssl-stream.com/radio/8230/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl221",
-    "name": "Toksyna FM Post Punk",
-    "streamUrl": "http://s01.toksyna.fm:8070/",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl222",
-    "name": "Radio Pryzmat",
-    "streamUrl": "http://51.255.8.139:8822/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl223",
-    "name": "Radio Chrystusa Króla",
-    "streamUrl": "http://4stream.pl:18044/?1458299298407.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl224",
-    "name": "Radio Nuta",
-    "streamUrl": "https://stream.rcs.revma.com/0004tehdxzzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl225",
-    "name": "Radio FTB Club",
-    "streamUrl": "http://play.radioftb.net:8000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl226",
-    "name": "Cymru FM",
-    "streamUrl": "https://streamer.radio.co/s6832865c1/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl227",
-    "name": "RMF Top Disco Polo",
-    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/TOP2F",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl228",
-    "name": "ESKA Do Pracy",
-    "streamUrl": "https://ic1.smcdn.pl/6140-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl229",
-    "name": "Toksyna FM Chillout",
-    "streamUrl": "http://s01.toksyna.fm:8050/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl230",
-    "name": "VOX Najlepszy Koncert Świata",
-    "streamUrl": "https://ic2.smcdn.pl/6080-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl231",
-    "name": "RMF Trend Sounds",
-    "streamUrl": "http://217.74.72.11:8000/rmf_club",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl232",
-    "name": "Radio Mbox Club",
-    "streamUrl": "https://panel.radiombox.pl/radio/8070/Club128kbps",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl233",
-    "name": "KMY.pl",
-    "streamUrl": "https://kmy.pl/sluchaj.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl234",
-    "name": "RMF Celtic",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/CELTICF",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl235",
-    "name": "RMF 90s Dance",
-    "streamUrl": "http://31.192.216.8/90SDANCE",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl236",
-    "name": "RMF GameMusic",
-    "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/GAMEMUSICF",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl237",
-    "name": "RMF Michael Jackson",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/MICHALEJACKSONF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl238",
-    "name": "Radio MBox",
-    "streamUrl": "http://panel.radiombox.pl/radio/8000/RadioMbox128",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl239",
-    "name": "RMF Święta",
-    "streamUrl": "http://195.150.20.7:8000/rmf_swieta",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl240",
-    "name": "RMF Latino",
-    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/LATINOF",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl241",
-    "name": "DiscoParty Disco Impreza",
-    "streamUrl": "https://s3.slotex.pl:7046/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl242",
-    "name": "Radiospacja",
-    "streamUrl": "http://radiospacja.pl/listen.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl243",
-    "name": "RMF R&B",
-    "streamUrl": "http://217.74.72.11:8000/rmf_rnb",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl244",
-    "name": "Radio FARA",
-    "streamUrl": "http://62.133.128.22:8000/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl245",
-    "name": "Best of RMFON",
-    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/BESTOFRMFONF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl246",
-    "name": "Freechannel Chillout",
-    "streamUrl": "https://ssl-1.radiohost.pl:7199/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl247",
-    "name": "Radio Paweł MIAZGA",
-    "streamUrl": "https://s3.slotex.pl:7024/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl248",
-    "name": "RMF Top 30 Święta",
-    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/TOP30SWIETAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl249",
-    "name": "Radio ONY 93.1 FM",
-    "streamUrl": "https://stream.rcs.revma.com/yxv344rra2zuv.m4a",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl250",
-    "name": "Radio GRA 95.1 Wrocław",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/RADIOGRAWROC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl251",
-    "name": "SuperNova Super 13",
-    "streamUrl": "https://ic2.smcdn.pl/6230-1.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl252",
-    "name": "Radio Bielsko 106.7",
-    "streamUrl": "https://n09a-eu.rcs.revma.com/062uq3z3kwzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl253",
-    "name": "Radio Gniezno 104.3",
-    "streamUrl": "http://stream3.nadaje.com:8012",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl254",
-    "name": "Radio Jasna Góra 100.6",
-    "streamUrl": "http://online.radiojasnagora.pl:8000/listen.pls?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl255",
-    "name": "Radio Party",
-    "streamUrl": "https://s2.radioparty.pl:8015/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl256",
-    "name": "DiscoParty Disco Polo",
-    "streamUrl": "https://s1.slotex.pl:7432/stream/1/?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl257",
-    "name": "RMF Szanty",
-    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/SZANTYF",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl258",
-    "name": "RMF Rock Progresywny",
-    "streamUrl": "http://195.150.20.242:8000/rmf_rock_progresywny",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl259",
-    "name": "RMF 3",
-    "streamUrl": "http://195.150.20.242:8000/rmf_3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl260",
-    "name": "RMF 2 Pop",
-    "streamUrl": "http://195.150.20.242:8000/rmf_2",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl261",
-    "name": "RMF Queen",
-    "streamUrl": "https://rs203-krk.rmfstream.pl/QUEENF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl262",
-    "name": "RMF Przebój Roku",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/PRZEBOJROKUF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl263",
-    "name": "RMF Cuba",
-    "streamUrl": "http://217.74.72.11:8000/rmf_cuba",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl264",
-    "name": "RMF Party",
-    "streamUrl": "https://rs201-krk.rmfstream.pl/PARTYF",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl265",
-    "name": "RMF Muzyka Filmowa",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/MUZYKAFILMOWAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl266",
-    "name": "RMF Hot New",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/HOTNEWF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl267",
-    "name": "RMF Dance",
-    "streamUrl": "https://rs102-krk-cyfronet.rmfstream.pl/DANCEF",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl268",
-    "name": "RMF Blues",
-    "streamUrl": "https://rs201-krk.rmfstream.pl/BLUESF",
+    "id": "se54",
+    "name": "SOULFOOD",
+    "streamUrl": "https://soulfood.stream.laut.fm/soulfood",
     "imageUrl": "__________________________",
     "genre": "genre_blues",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl269",
-    "name": "RMF Baby Dla Dzieci",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/BABYF",
+    "id": "se55",
+    "name": "Sveriges Radio SR Extra14",
+    "streamUrl": "https://http-live.sr.se/srextra14-mp3-128",
     "imageUrl": "__________________________",
-    "genre": "genre_kids",
-    "country": "country_poland"
+    "genre": "genre_info",
+    "country": "country_sweden"
   },
   {
-    "id": "pl270",
-    "name": "RMF 90s",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/90SF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl271",
-    "name": "RMF Rock",
-    "streamUrl": "https://rs203-krk.rmfstream.pl/ROCKF",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl272",
-    "name": "RMF PRL",
-    "streamUrl": "https://rs101-krk.rmfstream.pl/PRLF",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl273",
-    "name": "RMF Lady Pank",
-    "streamUrl": "https://rs202-krk.rmfstream.pl/LADYPANKF",
+    "id": "se56",
+    "name": "Radio Söderhamn",
+    "streamUrl": "http://80.245.225.101:8000/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl274",
-    "name": "RMF Reggae",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/REGGAEF",
+    "id": "se57",
+    "name": "Sveriges Radio P4 Kristianstad",
+    "streamUrl": "https://edge1.sr.se/p4krist-mp3-96",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_poland"
+    "genre": "genre_info",
+    "country": "country_sweden"
   },
   {
-    "id": "pl275",
-    "name": "RMF Poplista",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/POPLISTAF",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl276",
-    "name": "RMF Polski Rock",
-    "streamUrl": "https://rs201-krk.rmfstream.pl/POLSKIROCKF",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl277",
-    "name": "RMF Hard & Heavy",
-    "streamUrl": "http://31.192.216.7/HARDHEAVY",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl278",
-    "name": "RMF Depeche Mode",
-    "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/DEPECHEMODEF",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl279",
-    "name": "RMF Club",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/CLUBF",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl280",
-    "name": "RMF 80s",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/80SF",
+    "id": "se58",
+    "name": "Guldkanalen 80-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk80tal96",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl281",
-    "name": "RMF 5 Łagodne Przeboje",
-    "streamUrl": "http://217.74.72.11/RMF5",
+    "id": "se59",
+    "name": "Oldies FM",
+    "streamUrl": "https://stream3.themediasite.co.uk:8030/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
+    "genre": "genre_retro",
+    "country": "country_sweden"
   },
   {
-    "id": "pl282",
-    "name": "RMF 4 Dance & RNB",
-    "streamUrl": "http://217.74.72.11/RMF4",
+    "id": "se60",
+    "name": "Radio Gbg Laganini",
+    "streamUrl": "http://studio.isasecret.com:8040/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se61",
+    "name": "STAR FM",
+    "streamUrl": "http://fm05-ice.stream.khz.se/fm05_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se62",
+    "name": "Sveriges Radio P3 Din Gata",
+    "streamUrl": "https://edge2.sr.se/dingata-mp3-96",
     "imageUrl": "__________________________",
     "genre": "genre_hiphop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl283",
-    "name": "RMF Ballady",
-    "streamUrl": "http://217.74.72.11/NOSTALGIA",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl284",
-    "name": "RMF Słoneczne Przeboje",
-    "streamUrl": "http://217.74.72.11:8000/rmf_sloneczne_przeboje",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl285",
-    "name": "RMF Gold",
-    "streamUrl": "http://217.74.72.11:8000/rmf_gold",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl286",
-    "name": "RMF Classic Rock",
-    "streamUrl": "http://217.74.72.11:8000/rmf_classic_rock",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl287",
-    "name": "RMF Chillout",
-    "streamUrl": "http://217.74.72.11:8000/rmf_chillout",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl288",
-    "name": "RMF 70s",
-    "streamUrl": "https://rs203-krk-cyfronet.rmfstream.pl/70SF",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl289",
-    "name": "Radio Kampus 97.1",
-    "streamUrl": "http://193.0.98.66:8002/",
+    "id": "se63",
+    "name": "Radio Haninge Direkt",
+    "streamUrl": "http://213.115.49.175:1157/",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl290",
-    "name": "Radio Mirage Euro Dance",
-    "streamUrl": "http://s0.radiohost.pl:9569/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl291",
-    "name": "Radio RMF FM",
-    "streamUrl": "http://217.74.72.12/rmf_fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl292",
-    "name": "Radio Rekord FM",
-    "streamUrl": "http://stream2.nadaje.com:8108/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl293",
-    "name": "Eska Białystok",
-    "streamUrl": "https://ic2.smcdn.pl/2020-1.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl294",
-    "name": "Radio Alex",
-    "streamUrl": "http://proxima.shoutca.st:9045/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl295",
-    "name": "4Music",
-    "streamUrl": "https://s1.slotex.pl:7102/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl296",
-    "name": "RMF MAXXX Kielce",
-    "streamUrl": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl297",
-    "name": "Radio Zachód",
-    "streamUrl": "http://stream02.zachod.pl:10113/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl298",
-    "name": "Radio Pasja Pop",
-    "streamUrl": "http://91.232.4.33:8084/stream2",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl299",
-    "name": "Katolickie Radio Diecezji Płockiej",
-    "streamUrl": "http://s1.slotex.pl:7760/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl300",
-    "name": "RMI Italo Disco Classic",
-    "streamUrl": "https://cast1.torontocast.com:1165/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl301",
-    "name": "RMF MAXXX 99.7 Pomorze",
-    "streamUrl": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl302",
-    "name": "Radio LagoonFM",
-    "streamUrl": "http://s1.slotex.pl:7828/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl303",
-    "name": "Radio Centrum Lublin",
-    "streamUrl": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl304",
-    "name": "Mirage Space",
-    "streamUrl": "http://s0.radiohost.pl:9563/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl305",
-    "name": "Mittendrin Radio der deutschen Minderheit",
-    "streamUrl": "http://s1.slotex.pl:7430/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl306",
-    "name": "Radio Forever",
-    "streamUrl": "http://s1.slotex.pl:7134/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl307",
-    "name": "Radio Znin FM",
-    "streamUrl": "http://stream4.nadaje.com:8052/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl308",
-    "name": "RadioRadio",
-    "streamUrl": "https://c16.radioboss.fm:18014/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl309",
-    "name": "Głos Nadziei",
-    "streamUrl": "https://ssl-1.radiohost.pl:9548/index",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl310",
-    "name": "Radio Dzwiek",
-    "streamUrl": "http://s3.slotex.pl:7408/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl311",
-    "name": "Radio Savana",
-    "streamUrl": "https://s1.slotex.pl:7434/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl312",
-    "name": "Twoje Radio Lipsko",
-    "streamUrl": "http://s1.slotex.pl:7298/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl313",
-    "name": "Radio Brylant",
-    "streamUrl": "http://s1.slotex.pl:7212/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl314",
-    "name": "Radio Nowej Generacji",
-    "streamUrl": "https://s1.slotex.pl:7488/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl315",
-    "name": "Radio Puzzle",
-    "streamUrl": "http://s1.slotex.pl:7572/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl316",
-    "name": "RADIO TON PL",
-    "streamUrl": "http://s1.slotex.pl:7310/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl317",
-    "name": "FutrzakFM",
-    "streamUrl": "https://audio.futrzak.fm/futrzakfm-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl318",
-    "name": "Minimal Mix Radio",
-    "streamUrl": "http://orion.shoutca.st:8750",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl319",
-    "name": "Radioparty.pl DJ Mixes",
-    "streamUrl": "http://djmixes.radioparty.pl:8035/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl320",
-    "name": "Radio Eska Kraków",
-    "streamUrl": "http://ic1.smcdn.pl/2070-1.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl321",
-    "name": "Radio Plus Kraków",
-    "streamUrl": "https://ic2.smcdn.pl/4070-1.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl322",
-    "name": "Radioparty Energy2000",
-    "streamUrl": "http://energy2000.radioparty.pl:8005/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl323",
-    "name": "Radio Karolinka",
-    "streamUrl": "http://91.232.4.33:8358/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl324",
-    "name": "Eden FM",
-    "streamUrl": "http://s1.slotex.pl:7402/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl325",
-    "name": "Fitness Music",
-    "streamUrl": "https://s3.slotex.pl:7060/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl326",
-    "name": "Radio Sierpc",
-    "streamUrl": "https://ssl-1.radiohost.pl:10700/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl327",
-    "name": "Radio One Planet",
-    "streamUrl": "https://s1.slotex.pl:7624/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl328",
-    "name": "Radio Opatów",
-    "streamUrl": "http://stream2.nadaje.com:11144/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl329",
-    "name": "Radio TOP80",
-    "streamUrl": "https://top80.pl:8000/listen.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl330",
-    "name": "Slonskie Radio Hitmix",
-    "streamUrl": "http://s1.slotex.pl:7294/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl331",
-    "name": "RMF Funk",
-    "streamUrl": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl332",
-    "name": "Chrześcijanin Smooth Jazz",
-    "streamUrl": "http://51.255.8.139:9760/",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl333",
-    "name": "Radio RM80",
-    "streamUrl": "http://91.232.4.33:9011/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl334",
-    "name": "Radio Guardian",
-    "streamUrl": "https://s1.slotex.pl:7508/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl335",
-    "name": "NiUS Radio",
-    "streamUrl": "https://nius.out.airtime.pro/nius_a",
+    "id": "se64",
+    "name": "Sveriges Radio P4 Gävleborg",
+    "streamUrl": "https://edge2.sr.se/p4gavl-mp3-96",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl336",
-    "name": "Radio Damismania DJ Radio",
-    "streamUrl": "https://s1.slotex.pl:7512/stream/1/",
+    "id": "se65",
+    "name": "Sveriges Radio P4 Norrbotten",
+    "streamUrl": "https://edge1.sr.se/p4nbtn-mp3-96",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
+    "genre": "genre_info",
+    "country": "country_sweden"
   },
   {
-    "id": "pl337",
-    "name": "Radio Ocean Dusz",
-    "streamUrl": "http://s1.slotex.pl:7022/",
+    "id": "se66",
+    "name": "Guldkanalen 60-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk60tal96",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se67",
+    "name": "Sveriges Radio P4 Kronoberg",
+    "streamUrl": "https://edge1.sr.se/p4kron-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se68",
+    "name": "Sveriges Radio P4 Jönköping",
+    "streamUrl": "https://edge1.sr.se/p4jkpg-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se69",
+    "name": "Mittradion",
+    "streamUrl": "http://stream.ueteknik.se:8000/mittradion",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se70",
+    "name": "Sveriges Radio P4 Gotland",
+    "streamUrl": "https://edge2.sr.se/p4gotl-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se71",
+    "name": "MusicforHisfame Radio",
+    "streamUrl": "https://streamer.radio.co/s260c0d9fc/listen",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl338",
-    "name": "Radio Fama Slupsk",
-    "streamUrl": "http://stream3.nadaje.com:9024/",
+    "id": "se72",
+    "name": "Sveriges Radio P4 Blekinge",
+    "streamUrl": "https://edge2.sr.se/p4blek-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se73",
+    "name": "Radio Sotenäs",
+    "streamUrl": "https://sc1.radiosotenas.se/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl339",
-    "name": "Radio Duch",
-    "streamUrl": "https://s1.slotex.pl:7174/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl340",
-    "name": "Przytulne FM",
-    "streamUrl": "https://s3.slotex.pl:7042/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl341",
-    "name": "Radio Akord",
-    "streamUrl": "http://s1.slotex.pl:7122/",
+    "id": "se74",
+    "name": "The ERICADE Radio Network",
+    "streamUrl": "https://radio.ericade.net/sc/stream/1/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl342",
-    "name": "Radio Na Tak",
-    "streamUrl": "https://c30.radioboss.fm:8615/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl343",
-    "name": "Radio7 Mława",
-    "streamUrl": "http://stream.radio7.pl:443/radio7.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl344",
-    "name": "Radio dla Dorosłych",
-    "streamUrl": "http://s3.slotex.pl:7586/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl345",
-    "name": "Radio Awangarda",
-    "streamUrl": "https://s1.slotex.pl:7870/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl346",
-    "name": "Radio Danielka",
-    "streamUrl": "http://s3.slotex.pl:7088/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl347",
-    "name": "Internetowe Radio Mittendrin",
-    "streamUrl": "http://s1.slotex.pl:7592/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl348",
-    "name": "Radio Italo4you 256kbps",
-    "streamUrl": "http://s0.radiohost.pl:8018/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl349",
-    "name": "Radio Odzew",
-    "streamUrl": "https://s3.slotex.pl:7468/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl350",
-    "name": "RADIO RTO TRANCE",
-    "streamUrl": "http://s3.slotex.pl:7056/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl351",
-    "name": "Radio Maryja",
-    "streamUrl": "http://198.50.238.178:5946/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl352",
-    "name": "Folk Radio",
-    "streamUrl": "https://streaming.g-news.pl:8030/fr1",
+    "id": "se75",
+    "name": "Radio Gbg Sevdah",
+    "streamUrl": "http://studio.isasecret.com:8030/",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl353",
-    "name": "Radio Bahary",
-    "streamUrl": "https://s1.slotex.pl:7838/stream/1/",
+    "id": "se76",
+    "name": "Soul Classics",
+    "streamUrl": "http://wr08-ice.stream.khz.se/wr08_mp3?playerid=mtgradio-mytuner",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
+    "genre": "genre_blues",
+    "country": "country_sweden"
   },
   {
-    "id": "pl354",
-    "name": "Idź Pod Prąd FM",
-    "streamUrl": "http://idzpodprad.out.airtime.pro:8000/idzpodprad_a",
+    "id": "se77",
+    "name": "Radio10 Worship",
+    "streamUrl": "https://s2.radio.co/sadf67c8ed/listen",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl355",
-    "name": "Radio Nestolatki",
-    "streamUrl": "https://s1.slotex.pl:7306/stream/1/",
+    "id": "se78",
+    "name": "Radio Treby",
+    "streamUrl": "https://streaming.943.se/treby878",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl356",
-    "name": "Radio Gorzów",
-    "streamUrl": "http://stream02.radiogorzow.pl:10115/",
+    "id": "se79",
+    "name": "Sveriges Radio P4 Sörmland",
+    "streamUrl": "https://edge2.sr.se/p4sorm-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se80",
+    "name": "Dansbandskanalen",
+    "streamUrl": "http://stream.dbmedia.se/dbk96",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se81",
+    "name": "Retro FM",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se82",
+    "name": "Mix Megapol Göteborg",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_aacp",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl357",
-    "name": "Radio Wesołe Ślonzoki",
-    "streamUrl": "http://s1.radiohost.pl:8126/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl358",
-    "name": "Radioparty House Party",
-    "streamUrl": "http://house.radioparty.pl:8010/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl359",
-    "name": "ModFM",
-    "streamUrl": "http://radio.modules.pl:8500/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl360",
-    "name": "Radio Śpioch",
-    "streamUrl": "http://s1.slotex.pl:7138/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl361",
-    "name": "Radio Elka Miedziowe",
-    "streamUrl": "https://rs102-krk.rmfstream.pl/audioxi_elka_glogow",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl362",
-    "name": "Radio Gold Live",
-    "streamUrl": "http://s1.slotex.pl:7062/",
+    "id": "se83",
+    "name": "RIX FM Fresh",
+    "streamUrl": "http://wr04-ice.stream.khz.se/wr04_mp3?playerid=mtgradio-mytuner",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl363",
-    "name": "Radio Horyzont",
-    "streamUrl": "http://s1.slotex.pl:7328/stream/1/",
+    "id": "se84",
+    "name": "Puls FM Borås",
+    "streamUrl": "https://pulsfm.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl364",
-    "name": "Radio Góralskie",
-    "streamUrl": "https://s3.slotex.pl:7398/stream/1/",
+    "id": "se85",
+    "name": "Sveriges Radio P4 Örebro",
+    "streamUrl": "https://edge1.sr.se/p4oreb-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se86",
+    "name": "Star 80",
+    "streamUrl": "http://wr02-ice.stream.khz.se/wr02_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se87",
+    "name": "Dansbandskanalen Julmusik",
+    "streamUrl": "http://stream.dbmedia.se/dbkjul96",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl365",
-    "name": "SuperOrbita",
-    "streamUrl": "https://s1.slotex.pl:7086/stream/1/",
+    "id": "se88",
+    "name": "Sveriges Radio P4 Göteborg",
+    "streamUrl": "https://edge1.sr.se/p4gbg-mp3-96",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
+    "genre": "genre_info",
+    "country": "country_sweden"
   },
   {
-    "id": "pl366",
-    "name": "RMC Radio Muzyka Człowiek",
-    "streamUrl": "http://s1.slotex.pl:7030/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl367",
-    "name": "TWR Impuls",
-    "streamUrl": "https://s1.slotex.pl:7504/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl368",
-    "name": "Radio Koszalin Słupsk",
-    "streamUrl": "https://ssl-1.radiohost.pl:8240/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl369",
-    "name": "Radio Start",
-    "streamUrl": "https://s1.slotex.pl:7644/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl370",
-    "name": "Muzyka Dwóch Serc",
-    "streamUrl": "http://s3.slotex.pl:7272/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl371",
-    "name": "SoundFM",
-    "streamUrl": "http://s1.slotex.pl:7494/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl372",
-    "name": "Radioparty Energy 2000 AAC",
-    "streamUrl": "http://s2.radioparty.pl:8040/energy2000",
+    "id": "se89",
+    "name": "Disco Defenders",
+    "streamUrl": "http://wr17-ice.stream.khz.se/wr17_mp3?platform=web",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl373",
-    "name": "InterStacja Disco Polo Zeno",
-    "streamUrl": "http://4stream.pl:18274/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl374",
-    "name": "Radio Melody Express",
-    "streamUrl": "https://s1.slotex.pl:7588/stream/1/",
+    "id": "se90",
+    "name": "GVFM",
+    "streamUrl": "https://gvfm.ice.infomaniak.ch/gvfm-64.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl375",
-    "name": "RMF 3 Pop Rock",
-    "streamUrl": "http://195.150.20.8/RMF3",
+    "id": "se91",
+    "name": "Rock Klassiker",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl376",
-    "name": "Radio Śląskie",
-    "streamUrl": "https://stream10.hosterion.pl:7032/",
+    "id": "se92",
+    "name": "Bandit Rock",
+    "streamUrl": "http://fm02-ice.stream.khz.se/fm02_mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
+    "genre": "genre_rock",
+    "country": "country_sweden"
   },
   {
-    "id": "pl377",
-    "name": "Radioparty.pl Main",
-    "streamUrl": "http://s7.radioparty.pl:8000/",
+    "id": "se93",
+    "name": "Electro Lounge",
+    "streamUrl": "http://wr16-ice.stream.khz.se/wr16_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572021026",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_poland"
+    "genre": "genre_electronic",
+    "country": "country_sweden"
   },
   {
-    "id": "pl378",
-    "name": "Radio Mirage Prywatka",
-    "streamUrl": "http://91.232.4.33:7214/",
+    "id": "se94",
+    "name": "Radio Gold Sweden",
+    "streamUrl": "https://streaming.943.se/radiogold",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl379",
-    "name": "RMF MAXXX Krosno",
-    "streamUrl": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn",
+    "id": "se95",
+    "name": "Power Club",
+    "streamUrl": "http://wr06-ice.stream.khz.se/wr06_mp3?playerid=mtgradio-mytuner",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se96",
+    "name": "Radio10 Classic",
+    "streamUrl": "https://streaming.radio.co/sfbb7cdc28/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se97",
+    "name": "Sveriges Radio P4 Uppland",
+    "streamUrl": "https://edge2.sr.se/p4uppl-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se98",
+    "name": "Radio AF",
+    "streamUrl": "https://stream.rcs.revma.com/e3tha8v4dkhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl380",
-    "name": "RMF MAXX Podlasie",
-    "streamUrl": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
+    "id": "se99",
+    "name": "Tyresöradion 91.4 FM",
+    "streamUrl": "https://s5.radio.co/s8ace52d32/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl381",
-    "name": "RMF MAXXX Włocławek",
-    "streamUrl": "http://195.150.20.4/rmf_maxxx_wlc",
+    "id": "se100",
+    "name": "Sveriges Radio SR Extra12",
+    "streamUrl": "https://http-live.sr.se/srextra12-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se101",
+    "name": "Sveriges Radio SR Sápmi",
+    "streamUrl": "https://edge2.sr.se/sameradion-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se102",
+    "name": "Radio Gbg 94.9 FM",
+    "streamUrl": "http://62.210.188.38:8050/relay",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl382",
-    "name": "Radio Chrześcijanin 2",
-    "streamUrl": "http://s1.slotex.pl:7002/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl383",
-    "name": "Radio KECh Nowogard",
-    "streamUrl": "https://s3.slotex.pl:7016/stream/1/",
+    "id": "se103",
+    "name": "Radio Sandviken 89.9",
+    "streamUrl": "http://rssand.se:4027/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
   },
   {
-    "id": "pl384",
-    "name": "RadioRadio.FM",
-    "streamUrl": "https://c16.radioboss.fm/stream/14",
+    "id": "se104",
+    "name": "Sveriges Radio P6",
+    "streamUrl": "https://edge2.sr.se/p6-mp3-96",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_poland"
+    "genre": "genre_info",
+    "country": "country_sweden"
   },
   {
-    "id": "pl385",
-    "name": "Radio Nowy Świat 256k",
-    "streamUrl": "https://go-audio.toya.net.pl/63214",
+    "id": "se105",
+    "name": "Sveriges Radio SR Extra11",
+    "streamUrl": "https://http-live.sr.se/srextra11-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se106",
+    "name": "Sveriges Radio SR Extra10",
+    "streamUrl": "https://http-live.sr.se/srextra10-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se107",
+    "name": "Sveriges Radio SR Extra09",
+    "streamUrl": "https://http-live.sr.se/srextra09-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se108",
+    "name": "Sveriges Radio SR Extra08",
+    "streamUrl": "https://http-live.sr.se/srextra08-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se109",
+    "name": "Sveriges Radio SR Extra07",
+    "streamUrl": "https://http-live.sr.se/srextra07-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se110",
+    "name": "Sveriges Radio SR Extra06",
+    "streamUrl": "https://http-live.sr.se/srextra06-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se111",
+    "name": "Sveriges Radio SR Extra05",
+    "streamUrl": "https://http-live.sr.se/srextra05-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se112",
+    "name": "Sveriges Radio SR Extra04",
+    "streamUrl": "https://http-live.sr.se/srextra04-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se113",
+    "name": "Sveriges Radio SR Extra03",
+    "streamUrl": "https://http-live.sr.se/srextra03-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se114",
+    "name": "Sveriges Radio SR Extra02",
+    "streamUrl": "https://http-live.sr.se/srextra02-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se115",
+    "name": "Sveriges Radio SR Extra01",
+    "streamUrl": "https://http-live.sr.se/srextra01-mp3-128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se116",
+    "name": "Sveriges Radio Finska",
+    "streamUrl": "https://edge2.sr.se/finska-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se117",
+    "name": "Sveriges Radio Radioapans Knattekanal",
+    "streamUrl": "https://edge2.sr.se/knattekanalen-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se118",
+    "name": "Radio Nord 98.3",
+    "streamUrl": "http://radio.tabyenskilda.se:8000/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_poland"
+    "country": "country_sweden"
+  },
+  {
+    "id": "se119",
+    "name": "KURDmix",
+    "streamUrl": "http://solid55.streamupsolutions.com:32000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se120",
+    "name": "Northern Metal Radio Extreme",
+    "streamUrl": "https://s2.free-shoutcast.com/stream/18092",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se121",
+    "name": "Sveriges Radio P1",
+    "streamUrl": "https://http-live.sr.se/p1-mp3-192",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se122",
+    "name": "Svensk Folkmusik AkkA Radio",
+    "streamUrl": "http://mediaserv38.live-streams.nl:8107/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se123",
+    "name": "Radio Rivendell",
+    "streamUrl": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se124",
+    "name": "Popradio Stockholm",
+    "streamUrl": "https://popradiostream.se/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se125",
+    "name": "Sveriges Radio P4 Södertälje",
+    "streamUrl": "https://edge2.sr.se/p4digi-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se126",
+    "name": "Orsa Närradio",
+    "streamUrl": "http://stream.ueteknik.se:8000/orsa",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se127",
+    "name": "Radio Kiruna",
+    "streamUrl": "http://193.45.227.221:443/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se128",
+    "name": "Radio Skövde",
+    "streamUrl": "http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se129",
+    "name": "Radio Avesta 103.5 FM",
+    "streamUrl": "http://test.radioavesta.se:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se130",
+    "name": "Radio Ayeneh 97.3",
+    "streamUrl": "http://radioayeneh1.serveftp.com/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se131",
+    "name": "AORDreamer",
+    "streamUrl": "http://178.33.33.176:8060/stream1",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se132",
+    "name": "LeonFM",
+    "streamUrl": "https://leonfmlive.stream.laut.fm/leonfmlive",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se133",
+    "name": "Effekten Radio",
+    "streamUrl": "https://s107.radiolize.com:8090/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se134",
+    "name": "Retreat Radio",
+    "streamUrl": "http://retreatradio.out.airtime.pro:8000/retreatradio_b",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se135",
+    "name": "Radio Nostalgi",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se136",
+    "name": "Sveriges Radio P4 Sjuhärad",
+    "streamUrl": "https://edge2.sr.se/p4sju-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se137",
+    "name": "Sveriges Radio P4 Värmland",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4vrml.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se138",
+    "name": "Sveriges Radio P4 Jämtland",
+    "streamUrl": "https://edge2.sr.se/p4jmtl-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se139",
+    "name": "Sveriges Radio P4 Dalarna",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4dala.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se140",
+    "name": "Sveriges Radio P4 Halland",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4hall.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se141",
+    "name": "Sveriges Radio P4 Östergötland",
+    "streamUrl": "https://edge2.sr.se/p4ostg-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se142",
+    "name": "Sveriges Radio P4 Västmanland",
+    "streamUrl": "https://edge2.sr.se/p4vstm-mp3-96",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se143",
+    "name": "Sveriges Radio P4 Västernorrland",
+    "streamUrl": "https://http-live.sr.se/p4vasternorrland-aac-192",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se144",
+    "name": "Sveriges Radio P2 Musik",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p2.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se145",
+    "name": "Gold 102.4",
+    "streamUrl": "http://goldfm.nu:8082/goldfm_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se146",
+    "name": "Guldkanalen Helsingborg",
+    "streamUrl": "http://stream.dbmedia.se/gkhbg96",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se147",
+    "name": "BozRadio",
+    "streamUrl": "http://das-edge14-live365-dal02.cdnstream.com/a80252",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se148",
+    "name": "Radio Tiempo Nuevo",
+    "streamUrl": "http://s26.myradiostream.com:20670/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se149",
+    "name": "Radio Los Andes Gotemburgo",
+    "streamUrl": "http://streaming.xtservers.com:8006",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_sweden"
   }
 ]
