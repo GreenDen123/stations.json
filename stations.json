@@ -22384,14 +22384,6 @@
     "country": "country_sweden"
   },
   {
-    "id": "se03",
-    "name": "RIX FM",
-    "streamUrl": "http://fm01-ice.stream.khz.se/fm01_mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/177/rix-fm.ad616151.png",
-    "genre": "genre_hits",
-    "country": "country_sweden"
-  },
-  {
     "id": "se05",
     "name": "Pulsefm.se",
     "streamUrl": "http://quasar.shoutca.st:8092/live",
