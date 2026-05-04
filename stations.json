@@ -2082,7 +2082,7 @@
   {
     "id": "md1",
     "name": "Love Radio",
-    "streamUrl": "https://ic2.radiosignal.one/top100",
+    "streamUrl": "https://stream.mmgmoldova.md:8443/lovefm",
     "imageUrl": "https://topradio.me/assets/image/radio/180/love-radio-md.webp",
     "genre": "genre_pop",
     "country": "country_moldova"
@@ -2971,7 +2971,7 @@
     "id": "ro58",
     "name": "RFI România",
     "streamUrl": "https://asculta.radiorfi.ro/live.mp3",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_RFI_Rom%C3%A2nia.png",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aq3JDcW3QX.png",
     "genre": "genre_news",
     "country": "country_romania"
   },
@@ -4211,7 +4211,7 @@
     "id": "ua49",
     "name": "Радіо Марія",
     "streamUrl": "http://91.203.4.121:8000/stream64",
-    "imageUrl": "https://images.radiovolna.net/_files/images/stations/500/bqkh597af5a005d22643821196_165x165.webp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/kU9dK9yzrX.jpg",
     "genre": "genre_religious",
     "country": "country_ucraina"
   },
@@ -4811,7 +4811,7 @@
     "id": "usa81",
     "name": "RadioMv",
     "streamUrl": "http://ru-high.radiomv.co:2204/;stream.nsv",
-    "imageUrl": "https://images.radiovolna.net/_files/images/stations/532/numw597af73c329b6471256761_165x165.webp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/231/english-radiomv.4a630e5f.png",
     "genre": "genre_religious",
     "country": "country_usa"
   },
@@ -4819,7 +4819,7 @@
     "id": "usa82",
     "name": "Свет / Портлендское Христианское Радио",
     "streamUrl": "http://pdxrr.com:8090/;stream.nsv",
-    "imageUrl": "https://images.radiovolna.net/_files/images/stations/5753/ikkq597af719c4e82664453369_165x165.webp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/NQZSZmbHXA.png",
     "genre": "genre_religious",
     "country": "country_usa"
   },
@@ -4827,7 +4827,7 @@
     "id": "usa83",
     "name": "OSHO Radio",
     "streamUrl": "http://radioe.dns.osho.com:8348/stream",
-    "imageUrl": "https://images.radiovolna.net/_files/images/stations/9328/he1g59f06d19ed4cb252876225_165x165.webp",
+    "imageUrl": "https://cdn.radoxo.com/images/usa/ohm-radio.avif?v=1777399201",
     "genre": "genre_religious",
     "country": "country_usa"
   },
@@ -8019,7 +8019,7 @@
     "id": "swi58",
     "name": "ELLIPTICUM",
     "streamUrl": "https://live.ellipticum.radio/elli_it.aac",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/switzerland-it/ELLIPTICUM.png",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/4Zrl9jGK27eILCAWWgrlnFNiN2iIFV5nVA6JYKzljK0/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZTM1ZDkwZDYtNmMxMS00YWYyLThhMWYtZmI0YWU5M2IzOWM0L2ltYWdlLz91PTE3MTM4NzMyMzcwMDA.webp",
     "genre": "genre_pop",
     "country": "country_switzerland"
   },
@@ -8097,7 +8097,7 @@
   },
   {
     "id": "br3",
-    "name": "sepultura",
+    "name": "Sepultura",
     "streamUrl": "https://stream03.pcradio.biz/Sepultura-hi",
     "imageUrl": "https://pcradio.ru/images/stations/61b09d2c860a1.jpg",
     "genre": "genre_rock",
@@ -8291,7 +8291,7 @@
     "id": "br27",
     "name": "Amigos do Rock Nacional",
     "streamUrl": "https://stream03.pcradio.biz/rad_rdmgsdrckncnl-hi",
-    "imageUrl": "https://pcradio.ru/images/stations/63d3693c5dad2.jpg",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/934/radio-amigos-do-rock-nacional.18160ccb.png",
     "genre": "genre_rock",
     "country": "country_brazil"
   },
@@ -10027,7 +10027,7 @@
     "id": "gre116",
     "name": "Πρωινή FM 93.7",
     "streamUrl": "http://62.103.31.151:8000/stream",
-    "imageUrl": "https://images.radiovolna.net/_files/images/stations/428316/34885cfe59384e78bf7e278b3fc0a055_165x165.webp",
+    "imageUrl": "https://cdn.instant.audio/images/logos/radiofona-com-gr/proini-fm.png",
     "genre": "genre_pop",
     "country": "country_greece"
   },
@@ -10211,7 +10211,7 @@
     "id": "gre139",
     "name": "Kosmos 93.8",
     "streamUrl": "https://netradio.live24.gr/kosmos938rodos",
-    "imageUrl": "https://resources.live24.gr/resources/images/stations/25963152-e2bc-403e-ba5c-b7226050b027.png",
+    "imageUrl": "https://resources.live24.gr/resources/images/stations/8ccde041-fd29-4d85-8371-14afbd489a63.jpg",
     "genre": "genre_pop",
     "country": "country_greece"
   },
@@ -22366,5 +22366,693 @@
     "imageUrl": "https://www.radio.pl/100/radionowyswiat.png?version=b0b222500ed9991934b70364547134ed19209d61",
     "genre": "genre_pop",
     "country": "country_poland"
+  },
+  {
+    "id": "se01",
+    "name": "Guldkanalen 70-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk70tal96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/034/guldkanalen-70-tal.472b5897.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se02",
+    "name": "Puls FM Varberg",
+    "streamUrl": "https://pulsfmvbg.radioca.st/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/913/puls-fm-varberg.8d8717f8.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se03",
+    "name": "RIX FM",
+    "streamUrl": "http://fm01-ice.stream.khz.se/fm01_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/177/rix-fm.ad616151.png",
+    "genre": "genre_hits",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se05",
+    "name": "Pulsefm.se",
+    "streamUrl": "http://quasar.shoutca.st:8092/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/An69Eftz4e.jpeg",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se06",
+    "name": "NRJ Sweden",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/626/nrj-sweden.bfe9fe2e.png",
+    "genre": "genre_hits",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se09",
+    "name": "Sveriges Radio P4 Stockholm",
+    "streamUrl": "https://edge2.sr.se/p4sth-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/549/sveriges-radio-p4-stockholm.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se12",
+    "name": "Radio Topp 40 Sverige",
+    "streamUrl": "https://live-bauersehls.sharp-stream.com/topp40_aac/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rnxps7qmqyk6.jpg",
+    "genre": "genre_hits",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se13",
+    "name": "Pop & Rock",
+    "streamUrl": "http://62.101.46.15:8000/poporock",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/025/pop-rock.42add714.png",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se14",
+    "name": "Sveriges Radio P4 Skaraborg",
+    "streamUrl": "https://edge1.sr.se/p4skbg-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/470/sveriges-radio-p4-skaraborg.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se15",
+    "name": "Sveriges Radio P4 Väst",
+    "streamUrl": "https://edge1.sr.se/p4vast-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/481/sveriges-radio-p4-vast.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se16",
+    "name": "Trucknet Radio",
+    "streamUrl": "http://stream.ueteknik.se:8000/trucknetradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/520/trucknet-radio.4940499b.jpg",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se18",
+    "name": "Sveriges Radio P4 Malmöhus",
+    "streamUrl": "https://edge2.sr.se/p4malm-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/469/sveriges-radio-p4-malmohus.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se21",
+    "name": "Svensk Pop",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/svenskpop_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/449/svensk-pop.7bb20e2f.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se25",
+    "name": "Vinyl FM 107",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/647/vinyl-fm-107.a3e761d1.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se26",
+    "name": "Mix Megapol",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/604/mix-megapol.b8ec3a22.jpg",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se27",
+    "name": "Sveriges Radio P2",
+    "streamUrl": "https://edge1.sr.se/p2-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/543/sveriges-radio-p2.49e630b7.jpg",
+    "genre": "genre_clasic",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se29",
+    "name": "Radio Gävle 102.7",
+    "streamUrl": "http://kepler.shoutca.st:8271/stream1",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/483/radio-gavle-1027.8270db20.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se30",
+    "name": "Lugna Klassiker",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/006/lugna-klassiker.78ea3e2a.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se33",
+    "name": "Lite FM",
+    "streamUrl": "https://streaming.943.se/litefm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/661/lite-fm-sweden.beb5bcfb.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se35",
+    "name": "Sveriges Radio P4 Plus",
+    "streamUrl": "https://edge2.sr.se/p4plus-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/805/p4-plus-sveriges-radio.9ef2eb94.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se36",
+    "name": "Pirate Rock",
+    "streamUrl": "https://stream.piraterock.se:8100/webradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/400/pirate-rock.d53a6d62.png",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se37",
+    "name": "Radio Hope",
+    "streamUrl": "https://s2.radio.co/sfbf5f5b85/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/u4fmdmnj5wnd.png",
+    "genre": "genre_religious",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se39",
+    "name": "Radio pE20",
+    "streamUrl": "https://streaming.943.se/radiope20",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/958/radio-pe20.b7ad0ccc.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se43",
+    "name": "Sveriges Radio P3",
+    "streamUrl": "https://edge2.sr.se/p3-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/544/sveriges-radio-p3.8dae1863.jpg",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se44",
+    "name": "Radio Gagnef",
+    "streamUrl": "http://stream.ueteknik.se:8000/gagnef",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/420/radio-gagnef.b5de26a8.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se46",
+    "name": "Radio Siljan",
+    "streamUrl": "http://stream.radiosiljan.com:8000/siljan",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/421/radio-siljan.837bf589.jpg",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se49",
+    "name": "Guldkanalen 90-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk90tal96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/036/guldkanalen-90-tal.30fbc6ba.png",
+    "genre": "genre_90s",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se50",
+    "name": "Sveriges Radio P4 Västerbotten",
+    "streamUrl": "https://edge1.sr.se/p4vbtn-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/477/sveriges-radio-p4-vasterbotten.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se51",
+    "name": "Sveriges Radio P4 Kalmar",
+    "streamUrl": "https://edge2.sr.se/p4kalm-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/463/sveriges-radio-p4-kalmar.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se54",
+    "name": "SOULFOOD",
+    "streamUrl": "https://soulfood.stream.laut.fm/soulfood",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/197/soulfood.ceff8058.png",
+    "genre": "genre_blues",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se56",
+    "name": "Radio Söderhamn",
+    "streamUrl": "http://80.245.225.101:8000/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/898/radio-soderhamn.3e914e54.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se57",
+    "name": "Sveriges Radio P4 Kristianstad",
+    "streamUrl": "https://edge1.sr.se/p4krist-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/473/sveriges-radio-p4-kristianstad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se58",
+    "name": "Guldkanalen 80-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk80tal96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/035/guldkanalen-80-tal.7cc92493.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se59",
+    "name": "Oldies FM",
+    "streamUrl": "https://stream3.themediasite.co.uk:8030/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/394/oldies-fm-sweden.5b736816.jpg",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se62",
+    "name": "Sveriges Radio P3 Din Gata",
+    "streamUrl": "https://edge2.sr.se/dingata-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/541/sveriges-radio-p3-din-gata.9e988cb7.jpg",
+    "genre": "genre_hiphop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se64",
+    "name": "Sveriges Radio P4 Gävleborg",
+    "streamUrl": "https://edge2.sr.se/p4gavl-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/472/sveriges-radio-p4-gavleborg.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se65",
+    "name": "Sveriges Radio P4 Norrbotten",
+    "streamUrl": "https://edge1.sr.se/p4nbtn-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/471/sveriges-radio-p4-norrbotten.48e1bdf4.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se66",
+    "name": "Guldkanalen 60-tal",
+    "streamUrl": "http://stream.dbmedia.se/gk60tal96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/033/guldkanalen-60-tal.b582db41.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se67",
+    "name": "Sveriges Radio P4 Kronoberg",
+    "streamUrl": "https://edge1.sr.se/p4kron-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/476/sveriges-radio-p4-kronoberg.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se68",
+    "name": "Sveriges Radio P4 Jönköping",
+    "streamUrl": "https://edge1.sr.se/p4jkpg-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/465/sveriges-radio-p4-jonkoping.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se69",
+    "name": "Mittradion",
+    "streamUrl": "http://stream.ueteknik.se:8000/mittradion",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/422/mittradion.20ff308b.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se70",
+    "name": "Sveriges Radio P4 Gotland",
+    "streamUrl": "https://edge2.sr.se/p4gotl-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/467/sveriges-radio-p4-gotland.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se71",
+    "name": "Musicfor Hisfame Radio",
+    "streamUrl": "https://streamer.radio.co/s260c0d9fc/listen",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_religious",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se72",
+    "name": "Sveriges Radio P4 Blekinge",
+    "streamUrl": "https://edge2.sr.se/p4blek-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/549/sveriges-radio-p4-stockholm.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se74",
+    "name": "The ERICADE Radio Network",
+    "streamUrl": "https://radio.ericade.net/sc/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qa4fgtjjt2nn.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se78",
+    "name": "Radio Treby",
+    "streamUrl": "https://streaming.943.se/treby878",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/754/radio-treby.45a66b14.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se79",
+    "name": "Sveriges Radio P4 Sörmland",
+    "streamUrl": "https://edge2.sr.se/p4sorm-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/464/sveriges-radio-p4-sormland.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se80",
+    "name": "Dansbandskanalen",
+    "streamUrl": "http://stream.dbmedia.se/dbk96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/304/dansbandskanalen.98c43282.png",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se81",
+    "name": "Retro FM",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/315/retro-fm.6318e2de.jpg",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se82",
+    "name": "Mix Megapol Göteborg",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/603/mix-megapol-goteborg.b47085c4.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se84",
+    "name": "Puls FM Borås",
+    "streamUrl": "https://pulsfm.radioca.st/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/846/puls-fm-boras.06b669c1.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se85",
+    "name": "Sveriges Radio P4 Örebro",
+    "streamUrl": "https://edge1.sr.se/p4oreb-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/482/sveriges-radio-p4-orebro.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se87",
+    "name": "Dansbandskanalen Julmusik",
+    "streamUrl": "http://stream.dbmedia.se/dbkjul96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/304/dansbandskanalen.98c43282.png",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se88",
+    "name": "Sveriges Radio P4 Göteborg",
+    "streamUrl": "https://edge1.sr.se/p4gbg-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/474/sveriges-radio-p4-goteborg.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se90",
+    "name": "GVFM",
+    "streamUrl": "https://gvfm.ice.infomaniak.ch/gvfm-64.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xdxxatvpjzuu.jpg",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se91",
+    "name": "Rock Klassiker",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/638/rock-klassiker.ba9b72e2.png",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se94",
+    "name": "Radio Gold Sweden",
+    "streamUrl": "https://streaming.943.se/radiogold",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/150/radio-gold-sweden.024ac96d.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se97",
+    "name": "Sveriges Radio P4 Uppland",
+    "streamUrl": "https://edge2.sr.se/p4uppl-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/480/sveriges-radio-p4-uppland.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se98",
+    "name": "Radio AF",
+    "streamUrl": "https://stream.rcs.revma.com/e3tha8v4dkhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/954/radio-af.f114b2b2.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se99",
+    "name": "Tyresöradion 91.4 FM",
+    "streamUrl": "https://s5.radio.co/s8ace52d32/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vbeVe73REF.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se101",
+    "name": "Sveriges Radio SR Sápmi",
+    "streamUrl": "https://edge2.sr.se/sameradion-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/484/sveriges-radio-sr-sapmi.80dd07d8.jpg",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se102",
+    "name": "Radio Gbg 94.9 FM",
+    "streamUrl": "http://62.210.188.38:8050/relay",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/395/radio-gbg-949-fm.c37e6a0d.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se104",
+    "name": "Sveriges Radio P6",
+    "streamUrl": "https://edge2.sr.se/p6-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/563/radio-sweden-p6.b29a8cf2.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se116",
+    "name": "Sveriges Radio Finska",
+    "streamUrl": "https://edge2.sr.se/finska-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/550/sveriges-radio-sisuradio.e9434f7a.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se117",
+    "name": "Sveriges Radio Radioapans Knattekanal",
+    "streamUrl": "https://edge2.sr.se/knattekanalen-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/542/sveriges-radio-radioapans-knattekanal.9a30d115.jpg",
+    "genre": "genre_kids",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se119",
+    "name": "KURDmix",
+    "streamUrl": "http://solid55.streamupsolutions.com:32000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/012/kurdmix.f921328d.png",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se120",
+    "name": "Northern Metal Radio Extreme",
+    "streamUrl": "https://s2.free-shoutcast.com/stream/18092",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/SDUkMhvvvX.png",
+    "genre": "genre_rock",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se122",
+    "name": "Svensk Folkmusik AkkA Radio",
+    "streamUrl": "http://mediaserv38.live-streams.nl:8107/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_folk",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se123",
+    "name": "Radio Rivendell",
+    "streamUrl": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+    "genre": "genre_relax",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se125",
+    "name": "Sveriges Radio P4 Södertälje",
+    "streamUrl": "https://edge2.sr.se/p4digi-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/549/sveriges-radio-p4-stockholm.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se127",
+    "name": "Radio Kiruna",
+    "streamUrl": "http://193.45.227.221:443/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/536/radio-kiruna.9eb24df6.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se128",
+    "name": "Radio Skövde",
+    "streamUrl": "http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se132",
+    "name": "LeonFM",
+    "streamUrl": "https://leonfmlive.stream.laut.fm/leonfmlive",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/942/leonfm.cb690d90.png",
+    "genre": "genre_pop",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se134",
+    "name": "Retreat Radio",
+    "streamUrl": "http://retreatradio.out.airtime.pro:8000/retreatradio_b",
+    "imageUrl": "https://i1.sndcdn.com/avatars-BSaj9XwNH9WUnzQ2-ddwmXg-t240x240.jpg",
+    "genre": "genre_relax",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se135",
+    "name": "Radio Nostalgi",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/377/radio-nostalgi-1051.65f415c6.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se136",
+    "name": "Sveriges Radio P4 Sjuhärad",
+    "streamUrl": "https://edge2.sr.se/p4sju-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se137",
+    "name": "Sveriges Radio P4 Värmland",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4vrml.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se138",
+    "name": "Sveriges Radio P4 Jämtland",
+    "streamUrl": "https://edge2.sr.se/p4jmtl-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se139",
+    "name": "Sveriges Radio P4 Dalarna",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4dala.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se140",
+    "name": "Sveriges Radio P4 Halland",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4hall.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se141",
+    "name": "Sveriges Radio P4 Östergötland",
+    "streamUrl": "https://edge2.sr.se/p4ostg-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se142",
+    "name": "Sveriges Radio P4 Västmanland",
+    "streamUrl": "https://edge2.sr.se/p4vstm-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se144",
+    "name": "Sveriges Radio P2 Musik",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p2.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/564/sveriges-radio-p2-klassiskt.aeb2a165.jpg",
+    "genre": "genre_clasic",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se145",
+    "name": "Gold 102.4",
+    "streamUrl": "http://goldfm.nu:8082/goldfm_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/454/gold-1024.58c22f13.jpg",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se146",
+    "name": "Guldkanalen Helsingborg",
+    "streamUrl": "http://stream.dbmedia.se/gkhbg96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/313/1026-guldkanalen.2051b576.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se147",
+    "name": "BozRadio",
+    "streamUrl": "http://das-edge14-live365-dal02.cdnstream.com/a80252",
+    "imageUrl": "https://image.live365.com/download/78b6f4e8-32a3-4cb5-b373-fc02a7d07d0c.png/400/image.webp",
+    "genre": "genre_pop",
+    "country": "country_sweden"
   }
 ]
