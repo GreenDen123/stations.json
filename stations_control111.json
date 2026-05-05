@@ -1206,5 +1206,1389 @@
     "imageUrl": "__________________________",
     "genre": "genre_retro",
     "country": "country_ireland"
+  },
+  {
+    "id": "is1",
+    "name": "Gull Bylgjan",
+    "streamUrl": "https://icecast.visir.is/orbGullBylgjan.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is2",
+    "name": "Létt Bylgjan",
+    "streamUrl": "https://icecast.visir.is/orbLettBylgjan.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is3",
+    "name": "80s BYLGJAN",
+    "streamUrl": "https://icecast.visir.is/orb80s.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is4",
+    "name": "Suðurland FM",
+    "streamUrl": "http://178.19.58.119:1818/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is5",
+    "name": "Trölli",
+    "streamUrl": "http://live.trolli.is:8200/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is6",
+    "name": "Íslenska Bylgjan",
+    "streamUrl": "https://live.visir.is/hls-radio/fmx/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is7",
+    "name": "Snow Radio Network",
+    "streamUrl": "https://15113.live.streamtheworld.com/SAM02AAC45_SC?pname=TDSdk",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is8",
+    "name": "Apparat id",
+    "streamUrl": "http://icecast.365net.is:8000/orbApparatid.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is9",
+    "name": "X-id 97.7 FM",
+    "streamUrl": "https://icecast.visir.is/orbXid.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is10",
+    "name": "Ice FM",
+    "streamUrl": "http://falcon.shoutca.st:8516",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is11",
+    "name": "FM 957 Extra",
+    "streamUrl": "https://live.visir.is/hls-radio/fmextra/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is12",
+    "name": "Bylgjan FM",
+    "streamUrl": "https://live.visir.is/hls-radio/bylgjan/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is13",
+    "name": "FM 957",
+    "streamUrl": "https://icecast.visir.is/orbFm957.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is14",
+    "name": "Rondo",
+    "streamUrl": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo-256000.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is15",
+    "name": "Bikini FM Marina Alta - Sur",
+    "streamUrl": "https://stream.mediasector.es/radio/8030/bikinifm-marina-alta-sur.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is16",
+    "name": "Jovem Pan - JP News Joinville",
+    "streamUrl": "https://ssl1.transmissaodigital.com:2398/server",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is17",
+    "name": "Street Deejays",
+    "streamUrl": "https://stream.zeno.fm/nbwdnxz7na0uv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is18",
+    "name": "Dance Family",
+    "streamUrl": "https://stream.laut.fm/dance-family-radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is19",
+    "name": "House Music Channel - Loops",
+    "streamUrl": "https://ssl190.ozelip.com/asistan/stream/ebcc933e674242c816bd38923148d46e",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is20",
+    "name": "Bylgjan 989",
+    "streamUrl": "http://icecast.365net.is:8000/orbbylgjan.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is21",
+    "name": "FlashBack 60s",
+    "streamUrl": "http://stream3.radio.is:443/60flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is22",
+    "name": "FlashBack 70s",
+    "streamUrl": "http://ice-11.spilarinn.is/70flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is23",
+    "name": "FlashBack 80s",
+    "streamUrl": "http://stream3.radio.is:443/80flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is24",
+    "name": "FlashBack 90s",
+    "streamUrl": "http://stream3.radio.is:443/90flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is25",
+    "name": "FlashBack 91.9 FM",
+    "streamUrl": "http://stream3.radio.is:443/flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is26",
+    "name": "FM Extra",
+    "streamUrl": "http://icecast.365net.is:8000/orbFmExtra.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is27",
+    "name": "FM Xtra 101.5 FM",
+    "streamUrl": "http://radio.is:443/fmxtra",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is28",
+    "name": "FMX Klassik",
+    "streamUrl": "http://icecast.365net.is:8000/orbFMX.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is29",
+    "name": "Gull Bylgjan 909",
+    "streamUrl": "http://icecast.365net.is:8000/orbGullBylgjan.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is30",
+    "name": "Kaninn FM 100.5",
+    "streamUrl": "http://radio.is:443/kaninnmobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is31",
+    "name": "KissFM 104.5",
+    "streamUrl": "http://stream3.radio.is:443/kissfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is32",
+    "name": "Lindin 102.9 FM",
+    "streamUrl": "http://62.145.147.50:8001/lindin",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is33",
+    "name": "Rás 1 RÚV 93.5 FM",
+    "streamUrl": "http://netradio.ruv.is:80/ras1.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is34",
+    "name": "Rás 2 RÚV 90.1 FM",
+    "streamUrl": "http://netradio.ruv.is:80/ras2.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is35",
+    "name": "Rondó RÚV 87.7 FM",
+    "streamUrl": "http://netradio.ruv.is:80/rondo.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is36",
+    "name": "RÚV Núll Pop",
+    "streamUrl": "http://netradio.ruv.is:80/ruvnull.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is37",
+    "name": "Útvarp Saga 99.4 FM",
+    "streamUrl": "http://stream.utvarpsaga.is/Hljodver",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is38",
+    "name": "X 97.7",
+    "streamUrl": "http://icecast.365net.is:8000/orbXid.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is39",
+    "name": "Flashback 80s 101.5",
+    "streamUrl": "https://ice-11.spilarinn.is/80flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is40",
+    "name": "Sudurland FM",
+    "streamUrl": "https://ice-11.spilarinn.is/tsudurlandfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is41",
+    "name": "Utvarp Saga FM",
+    "streamUrl": "https://ice-11.spilarinn.is/saga",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is42",
+    "name": "RÚV - Rás 1",
+    "streamUrl": "http://netradio.ruv.is/ras1.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is43",
+    "name": "Utvarp Saga",
+    "streamUrl": "http://stream.utvarpsaga.is:80/Hljodver",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is44",
+    "name": "K100",
+    "streamUrl": "https://k100straumar.mbl.is/kaninnmobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is45",
+    "name": "3ABN",
+    "streamUrl": "http://war.str3am.com:7180/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is46",
+    "name": "KissFM Iceland",
+    "streamUrl": "http://ice-11.spilarinn.is/kissfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is47",
+    "name": "RÚV - Rás 2",
+    "streamUrl": "http://netradio.ruv.is/ras2.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is48",
+    "name": "Utvarp Bodun",
+    "streamUrl": "http://bodun.is:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is49",
+    "name": "FlashBack",
+    "streamUrl": "http://stream.radio.is:443/flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is50",
+    "name": "Retro 895",
+    "streamUrl": "http://radio.is:443/retromobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is51",
+    "name": "FM Xtra",
+    "streamUrl": "http://www.radio.is:443/fmxtra",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is52",
+    "name": "5",
+    "streamUrl": "http://www.radio.is:443/kiss",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is53",
+    "name": "Apparatid",
+    "streamUrl": "https://live.visir.is/hls-radio/apparatid/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is54",
+    "name": "Bitter Sweet Music IS",
+    "streamUrl": "http://91.121.236.34:8520/is",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is55",
+    "name": "FlashBack FM",
+    "streamUrl": "https://ice-11.spilarinn.is/flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is56",
+    "name": "FM957",
+    "streamUrl": "https://live.visir.is/hls-radio/fm957/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is57",
+    "name": "Lindin",
+    "streamUrl": "http://62.145.147.50:8001/stream.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is58",
+    "name": "RÚV  Rás 1",
+    "streamUrl": "https://ruv-radio-live.akamaized.net/streymi/ras1/ras1.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is59",
+    "name": "RÚV Rás 2",
+    "streamUrl": "https://ruv-ras2-live-hls.secure.footprint.net/hls-live/ruv-ras2/_definst_/live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is60",
+    "name": "RÚV Rondó",
+    "streamUrl": "https://ruv-rondo-live-hls.secure.footprint.net/hls-live/ruv-ras3/_definst_/live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is61",
+    "name": "Útvarp Reykjavíkur í beinni",
+    "streamUrl": "https://stream2.svrdedicado.org:7127/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is62",
+    "name": "Krúttin",
+    "streamUrl": "http://radio.kruttin.com/stream/turteldufur/",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is63",
+    "name": "DJ Danni - Hands Up",
+    "streamUrl": "http://server.skagarasin.com:8300/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is64",
+    "name": "Jólarásin / Christmas",
+    "streamUrl": "http://s35.myradiostream.com:6396/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is65",
+    "name": "Hringbraut",
+    "streamUrl": "http://www.radio.is:443/hrb",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is66",
+    "name": "Zoom 25",
+    "streamUrl": "http://51.254.216.57:8090/zoom25_live",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is67",
+    "name": "Rispan",
+    "streamUrl": "http://212.30.222.59:2424/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is68",
+    "name": "7",
+    "streamUrl": "http://listen.shoutcast.com/UtvarpAkureyriFM98-7",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is69",
+    "name": "Rúv rás1",
+    "streamUrl": "http://netradio.ruv.is/ras1.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is70",
+    "name": "80's Bylgjan",
+    "streamUrl": "http://icecast.365net.is:8000/orb80s.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is71",
+    "name": "Rás2",
+    "streamUrl": "http://netradio.ruv.is/ras2.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is72",
+    "name": "80´s Flash Back",
+    "streamUrl": "http://ice-11.spilarinn.is/80flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is73",
+    "name": "Visir \"FM957\" 95.7 Reykjavik",
+    "streamUrl": "http://icecast.365net.is:8000/orbFm957.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is74",
+    "name": "Radio Bodun 105.5 Reykjavik",
+    "streamUrl": "http://radio.bodun.is:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is75",
+    "name": "Útvarp Saga",
+    "streamUrl": "https://stream.utvarpsaga.is/Hljodver",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is76",
+    "name": "Rondó",
+    "streamUrl": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is77",
+    "name": "Cathedral 13",
+    "streamUrl": "http://listen.shoutcast.com/cathedralxiii",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is78",
+    "name": "K 100",
+    "streamUrl": "https://ice-11.spilarinn.is/kaninnmobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is79",
+    "name": "Fred Film Radio-26 Íslenska",
+    "streamUrl": "https://s10.webradio-hosting.com/proxy/fredradiois/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is80",
+    "name": "Abdulbasit Abdulsamad",
+    "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is81",
+    "name": "Cork's 96fm",
+    "streamUrl": "http://wg.cdn.tibus.net/96fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is82",
+    "name": "C103 North",
+    "streamUrl": "http://wg.cdn.tibus.net/C103",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is83",
+    "name": "FRED FILM RADIO CH26 Icelandic",
+    "streamUrl": "http://91.121.139.194:8110/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is84",
+    "name": "FMX",
+    "streamUrl": "https://fmradiohub.in/radio?url=http://icecast.365net.is:8000/orbFMX.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is85",
+    "name": "RÚV Rás 1",
+    "streamUrl": "https://prod-54-224-126-57.wostreaming.net/saga-wxstfmmp3-ibc1?",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is86",
+    "name": "Apparatið",
+    "streamUrl": "https://live.visir.is/hls-radio/apparatid/chunklist_DVR.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is87",
+    "name": "FMX Klassík",
+    "streamUrl": "https://live.visir.is/hls-radio/fmx/chunklist_DVR.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is88",
+    "name": "Rás 1",
+    "streamUrl": "https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is89",
+    "name": "Flashback 60's Online - Reykjavik",
+    "streamUrl": "http://radio.is:443/60flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is90",
+    "name": "Flashback 80's 101.5 Reykjavik",
+    "streamUrl": "http://www.radio.is:443/80flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is91",
+    "name": "Flashback 90's Online Reykjavik",
+    "streamUrl": "http://www.radio.is:443/90flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is92",
+    "name": "Flashback 91.9 Reykjavik",
+    "streamUrl": "http://www.radio.is:443/flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is93",
+    "name": "FMX Klassik 103.9 Reykjavik",
+    "streamUrl": "http://vcache1.365net.is/hls-radio/fmx/master.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is94",
+    "name": "Gull Bylgjan 90.9 Reykjavik",
+    "streamUrl": "http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is95",
+    "name": "Kannin FM 100.5 \"K100\" Reykjavik",
+    "streamUrl": "http://www.radio.is:443/kaninnmobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is96",
+    "name": "Kiss FM 104.5 Reykjavik",
+    "streamUrl": "http://stream.radio.is:443/kiss",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is97",
+    "name": "Retro FM 89.5",
+    "streamUrl": "http://www.radio.is:443/retromobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is98",
+    "name": "Saga 99.4 Reykjavik",
+    "streamUrl": "http://www.radio.is:443/saga",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is99",
+    "name": "X977",
+    "streamUrl": "http://icecast.365net.is:8000/orbXid.aac.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is100",
+    "name": "Prufa",
+    "streamUrl": "https://198.245.61.103:8119/index.html",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is101",
+    "name": "Italian Best Music",
+    "streamUrl": "http://streaming.radionomy.com/JamendoLounge",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is102",
+    "name": "Lett Bylgjan",
+    "streamUrl": "http://icecast.365net.is:8000/orbLettBylgjan.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is103",
+    "name": "ICE FM Iceland",
+    "streamUrl": "http://37.59.28.208:8188/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is104",
+    "name": "RV Nll",
+    "streamUrl": "http://netradio.ruv.is:80/ruvnull.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is105",
+    "name": "RV Rond",
+    "streamUrl": "http://netradio.ruv.is:80/rondo.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is106",
+    "name": "Kiss FM",
+    "streamUrl": "https://ice-11.spilarinn.is/kiss",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is107",
+    "name": "Retro 89.5",
+    "streamUrl": "https://ice-11.spilarinn.is/retromobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is108",
+    "name": "Útvarp 101",
+    "streamUrl": "https://stream.101.live/audio/101/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is109",
+    "name": "96 FM",
+    "streamUrl": "https://corus.leanstream.co/CFPLFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is110",
+    "name": "98 FM",
+    "streamUrl": "https://stream.audioxi.com/98",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is111",
+    "name": "001Manimaa hd",
+    "streamUrl": "https://stream.zeno.fm/n655rxm0238uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is112",
+    "name": "JamRock",
+    "streamUrl": "https://stream.zeno.fm/rcmergybtpmtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is113",
+    "name": "Radio Perro Artico",
+    "streamUrl": "https://stream.zeno.fm/p9bpmbketc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is114",
+    "name": "The Howling Tomb",
+    "streamUrl": "https://stream.zeno.fm/hyw46x53z98uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is115",
+    "name": "Gingery",
+    "streamUrl": "https://stream.zeno.fm/im5uhpiwz9dvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is116",
+    "name": "Boudoir",
+    "streamUrl": "https://stream.zeno.fm/8fk3s6yegphvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is117",
+    "name": "Útvarp Keflavík",
+    "streamUrl": "https://stream.zeno.fm/hhdck8pvbphvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is118",
+    "name": "Anuel AA",
+    "streamUrl": "https://stream.zeno.fm/485qy7ewwchvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is119",
+    "name": "Radio Perro",
+    "streamUrl": "https://stream.zeno.fm/b78ugghetc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is120",
+    "name": "Jax ling official radio station",
+    "streamUrl": "https://stream.zeno.fm/qay2essawuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is121",
+    "name": "prufan",
+    "streamUrl": "https://stream.zeno.fm/dw8p60d4xuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is122",
+    "name": "Diseased",
+    "streamUrl": "https://stream.zeno.fm/t5re44ttta0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is123",
+    "name": "Radio Frytki 24H LIVE ON (ONLY MUSIC)",
+    "streamUrl": "https://stream.zeno.fm/4jbp2tq7jvqtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is124",
+    "name": "utvarpið",
+    "streamUrl": "https://stream.zeno.fm/5c3u29xwp68uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is125",
+    "name": "Dannys Rock Station",
+    "streamUrl": "https://stream.zeno.fm/6e3asd896nhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is126",
+    "name": "The First Time",
+    "streamUrl": "https://stream.zeno.fm/1duy32n43hhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is127",
+    "name": "radio c",
+    "streamUrl": "https://stream.zeno.fm/u9xzva5hpd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is128",
+    "name": "Poland from Hetalia Marukaite Chikyuu FM",
+    "streamUrl": "https://stream.zeno.fm/qe3nk3gp2zhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is129",
+    "name": "Tzgospel (Iceland)",
+    "streamUrl": "https://stream.zeno.fm/dc122f8u2ehvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is130",
+    "name": "Unholy",
+    "streamUrl": "https://stream.zeno.fm/41y996trua0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is131",
+    "name": "1vijikandh",
+    "streamUrl": "https://stream.zeno.fm/v5t0ysd9938uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is132",
+    "name": "LOAT",
+    "streamUrl": "https://stream.zeno.fm/e6a1gpmxznhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is133",
+    "name": "Radio Frytki 24h LIVE ON",
+    "streamUrl": "https://stream.zeno.fm/93xzfhatmwxtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is134",
+    "name": "Skaga Rásin",
+    "streamUrl": "https://stream.zeno.fm/0b1q040fuuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is135",
+    "name": "The tech community",
+    "streamUrl": "https://stream.zeno.fm/b3xpzbdfeq8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is136",
+    "name": "asdsdad",
+    "streamUrl": "https://stream.zeno.fm/zzfjff5jch0vv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is137",
+    "name": "Effaþa",
+    "streamUrl": "https://stream.zeno.fm/aa61r7cdfc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is138",
+    "name": "ABBYY FineReader 11 64",
+    "streamUrl": "https://stream.zeno.fm/odxzhzufoimuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is139",
+    "name": "ÁttanFM",
+    "streamUrl": "http://www.radio.is:443/attan",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is140",
+    "name": "Ice FM Online",
+    "streamUrl": "http://37.59.28.208:8188/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is141",
+    "name": "RÚV",
+    "streamUrl": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is142",
+    "name": "Sudurland FM 96.3",
+    "streamUrl": "http://stream3.radio.is:443/saga",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is143",
+    "name": "RUV Ras 1",
+    "streamUrl": "https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live/stream1.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is144",
+    "name": "Making Waves",
+    "streamUrl": "https://stream.zeno.fm/5dgevfbqyhhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is145",
+    "name": "Radio Deep Underground",
+    "streamUrl": "http://radiodeepunderground.com:8000/rdu.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is146",
+    "name": "We Are The Brians",
+    "streamUrl": "http://thebrians.mynetgear.com:8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is147",
+    "name": "Íslenska Skaga Rásin",
+    "streamUrl": "http://1985.is:8218/skagarasinis",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is148",
+    "name": "Útvarp Boðun",
+    "streamUrl": "https://bodun.is:8443/stream?type=.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is149",
+    "name": "KrakkaRÚV",
+    "streamUrl": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras4/_definst_/live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is150",
+    "name": "FRED FILM RADIO Icelandic",
+    "streamUrl": "http://s6.webradio-hosting.com:8110/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is151",
+    "name": "KFM Iceland",
+    "streamUrl": "http://s28.myradiostream.com:28330/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is152",
+    "name": "Jóla Skaga Rásin",
+    "streamUrl": "https://jol.skagarasin.is",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is153",
+    "name": "Flashback 60’s",
+    "streamUrl": "http://ice-11.spilarinn.is/60flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is154",
+    "name": "Retró Skaga Rásin",
+    "streamUrl": "http://1985.is:8220/skagarasinretro",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is155",
+    "name": "Flashback 90’s",
+    "streamUrl": "http://ice-11.spilarinn.is/90flashback",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is156",
+    "name": "Vinyl Tónlist Netútvarp",
+    "streamUrl": "https://s3.voscast.com:10165/Hljodver",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is157",
+    "name": "Jahta",
+    "streamUrl": "https://usa7.fastcast4u.com/proxy/mdjscwwh?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is158",
+    "name": "X977 radio",
+    "streamUrl": "https://live.visir.is/hls-radio/x977/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is159",
+    "name": "Reykjavik",
+    "streamUrl": "https://stream.zeno.fm/52gf9f8u2ehvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is160",
+    "name": "Krakka RÚV radio",
+    "streamUrl": "http://netradio.ruv.is:80/krakkaruv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is161",
+    "name": "K100.5 Kaninn",
+    "streamUrl": "http://stream3.radio.is:443/kaninnmobile",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is162",
+    "name": "Kiss FM (Reykjavík)",
+    "streamUrl": "https://stream.pcradio.ru/kissfm_is-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is163",
+    "name": "GusGus",
+    "streamUrl": "https://stream.pcradio.ru/gus_gus-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is164",
+    "name": "Bylgjan Islenska",
+    "streamUrl": "https://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is165",
+    "name": "Utvarp Kantrybaer",
+    "streamUrl": "http://93.95.74.162:8000",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is166",
+    "name": "Flass 104.5",
+    "streamUrl": "http://radio.is:443/flass?type=.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is167",
+    "name": "RUV Rondo",
+    "streamUrl": "http://netradio.ruv.is/rondo.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is168",
+    "name": "Krakka RUV",
+    "streamUrl": "http://netradio.ruv.is/krakkaruv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is169",
+    "name": "Eve-Radio",
+    "streamUrl": "http://media01.gamingnow.net:8000/erweb.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is170",
+    "name": "kyak106",
+    "streamUrl": "https://streamingv2.shoutcast.com/kyak106",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is171",
+    "name": "FM Trölli",
+    "streamUrl": "https://hb.trolli.is/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is172",
+    "name": "105.5 THE HIITZ",
+    "streamUrl": "https://stream.zeno.fm/a9ydz10hsxltv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_iceland"
+  },
+  {
+    "id": "is173",
+    "name": "Bylgjan 80s",
+    "streamUrl": "https://live.visir.is/hls-radio/80s/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_iceland"
   }
 ]
