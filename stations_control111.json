@@ -1,1194 +1,1210 @@
 [
   {
-    "id": "se01",
-    "name": "Guldkanalen 70-tal",
-    "streamUrl": "http://stream.dbmedia.se/gk70tal96",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se02",
-    "name": "Puls FM Varberg",
-    "streamUrl": "https://pulsfmvbg.radioca.st/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se03",
-    "name": "RIX FM",
-    "streamUrl": "http://fm01-ice.stream.khz.se/fm01_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se04",
-    "name": "Radio Krokom",
-    "streamUrl": "https://www.radiokrokom.se/Webradio/webbradio_mediaspelare.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se05",
-    "name": "Pulsefm.se",
-    "streamUrl": "http://quasar.shoutca.st:8092/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se06",
-    "name": "NRJ Sweden",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se07",
-    "name": "All Radio",
-    "streamUrl": "https://s5.radio.co/s0072b90d9/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se08",
-    "name": "Dj Lobo Radio",
-    "streamUrl": "http://streaming.xtservers.com:8000",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se09",
-    "name": "Sveriges Radio P4 Stockholm",
-    "streamUrl": "https://edge2.sr.se/p4sth-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se10",
-    "name": "Radio Gbg Folk",
-    "streamUrl": "http://studio.isasecret.com:8010/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se11",
-    "name": "Bandit Metal",
-    "streamUrl": "http://wr03-ice.stream.khz.se/wr03_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se12",
-    "name": "Radio Topp 40 Sverige",
-    "streamUrl": "https://live-bauersehls.sharp-stream.com/topp40_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se13",
-    "name": "Pop & Rock",
-    "streamUrl": "http://62.101.46.15:8000/poporock",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se14",
-    "name": "Sveriges Radio P4 Skaraborg",
-    "streamUrl": "https://edge1.sr.se/p4skbg-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se15",
-    "name": "Sveriges Radio P4 Väst",
-    "streamUrl": "https://edge1.sr.se/p4vast-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se16",
-    "name": "Trucknet Radio",
-    "streamUrl": "http://stream.ueteknik.se:8000/trucknetradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se17",
-    "name": "Lugna Favoriter",
-    "streamUrl": "http://fm03-ice.stream.khz.se/fm03_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se18",
-    "name": "Sveriges Radio P4 Malmöhus",
-    "streamUrl": "https://edge2.sr.se/p4malm-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se19",
-    "name": "Svenska Favoriter",
-    "streamUrl": "http://wr13-ice.stream.khz.se/wr13_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se20",
-    "name": "Sveriges Radio SR Extra13",
-    "streamUrl": "https://http-live.sr.se/srextra13-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se21",
-    "name": "Svensk Pop",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/svenskpop_se_aacp",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se22",
-    "name": "Country Rocks Radio",
-    "streamUrl": "https://webradio.dbmedia.se/streams/crr96.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se23",
-    "name": "Dansbandsfavoriter",
-    "streamUrl": "http://wr15-ice.stream.khz.se/wr15_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se24",
-    "name": "RIX FM Festival",
-    "streamUrl": "http://wr17-ice.stream.khz.se/wr17_mp3?platform=web?playerid=mtgradio-mytuner",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se25",
-    "name": "Vinyl FM 107",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se26",
-    "name": "Mix Megapol",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se27",
-    "name": "Sveriges Radio P2",
-    "streamUrl": "https://edge1.sr.se/p2-mp3-96",
+    "id": "ie1",
+    "name": "Christmas FM Classics",
+    "streamUrl": "https://christmasfm.cdnstream1.com/2550_128.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se28",
-    "name": "Power Hit Radio",
-    "streamUrl": "http://fm04-ice.stream.khz.se/fm04_mp3?playerid=mtgradio-mytuner",
+    "id": "ie2",
+    "name": "Spin South West",
+    "streamUrl": "https://stream.audioxi.com/SW",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se29",
-    "name": "Radio Gävle 102.7",
-    "streamUrl": "http://kepler.shoutca.st:8271/stream1",
+    "id": "ie3",
+    "name": "FM 104",
+    "streamUrl": "https://live.onic.ie/stream-fm104",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie4",
+    "name": "Ballina Killaloe Local Radio",
+    "streamUrl": "https://das-edge13-live365-dal02.cdnstream.com/a89412",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se30",
-    "name": "Lugna Klassiker",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp",
+    "id": "ie5",
+    "name": "The Breeze Ireland",
+    "streamUrl": "https://easyradio.radioca.st",
     "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
+    "genre": "genre_relax",
+    "country": "country_ireland"
   },
   {
-    "id": "se31",
-    "name": "Bandit Ballads",
-    "streamUrl": "http://wr21-ice.stream.khz.se/wr21_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se32",
-    "name": "Hallsta-Sura Närradio",
-    "streamUrl": "http://s16.myradiostream.com:6630/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se33",
-    "name": "Lite FM",
-    "streamUrl": "https://streaming.943.se/litefm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se34",
-    "name": "Country Classics",
-    "streamUrl": "http://wr14-ice.stream.khz.se/wr14_mp3?playerid=mtgradio-mytuner",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se35",
-    "name": "Sveriges Radio P4 Plus",
-    "streamUrl": "https://edge2.sr.se/p4plus-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se36",
-    "name": "Pirate Rock",
-    "streamUrl": "https://stream.piraterock.se:8100/webradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se37",
-    "name": "Radio Hope",
-    "streamUrl": "https://s2.radio.co/sfbf5f5b85/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se38",
-    "name": "Star 60",
-    "streamUrl": "http://wr09-ice.stream.khz.se/wr09_mp3?playerid=mtgradio-mytuner",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se39",
-    "name": "Radio pE20",
-    "streamUrl": "https://streaming.943.se/radiope20",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se40",
-    "name": "Power Street",
-    "streamUrl": "http://wr07-ice.stream.khz.se/wr07_mp3?playerid=mtgradio-mytuner",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se41",
-    "name": "Indie 101",
-    "streamUrl": "http://wr05-ice.stream.khz.se/wr05_mp3?playerid=mtgradio-mytuner",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se42",
-    "name": "Star 90",
-    "streamUrl": "http://wr12-ice.stream.khz.se/wr12_mp3",
+    "id": "ie6",
+    "name": "Noughty Beats",
+    "streamUrl": "https://stream.audioxi.com/NBEATSAAC",
     "imageUrl": "__________________________",
     "genre": "genre_90s",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se43",
-    "name": "Sveriges Radio P3",
-    "streamUrl": "https://edge2.sr.se/p3-mp3-96",
+    "id": "ie7",
+    "name": "NLR Dublin",
+    "streamUrl": "http://s4.myradiostream.com:4062/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se44",
-    "name": "Radio Gagnef",
-    "streamUrl": "http://stream.ueteknik.se:8000/gagnef",
+    "id": "ie8",
+    "name": "St. Ita's Hospital Radio",
+    "streamUrl": "http://uk2.streamingpulse.com:8042/listen.pls",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se45",
-    "name": "Sabaton On Air",
-    "streamUrl": "http://wr20-ice.stream.khz.se/wr20_mp3?platform=web",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se46",
-    "name": "Radio Siljan",
-    "streamUrl": "http://stream.radiosiljan.com:8000/siljan",
+    "id": "ie9",
+    "name": "Claremorris Community Radio",
+    "streamUrl": "https://s2.radio.co/sddd96b52a/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se47",
-    "name": "Star 70",
-    "streamUrl": "http://wr10-ice.stream.khz.se/wr10_mp3?playerid=mtgradio-mytuner",
+    "id": "ie10",
+    "name": "Global Irish Radio",
+    "streamUrl": "https://s3.radio.co/s05b500bb8/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie11",
+    "name": "Today 80s",
+    "streamUrl": "http://edge3.audioxi.com/T80",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se48",
-    "name": "Bandit Classic Rock",
-    "streamUrl": "http://wr11-ice.stream.khz.se/wr11_mp3",
+    "id": "ie12",
+    "name": "JazzÉIRE",
+    "streamUrl": "http://visual.shoutca.st:8096",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie13",
+    "name": "NEAR FM",
+    "streamUrl": "http://proxima.shoutca.st:8114/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie14",
+    "name": "Our Voice FM",
+    "streamUrl": "https://s3.radio.co/s1a0d3a043/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie15",
+    "name": "Midlands 103",
+    "streamUrl": "https://stream.rcs.revma.com/tq45ca1vftzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie16",
+    "name": "Minimal & Deep-tech on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/574",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie17",
+    "name": "Classic Hits Radio",
+    "streamUrl": "https://edge.audioxi.com/CLASSIC",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie18",
+    "name": "Event FM",
+    "streamUrl": "http://uk6.internet-radio.com:8085/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie19",
+    "name": "Belfield FM",
+    "streamUrl": "https://live.heanet.ie/73b725db6e62550832232116ac7202e8/ngrp:720p_all/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie20",
+    "name": "Its All Mixed Up!",
+    "streamUrl": "https://ec1.yesstreaming.net:1970/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie21",
+    "name": "Trance Illusion on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/941",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie22",
+    "name": "RTÉ Lyric FM",
+    "streamUrl": "https://27913.live.streamtheworld.com/RTE_LYRIC_FMAACLC/HLS/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie23",
+    "name": "Ignoreradio Shoegaze",
+    "streamUrl": "http://uk7.internet-radio.com:8313/stream",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se49",
-    "name": "Guldkanalen 90-tal",
-    "streamUrl": "http://stream.dbmedia.se/gk90tal96",
+    "id": "ie24",
+    "name": "The Sound of Ireland",
+    "streamUrl": "https://christmasfm.cdnstream1.com/2548_128.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie25",
+    "name": "PlanetRadio.ie Country Hits",
+    "streamUrl": "https://media.planetradio.ie/radio/8010/Country",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie26",
+    "name": "Today 90s",
+    "streamUrl": "http://edge3.audioxi.com/T90AAC",
     "imageUrl": "__________________________",
     "genre": "genre_90s",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se50",
-    "name": "Sveriges Radio P4 Västerbotten",
-    "streamUrl": "https://edge1.sr.se/p4vbtn-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se51",
-    "name": "Sveriges Radio P4 Kalmar",
-    "streamUrl": "https://edge2.sr.se/p4kalm-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se52",
-    "name": "All Radio Sommar",
-    "streamUrl": "https://s5.radio.co/s0072b90d9/low",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se53",
-    "name": "HitNet",
-    "streamUrl": "https://hitnet.live/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se54",
-    "name": "SOULFOOD",
-    "streamUrl": "https://soulfood.stream.laut.fm/soulfood",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se55",
-    "name": "Sveriges Radio SR Extra14",
-    "streamUrl": "https://http-live.sr.se/srextra14-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se56",
-    "name": "Radio Söderhamn",
-    "streamUrl": "http://80.245.225.101:8000/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se57",
-    "name": "Sveriges Radio P4 Kristianstad",
-    "streamUrl": "https://edge1.sr.se/p4krist-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se58",
-    "name": "Guldkanalen 80-tal",
-    "streamUrl": "http://stream.dbmedia.se/gk80tal96",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se59",
-    "name": "Oldies FM",
-    "streamUrl": "https://stream3.themediasite.co.uk:8030/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se60",
-    "name": "Radio Gbg Laganini",
-    "streamUrl": "http://studio.isasecret.com:8040/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se61",
-    "name": "STAR FM",
-    "streamUrl": "http://fm05-ice.stream.khz.se/fm05_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se62",
-    "name": "Sveriges Radio P3 Din Gata",
-    "streamUrl": "https://edge2.sr.se/dingata-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se63",
-    "name": "Radio Haninge Direkt",
-    "streamUrl": "http://213.115.49.175:1157/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se64",
-    "name": "Sveriges Radio P4 Gävleborg",
-    "streamUrl": "https://edge2.sr.se/p4gavl-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se65",
-    "name": "Sveriges Radio P4 Norrbotten",
-    "streamUrl": "https://edge1.sr.se/p4nbtn-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se66",
-    "name": "Guldkanalen 60-tal",
-    "streamUrl": "http://stream.dbmedia.se/gk60tal96",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se67",
-    "name": "Sveriges Radio P4 Kronoberg",
-    "streamUrl": "https://edge1.sr.se/p4kron-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se68",
-    "name": "Sveriges Radio P4 Jönköping",
-    "streamUrl": "https://edge1.sr.se/p4jkpg-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se69",
-    "name": "Mittradion",
-    "streamUrl": "http://stream.ueteknik.se:8000/mittradion",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se70",
-    "name": "Sveriges Radio P4 Gotland",
-    "streamUrl": "https://edge2.sr.se/p4gotl-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se71",
-    "name": "MusicforHisfame Radio",
-    "streamUrl": "https://streamer.radio.co/s260c0d9fc/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se72",
-    "name": "Sveriges Radio P4 Blekinge",
-    "streamUrl": "https://edge2.sr.se/p4blek-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se73",
-    "name": "Radio Sotenäs",
-    "streamUrl": "https://sc1.radiosotenas.se/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se74",
-    "name": "The ERICADE Radio Network",
-    "streamUrl": "https://radio.ericade.net/sc/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se75",
-    "name": "Radio Gbg Sevdah",
-    "streamUrl": "http://studio.isasecret.com:8030/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se76",
-    "name": "Soul Classics",
-    "streamUrl": "http://wr08-ice.stream.khz.se/wr08_mp3?playerid=mtgradio-mytuner",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se77",
-    "name": "Radio10 Worship",
-    "streamUrl": "https://s2.radio.co/sadf67c8ed/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se78",
-    "name": "Radio Treby",
-    "streamUrl": "https://streaming.943.se/treby878",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se79",
-    "name": "Sveriges Radio P4 Sörmland",
-    "streamUrl": "https://edge2.sr.se/p4sorm-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se80",
-    "name": "Dansbandskanalen",
-    "streamUrl": "http://stream.dbmedia.se/dbk96",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se81",
-    "name": "Retro FM",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se82",
-    "name": "Mix Megapol Göteborg",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_aacp",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se83",
-    "name": "RIX FM Fresh",
-    "streamUrl": "http://wr04-ice.stream.khz.se/wr04_mp3?playerid=mtgradio-mytuner",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se84",
-    "name": "Puls FM Borås",
-    "streamUrl": "https://pulsfm.radioca.st/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se85",
-    "name": "Sveriges Radio P4 Örebro",
-    "streamUrl": "https://edge1.sr.se/p4oreb-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se86",
-    "name": "Star 80",
-    "streamUrl": "http://wr02-ice.stream.khz.se/wr02_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se87",
-    "name": "Dansbandskanalen Julmusik",
-    "streamUrl": "http://stream.dbmedia.se/dbkjul96",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se88",
-    "name": "Sveriges Radio P4 Göteborg",
-    "streamUrl": "https://edge1.sr.se/p4gbg-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se89",
-    "name": "Disco Defenders",
-    "streamUrl": "http://wr17-ice.stream.khz.se/wr17_mp3?platform=web",
+    "id": "ie27",
+    "name": "Club FM Dublin",
+    "streamUrl": "http://ww25.live.clubfmdublin.com/clubfm",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se90",
-    "name": "GVFM",
-    "streamUrl": "https://gvfm.ice.infomaniak.ch/gvfm-64.mp3",
+    "id": "ie28",
+    "name": "Radio Zodiac Ireland",
+    "streamUrl": "https://listen.radioking.com/radio/124966/stream/164656",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se91",
-    "name": "Rock Klassiker",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp",
+    "id": "ie29",
+    "name": "Beachball Radio",
+    "streamUrl": "http://ec1.yesstreaming.net:2210/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
+    "genre": "genre_pop",
+    "country": "country_ireland"
   },
   {
-    "id": "se92",
-    "name": "Bandit Rock",
-    "streamUrl": "http://fm02-ice.stream.khz.se/fm02_mp3",
+    "id": "ie30",
+    "name": "Dundalk FM",
+    "streamUrl": "http://80.249.249.245:8000/",
     "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
+    "genre": "genre_pop",
+    "country": "country_ireland"
   },
   {
-    "id": "se93",
-    "name": "Electro Lounge",
-    "streamUrl": "http://wr16-ice.stream.khz.se/wr16_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572021026",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se94",
-    "name": "Radio Gold Sweden",
-    "streamUrl": "https://streaming.943.se/radiogold",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se95",
-    "name": "Power Club",
-    "streamUrl": "http://wr06-ice.stream.khz.se/wr06_mp3?playerid=mtgradio-mytuner",
+    "id": "ie31",
+    "name": "Deep Planet on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/947",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se96",
-    "name": "Radio10 Classic",
-    "streamUrl": "https://streaming.radio.co/sfbb7cdc28/listen",
+    "id": "ie32",
+    "name": "iRadio Old Skool",
+    "streamUrl": "https://stream.audioxi.com/IROSkool",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se97",
-    "name": "Sveriges Radio P4 Uppland",
-    "streamUrl": "https://edge2.sr.se/p4uppl-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se98",
-    "name": "Radio AF",
-    "streamUrl": "https://stream.rcs.revma.com/e3tha8v4dkhvv",
+    "id": "ie33",
+    "name": "Cork Music Station",
+    "streamUrl": "https://streamer.radio.co/s1a04f8902/listen",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se99",
-    "name": "Tyresöradion 91.4 FM",
-    "streamUrl": "https://s5.radio.co/s8ace52d32/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se100",
-    "name": "Sveriges Radio SR Extra12",
-    "streamUrl": "https://http-live.sr.se/srextra12-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se101",
-    "name": "Sveriges Radio SR Sápmi",
-    "streamUrl": "https://edge2.sr.se/sameradion-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se102",
-    "name": "Radio Gbg 94.9 FM",
-    "streamUrl": "http://62.210.188.38:8050/relay",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se103",
-    "name": "Radio Sandviken 89.9",
-    "streamUrl": "http://rssand.se:4027/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se104",
-    "name": "Sveriges Radio P6",
-    "streamUrl": "https://edge2.sr.se/p6-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se105",
-    "name": "Sveriges Radio SR Extra11",
-    "streamUrl": "https://http-live.sr.se/srextra11-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se106",
-    "name": "Sveriges Radio SR Extra10",
-    "streamUrl": "https://http-live.sr.se/srextra10-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se107",
-    "name": "Sveriges Radio SR Extra09",
-    "streamUrl": "https://http-live.sr.se/srextra09-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se108",
-    "name": "Sveriges Radio SR Extra08",
-    "streamUrl": "https://http-live.sr.se/srextra08-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se109",
-    "name": "Sveriges Radio SR Extra07",
-    "streamUrl": "https://http-live.sr.se/srextra07-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se110",
-    "name": "Sveriges Radio SR Extra06",
-    "streamUrl": "https://http-live.sr.se/srextra06-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se111",
-    "name": "Sveriges Radio SR Extra05",
-    "streamUrl": "https://http-live.sr.se/srextra05-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se112",
-    "name": "Sveriges Radio SR Extra04",
-    "streamUrl": "https://http-live.sr.se/srextra04-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se113",
-    "name": "Sveriges Radio SR Extra03",
-    "streamUrl": "https://http-live.sr.se/srextra03-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se114",
-    "name": "Sveriges Radio SR Extra02",
-    "streamUrl": "https://http-live.sr.se/srextra02-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se115",
-    "name": "Sveriges Radio SR Extra01",
-    "streamUrl": "https://http-live.sr.se/srextra01-mp3-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se116",
-    "name": "Sveriges Radio Finska",
-    "streamUrl": "https://edge2.sr.se/finska-mp3-96",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se117",
-    "name": "Sveriges Radio Radioapans Knattekanal",
-    "streamUrl": "https://edge2.sr.se/knattekanalen-mp3-96",
+    "id": "ie34",
+    "name": "RTÉ Junior",
+    "streamUrl": "http://23613.live.streamtheworld.com/RTE_JR_RADIO.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_kids",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se118",
-    "name": "Radio Nord 98.3",
-    "streamUrl": "http://radio.tabyenskilda.se:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se119",
-    "name": "KURDmix",
-    "streamUrl": "http://solid55.streamupsolutions.com:32000/stream",
+    "id": "ie35",
+    "name": "Raidio Na Life",
+    "streamUrl": "http://beryl.streamguys.com:5010/live",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se120",
-    "name": "Northern Metal Radio Extreme",
-    "streamUrl": "https://s2.free-shoutcast.com/stream/18092",
+    "id": "ie36",
+    "name": "Pirate FM",
+    "streamUrl": "https://control.internet-radio.com:2199/tunein/dublinpirate.pls",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se121",
-    "name": "Sveriges Radio P1",
-    "streamUrl": "https://http-live.sr.se/p1-mp3-192",
+    "id": "ie37",
+    "name": "Wired FM",
+    "streamUrl": "https://s2.radio.co/sf0986595a/listen",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_hits",
+    "country": "country_ireland"
   },
   {
-    "id": "se122",
-    "name": "Svensk Folkmusik AkkA Radio",
-    "streamUrl": "http://mediaserv38.live-streams.nl:8107/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se123",
-    "name": "Radio Rivendell",
-    "streamUrl": "https://play.radiorivendell.com/radio/8000/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se124",
-    "name": "Popradio Stockholm",
-    "streamUrl": "https://popradiostream.se/",
+    "id": "ie38",
+    "name": "East Coast FM",
+    "streamUrl": "https://live-bauerie.sharp-stream.com/EASTCOAST",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se125",
-    "name": "Sveriges Radio P4 Södertälje",
-    "streamUrl": "https://edge2.sr.se/p4digi-mp3-96",
+    "id": "ie39",
+    "name": "Minimal & Techno on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/940",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_dance",
+    "country": "country_ireland"
   },
   {
-    "id": "se126",
-    "name": "Orsa Närradio",
-    "streamUrl": "http://stream.ueteknik.se:8000/orsa",
+    "id": "ie40",
+    "name": "RADIO MARIA IRELAND",
+    "streamUrl": "http://dreamsiteradiocp2.com:8018/",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
+    "genre": "genre_religious",
+    "country": "country_ireland"
   },
   {
-    "id": "se127",
-    "name": "Radio Kiruna",
-    "streamUrl": "http://193.45.227.221:443/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se128",
-    "name": "Radio Skövde",
-    "streamUrl": "http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8",
+    "id": "ie41",
+    "name": "Live Ireland Channel 1",
+    "streamUrl": "http://192.111.140.11:8058/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se129",
-    "name": "Radio Avesta 103.5 FM",
-    "streamUrl": "http://test.radioavesta.se:8000/",
+    "id": "ie42",
+    "name": "RTÉ Pulse",
+    "streamUrl": "http://28523.live.streamtheworld.com/RTE_PULSE.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie43",
+    "name": "Highland Radio",
+    "streamUrl": "https://edge.audioxi.com/HIGHLAND",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se130",
-    "name": "Radio Ayeneh 97.3",
-    "streamUrl": "http://radioayeneh1.serveftp.com/",
+    "id": "ie44",
+    "name": "Today FM",
+    "streamUrl": "https://stream.audioxi.com/TD",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie45",
+    "name": "Ambient Lounge on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/2348",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie46",
+    "name": "Northern Sound",
+    "streamUrl": "https://edge.audioxi.com/NORTHERNSOUND",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie47",
+    "name": "OTB AM Off the Ball",
+    "streamUrl": "https://stream.audioxi.com/OTB",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie48",
+    "name": "Freedom FM",
+    "streamUrl": "https://edge3.audioxi.com/FREEDOMFMAAC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se131",
-    "name": "AORDreamer",
-    "streamUrl": "http://178.33.33.176:8060/stream1",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se132",
-    "name": "LeonFM",
-    "streamUrl": "https://leonfmlive.stream.laut.fm/leonfmlive",
+    "id": "ie49",
+    "name": "Tipp FM",
+    "streamUrl": "https://live-bauerie.sharp-stream.com/TIPPFM",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se133",
-    "name": "Effekten Radio",
-    "streamUrl": "https://s107.radiolize.com:8090/radio.mp3",
+    "id": "ie50",
+    "name": "Radio Nova",
+    "streamUrl": "http://edge2.audioxi.com/NOVA",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se134",
-    "name": "Retreat Radio",
-    "streamUrl": "http://retreatradio.out.airtime.pro:8000/retreatradio_b",
+    "id": "ie51",
+    "name": "Galway Bay FM",
+    "streamUrl": "https://wg.cdn.tibus.net/galwaybay.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_sweden"
+    "genre": "genre_pop",
+    "country": "country_ireland"
   },
   {
-    "id": "se135",
-    "name": "Radio Nostalgi",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+    "id": "ie52",
+    "name": "Greatest Hits",
+    "streamUrl": "https://c16.radioboss.fm:18267/stream",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se136",
-    "name": "Sveriges Radio P4 Sjuhärad",
-    "streamUrl": "https://edge2.sr.se/p4sju-mp3-96",
+    "id": "ie53",
+    "name": "Gem Radio Gold",
+    "streamUrl": "https://gemradio.radioca.st",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_retro",
+    "country": "country_ireland"
   },
   {
-    "id": "se137",
-    "name": "Sveriges Radio P4 Värmland",
-    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4vrml.m3u8",
+    "id": "ie54",
+    "name": "UDMI Radio",
+    "streamUrl": "http://142.4.215.64:8008/",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_pop",
+    "country": "country_ireland"
   },
   {
-    "id": "se138",
-    "name": "Sveriges Radio P4 Jämtland",
-    "streamUrl": "https://edge2.sr.se/p4jmtl-mp3-96",
+    "id": "ie55",
+    "name": "Solid Gold Radio Ireland 3",
+    "streamUrl": "https://az10.yesstreaming.net:8300/radio.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_retro",
+    "country": "country_ireland"
   },
   {
-    "id": "se139",
-    "name": "Sveriges Radio P4 Dalarna",
-    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4dala.m3u8",
+    "id": "ie56",
+    "name": "Sunshine Soul",
+    "streamUrl": "https://live-bauerie.sharp-stream.com/SSOULAAC",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_relax",
+    "country": "country_ireland"
   },
   {
-    "id": "se140",
-    "name": "Sveriges Radio P4 Halland",
-    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4hall.m3u8",
+    "id": "ie57",
+    "name": "Raidió Corca Baiscinn",
+    "streamUrl": "http://178.33.135.245:3074/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_pop",
+    "country": "country_ireland"
   },
   {
-    "id": "se141",
-    "name": "Sveriges Radio P4 Östergötland",
-    "streamUrl": "https://edge2.sr.se/p4ostg-mp3-96",
+    "id": "ie58",
+    "name": "Psybient Sunset on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/932",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_dance",
+    "country": "country_ireland"
   },
   {
-    "id": "se142",
-    "name": "Sveriges Radio P4 Västmanland",
-    "streamUrl": "https://edge2.sr.se/p4vstm-mp3-96",
+    "id": "ie59",
+    "name": "Open-Stage on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/957",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_dance",
+    "country": "country_ireland"
   },
   {
-    "id": "se143",
-    "name": "Sveriges Radio P4 Västernorrland",
-    "streamUrl": "https://http-live.sr.se/p4vasternorrland-aac-192",
+    "id": "ie60",
+    "name": "RosFM 94.6",
+    "streamUrl": "https://fra-ranger01.dedicateware.com:2020/stream/rosfm946/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_sweden"
+    "genre": "genre_pop",
+    "country": "country_ireland"
   },
   {
-    "id": "se144",
-    "name": "Sveriges Radio P2 Musik",
-    "streamUrl": "https://ljud1-cdn.sr.se/lc/p2.m3u8",
+    "id": "ie61",
+    "name": "Rebel Ska and Reggae",
+    "streamUrl": "https://totalbroadcast.net/streams/rebel64.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie62",
+    "name": "Sunshine 106.8 FM",
+    "streamUrl": "https://live-bauerie.sharp-stream.com/SUNAAC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie63",
+    "name": "Cork's Red FM",
+    "streamUrl": "https://edge.audioxi.com/RED",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie64",
+    "name": "Solid Gold Radio Ireland 2",
+    "streamUrl": "https://az10.yesstreaming.net:8160/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie65",
+    "name": "The 90s Network",
+    "streamUrl": "http://sc2.streamingpulse.com:2199/tunein/90snetwork.asx",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie66",
+    "name": "Christmas FM",
+    "streamUrl": "https://christmasfm.cdnstream1.com/2547_128.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie67",
+    "name": "NewsTalk 106-108",
+    "streamUrl": "https://edge.audioxi.com/NT",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie68",
+    "name": "Chillout Essentials on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/931",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie69",
+    "name": "Celtic Roots Radio",
+    "streamUrl": "http://eu8.fastcast4u.com:5340/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie70",
+    "name": "PlanetRadio.ie",
+    "streamUrl": "https://media.planetradio.ie/radio/8000/OnAir",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie71",
+    "name": "Christmas FM Classical",
+    "streamUrl": "https://christmasfm.cdnstream1.com/2549_64.aac",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se145",
-    "name": "Gold 102.4",
-    "streamUrl": "http://goldfm.nu:8082/goldfm_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se146",
-    "name": "Guldkanalen Helsingborg",
-    "streamUrl": "http://stream.dbmedia.se/gkhbg96",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_sweden"
-  },
-  {
-    "id": "se147",
-    "name": "BozRadio",
-    "streamUrl": "http://das-edge14-live365-dal02.cdnstream.com/a80252",
+    "id": "ie72",
+    "name": "Today XM",
+    "streamUrl": "https://stream.audioxi.com/XMAAC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se148",
-    "name": "Radio Tiempo Nuevo",
-    "streamUrl": "http://s26.myradiostream.com:20670/",
+    "id": "ie73",
+    "name": "South East Radio",
+    "streamUrl": "https://edge4.audioxi.com/SOUTHEAST",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_sweden"
+    "country": "country_ireland"
   },
   {
-    "id": "se149",
-    "name": "Radio Los Andes Gotemburgo",
-    "streamUrl": "http://streaming.xtservers.com:8006",
+    "id": "ie74",
+    "name": "Finn Valley FM",
+    "streamUrl": "http://visual.shoutca.st/stream/finnvalleyfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie75",
+    "name": "Beat 102 103",
+    "streamUrl": "https://stream.audioxi.com/BEATAAC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie76",
+    "name": "Bass Station DnB on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/933",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie77",
+    "name": "Decades Radio Dublin",
+    "streamUrl": "https://my2.radiolize.com/radio/8150/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie78",
+    "name": "RTÉ Raidió Na Gaeltachta",
+    "streamUrl": "http://28993.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTA.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_sweden"
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie79",
+    "name": "WMR Radio Online",
+    "streamUrl": "https://c2.radioboss.fm:18291/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie80",
+    "name": "RTÉ 2FM",
+    "streamUrl": "http://icecast2.rte.ie/ie2fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie81",
+    "name": "All Gold Radio",
+    "streamUrl": "https://centova1.cheapshoutcast.com/proxy/paul",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie82",
+    "name": "Lockdown Live Radio",
+    "streamUrl": "http://studio24.radiolize.com:8050/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie83",
+    "name": "Solid Gold Radio Ireland",
+    "streamUrl": "https://az10.yesstreaming.net:8150/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie84",
+    "name": "Siamsa",
+    "streamUrl": "https://cast02.siamsa.ie/radio/8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie85",
+    "name": "Spin 103.8 FM",
+    "streamUrl": "https://edge.audioxi.com/SP",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie86",
+    "name": "Progressive & Tech-house on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/939",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie87",
+    "name": "LMFM Country Express",
+    "streamUrl": "https://live.onic.ie/stream-country",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie88",
+    "name": "Midwest Radio FM",
+    "streamUrl": "http://edge-audio-03-gos2.sharp-stream.com/midwestfmie.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie89",
+    "name": "RetroNow",
+    "streamUrl": "http://cassini.shoutca.st:9007/",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie90",
+    "name": "Radio Kerry",
+    "streamUrl": "https://edge.audioxi.com/KERRY",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie91",
+    "name": "Ocean FM",
+    "streamUrl": "https://edge4.audioxi.com/OCEANSAAC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie92",
+    "name": "Harmony",
+    "streamUrl": "https://totalbroadcast.net/streams/harmony32.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie93",
+    "name": "WLR FM",
+    "streamUrl": "https://stream.audioxi.com/WLRAAC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie94",
+    "name": "Eden FM",
+    "streamUrl": "https://cast5.magicstreams.gr:2199/tunein/edenfmcommunityra.asx",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie95",
+    "name": "Planet Radio Cork Ireland",
+    "streamUrl": "https://ec1.yesstreaming.net:2130/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie96",
+    "name": "8Radio.com",
+    "streamUrl": "https://edge4.audioxi.com/8RADIO",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie97",
+    "name": "Carlow FM",
+    "streamUrl": "https://s21.myradiostream.com/:14706/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie98",
+    "name": "Absolute Irish",
+    "streamUrl": "https://stream.audioxi.com/IRISHAAC",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie99",
+    "name": "Radio Shannonside",
+    "streamUrl": "https://edge.audioxi.com/SHANNONSIDE",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie100",
+    "name": "House & Techno Classics on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/938",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie101",
+    "name": "Submit Promo on MixLive.ie",
+    "streamUrl": "https://strw3.openstream.co/944",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie102",
+    "name": "Clare FM",
+    "streamUrl": "https://edge.audioxi.com/CLAREFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie103",
+    "name": "98FM",
+    "streamUrl": "https://edge2.audioxi.com/98",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie104",
+    "name": "Liffey Sound FM 96.4",
+    "streamUrl": "http://stream.liffeysoundfm.ie:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie105",
+    "name": "RTÉ Radio 1 Extra",
+    "streamUrl": "http://27913.live.streamtheworld.com/RTE_RADIO_1_EXTRA.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie106",
+    "name": "RTÉ 2XM",
+    "streamUrl": "http://27783.live.streamtheworld.com/RTE_2XM.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie107",
+    "name": "RTÉ Radio 1",
+    "streamUrl": "https://25283.live.streamtheworld.com/RTE_1_INTAACLC/HLS/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie108",
+    "name": "RTÉ Gold",
+    "streamUrl": "https://27953.live.streamtheworld.com/RTE_GOLDAACLC/HLS/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie109",
+    "name": "The Zone 102.5 FM",
+    "streamUrl": "http://uk1.internet-radio.com:8355/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie110",
+    "name": "Heartbeat FM",
+    "streamUrl": "https://cast5.magicstreams.gr:2199/tunein/heartbeat.asx",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie111",
+    "name": "Kfm 97.6 FM",
+    "streamUrl": "http://sirius.shoutca.st:9307/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie112",
+    "name": "Gem Radio New Wave",
+    "streamUrl": "https://gemradionw.radioca.st",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie113",
+    "name": "MixLive.ie Progressive Tech House",
+    "streamUrl": "http://2.58.194.54:8870/progressive-tech",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie114",
+    "name": "Radio Psychobilly",
+    "streamUrl": "http://radio-psychobilly.stream.laut.fm/radio-psychobilly",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie115",
+    "name": "Easy Radio Ireland",
+    "streamUrl": "https://nl4.mystreaming.net/uber/easymix/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie116",
+    "name": "PlayFM Dublin",
+    "streamUrl": "https://s107.radiolize.com:8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie117",
+    "name": "Emerald Isle Radio",
+    "streamUrl": "https://a4.asurahosting.com:6600/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie118",
+    "name": "Nova Chill",
+    "streamUrl": "https://edge.audioxi.com/NOVACHILL",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie119",
+    "name": "The 60s Network",
+    "streamUrl": "http://de2.streamingpulse.com:9033/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie120",
+    "name": "Smooth Gold Hits Radio",
+    "streamUrl": "https://a4.asurahosting.com:6620/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie121",
+    "name": "Louth Meath FM",
+    "streamUrl": "https://live.onic.ie/stream-lmfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie122",
+    "name": "Flirt FM 101.3",
+    "streamUrl": "http://audio-edge-kef8b.ams.s.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie123",
+    "name": "EWTN Ireland",
+    "streamUrl": "https://ewtn-sgrewind.streamguys1.com/sgrewind/sky/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie124",
+    "name": "All80sJukebox",
+    "streamUrl": "https://all80s.radioca.st/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie125",
+    "name": "Storm North East",
+    "streamUrl": "http://80.249.249.243:8050/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie126",
+    "name": "West Limerick 102 FM",
+    "streamUrl": "http://s29.myradiostream.com:17796/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie127",
+    "name": "RTÉjr Radio / RTÉ Chill",
+    "streamUrl": "https://27783.live.streamtheworld.com/RTE_JR_RADIOAACLC/HLS/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie128",
+    "name": "MPB Radio 2",
+    "streamUrl": "https://live.one-tv.co.uk/listen/radio2/320k.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie129",
+    "name": "MPB Radio 2 90s and 00s",
+    "streamUrl": "https://radiozender.mpbnetwerken.nl/radio2-90s00s.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie130",
+    "name": "Radio Nova International",
+    "streamUrl": "https://novainternational.out.airtime.pro/novainternational_a",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie131",
+    "name": "Nova 80s",
+    "streamUrl": "https://edge2.audioxi.com/NOVA80",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie132",
+    "name": "Cork 96 FM",
+    "streamUrl": "https://live.onic.ie/stream-96fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie133",
+    "name": "DHR Deep House Radio",
+    "streamUrl": "https://streaming.shoutcast.com/dhr",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie134",
+    "name": "Sold Gold Ireland's Radio Network",
+    "streamUrl": "https://a4.asurahosting.com:6640/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie135",
+    "name": "Storm IRL",
+    "streamUrl": "http://c22.radioboss.fm:8478/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie136",
+    "name": "Energy Ratoath",
+    "streamUrl": "https://cast1.torontocast.com:2025/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie137",
+    "name": "Nova Classic Rock",
+    "streamUrl": "https://edge2.audioxi.com/NOVA",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie138",
+    "name": "Dublin's 98FM",
+    "streamUrl": "https://stream.audioxi.com/98",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie139",
+    "name": "MixLive.ie InsomniaFM",
+    "streamUrl": "http://635.cloudrad.io:8092/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie140",
+    "name": "Q102",
+    "streamUrl": "https://live.onic.ie/stream-q102",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie141",
+    "name": "Limerick's Live 95FM",
+    "streamUrl": "https://live.onic.ie/stream-live95",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie142",
+    "name": "GEM New Wave Radio",
+    "streamUrl": "http://95.217.34.48:8928/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie143",
+    "name": "Sunshine at Christmas",
+    "streamUrl": "https://visual.shoutca.st:8070/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie144",
+    "name": "Dublin's Q102 80s",
+    "streamUrl": "https://live.onic.ie/stream-80s",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie145",
+    "name": "Symphony Radio",
+    "streamUrl": "https://christmasfm.cdnstream1.com/2551_128.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie146",
+    "name": "FM104 HitMix",
+    "streamUrl": "https://live.onic.ie/stream-hits",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie147",
+    "name": "East Coast FM Wicklow",
+    "streamUrl": "http://sirius.shoutca.st:8461/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie148",
+    "name": "Connemara FM",
+    "streamUrl": "https://audio-edge-ey5nr.ams.s.radiomast.io/5008371a-b8fd-4745-a5a3-e17837dad90c",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie149",
+    "name": "PowerFM Dublin",
+    "streamUrl": "https://www.powerfm.org:8443/powerfm.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie150",
+    "name": "C103",
+    "streamUrl": "https://live.onic.ie/stream-c103-north",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ireland"
+  },
+  {
+    "id": "ie151",
+    "name": "Solid Gold Radio Ireland 3 v2",
+    "streamUrl": "https://a4.asurahosting.com:6660/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_ireland"
   }
 ]
