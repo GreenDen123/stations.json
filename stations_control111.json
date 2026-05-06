@@ -1,17 +1,89 @@
 [
   {
-    "id": "ie1",
-    "name": "Christmas FM Classics",
-    "streamUrl": "https://christmasfm.cdnstream1.com/2550_128.mp3",
-    "imageUrl": "__________________________",
+    "id": "se137",
+    "name": "Sveriges Radio P4 Värmland",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4vrml.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se138",
+    "name": "Sveriges Radio P4 Jämtland",
+    "streamUrl": "https://edge2.sr.se/p4jmtl-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se139",
+    "name": "Sveriges Radio P4 Dalarna",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4dala.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se140",
+    "name": "Sveriges Radio P4 Halland",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p4hall.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se141",
+    "name": "Sveriges Radio P4 Östergötland",
+    "streamUrl": "https://edge2.sr.se/p4ostg-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se142",
+    "name": "Sveriges Radio P4 Västmanland",
+    "streamUrl": "https://edge2.sr.se/p4vstm-mp3-96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/468/sveriges-radio-p4-sjuharad.cacc1f69.jpg",
+    "genre": "genre_info",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se144",
+    "name": "Sveriges Radio P2 Musik",
+    "streamUrl": "https://ljud1-cdn.sr.se/lc/p2.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/564/sveriges-radio-p2-klassiskt.aeb2a165.jpg",
     "genre": "genre_clasic",
-    "country": "country_ireland"
+    "country": "country_sweden"
+  },
+  {
+    "id": "se145",
+    "name": "Gold 102.4",
+    "streamUrl": "http://goldfm.nu:8082/goldfm_mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/454/gold-1024.58c22f13.jpg",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se146",
+    "name": "Guldkanalen Helsingborg",
+    "streamUrl": "http://stream.dbmedia.se/gkhbg96",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/313/1026-guldkanalen.2051b576.png",
+    "genre": "genre_retro",
+    "country": "country_sweden"
+  },
+  {
+    "id": "se147",
+    "name": "BozRadio",
+    "streamUrl": "http://das-edge14-live365-dal02.cdnstream.com/a80252",
+    "imageUrl": "https://image.live365.com/download/78b6f4e8-32a3-4cb5-b373-fc02a7d07d0c.png/400/image.webp",
+    "genre": "genre_pop",
+    "country": "country_sweden"
   },
   {
     "id": "ie2",
     "name": "Spin South West",
     "streamUrl": "https://stream.audioxi.com/SW",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7710.v9.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -19,63 +91,23 @@
     "id": "ie3",
     "name": "FM 104",
     "streamUrl": "https://live.onic.ie/stream-fm104",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://irishradiolive.com/public/uploads/radio_img/fm104/play_250_250.webp",
     "genre": "genre_hits",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie4",
-    "name": "Ballina Killaloe Local Radio",
-    "streamUrl": "https://das-edge13-live365-dal02.cdnstream.com/a89412",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie5",
-    "name": "The Breeze Ireland",
-    "streamUrl": "https://easyradio.radioca.st",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
     "country": "country_ireland"
   },
   {
     "id": "ie6",
     "name": "Noughty Beats",
     "streamUrl": "https://stream.audioxi.com/NBEATSAAC",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/87167.v3.png",
     "genre": "genre_90s",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie7",
-    "name": "NLR Dublin",
-    "streamUrl": "http://s4.myradiostream.com:4062/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie8",
-    "name": "St. Ita's Hospital Radio",
-    "streamUrl": "http://uk2.streamingpulse.com:8042/listen.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie9",
-    "name": "Claremorris Community Radio",
-    "streamUrl": "https://s2.radio.co/sddd96b52a/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie10",
     "name": "Global Irish Radio",
     "streamUrl": "https://s3.radio.co/s05b500bb8/listen",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/99468.v1.png",
     "genre": "genre_folk",
     "country": "country_ireland"
   },
@@ -83,39 +115,15 @@
     "id": "ie11",
     "name": "Today 80s",
     "streamUrl": "http://edge3.audioxi.com/T80",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/95756.v2.png",
     "genre": "genre_retro",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie12",
-    "name": "JazzÉIRE",
-    "streamUrl": "http://visual.shoutca.st:8096",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie13",
-    "name": "NEAR FM",
-    "streamUrl": "http://proxima.shoutca.st:8114/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie14",
     "name": "Our Voice FM",
     "streamUrl": "https://s3.radio.co/s1a0d3a043/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie15",
-    "name": "Midlands 103",
-    "streamUrl": "https://stream.rcs.revma.com/tq45ca1vftzuv",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/jH8w99qP1Dfod-gcCNKpocJk5N8-uSLjOogBwvyY89E/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvODkzNDlhZTItYjJlZi00YWI3LTgwM2MtNDg2Mjc4MGUyMzg5L2ltYWdlLz91PTE3MTM4NzMyMzcwMDA.webp",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -123,7 +131,7 @@
     "id": "ie16",
     "name": "Minimal & Deep-tech on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/574",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/119343.v9.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -131,39 +139,15 @@
     "id": "ie17",
     "name": "Classic Hits Radio",
     "streamUrl": "https://edge.audioxi.com/CLASSIC",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/7073.v9.png",
     "genre": "genre_clasic",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie18",
-    "name": "Event FM",
-    "streamUrl": "http://uk6.internet-radio.com:8085/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie19",
-    "name": "Belfield FM",
-    "streamUrl": "https://live.heanet.ie/73b725db6e62550832232116ac7202e8/ngrp:720p_all/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie20",
-    "name": "Its All Mixed Up!",
-    "streamUrl": "https://ec1.yesstreaming.net:1970/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie21",
     "name": "Trance Illusion on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/941",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/86830.v7.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -171,23 +155,15 @@
     "id": "ie22",
     "name": "RTÉ Lyric FM",
     "streamUrl": "https://27913.live.streamtheworld.com/RTE_LYRIC_FMAACLC/HLS/playlist.m3u8",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7145.v20.png",
     "genre": "genre_clasic",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie23",
-    "name": "Ignoreradio Shoegaze",
-    "streamUrl": "http://uk7.internet-radio.com:8313/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
     "country": "country_ireland"
   },
   {
     "id": "ie24",
     "name": "The Sound of Ireland",
     "streamUrl": "https://christmasfm.cdnstream1.com/2548_128.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/74821.v9.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -195,7 +171,7 @@
     "id": "ie25",
     "name": "PlanetRadio.ie Country Hits",
     "streamUrl": "https://media.planetradio.ie/radio/8010/Country",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/90552.v2.png",
     "genre": "genre_folk",
     "country": "country_ireland"
   },
@@ -203,39 +179,15 @@
     "id": "ie26",
     "name": "Today 90s",
     "streamUrl": "http://edge3.audioxi.com/T90AAC",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/7216.v10.png",
     "genre": "genre_90s",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie27",
-    "name": "Club FM Dublin",
-    "streamUrl": "http://ww25.live.clubfmdublin.com/clubfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
     "country": "country_ireland"
   },
   {
     "id": "ie28",
     "name": "Radio Zodiac Ireland",
     "streamUrl": "https://listen.radioking.com/radio/124966/stream/164656",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie29",
-    "name": "Beachball Radio",
-    "streamUrl": "http://ec1.yesstreaming.net:2210/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie30",
-    "name": "Dundalk FM",
-    "streamUrl": "http://80.249.249.245:8000/",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/logo/5/145065.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -243,7 +195,7 @@
     "id": "ie31",
     "name": "Deep Planet on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/947",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/86847.v7.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -251,7 +203,7 @@
     "id": "ie32",
     "name": "iRadio Old Skool",
     "streamUrl": "https://stream.audioxi.com/IROSkool",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/7131.v7.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -259,39 +211,23 @@
     "id": "ie33",
     "name": "Cork Music Station",
     "streamUrl": "https://streamer.radio.co/s1a04f8902/listen",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Y8fVnNNPEXeBJQtAnvH9MHfdjac4zsCEiJj0TeWWrUs/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMzVjYmQyMzAtODM1Yy00ZDljLWEyNDItOTE3Yjg3NzhkYWU4L2ltYWdlLz91PTE3MTM5Mzc3MDkwMDA.webp",
     "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie34",
-    "name": "RTÉ Junior",
-    "streamUrl": "http://23613.live.streamtheworld.com/RTE_JR_RADIO.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_kids",
     "country": "country_ireland"
   },
   {
     "id": "ie35",
     "name": "Raidio Na Life",
     "streamUrl": "http://beryl.streamguys.com:5010/live",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/7143.v5.png",
     "genre": "genre_folk",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie36",
-    "name": "Pirate FM",
-    "streamUrl": "https://control.internet-radio.com:2199/tunein/dublinpirate.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
     "country": "country_ireland"
   },
   {
     "id": "ie37",
     "name": "Wired FM",
     "streamUrl": "https://s2.radio.co/sf0986595a/listen",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/7911.v6.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -299,7 +235,7 @@
     "id": "ie38",
     "name": "East Coast FM",
     "streamUrl": "https://live-bauerie.sharp-stream.com/EASTCOAST",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7107.v4.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -307,39 +243,23 @@
     "id": "ie39",
     "name": "Minimal & Techno on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/940",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/86829.v6.png",
     "genre": "genre_dance",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie40",
-    "name": "RADIO MARIA IRELAND",
-    "streamUrl": "http://dreamsiteradiocp2.com:8018/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
     "country": "country_ireland"
   },
   {
     "id": "ie41",
     "name": "Live Ireland Channel 1",
     "streamUrl": "http://192.111.140.11:8058/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7270.v5.png",
     "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie42",
-    "name": "RTÉ Pulse",
-    "streamUrl": "http://28523.live.streamtheworld.com/RTE_PULSE.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
     "country": "country_ireland"
   },
   {
     "id": "ie43",
     "name": "Highland Radio",
     "streamUrl": "https://edge.audioxi.com/HIGHLAND",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/7699.v6.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -347,7 +267,7 @@
     "id": "ie44",
     "name": "Today FM",
     "streamUrl": "https://stream.audioxi.com/TD",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/7216.v10.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -355,7 +275,7 @@
     "id": "ie45",
     "name": "Ambient Lounge on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/2348",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/86818.v13.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -363,7 +283,7 @@
     "id": "ie46",
     "name": "Northern Sound",
     "streamUrl": "https://edge.audioxi.com/NORTHERNSOUND",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7720.v5.png",
     "genre": "genre_news",
     "country": "country_ireland"
   },
@@ -371,7 +291,7 @@
     "id": "ie47",
     "name": "OTB AM Off the Ball",
     "streamUrl": "https://stream.audioxi.com/OTB",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://www.radio.net/175/otb-am-off-the-ball.png?version=b9898f41d076f428952677c3c50e4d0f03c74320",
     "genre": "genre_news",
     "country": "country_ireland"
   },
@@ -379,15 +299,7 @@
     "id": "ie48",
     "name": "Freedom FM",
     "streamUrl": "https://edge3.audioxi.com/FREEDOMFMAAC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie49",
-    "name": "Tipp FM",
-    "streamUrl": "https://live-bauerie.sharp-stream.com/TIPPFM",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/90422.v8.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -395,7 +307,7 @@
     "id": "ie50",
     "name": "Radio Nova",
     "streamUrl": "http://edge2.audioxi.com/NOVA",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7142.v11.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -403,7 +315,7 @@
     "id": "ie51",
     "name": "Galway Bay FM",
     "streamUrl": "https://wg.cdn.tibus.net/galwaybay.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/7633.v6.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -411,31 +323,15 @@
     "id": "ie52",
     "name": "Greatest Hits",
     "streamUrl": "https://c16.radioboss.fm:18267/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/83251.v24.png",
     "genre": "genre_retro",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie53",
-    "name": "Gem Radio Gold",
-    "streamUrl": "https://gemradio.radioca.st",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie54",
-    "name": "UDMI Radio",
-    "streamUrl": "http://142.4.215.64:8008/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie55",
     "name": "Solid Gold Radio Ireland 3",
     "streamUrl": "https://az10.yesstreaming.net:8300/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/87021.v11.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -443,7 +339,7 @@
     "id": "ie56",
     "name": "Sunshine Soul",
     "streamUrl": "https://live-bauerie.sharp-stream.com/SSOULAAC",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/73141.v14.png",
     "genre": "genre_relax",
     "country": "country_ireland"
   },
@@ -451,7 +347,7 @@
     "id": "ie57",
     "name": "Raidió Corca Baiscinn",
     "streamUrl": "http://178.33.135.245:3074/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7640.v6.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -459,7 +355,7 @@
     "id": "ie58",
     "name": "Psybient Sunset on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/932",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/86820.v8.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -467,7 +363,7 @@
     "id": "ie59",
     "name": "Open-Stage on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/957",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/86850.v7.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -475,23 +371,15 @@
     "id": "ie60",
     "name": "RosFM 94.6",
     "streamUrl": "https://fra-ranger01.dedicateware.com:2020/stream/rosfm946/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/yam47wqfgbrc.png",
     "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie61",
-    "name": "Rebel Ska and Reggae",
-    "streamUrl": "https://totalbroadcast.net/streams/rebel64.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
     "country": "country_ireland"
   },
   {
     "id": "ie62",
     "name": "Sunshine 106.8 FM",
-    "streamUrl": "https://live-bauerie.sharp-stream.com/SUNAAC",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://25553.live.streamtheworld.com/SUNSHINE_106_8.mp3?_=112251",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7212.v11.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -499,7 +387,7 @@
     "id": "ie63",
     "name": "Cork's Red FM",
     "streamUrl": "https://edge.audioxi.com/RED",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/7654.v8.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -507,15 +395,15 @@
     "id": "ie64",
     "name": "Solid Gold Radio Ireland 2",
     "streamUrl": "https://az10.yesstreaming.net:8160/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/103516.v10.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
   {
     "id": "ie65",
     "name": "The 90s Network",
-    "streamUrl": "http://sc2.streamingpulse.com:2199/tunein/90snetwork.asx",
-    "imageUrl": "__________________________",
+    "streamUrl": "http://uk1.streamingpulse.com:7020/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/7441.v12.png",
     "genre": "genre_90s",
     "country": "country_ireland"
   },
@@ -523,7 +411,7 @@
     "id": "ie66",
     "name": "Christmas FM",
     "streamUrl": "https://christmasfm.cdnstream1.com/2547_128.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/7938.v12.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -531,7 +419,7 @@
     "id": "ie67",
     "name": "NewsTalk 106-108",
     "streamUrl": "https://edge.audioxi.com/NT",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7137.v9.png",
     "genre": "genre_news",
     "country": "country_ireland"
   },
@@ -539,23 +427,15 @@
     "id": "ie68",
     "name": "Chillout Essentials on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/931",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/86819.v8.png",
     "genre": "genre_dance",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie69",
-    "name": "Celtic Roots Radio",
-    "streamUrl": "http://eu8.fastcast4u.com:5340/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
     "country": "country_ireland"
   },
   {
     "id": "ie70",
     "name": "PlanetRadio.ie",
     "streamUrl": "https://media.planetradio.ie/radio/8000/OnAir",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/90504.v10.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -563,7 +443,7 @@
     "id": "ie71",
     "name": "Christmas FM Classical",
     "streamUrl": "https://christmasfm.cdnstream1.com/2549_64.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/74822.v12.png",
     "genre": "genre_clasic",
     "country": "country_ireland"
   },
@@ -571,7 +451,7 @@
     "id": "ie72",
     "name": "Today XM",
     "streamUrl": "https://stream.audioxi.com/XMAAC",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/7216.v10.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -579,7 +459,7 @@
     "id": "ie73",
     "name": "South East Radio",
     "streamUrl": "https://edge4.audioxi.com/SOUTHEAST",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7812.v5.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -587,7 +467,7 @@
     "id": "ie74",
     "name": "Finn Valley FM",
     "streamUrl": "http://visual.shoutca.st/stream/finnvalleyfm",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/ad2lj4n8mypu.jpg",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -595,7 +475,7 @@
     "id": "ie75",
     "name": "Beat 102 103",
     "streamUrl": "https://stream.audioxi.com/BEATAAC",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/7794.v7.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -603,7 +483,7 @@
     "id": "ie76",
     "name": "Bass Station DnB on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/933",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/86826.v12.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -611,7 +491,7 @@
     "id": "ie77",
     "name": "Decades Radio Dublin",
     "streamUrl": "https://my2.radiolize.com/radio/8150/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/hby9gsldtxzv.jpg",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -619,23 +499,15 @@
     "id": "ie78",
     "name": "RTÉ Raidió Na Gaeltachta",
     "streamUrl": "http://28993.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTA.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/7259.v12.png",
     "genre": "genre_folk",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie79",
-    "name": "WMR Radio Online",
-    "streamUrl": "https://c2.radioboss.fm:18291/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie80",
     "name": "RTÉ 2FM",
     "streamUrl": "http://icecast2.rte.ie/ie2fm",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/7144.v18.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -643,7 +515,7 @@
     "id": "ie81",
     "name": "All Gold Radio",
     "streamUrl": "https://centova1.cheapshoutcast.com/proxy/paul",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/8107.v12.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -651,7 +523,7 @@
     "id": "ie82",
     "name": "Lockdown Live Radio",
     "streamUrl": "http://studio24.radiolize.com:8050/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/88372.v8.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -659,7 +531,7 @@
     "id": "ie83",
     "name": "Solid Gold Radio Ireland",
     "streamUrl": "https://az10.yesstreaming.net:8150/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/83035.v10.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -667,7 +539,7 @@
     "id": "ie84",
     "name": "Siamsa",
     "streamUrl": "https://cast02.siamsa.ie/radio/8000/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/83584.v5.png",
     "genre": "genre_folk",
     "country": "country_ireland"
   },
@@ -675,7 +547,7 @@
     "id": "ie85",
     "name": "Spin 103.8 FM",
     "streamUrl": "https://edge.audioxi.com/SP",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7190.v8.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -683,7 +555,7 @@
     "id": "ie86",
     "name": "Progressive & Tech-house on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/939",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/86828.v7.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -691,7 +563,7 @@
     "id": "ie87",
     "name": "LMFM Country Express",
     "streamUrl": "https://live.onic.ie/stream-country",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/7661.v10.png",
     "genre": "genre_folk",
     "country": "country_ireland"
   },
@@ -699,63 +571,39 @@
     "id": "ie88",
     "name": "Midwest Radio FM",
     "streamUrl": "http://edge-audio-03-gos2.sharp-stream.com/midwestfmie.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/8153.v11.png",
     "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie89",
-    "name": "RetroNow",
-    "streamUrl": "http://cassini.shoutca.st:9007/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
     "country": "country_ireland"
   },
   {
     "id": "ie90",
     "name": "Radio Kerry",
     "streamUrl": "https://edge.audioxi.com/KERRY",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7745.v9.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie91",
     "name": "Ocean FM",
-    "streamUrl": "https://edge4.audioxi.com/OCEANSAAC",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://25533.live.streamtheworld.com/OCEAN_FM_SLIGO.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7597.v18.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie92",
     "name": "Harmony",
-    "streamUrl": "https://totalbroadcast.net/streams/harmony32.pls",
-    "imageUrl": "__________________________",
+    "streamUrl": "http://173.208.177.90:13410/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/79555.v7.png",
     "genre": "genre_relax",
     "country": "country_ireland"
   },
   {
     "id": "ie93",
     "name": "WLR FM",
-    "streamUrl": "https://stream.audioxi.com/WLRAAC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie94",
-    "name": "Eden FM",
-    "streamUrl": "https://cast5.magicstreams.gr:2199/tunein/edenfmcommunityra.asx",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie95",
-    "name": "Planet Radio Cork Ireland",
-    "streamUrl": "https://ec1.yesstreaming.net:2130/stream",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://25453.live.streamtheworld.com/WLR_FM.mp3?dist=onlineradiobox",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/7779.v11.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -763,7 +611,7 @@
     "id": "ie96",
     "name": "8Radio.com",
     "streamUrl": "https://edge4.audioxi.com/8RADIO",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/7018.v7.png",
     "genre": "genre_rock",
     "country": "country_ireland"
   },
@@ -771,15 +619,15 @@
     "id": "ie97",
     "name": "Carlow FM",
     "streamUrl": "https://s21.myradiostream.com/:14706/listen.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/103986.v2.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie98",
     "name": "Absolute Irish",
-    "streamUrl": "https://stream.audioxi.com/IRISHAAC",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://29103.live.streamtheworld.com/ABSOLUTE_IRELAND.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/73968.v10.png",
     "genre": "genre_folk",
     "country": "country_ireland"
   },
@@ -787,7 +635,7 @@
     "id": "ie99",
     "name": "Radio Shannonside",
     "streamUrl": "https://edge.audioxi.com/SHANNONSIDE",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/8015.v8.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -795,7 +643,7 @@
     "id": "ie100",
     "name": "House & Techno Classics on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/938",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/86827.v6.png",
     "genre": "genre_clasic",
     "country": "country_ireland"
   },
@@ -803,15 +651,15 @@
     "id": "ie101",
     "name": "Submit Promo on MixLive.ie",
     "streamUrl": "https://strw3.openstream.co/944",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/86835.v6.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
   {
     "id": "ie102",
     "name": "Clare FM",
-    "streamUrl": "https://edge.audioxi.com/CLAREFM",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://22653.live.streamtheworld.com/CLARE_FM.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/8031.v12.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -819,39 +667,23 @@
     "id": "ie103",
     "name": "98FM",
     "streamUrl": "https://edge2.audioxi.com/98",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7072.v10.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
   {
     "id": "ie104",
     "name": "Liffey Sound FM 96.4",
-    "streamUrl": "http://stream.liffeysoundfm.ie:8000/",
-    "imageUrl": "__________________________",
+    "streamUrl": "http://stream.liffeysoundfm.ie:8000/listen.pls.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/7913.v7.png",
     "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie105",
-    "name": "RTÉ Radio 1 Extra",
-    "streamUrl": "http://27913.live.streamtheworld.com/RTE_RADIO_1_EXTRA.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie106",
-    "name": "RTÉ 2XM",
-    "streamUrl": "http://27783.live.streamtheworld.com/RTE_2XM.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
     "country": "country_ireland"
   },
   {
     "id": "ie107",
     "name": "RTÉ Radio 1",
     "streamUrl": "https://25283.live.streamtheworld.com/RTE_1_INTAACLC/HLS/playlist.m3u8",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/7146.v20.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -859,7 +691,7 @@
     "id": "ie108",
     "name": "RTÉ Gold",
     "streamUrl": "https://27953.live.streamtheworld.com/RTE_GOLDAACLC/HLS/playlist.m3u8",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7147.v16.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -867,15 +699,15 @@
     "id": "ie109",
     "name": "The Zone 102.5 FM",
     "streamUrl": "http://uk1.internet-radio.com:8355/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/119632.v3.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie110",
     "name": "Heartbeat FM",
-    "streamUrl": "https://cast5.magicstreams.gr:2199/tunein/heartbeat.asx",
-    "imageUrl": "__________________________",
+    "streamUrl": "http://cast5.magicstreams.gr:8010/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7360.v9.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -883,31 +715,23 @@
     "id": "ie111",
     "name": "Kfm 97.6 FM",
     "streamUrl": "http://sirius.shoutca.st:9307/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7132.v5.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie112",
     "name": "Gem Radio New Wave",
-    "streamUrl": "https://gemradionw.radioca.st",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://gemradionw.radioca.st/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/111903.v4.png",
     "genre": "genre_retro",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie113",
-    "name": "MixLive.ie Progressive Tech House",
-    "streamUrl": "http://2.58.194.54:8870/progressive-tech",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
     "country": "country_ireland"
   },
   {
     "id": "ie114",
     "name": "Radio Psychobilly",
     "streamUrl": "http://radio-psychobilly.stream.laut.fm/radio-psychobilly",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://assets.laut.fm/ab112c237fd76ec3e2a43ad3ac46f8e9?t=_120x120",
     "genre": "genre_rock",
     "country": "country_ireland"
   },
@@ -915,15 +739,15 @@
     "id": "ie115",
     "name": "Easy Radio Ireland",
     "streamUrl": "https://nl4.mystreaming.net/uber/easymix/icecast.audio",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/119750.v16.png",
     "genre": "genre_relax",
     "country": "country_ireland"
   },
   {
     "id": "ie116",
     "name": "PlayFM Dublin",
-    "streamUrl": "https://s107.radiolize.com:8000/radio.mp3",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://stream.playfmdublin.com/radio192.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/132673.v2.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -931,23 +755,23 @@
     "id": "ie117",
     "name": "Emerald Isle Radio",
     "streamUrl": "https://a4.asurahosting.com:6600/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/125829.v1.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie118",
     "name": "Nova Chill",
-    "streamUrl": "https://edge.audioxi.com/NOVACHILL",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://25443.live.streamtheworld.com/NOVA_CHILLAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/155461.v3.png",
     "genre": "genre_relax",
     "country": "country_ireland"
   },
   {
     "id": "ie119",
     "name": "The 60s Network",
-    "streamUrl": "http://de2.streamingpulse.com:9033/stream",
-    "imageUrl": "__________________________",
+    "streamUrl": "http://uk1.streamingpulse.com:7020/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/7441.v12.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -955,7 +779,7 @@
     "id": "ie120",
     "name": "Smooth Gold Hits Radio",
     "streamUrl": "https://a4.asurahosting.com:6620/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/90346.v8.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -963,7 +787,7 @@
     "id": "ie121",
     "name": "Louth Meath FM",
     "streamUrl": "https://live.onic.ie/stream-lmfm",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/7661.v10.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -971,7 +795,7 @@
     "id": "ie122",
     "name": "Flirt FM 101.3",
     "streamUrl": "http://audio-edge-kef8b.ams.s.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7637.v8.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -979,23 +803,23 @@
     "id": "ie123",
     "name": "EWTN Ireland",
     "streamUrl": "https://ewtn-sgrewind.streamguys1.com/sgrewind/sky/playlist.m3u8",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7270.v5.png",
     "genre": "genre_religious",
     "country": "country_ireland"
   },
   {
     "id": "ie124",
-    "name": "All80sJukebox",
+    "name": "All 80s Jukebox",
     "streamUrl": "https://all80s.radioca.st/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/7019.v14.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
   {
     "id": "ie125",
     "name": "Storm North East",
-    "streamUrl": "http://80.249.249.243:8050/",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://stormnortheast.com:8443/storm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/8162.v4.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1003,23 +827,15 @@
     "id": "ie126",
     "name": "West Limerick 102 FM",
     "streamUrl": "http://s29.myradiostream.com:17796/listen.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://www.radio.net/175/westlimerick102.png?version=c39c93f12603342bdc37371d430213213dec79cf",
     "genre": "genre_pop",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie127",
-    "name": "RTÉjr Radio / RTÉ Chill",
-    "streamUrl": "https://27783.live.streamtheworld.com/RTE_JR_RADIOAACLC/HLS/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
     "country": "country_ireland"
   },
   {
     "id": "ie128",
     "name": "MPB Radio 2",
     "streamUrl": "https://live.one-tv.co.uk/listen/radio2/320k.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/125560.v19.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1027,7 +843,7 @@
     "id": "ie129",
     "name": "MPB Radio 2 90s and 00s",
     "streamUrl": "https://radiozender.mpbnetwerken.nl/radio2-90s00s.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/135009.v5.png",
     "genre": "genre_90s",
     "country": "country_ireland"
   },
@@ -1035,15 +851,15 @@
     "id": "ie130",
     "name": "Radio Nova International",
     "streamUrl": "https://novainternational.out.airtime.pro/novainternational_a",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7142.v11.png",
     "genre": "genre_rock",
     "country": "country_ireland"
   },
   {
     "id": "ie131",
     "name": "Nova 80s",
-    "streamUrl": "https://edge2.audioxi.com/NOVA80",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://29103.live.streamtheworld.com/NOVA_80SAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/155460.v4.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -1051,7 +867,7 @@
     "id": "ie132",
     "name": "Cork 96 FM",
     "streamUrl": "https://live.onic.ie/stream-96fm",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/7644.v12.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1059,15 +875,15 @@
     "id": "ie133",
     "name": "DHR Deep House Radio",
     "streamUrl": "https://streaming.shoutcast.com/dhr",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/7516.v8.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
   {
     "id": "ie134",
-    "name": "Sold Gold Ireland's Radio Network",
+    "name": "Solid Gold Ireland's Radio Network",
     "streamUrl": "https://a4.asurahosting.com:6640/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/103367.v9.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -1075,7 +891,7 @@
     "id": "ie135",
     "name": "Storm IRL",
     "streamUrl": "http://c22.radioboss.fm:8478/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/127562.v7.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1083,7 +899,7 @@
     "id": "ie136",
     "name": "Energy Ratoath",
     "streamUrl": "https://cast1.torontocast.com:2025/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/106674.v4.png",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -1091,7 +907,7 @@
     "id": "ie137",
     "name": "Nova Classic Rock",
     "streamUrl": "https://edge2.audioxi.com/NOVA",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/155459.v4.png",
     "genre": "genre_clasic",
     "country": "country_ireland"
   },
@@ -1099,7 +915,7 @@
     "id": "ie138",
     "name": "Dublin's 98FM",
     "streamUrl": "https://stream.audioxi.com/98",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7072.v10.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
@@ -1107,7 +923,7 @@
     "id": "ie139",
     "name": "MixLive.ie InsomniaFM",
     "streamUrl": "http://635.cloudrad.io:8092/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
     "genre": "genre_dance",
     "country": "country_ireland"
   },
@@ -1115,7 +931,7 @@
     "id": "ie140",
     "name": "Q102",
     "streamUrl": "https://live.onic.ie/stream-q102",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/7083.v10.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1123,7 +939,7 @@
     "id": "ie141",
     "name": "Limerick's Live 95FM",
     "streamUrl": "https://live.onic.ie/stream-live95",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/7701.v9.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1131,23 +947,15 @@
     "id": "ie142",
     "name": "GEM New Wave Radio",
     "streamUrl": "http://95.217.34.48:8928/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/111903.v4.png",
     "genre": "genre_retro",
-    "country": "country_ireland"
-  },
-  {
-    "id": "ie143",
-    "name": "Sunshine at Christmas",
-    "streamUrl": "https://visual.shoutca.st:8070/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_ireland"
   },
   {
     "id": "ie144",
     "name": "Dublin's Q102 80s",
     "streamUrl": "https://live.onic.ie/stream-80s",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/117796.v3.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
@@ -1155,7 +963,7 @@
     "id": "ie145",
     "name": "Symphony Radio",
     "streamUrl": "https://christmasfm.cdnstream1.com/2551_128.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/31602.v2.png",
     "genre": "genre_clasic",
     "country": "country_ireland"
   },
@@ -1163,15 +971,15 @@
     "id": "ie146",
     "name": "FM104 HitMix",
     "streamUrl": "https://live.onic.ie/stream-hits",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/84515.v2.png",
     "genre": "genre_hits",
     "country": "country_ireland"
   },
   {
     "id": "ie147",
-    "name": "East Coast FM Wicklow",
-    "streamUrl": "http://sirius.shoutca.st:8461/",
-    "imageUrl": "__________________________",
+    "name": "East Coast FM",
+    "streamUrl": "https://live-bauerie.sharp-stream.com/EASTCOAST",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7107.v4.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1179,7 +987,7 @@
     "id": "ie148",
     "name": "Connemara FM",
     "streamUrl": "https://audio-edge-ey5nr.ams.s.radiomast.io/5008371a-b8fd-4745-a5a3-e17837dad90c",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/7509.v9.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1187,7 +995,7 @@
     "id": "ie149",
     "name": "PowerFM Dublin",
     "streamUrl": "https://www.powerfm.org:8443/powerfm.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/132673.v2.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1195,7 +1003,7 @@
     "id": "ie150",
     "name": "C103",
     "streamUrl": "https://live.onic.ie/stream-c103-north",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7647.v9.png",
     "genre": "genre_pop",
     "country": "country_ireland"
   },
@@ -1203,7 +1011,7 @@
     "id": "ie151",
     "name": "Solid Gold Radio Ireland 3 v2",
     "streamUrl": "https://a4.asurahosting.com:6660/radio.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/87021.v11.png",
     "genre": "genre_retro",
     "country": "country_ireland"
   },
