@@ -1920,23 +1920,23 @@
     "country": "country_kazakhstan"
   },
   {
-    "id": "gh1",
+    "id": "gh001",
     "name": "Joy FM",
-    "streamUrl": "https://starrfm-atunwadigital.streamguys1.com/joyfm",
+    "streamUrl": "https://mmg-hls.streamguys1.com/JoyFM-mp3/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh2",
+    "id": "gh002",
     "name": "Peace FM",
-    "streamUrl": "https://peacefm-atunwadigital.streamguys1.com/peacefm",
+    "streamUrl": "http://peacefm.atunwadigital.streamguys1.com/peacefm",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh3",
+    "id": "gh003",
     "name": "Citi FM",
     "streamUrl": "https://citi973fm.radioca.st/stream/1/",
     "imageUrl": "__________________________",
@@ -1944,7 +1944,15 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh4",
+    "id": "gh004",
+    "name": "Adom FM",
+    "streamUrl": "http://mmg.streamguys1.com/AdomFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh005",
     "name": "Class FM",
     "streamUrl": "http://stream-61.zeno.fm/6fseb4nbe3quv",
     "imageUrl": "__________________________",
@@ -1952,31 +1960,7 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh5",
-    "name": "Starr FM",
-    "streamUrl": "https://starrfm-atunwadigital.streamguys1.com/starrfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh6",
-    "name": "Adom FM",
-    "streamUrl": "https://adomfm-atunwadigital.streamguys1.com/adomfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh7",
-    "name": "Okay FM",
-    "streamUrl": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh8",
+    "id": "gh006",
     "name": "Live FM",
     "streamUrl": "https://node-32.zeno.fm/7586sp6mua0uv",
     "imageUrl": "__________________________",
@@ -1984,63 +1968,15 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh9",
-    "name": "Onua FM",
-    "streamUrl": "http://stream.zeno.fm/hmz5ma42u8quv",
+    "id": "gh007",
+    "name": "Hitz FM 1039",
+    "streamUrl": "http://mmg.streamguys1.com/HitzFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
+    "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh10",
-    "name": "Kasapa FM",
-    "streamUrl": "https://stream.zeno.fm/3eh6htuyk8quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh11",
-    "name": "Montie FM",
-    "streamUrl": "https://node-34.zeno.fm/qv605hy79zquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh12",
-    "name": "Rainbow Radio",
-    "streamUrl": "http://stream.zeno.fm/wv4tseqxk8quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh13",
-    "name": "Radio XYZ",
-    "streamUrl": "http://stream.zeno.fm/jlcgxhhwoymvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh14",
-    "name": "Ghana Today Radio",
-    "streamUrl": "http://stream2.ghanatoday.com/gtonline",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh15",
-    "name": "Asaase Radio",
-    "streamUrl": "https://stream.zeno.fm/xua5q9hfgg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh16",
+    "id": "gh008",
     "name": "Max FM",
     "streamUrl": "https://s3.radio.co/s38cbb0c35/listen",
     "imageUrl": "__________________________",
@@ -2048,87 +1984,55 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh17",
-    "name": "Hello 101.5 FM",
-    "streamUrl": "http://hellofm.atunwadigital.streamguys1.com/hellofm",
+    "id": "gh009",
+    "name": "Starr FM",
+    "streamUrl": "https://starrfm-atunwadigital.streamguys1.com/starrfm",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh18",
-    "name": "YFM Ghana",
-    "streamUrl": "https://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
+    "id": "gh010",
+    "name": "Kasapa FM",
+    "streamUrl": "https://stream.zeno.fm/3eh6htuyk8quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh011",
+    "name": "Angel FM",
+    "streamUrl": "http://angelfm.atunwadigital.streamguys1.com/angelfm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh19",
-    "name": "RADIO GOLD 90.5",
-    "streamUrl": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
+    "id": "gh012",
+    "name": "Luv FM",
+    "streamUrl": "https://stream-52.zeno.fm/858neeq45y4tv?zs=paESs7M4RgODjXXyl0ENsQ",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh20",
-    "name": "3FM",
-    "streamUrl": "https://3fm-atunwadigital.streamguys1.com/3fm",
+    "id": "gh013",
+    "name": "Nhyira FM",
+    "streamUrl": "http://mmg.streamguys1.com/NhyiraFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh21",
-    "name": "Hitz FM",
-    "streamUrl": "https://cast.hitzgh.com:8100/stream/1/",
+    "id": "gh014",
+    "name": "Otec FM",
+    "streamUrl": "http://stream.zeno.fm/2dnt5ku7fxquv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_religious",
     "country": "country_ghana"
   },
   {
-    "id": "gh22",
-    "name": "Silver FM",
-    "streamUrl": "http://silverfm.atunwadigital.streamguys1.com/silverfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh23",
-    "name": "Pure FM",
-    "streamUrl": "http://purefm.atunwadigital.streamguys1.com/purefm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh24",
-    "name": "Fox FM",
-    "streamUrl": "http://foxfm.atunwadigital.streamguys1.com/foxfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh25",
-    "name": "Oman FM",
-    "streamUrl": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh26",
-    "name": "Kessben FM",
-    "streamUrl": "https://kessben933fmkumasi-atunwadigital.streamguys1.com/kessben933fmkumasi",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh27",
+    "id": "gh015",
     "name": "Wontumi FM",
     "streamUrl": "https://wontumifm-atunwadigital.streamguys1.com/wontumifm",
     "imageUrl": "__________________________",
@@ -2136,71 +2040,63 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh28",
-    "name": "Agoo FM",
-    "streamUrl": "http://agoofm-atunwadigital.streamguys1.com/agoofm",
+    "id": "gh016",
+    "name": "Pure FM",
+    "streamUrl": "https://purefm-atunwadigital.streamguys1.com/purefm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh29",
-    "name": "Kumasi FM",
-    "streamUrl": "http://stream-66.zeno.fm/656k5f7be3quv",
+    "id": "gh017",
+    "name": "YFM Ghana",
+    "streamUrl": "https://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh30",
-    "name": "Bryt FM",
-    "streamUrl": "https://stream-33.zeno.fm/kxw7vk7nq7zuv",
+    "id": "gh018",
+    "name": "Y 107.9 FM",
+    "streamUrl": "http://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh31",
-    "name": "HighLife Radio",
-    "streamUrl": "https://stream.zeno.fm/se1g3g3udceuv.aac",
+    "id": "gh019",
+    "name": "Vibe Fm",
+    "streamUrl": "https://stream.zeno.fm/r30dk08vdg0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh32",
-    "name": "Otec FM",
-    "streamUrl": "http://stream.zeno.fm/2dnt5ku7fxquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh33",
-    "name": "GBC Obonu FM",
-    "streamUrl": "http://173.249.50.205:8006/",
+    "id": "gh020",
+    "name": "Accra FM",
+    "streamUrl": "https://stream.zeno.fm/z079t0nbe3quv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh34",
-    "name": "Radio Tamale",
-    "streamUrl": "http://hyades.shoutca.st:8125/",
+    "id": "gh021",
+    "name": "Peace 104.3 FM",
+    "streamUrl": "https://peacefm-atunwadigital.streamguys1.com/peacefm",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
+    "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh35",
-    "name": "Nzema FM",
-    "streamUrl": "https://stream-57.zeno.fm/s8ew03sh368uv",
+    "id": "gh022",
+    "name": "Ahotor FM 923",
+    "streamUrl": "https://stream.zeno.fm/a20ku9pk21zuv",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
+    "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh36",
+    "id": "gh023",
     "name": "Spice FM",
     "streamUrl": "http://sp0001.opengradle.pro:8030/live.mp3",
     "imageUrl": "__________________________",
@@ -2208,79 +2104,7 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh37",
-    "name": "Free 975 FM",
-    "streamUrl": "https://node-14.zeno.fm/s6yzf3zvcceuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh38",
-    "name": "Top FM 103.1",
-    "streamUrl": "http://184.154.43.106:8267/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh39",
-    "name": "Ultimate 106.9 FM",
-    "streamUrl": "http://stream.zeno.fm/ac28vs4s6gwtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh40",
-    "name": "Connect FM",
-    "streamUrl": "https://connectfm-atunwadigital.streamguys1.com/connectfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh41",
-    "name": "SportyFM",
-    "streamUrl": "https://sportyfm-atunwadigital.streamguys1.com/sportyfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh42",
-    "name": "Sankofa Radio",
-    "streamUrl": "http://s2.nexuscast.com:8068/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh43",
-    "name": "Sunsum FM",
-    "streamUrl": "https://stream.zeno.fm/m087d3huy7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh44",
-    "name": "Nhyira FM",
-    "streamUrl": "https://stream.zeno.fm/b85stutry8quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh45",
-    "name": "West End Radio",
-    "streamUrl": "https://stream.zeno.fm/47nz3zut26duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh46",
+    "id": "gh024",
     "name": "Trust FM",
     "streamUrl": "https://node-22.zeno.fm/83dhqkqe27zuv",
     "imageUrl": "__________________________",
@@ -2288,7 +2112,583 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh47",
+    "id": "gh025",
+    "name": "Vision1 FM",
+    "streamUrl": "https://stream-63.zeno.fm/xua5q9hfgg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh026",
+    "name": "Bryt FM",
+    "streamUrl": "https://stream-33.zeno.fm/kxw7vk7nq7zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh027",
+    "name": "Silver FM",
+    "streamUrl": "http://silverfm.atunwadigital.streamguys1.com/silverfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh028",
+    "name": "Kessben FM",
+    "streamUrl": "https://kessben933fmkumasi-atunwadigital.streamguys1.com/kessben933fmkumasi",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh029",
+    "name": "Neat FM",
+    "streamUrl": "http://neatfm.atunwadigital.streamguys1.com/neatfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh030",
+    "name": "ATINKA FM",
+    "streamUrl": "https://stream.zeno.fm/1t5rqgbk65quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh031",
+    "name": "Oman FM 107.1",
+    "streamUrl": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh032",
+    "name": "Abusua FM",
+    "streamUrl": "https://stream.zeno.fm/asungs6m55quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh033",
+    "name": "Radio Tamale",
+    "streamUrl": "http://hyades.shoutca.st:8125/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh034",
+    "name": "Agoo FM",
+    "streamUrl": "http://agoofm-atunwadigital.streamguys1.com/agoofm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh035",
+    "name": "Kumasi FM",
+    "streamUrl": "http://stream-66.zeno.fm/656k5f7be3quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh036",
+    "name": "Montie FM",
+    "streamUrl": "https://node-34.zeno.fm/qv605hy79zquv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh037",
+    "name": "Mynd FM",
+    "streamUrl": "https://cast.hitzgh.com:8100/stream/1/?",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh038",
+    "name": "Voice FM",
+    "streamUrl": "https://stream-54.zeno.fm/q1t3ec24nceuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh039",
+    "name": "Spirit FM",
+    "streamUrl": "http://89.163.217.252:9322/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh040",
+    "name": "Focus FM",
+    "streamUrl": "https://stream.zenolive.com/w5h08t2e48vtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh041",
+    "name": "West End",
+    "streamUrl": "https://stream.zeno.fm/47nz3zut26duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh042",
+    "name": "Swiit FM",
+    "streamUrl": "https://stream-55.zeno.fm/6gb2qe8kug0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh043",
+    "name": "Opemsuo",
+    "streamUrl": "https://stream-51.zeno.fm/sbpqhvum1wzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh044",
+    "name": "Dadi FM",
+    "streamUrl": "https://node-21.zeno.fm/afzd4f4nq7zuv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh045",
+    "name": "Radio Link",
+    "streamUrl": "https://node-28.zeno.fm/254u2cpd41zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh046",
+    "name": "Okwawu FM",
+    "streamUrl": "https://stream.zeno.fm/3gyq8m2efg8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh047",
+    "name": "Nimdie FM",
+    "streamUrl": "https://stream-24.zeno.fm/2fgbmk5529duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh048",
+    "name": "Nzema FM",
+    "streamUrl": "https://stream-57.zeno.fm/s8ew03sh368uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh049",
+    "name": "Free 975 FM",
+    "streamUrl": "https://node-14.zeno.fm/s6yzf3zvcceuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh050",
+    "name": "Magyk",
+    "streamUrl": "https://node-21.zeno.fm/y4dpmpf46wquv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh051",
+    "name": "Fawe FM",
+    "streamUrl": "https://stream-40.zeno.fm/b4hw96uty8quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh052",
+    "name": "Akomapa FM",
+    "streamUrl": "http://mounthoreb1.primcast.com:8210/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh053",
+    "name": "Info Radio 91.1 FM - Ghana",
+    "streamUrl": "https://stream.zeno.fm/twzwfac27vzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh054",
+    "name": "Marhaba FM",
+    "streamUrl": "http://stream.zeno.fm/10n9rr510ehvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh055",
+    "name": "GBC Obonu FM",
+    "streamUrl": "http://173.249.50.205:8006/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh056",
+    "name": "Zuria FM",
+    "streamUrl": "https://sp0001.opengradle.pro:8070/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh057",
+    "name": "GBC Volta Star",
+    "streamUrl": "http://173.249.50.205:8008/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh058",
+    "name": "FRONTLINE RADIO GHANA",
+    "streamUrl": "http://sc3.spacialnet.com:35650/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh059",
+    "name": "Radio Univers 105.7FM",
+    "streamUrl": "https://ownaradio.com/radio/1057/univers",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh060",
+    "name": "agyenkwa FM",
+    "streamUrl": "https://stream.zeno.fm/gsnw8zsn3ehvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh061",
+    "name": "GBC Radio BAR",
+    "streamUrl": "https://stream.zeno.fm/6z0r6ueu8k0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh062",
+    "name": "ASHH FM",
+    "streamUrl": "http://ashhfm.atunwadigital.streamguys1.com/ashhfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh063",
+    "name": "Skyy Power FM",
+    "streamUrl": "https://node-29.zeno.fm/8ct99fxeq8quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh064",
+    "name": "Kingdom FM Kumasi",
+    "streamUrl": "https://stream.zeno.fm/wcbpgn6x7druv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh065",
+    "name": "Hot FM Online Gh",
+    "streamUrl": "http://hot939fm.atunwadigital.streamguys1.com/hot939fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh066",
+    "name": "Wontumi Radio 95.9",
+    "streamUrl": "https://stream.zeno.fm/a9n52xeawkduv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh067",
+    "name": "Asanteman Fm 107.3",
+    "streamUrl": "https://stream.zeno.fm/06hsz0rp5zquv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh068",
+    "name": "Agyapa fm",
+    "streamUrl": "https://stream.zeno.fm/yuus2nussgauv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh069",
+    "name": "Radio Savannah",
+    "streamUrl": "https://stream.zeno.fm/aoobhhexr22tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh070",
+    "name": "Ark FM",
+    "streamUrl": "http://67.212.165.106:8247/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh071",
+    "name": "PLUTO FM",
+    "streamUrl": "https://stream.zeno.fm/os48pm2shx1vv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh072",
+    "name": "Radio Justice",
+    "streamUrl": "https://stream.zeno.fm/aeyfm2vzvd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh073",
+    "name": "Tumpaani",
+    "streamUrl": "https://stream.zeno.fm/xk3wgp9mgnzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh074",
+    "name": "Bliz Radio News",
+    "streamUrl": "https://stream.zeno.fm/pytsggd47zhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh075",
+    "name": "Ananse",
+    "streamUrl": "http://stream-43.zeno.fm/011t6b2vgg5tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh076",
+    "name": "STORM FM SUNYANI",
+    "streamUrl": "https://stream.zeno.fm/sknu6a7529duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh077",
+    "name": "Sunny Fm 887",
+    "streamUrl": "https://stream.zeno.fm/pxg4weyx0f8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh078",
+    "name": "ROYAL FM 84.5",
+    "streamUrl": "https://stream.zeno.fm/2sr6rwrkzk8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh079",
+    "name": "Empire FM 102.7",
+    "streamUrl": "https://empirefm-atunwadigital.streamguys1.com/empirefm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh080",
+    "name": "THE BEATFM 92.9",
+    "streamUrl": "https://stream.zeno.fm/fmpx4kk81k8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh081",
+    "name": "De Beat FM 95.5",
+    "streamUrl": "https://node-28.zeno.fm/u8vgbtg4yg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh082",
+    "name": "Shaft FM",
+    "streamUrl": "http://argon.grottopress.com:8005/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh083",
+    "name": "Diamond FM",
+    "streamUrl": "http://diamondfm.no-ip.org:8000/diamond",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh084",
+    "name": "MX BASE FM",
+    "streamUrl": "https://stream.zeno.fm/6qnnvqsdsxdvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh085",
+    "name": "GH ONE TV",
+    "streamUrl": "http://st2.zenorad.io:14878/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh086",
+    "name": "Ultimate Radio 106.9",
+    "streamUrl": "http://ample-zeno-08.radiojar.com/ac28vs4s6gwtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh087",
+    "name": "EASTERN FM",
+    "streamUrl": "https://stream.zeno.fm/kkc6tdkhgfhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh088",
+    "name": "Volta Heritage Fm",
+    "streamUrl": "https://stream.zeno.fm/hx0ss2hqpc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh089",
+    "name": "Radio Gold FM",
+    "streamUrl": "http://node-23.zeno.fm/9ycx8ncqdv8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh090",
+    "name": "Premier FM Ghana",
+    "streamUrl": "http://node-22.zeno.fm/w9zp4p3xmwzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh091",
+    "name": "Accra 100.5 FM",
+    "streamUrl": "https://stream.zeno.fm/b85stutry8quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh092",
+    "name": "Sunsum FM",
+    "streamUrl": "https://stream.zeno.fm/m087d3huy7zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh093",
+    "name": "OFM 107.7",
+    "streamUrl": "http://s3.free-shoutcast.com:18056/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh094",
+    "name": "3FM",
+    "streamUrl": "https://stream.zeno.fm/hk573nh6sm0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh095",
+    "name": "Okay FM",
+    "streamUrl": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh096",
+    "name": "Onua FM",
+    "streamUrl": "http://stream.zeno.fm/hmz5ma42u8quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh097",
     "name": "Uniiq FM",
     "streamUrl": "https://mediagh.us:2000/stream/uniiqfm",
     "imageUrl": "__________________________",
@@ -2296,19 +2696,427 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh48",
-    "name": "Oroko Radio",
-    "streamUrl": "https://oroko-radio.radiocult.fm/stream",
+    "id": "gh098",
+    "name": "Top FM 103.1",
+    "streamUrl": "http://184.154.43.106:8267/live",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
+    "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh49",
-    "name": "Info Radio 91.1 FM",
-    "streamUrl": "http://stream.zeno.fm/ey34mac27vzuv",
+    "id": "gh099",
+    "name": "Radio XYZ",
+    "streamUrl": "http://stream.zeno.fm/jlcgxhhwoymvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh100",
+    "name": "RADIO GOLD 90.5",
+    "streamUrl": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh101",
+    "name": "Rainbow",
+    "streamUrl": "http://stream.zeno.fm/wv4tseqxk8quv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh102",
+    "name": "Sankofa",
+    "streamUrl": "http://s2.nexuscast.com:8068/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh103",
+    "name": "PURE 957 FM",
+    "streamUrl": "http://purefm.atunwadigital.streamguys1.com/purefm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh104",
+    "name": "Fox 97.9 FM",
+    "streamUrl": "http://foxfm.atunwadigital.streamguys1.com/foxfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh105",
+    "name": "Ezra FM",
+    "streamUrl": "https://stream.zeno.fm/ps7uuqzhp2zuv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh106",
+    "name": "Success 90.9 FM",
+    "streamUrl": "http://stream.zeno.fm/cbycbgy7deruv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh107",
+    "name": "Light FM Ghana",
+    "streamUrl": "https://stream.zeno.fm/n4w8ek466p8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh108",
+    "name": "Happy 98.9 FM",
+    "streamUrl": "https://happyfm989accra-atunwadigital.streamguys1.com/happyfm989accra",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh109",
+    "name": "Medeamaa FM",
+    "streamUrl": "http://stream.zeno.fm/249ba9e1q0quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh110",
+    "name": "Hello 101.5 FM",
+    "streamUrl": "http://hellofm.atunwadigital.streamguys1.com/hellofm",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh111",
+    "name": "MajorFM",
+    "streamUrl": "http://stream.zeno.fm/pkza99xshkhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh112",
+    "name": "Beats Radio Gh",
+    "streamUrl": "http://node-22.zeno.fm:80/wmk19ap2rzzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh113",
+    "name": "Melody FM UK",
+    "streamUrl": "https://stream.zeno.fm/ekzmrzpeqm0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh114",
+    "name": "Xlive Africa",
+    "streamUrl": "http://144.76.219.22:8785/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh115",
+    "name": "Aboozigi FM",
+    "streamUrl": "https://stream.zenolive.com/0exsuvf2td0uv/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh116",
+    "name": "Genesis",
+    "streamUrl": "https://stream-43.zeno.fm/s5z8eb9yfm8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh117",
+    "name": "Nimdie 95.1 FM",
+    "streamUrl": "https://stream.zenolive.com/2fgbmk5529duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh118",
+    "name": "HighLife",
+    "streamUrl": "https://stream.zeno.fm/se1g3g3udceuv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh119",
+    "name": "MUOK FM",
+    "streamUrl": "https://stream.zeno.fm/3k4m9ezpmrhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh120",
+    "name": "Bryt 99.1FM",
+    "streamUrl": "https://stream.zeno.fm/kxw7vk7nq7zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh121",
+    "name": "Silver 98.3 FM",
+    "streamUrl": "http://kessbenfmaccra-atunwadigital.streamguys1.com/kessbenfmaccra",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh122",
+    "name": "Lvission Multimedia Fm",
+    "streamUrl": "https://stream.zeno.fm/bmcsgk17g0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh123",
+    "name": "Benzi Radio Ghana",
+    "streamUrl": "https://node-20.zeno.fm/ww49kmcvef9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh124",
+    "name": "Wagoods",
+    "streamUrl": "http://s3.voscast.com:7666/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh125",
+    "name": "ROYALS FM WENCHI",
+    "streamUrl": "https://stream.zeno.fm/akvh7m2kva0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh126",
+    "name": "GHRadio1",
+    "streamUrl": "https://stream.zeno.fm/dzgdmrn0c5zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh127",
+    "name": "Ghana Today",
+    "streamUrl": "http://stream2.ghanatoday.com/gtonline",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh128",
+    "name": "123 FM",
+    "streamUrl": "https://sp0001.opengradle.pro:1999/radio/8050/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh129",
+    "name": "Adepa",
+    "streamUrl": "http://stream.zeno.fm/necg45bcswzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh130",
+    "name": "Alpha",
+    "streamUrl": "http://89.163.217.252:9336/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh131",
+    "name": "Focus FM 94.3",
+    "streamUrl": "http://stream.zeno.fm/w5h08t2e48vtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh132",
+    "name": "OFMTV",
+    "streamUrl": "http://198.7.63.116:8028/ofmtv.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh133",
+    "name": "Ultimate 106.9 FM",
+    "streamUrl": "http://stream.zeno.fm/ac28vs4s6gwtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh134",
+    "name": "ASANTEMAN RADIO",
+    "streamUrl": "http://stream.zeno.fm/whaba8v8d4duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh135",
+    "name": "Triples Digital",
+    "streamUrl": "http://stream.zeno.fm/uscwxqst9rquv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh136",
+    "name": "Sweet Melodies FM",
+    "streamUrl": "http://197.251.194.215:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh137",
+    "name": "Koowaa FM",
+    "streamUrl": "http://the.radioservers.biz:9852/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh138",
+    "name": "ahenfo online radio",
+    "streamUrl": "http://ahenfoonlineradio.radio12345.com/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh139",
+    "name": "KLIQ RADIO",
+    "streamUrl": "http://stream.zeno.fm/zrsea48sgtzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh140",
+    "name": "Neesim",
+    "streamUrl": "https://stream-47.zeno.fm/ck9nndzae8zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh141",
+    "name": "Kesmi FM",
+    "streamUrl": "https://stream-40.zeno.fm/465pgb38kuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh142",
+    "name": "Potters FM",
+    "streamUrl": "https://stream-43.zeno.fm/1x8bt2kucg8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh143",
+    "name": "Ahenfie",
+    "streamUrl": "http://198.154.246.167:8000/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh144",
+    "name": "Lens",
+    "streamUrl": "https://stream.lensnetworks.com/proxy/lensradio?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh145",
+    "name": "Grace Devotional",
+    "streamUrl": "http://stream.zeno.fm/gs8n59qwyv8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh146",
+    "name": "Melody FM",
+    "streamUrl": "https://stream-63.zeno.fm/8np9p06t6mzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh147",
+    "name": "The Bride",
+    "streamUrl": "https://thebrideradio.com:8443/airtime_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh148",
+    "name": "EPOS RADIO",
+    "streamUrl": "http://node-18.zeno.fm/8vgg9pvefv8uv?rj-ttl=5&rj-tok=AAABefBSO2EAXOk_0S_bzVqQcw",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh149",
+    "name": "ICGC-HIS PRESENCE RADIO",
+    "streamUrl": "http://stream.zeno.fm/3aw5sg7ct18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh150",
+    "name": "UPHILL RADIO",
+    "streamUrl": "http://stream.zeno.fm/9ahv8pu7p98uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
     "country": "country_ghana"
   }
 ]
