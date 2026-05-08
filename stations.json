@@ -24598,5 +24598,749 @@
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/90n7t3hU1OiR9KFFgbnIzS059IRu4Idr-a9t69VNTN0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvN2Q0OGY2ZTItODFlZS00NDJjLTgwODYtYjNlNzJlNmI2ZTBhL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
     "genre": "genre_retro",
     "country": "country_iceland"
+  },
+  {
+    "id": "kz2",
+    "name": "Qazaq Radiosy",
+    "streamUrl": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "imageUrl": "https://fmcube.net/images/stations/61b09d0420d6e.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz3",
+    "name": "Love Radio Kazakhstan",
+    "streamUrl": "https://stream.gakku.kz:8443/love128.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/loveradio2.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz4",
+    "name": "Shalqar",
+    "streamUrl": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+    "imageUrl": "https://qazradio.fm/images/live-cover3.jpg?v=0.12",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz5",
+    "name": "Classic",
+    "streamUrl": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/30716.v10.png",
+    "genre": "genre_clasic",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz6",
+    "name": "Radio 90s Eurodance",
+    "streamUrl": "https://listen9.myradio24.com/5967",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/9879.v5.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz7",
+    "name": "Russian Dance",
+    "streamUrl": "https://lux-radio.com:8015/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/99521.v2.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz8",
+    "name": "Retro FM 70s",
+    "streamUrl": "http://retro70.hostingradio.ru:8025/retro70-128.mp3?type=.mp3",
+    "imageUrl": "https://fmcube.net/images/stations/61b09c65d541a.jpg",
+    "genre": "genre_retro",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz9",
+    "name": "Radio Rauan 104 FM",
+    "streamUrl": "http://aska.ru-hoster.com:8025/stream",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-rauan.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz11",
+    "name": "Моя Мелодия",
+    "streamUrl": "https://lux-radio.com:8025/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/106488.v7.png",
+    "genre": "genre_relax",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz12",
+    "name": "Radio Azamat",
+    "streamUrl": "https://listen4.myradio24.com/8162",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-azamat.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz13",
+    "name": "GFM",
+    "streamUrl": "https://music.geometryfm.ru/radio/8000/geometryfm320",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/Gfm.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz14",
+    "name": "Radio Bulbul",
+    "streamUrl": "https://radiobulbul.stream.laut.fm/radiobulbul?t302=2025-12-17_23-59-32&uuid=dac1e2d4-eb24-4488-867d-81acedbf21bf",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/bulbul.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz15",
+    "name": "Radio Lux FM",
+    "streamUrl": "https://icecast.luxfm.kz/luxfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/82324.v9.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz16",
+    "name": "tatarskoe-radio-tmk",
+    "streamUrl": "https://a4.radioheart.ru:9036/RH13170",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-tmk.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz17",
+    "name": "Ghana Music",
+    "streamUrl": "https://streaming.radio.co/s92f890821/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/7042.v3.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz18",
+    "name": "Европа Плюс 91.7 FM",
+    "streamUrl": "http://ep128.hostingradio.ru:8030/ep128",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/europa-plus.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz19",
+    "name": "Радио Nostalgie",
+    "streamUrl": "https://listen8.myradio24.com/alexx333",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/nostalgie99fm.png",
+    "genre": "genre_retro",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz20",
+    "name": "Berliner Rundfunk - Rik De Lisle",
+    "streamUrl": "https://topradio.stream41.radiohost.de/brf-rik_mp3-128?agend=true&upd-meta&upd-scheme=https&_art=dD0xNzY2MDE2Mjc2JmQ9NTg4MTJiMzNkMTI2MjYyYzEyY2Q",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/85203.v4.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz21",
+    "name": "Рауан",
+    "streamUrl": "https://listen4.myradio24.com/rauan",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-rauan.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz22",
+    "name": "GFM-включайся в ритм EDM",
+    "streamUrl": "https://music.geometryfm.ru/radio/8010/geometryfm320",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/Gfm.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz23",
+    "name": "Дача",
+    "streamUrl": "https://stream.gakku.kz:8443/dacha",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-dacha.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz24",
+    "name": "Shalqar radiosy",
+    "streamUrl": "https://onair.radio1922.ru/64.aac",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/shalkar.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz25",
+    "name": "Retro FM",
+    "streamUrl": "http://retroserver.streamr.ru:8043/retro128",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/retrofm-lv.png",
+    "genre": "genre_retro",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz26",
+    "name": "Жаңа FM",
+    "streamUrl": "http://s0.radioheart.ru:8000/RH41867",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/zhanafm.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz27",
+    "name": "Radio Bulbul laut.fm",
+    "streamUrl": "http://radiobulbul.stream.laut.fm/radiobulbul",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/3257.v8.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz28",
+    "name": "Shalqar radiosy - Шалқар Радиосы",
+    "streamUrl": "http://listen9.myradio24.com/5967",
+    "imageUrl": "https://qazradio.fm/images/live-cover.jpg?v=0.12",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz29",
+    "name": "Юмор FM Казахстан",
+    "streamUrl": "https://s0.radioheart.ru:8000/RH41924",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/humorfmkz.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz31",
+    "name": "Orda FM",
+    "streamUrl": "https://ordacast.astanatv.kz:8443/orda",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/orda-fm.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz33",
+    "name": "Радио 7",
+    "streamUrl": "http://listen2.myradio24.com:9000/8334",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz36",
+    "name": "ХИТ FМ (Hit FM)",
+    "streamUrl": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.22558728576139542",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/pDCLgGu6EF.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz37",
+    "name": "Айсын FM",
+    "streamUrl": "http://s0.radioheart.ru:8000/RH65571",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/120142.v9.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz40",
+    "name": "Радио АВЕРС",
+    "streamUrl": "https://listen1.myradio24.com/8134",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-avers.jpg",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz41",
+    "name": "Радио Русское Азия Алма-Ата",
+    "streamUrl": "https://stream02.pcradio.biz/rusradio_asia-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/russkoe-r-azia.jpg",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz42",
+    "name": "Business FM (Almaty)",
+    "streamUrl": "https://stream02.pcradio.biz/businessfm_kz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/bussinessfmkz.jpg",
+    "genre": "genre_news",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz43",
+    "name": "Kazakh radio (Qazaq Radiolary)",
+    "streamUrl": "https://stream02.pcradio.biz/kazradio_kz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/kazradio.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz44",
+    "name": "Humor FM Kazakhstan 102.0 FM",
+    "streamUrl": "https://stream02.pcradio.biz/humourfm_kz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/humorfmkz.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz45",
+    "name": "Жулдыз FM",
+    "streamUrl": "https://stream02.pcradio.biz/zhuldyz_fm-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/zhuldyizfm.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz46",
+    "name": "Classic (Astana)",
+    "streamUrl": "https://stream02.pcradio.biz/classicfm_kz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/classic-radiosyi.jpg",
+    "genre": "genre_clasic",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz47",
+    "name": "Zhana FM",
+    "streamUrl": "https://stream02.pcradio.biz/zhana_fm-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/zhanafm.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz48",
+    "name": "Радио Той Думан",
+    "streamUrl": "https://stream02.pcradio.biz/rad_tdmnkz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-toj-duman.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz49",
+    "name": "Радио Вышка Казахстан",
+    "streamUrl": "https://stream.vyshka24.ru/kz",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-vishka-kazahstan.png",
+    "genre": "genre_news",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz50",
+    "name": "Energy FM 102.2",
+    "streamUrl": "https://stream02.pcradio.biz/energyfmkz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/energyfmkz.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz51",
+    "name": "Synthwave Club",
+    "streamUrl": "https://stream02.pcradio.biz/rad_snthwvclb-med",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/112894.v3.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz52",
+    "name": "Radio 7 (Semey)",
+    "streamUrl": "https://stream02.pcradio.biz/radio7_kz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/7semej.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz53",
+    "name": "Aspan FM",
+    "streamUrl": "https://stream02.pcradio.biz/rad_spankz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/aspan-fm.webp",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz54",
+    "name": "Radio NS - Shanson",
+    "streamUrl": "https://stream02.pcradio.biz/rad_rdshsnkz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radions2.png",
+    "genre": "genre_chanson",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz55",
+    "name": "Radio Sana (Rudny) 103.3 FM",
+    "streamUrl": "https://stream02.pcradio.biz/rad_rdsana-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/sana.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz56",
+    "name": "Beu FM",
+    "streamUrl": "https://stream.beufm.kz/beufm",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/beu-fm.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz57",
+    "name": "Space Beat",
+    "streamUrl": "https://stream02.pcradio.biz/rad_spacbeatru-med",
+    "imageUrl": "https://cdn.radio-addict.com/media/stream/0b95f6c9-76ac-460b-8652-de943d11e9c0_DAAFFFD7457C30A059A69D3DF1D28C7A_sbr-logo.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz61",
+    "name": "Radio Sana 103.3",
+    "streamUrl": "https://listen4.myradio24.com/radiosana",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/sana.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz63",
+    "name": "Моя Мелодия - Classic Hits from Kazakhstan",
+    "streamUrl": "https://worldradio.online/proxy/?q=https://lux-radio.com:8025/stream",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-Moya-melodiya.png",
+    "genre": "genre_clasic",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz65",
+    "name": "Almaty",
+    "streamUrl": "https://lux-radio.com:8005/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz66",
+    "name": "Best FM - 100.5 FM",
+    "streamUrl": "http://nashe1.hostingradio.ru/best-128.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/bestfm2v.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz67",
+    "name": "Europa Plus Light",
+    "streamUrl": "https://emg02.hostingradio.ru/ep-light128.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/evropa-plyus-light.webp",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz68",
+    "name": "Europa Plus New",
+    "streamUrl": "https://emg02.hostingradio.ru/ep-new128.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/evropa-plyus-new.webp",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz69",
+    "name": "Europa Plus Top 40",
+    "streamUrl": "http://eptop128server.streamr.ru:8033/eptop128",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/europa-plus-top-40.webp",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz70",
+    "name": "Like [Русский Хит]",
+    "streamUrl": "https://listen9.myradio24.com/91712",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/likefm.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz71",
+    "name": "Radio City Almaty",
+    "streamUrl": "https://icecast.cityradio.kz/city",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-city.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz72",
+    "name": "Радио NS - Национальная Сеть",
+    "streamUrl": "https://icecast.ns.kz/radions",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radions2.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz74",
+    "name": "Green Dance",
+    "streamUrl": "https://listen.radio-greendance.su/listen/green_dance/green_dance",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-green-dance.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz75",
+    "name": "Русское Радио Азия",
+    "streamUrl": "https://rusradioreg.hostingradio.ru/asia.rusradio128.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/russkoe-r-azia.jpg",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz76",
+    "name": "Geedeon",
+    "streamUrl": "https://listen10.myradio24.com/87888",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/geedeon-radio.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz77",
+    "name": "Радио Микс Казахстан",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-miks.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz81",
+    "name": "Astana radiosy - Астана Радиосы",
+    "streamUrl": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/astana-radio.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz83",
+    "name": "Radio ART",
+    "streamUrl": "https://stream03.pcradio.biz/art_radio_meditation-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-art.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz86",
+    "name": "Авторадио",
+    "streamUrl": "http://178.88.167.62:8080/AVTORADIO_192",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/avtoradiokz.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz87",
+    "name": "Европа Плюс Казахстан",
+    "streamUrl": "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/epkz.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz90",
+    "name": "Радио Дача - Radio Dacha KZ",
+    "streamUrl": "https://stream.gakku.kz:8443/dacha",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-dacha.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz91",
+    "name": "Радио КН",
+    "streamUrl": "https://player.radiokn.kz/56",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/416.v16.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz93",
+    "name": "Радио Талап",
+    "streamUrl": "https://streamingv2.shoutcast.com/radio-ao-talap",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-talap.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz94",
+    "name": "Радио Тандем",
+    "streamUrl": "https://stream04.pcradio.ru/tandem_kz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-Tandem.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz95",
+    "name": "Русское Радио Костанай",
+    "streamUrl": "https://listen9.myradio24.com/91712",
+    "imageUrl": "https://art.radiopotok.ru/f/cover/512/166/165645.jpg",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz96",
+    "name": "Тенгри FM",
+    "streamUrl": "http://91.201.214.229:8000/tengrifm",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/tengrifm.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz101",
+    "name": "Dala FM 100.2",
+    "streamUrl": "http://178.88.167.62:8080/DALA_192",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/Narodnoe-radio.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz118",
+    "name": "Aktobe Radio 101.4",
+    "streamUrl": "https://radiokrug.ru/radio/aktobe/icecast.audio",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/aktobe-radio.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz125",
+    "name": "Radio NS Русский хит",
+    "streamUrl": "https://service.ns.kz/bc/live",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radions2.png",
+    "genre": "genre_hits",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz136",
+    "name": "Radio Bulbul",
+    "streamUrl": "https://stream.laut.fm/radiobulbul?ref=radiode",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/bulbul.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz144",
+    "name": "Radio Qazaq",
+    "streamUrl": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/kazradio.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz148",
+    "name": "Radio Betelgeuse",
+    "streamUrl": "http://sat.radio-betelgeuse.com:8000/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/logo/2/29082.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz155",
+    "name": "Radio PVL",
+    "streamUrl": "https://stream-176.zeno.fm/gvhmwch7mg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndmhtd2NoN21nMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRxdUJycFI0VDdlQmpob3Y2ZW54QVEiLCJpYXQiOjE3NzgyMzgzNTAsImV4cCI6MTc3ODIzODQxMH0.rovzym60fY9G4WDo6Sf-W3xdr-7ICMkvEzfNMbF50Kk&dyn-uid=4931213401204820528&an-uid=69987459409159035&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3A99105234-5d27-471c-915d-78291726dfd3&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=2ebce1ffc93406523db20a1d70231624",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Bev2UaJyvfq2cNx6PqxdcQ0D_9rSO1tVIXleyB3xbCc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFF0dHlydXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFE3dmp0dndzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEyMzA1NTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz156",
+    "name": "Siberia",
+    "streamUrl": "https://stream-178.zeno.fm/p917224gt0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwOTE3MjI0Z3QwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1DZVBXVjBkUmoySXRLbjFyRVNLbWciLCJpYXQiOjE3NzgyMzg1MDIsImV4cCI6MTc3ODIzODU2Mn0.v_nDWG39HfaU5sHRRr7pd768pmmIdddeedfUsI47iY8&dyn-uid=4931213401204820528&an-uid=69987459409159035&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3A99105234-5d27-471c-915d-78291726dfd3&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=2ebce1ffc93406523db20a1d70231624",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/7yyGVtIk0DULAlzzKGISaHr1ZCsPs5_jNGfY4sdM4P0/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREl6ZUsxbUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREl6WjdFc0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY4MjAyODAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz187",
+    "name": "RADIO24 Казахстан",
+    "streamUrl": "https://stream.vyshka24.ru/kz",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio24-kz.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz192",
+    "name": "Vostok FM",
+    "streamUrl": "https://cors-anywhere-bc.herokuapp.com/http://91.201.214.229:8000/vostokfm",
+    "imageUrl": "https://www.radiogrom.com/paint_new/logo_kazakhstan/radio_vostok_fm_kazakhstan_logo.jpg",
+    "genre": "genre_retro",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz193",
+    "name": "Radio NS – Rock",
+    "streamUrl": "https://service.ns.kz/bc/live",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radions2.png",
+    "genre": "genre_rock",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz194",
+    "name": "Ретро FM Казахстан – 107.0 FM",
+    "streamUrl": "https://hls-01-retro.emgsound.ru/12/128/playlist.m3u8",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/retro-fm-kz.jpg",
+    "genre": "genre_retro",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz201",
+    "name": "Ваше Радио",
+    "streamUrl": "https://live.zhanafm.kz:8443/vasheradio",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/vashekz.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz203",
+    "name": "Народное радио",
+    "streamUrl": "http://178.88.167.62:8080/DALA_192",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/Narodnoe-radio.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz224",
+    "name": "Жаңа - MIX",
+    "streamUrl": "https://live.zhanafm.kz:8443/zhanamix",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/zhana-mix.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz228",
+    "name": "Жаңа - Lounge",
+    "streamUrl": "https://live.zhanafm.kz:8443/zhanalounge",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/zhana-lounge.png",
+    "genre": "genre_relax",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz230",
+    "name": "Pioner FM KZ",
+    "streamUrl": "https://live.zhanafm.kz:8443/pionerfm",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/pioner-fm-kz.png",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz234",
+    "name": "Жаңа EDM",
+    "streamUrl": "https://live.zhanafm.kz:8443/zhanaedm",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/recordedm.png",
+    "genre": "genre_dance",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz236",
+    "name": "Радио Тандем - Pop Hits from Kazakhstan",
+    "streamUrl": "https://stream02.pcradio.ru/tandem_kz-med",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-Tandem.jpg",
+    "genre": "genre_pop",
+    "country": "country_kazakhstan"
+  },
+  {
+    "id": "kz240",
+    "name": "Palmera Blanca radio - Daystream",
+    "streamUrl": "https://daystream.palmerablanca.com/daystream-128.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/m-EMcuAzl1f3CiOque2BF2yEdjM4D7cylOhbuWNpgVY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDY1ZThjMjctMDM0MC00ZTJiLWEwNjctMzMxOWY1NWNkYmZmL2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
+    "genre": "genre_relax",
+    "country": "country_kazakhstan"
   }
 ]
