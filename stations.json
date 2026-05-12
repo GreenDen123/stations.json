@@ -25342,5 +25342,1221 @@
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/m-EMcuAzl1f3CiOque2BF2yEdjM4D7cylOhbuWNpgVY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDY1ZThjMjctMDM0MC00ZTJiLWEwNjctMzMxOWY1NWNkYmZmL2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
     "genre": "genre_relax",
     "country": "country_kazakhstan"
+  },
+  {
+    "id": "gh1",
+    "name": "Joy FM",
+    "streamUrl": "https://mmg.streamguys1.com/JoyFM-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/429/joy-fm-ghana.f6a39ae7.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh2",
+    "name": "Peace FM",
+    "streamUrl": "https://peacefm-atunwadigital.streamguys1.com/peacefm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/UzsmqjMQfm.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh3",
+    "name": "Citi FM",
+    "streamUrl": "https://citi973fm.radioca.st/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/733/973-citi-fm.60cbe479.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh4",
+    "name": "Class FM",
+    "streamUrl": "https://my.streamingmedia.it/listen/classfm/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/797/associazione-culturale-carina.0ee0e576.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh5",
+    "name": "Starr FM",
+    "streamUrl": "https://starrfm-atunwadigital.streamguys1.com/starrfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/629/starr-fm.02dde637.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh6",
+    "name": "Adom FM",
+    "streamUrl": "https://mmg.streamguys1.com/AdomFM-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/430/adom-fm.a7e73ff4.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh7",
+    "name": "Okay FM",
+    "streamUrl": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cflulm4fn5mm.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh8",
+    "name": "Live FM",
+    "streamUrl": "https://node-32.zeno.fm/7586sp6mua0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/647/live-919-fm.5f1f6899.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh9",
+    "name": "Onua FM",
+    "streamUrl": "https://onuafm-atunwadigital.streamguys1.com/onuafm",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/052/onua-951-fm.cf27de28.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh10",
+    "name": "Kasapa FM",
+    "streamUrl": "https://stream.zeno.fm/3eh6htuyk8quv",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/626/kasapa-fm.dc5759c8.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh12",
+    "name": "Rainbow Radio",
+    "streamUrl": "http://stream.zeno.fm/wv4tseqxk8quv",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/devhfzwbwg7h.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh13",
+    "name": "Radio XYZ",
+    "streamUrl": "http://stream.zeno.fm/jlcgxhhwoymvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/084/radio-xyz.b128df41.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh14",
+    "name": "Ghana Today Radio",
+    "streamUrl": "http://stream2.ghanatoday.com/gtonline",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cVzMEvpa32.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh15",
+    "name": "Asaase Radio",
+    "streamUrl": "https://stream.zeno.fm/xua5q9hfgg0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/136/asaase-radio.fd08710e.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh16",
+    "name": "Max FM",
+    "streamUrl": "https://n13.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABnhriCxwAoqFk8znLl8TJNw",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/d9wj8xsuxvxa.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh16",
+    "name": "Max FM 95.8",
+    "streamUrl": "http://live.radyotvonline.com:8090/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/zWDuCUufAa.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh17",
+    "name": "Hello 101.5 FM",
+    "streamUrl": "http://hellofm.atunwadigital.streamguys1.com/hellofm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xcuxgxnta7qn.png",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh18",
+    "name": "YFM Ghana",
+    "streamUrl": "https://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/788/yfm.ea3856fb.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh19",
+    "name": "RADIO GOLD 90.5",
+    "streamUrl": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/752/radio-gold-905.54960e6f.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh20",
+    "name": "3FM",
+    "streamUrl": "https://3fm-atunwadigital.streamguys1.com/3fm",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/809/3-fm.1060d41a.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh21",
+    "name": "Hitz FM",
+    "streamUrl": "https://n09a-eu.rcs.revma.com/488kt4sbv4uvv/9_1vfn0sepgbmz402/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/519/hitz-fm.25551638.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh22",
+    "name": "Silver FM",
+    "streamUrl": "http://silverfm.atunwadigital.streamguys1.com/silverfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/399/silver-fm.b9c57fd6.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh23",
+    "name": "Pure FM",
+    "streamUrl": "http://purefm.atunwadigital.streamguys1.com/purefm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/149/pure-fm-london.efa5a678.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh24",
+    "name": "Fox FM",
+    "streamUrl": "http://foxfm.atunwadigital.streamguys1.com/foxfm",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/364/fox-fm-979.d6fe1242.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh25",
+    "name": "Oman FM",
+    "streamUrl": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/843/oman-fm-1071.c1799827.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh26",
+    "name": "Kessben FM",
+    "streamUrl": "https://kessben933fmkumasi-atunwadigital.streamguys1.com/kessben933fmkumasi",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/028/kessben-fm.48d3692c.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh27",
+    "name": "Wontumi FM",
+    "streamUrl": "https://stream-280.zeno.fm/u8krp9yx8qzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OGtycDl5eDhxenV2IiwiaG9zdCI6InN0cmVhbS0yODAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhrekxJZFNqUVNTQ1FFcGJENG1vT0EiLCJpYXQiOjE3Nzg1Njc0MzMsImV4cCI6MTc3ODU2NzQ5M30.jQgWiW-QhvMGirqYVFg16b6UXfTbAn622nxix11ZjPQ",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/554/wontumi-radio.b0fd3e4b.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh28",
+    "name": "Agoo FM",
+    "streamUrl": "http://agoofm-atunwadigital.streamguys1.com/agoofm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cavudxbc5dhk.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh30",
+    "name": "Bryt FM",
+    "streamUrl": "https://stream-33.zeno.fm/kxw7vk7nq7zuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jf3xe7b6yfts.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh31",
+    "name": "HighLife Radio",
+    "streamUrl": "https://hello.citrus3.com:8142/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/406/highlife-radio.cb722926.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh32",
+    "name": "Otec FM",
+    "streamUrl": "http://stream.zeno.fm/2dnt5ku7fxquv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/464/otec-fm.be6f466b.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh34",
+    "name": "Radio Tamale",
+    "streamUrl": "https://stream-287.zeno.fm/byefbt3crrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJieWVmYnQzY3JyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik11TVdPQkdLVHFtYVMzUjNkOU0xWVEiLCJpYXQiOjE3Nzg1Njc3MTQsImV4cCI6MTc3ODU2Nzc3NH0.W7MF_wyEwH9XzdwL-GlguyIC8SqR3bHlecMGx_SMwXs",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/GRvwFx5y5n.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh35",
+    "name": "Nzema FM",
+    "streamUrl": "https://stream-57.zeno.fm/s8ew03sh368uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ObqeohGxwrNoc9xO-S2obtGb-r7pkWX_t6yf_kxBonk/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2d4cFR3endvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc2SUNvMHdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3NjAxNjMxNjAwMA.webp",
+    "genre": "genre_folk",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh36",
+    "name": "Spice FM",
+    "streamUrl": "https://spicefm-atunwadigital.streamguys1.com/spicefm",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/443/spice-fm-944.70a4f1e8.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh37",
+    "name": "Free FM X-Mas",
+    "streamUrl": "https://stream-284.zeno.fm/h60er015v68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoNjBlcjAxNXY2OHV2IiwiaG9zdCI6InN0cmVhbS0yODQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjlLcTAyVzhCVEVHdG1GV0EwMHFhVGciLCJpYXQiOjE3Nzg1Njc5MzEsImV4cCI6MTc3ODU2Nzk5MX0.sKmwy8Fy3YDPItBOH1vBNe5Ai7RGrMImog7zLOFfzKQ",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/6uzYMVMHad.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh38",
+    "name": "Top FM",
+    "streamUrl": "https://radios3.justweb.pt/8012/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/111/top-fm-portugal.02046464.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh40",
+    "name": "Connect FM",
+    "streamUrl": "https://connectfm-atunwadigital.streamguys1.com/connectfm",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/054/connect-fm-ghana.c8c9256b.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh41",
+    "name": "Sporty FM",
+    "streamUrl": "https://sportyfm-atunwadigital.streamguys1.com/sportyfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/987/sporty-fm.f18a7f99.jpg",
+    "genre": "genre_sport",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh42",
+    "name": "Sankofa Radio",
+    "streamUrl": "https://ssl.nexuscast.com:8074/stream/;?dyn-uid=4931213401204820528&an-uid=69987459409159035&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3A99105234-5d27-471c-915d-78291726dfd3&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=45bf72b9d1502729c77319762e3bfb56",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/407/sankofa-radio.d5b9500a.jpg",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh43",
+    "name": "Sunsum FM",
+    "streamUrl": "https://stream-204.zeno.fm/ks907fw0mg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczkwN2Z3MG1nOHV2IiwiaG9zdCI6InN0cmVhbS0yMDQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InNIdGJfelRzU2oyODFFVVNoWENRaEEiLCJpYXQiOjE3Nzg1NjgzOTgsImV4cCI6MTc3ODU2ODQ1OH0.kFBPU82wsO9wuA1nO0zsRi8uw79eG4dqAaA35Knx2G0&dyn-uid=4931213401204820528&an-uid=69987459409159035&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3A99105234-5d27-471c-915d-78291726dfd3&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=45bf72b9d1502729c77319762e3bfb56",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/98KGKpBhwJM2myBt5_26P6Ax_9Bj-1voJ9bAhjrMwh4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFzLTZuNlFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFE0NVBpNndvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY0NDIyMjAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh44",
+    "name": "Nhyira Fie",
+    "streamUrl": "https://strl1.openstream.co/982?aw_0_1st.collectionid%3D5742%26stationId%3D5742%26publisherId%3D1006%26k%3D1778568491",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/fkaza3c6jafn.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh45",
+    "name": "West End Radio",
+    "streamUrl": "https://stream.zeno.fm/47nz3zut26duv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/460/west-end-radio.137fc275.jpg",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh46",
+    "name": "Bay Trust Radio",
+    "streamUrl": "https://baytrustradio.radioca.st/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/432/bay-trust-radio.06aa97ce.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh47",
+    "name": "Uniiq FM",
+    "streamUrl": "https://mediagh.us:2000/stream/uniiqfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/6982.v5.png",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh48",
+    "name": "Oroko Radio",
+    "streamUrl": "https://oroko-radio.radiocult.fm/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/hnrADsWl0RjOoM5y3QJZdNlvzDo2vou6Dm0fcSmAj2o/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvN2JhYmQzNzctZWQ3Yy00YTYzLTk3NzgtNDdiMGZkOTQ5ODNiL2ltYWdlLz91PTE3NzAwNTYwMTIwMDA.webp",
+    "genre": "genre_folk",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh49",
+    "name": "Info Radio 91.1 FM",
+    "streamUrl": "http://stream.zeno.fm/ey34mac27vzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qPg3F5dF4g.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "pe1",
+    "name": "RPP Noticias",
+    "streamUrl": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8",
+    "imageUrl": "https://www.radio.net/175/rppnoticias.png?version=7a190d9e54e1e92054eb68ec394e05c29a54a9e8",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe3",
+    "name": "Radio Exitosa 95.5 FM",
+    "streamUrl": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/145/radio-exitosa.f046bec1.jpg",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe7",
+    "name": "Radio Andina Tarata",
+    "streamUrl": "https://sp.oyotunstream.com/8064/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/677/radio-andina-tarata.ec31777e.png",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe8",
+    "name": "Radio Continente 820 AM",
+    "streamUrl": "https://servistream.info:8406/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/104/radio-continente-820-am.df15f063.png",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe9",
+    "name": "El Sol - Cali",
+    "streamUrl": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cb6ecaa9ace684913bf19?aid=6271a4d5d206c3172f3c9a9c&pid=UaGo1KuSdpAtA2sCOzoVSHLzRNGJFWsn&sid=m5dgz9NClHT8Bm6IQbagpqdCzuE5BHja&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1778664578176&ot=tLPNeqRmzqekSw2VfNdwRw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&liveId=632cb6ecaa9ace684913bf19&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/047/el-sol-cali.5189c584.png",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe10",
+    "name": "Radio Bethel",
+    "streamUrl": "https://alfa.betheltv.tv/radiobethel/1/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/774/bethel-radio.702b0ca5.jpg",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe12",
+    "name": "Radio Panamericana",
+    "streamUrl": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&property=mytuner-radio.com&pid=V4KcV6ySlXS6XJHM9hVlUy0ndh0E061Y&sid=m5dgz9NClHT8Bm6IQbagpqdCzuE5BHja&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1778664750781&ot=PliMzNsmOT2AhDIpg8Q6UA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=mytuner-radio.com&liveId=6598b62dded1380470f4e539&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&propertyName=mytuner-radio.com&propertyType=rss-app&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/011/panamericana-radio.4b85210f.png",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe14",
+    "name": "Radiomar 106.3",
+    "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d?aid=68386a6e44ba64f6064b25c9&pid=8BVfrqMV5ajdpSvUBeKO0pVCxtvHQmIx&sid=m5dgz9NClHT8Bm6IQbagpqdCzuE5BHja&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1778664850664&ot=m8ib2aHTjypCuNBr8_6-PA&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e261d2efddf5bfbc2d3d&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/094/radiomar-1063-fm.8c095564.jpg",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe15",
+    "name": "Radio Milenia 1530 AM",
+    "streamUrl": "https://radio.pjcks.com/8020/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/26642.v9.png",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe16",
+    "name": "Radio Mágica 88.3 FM",
+    "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43?aid=68386a6e44ba64f6064b25c9&pid=kEsBdUNW9J0tCPaqX3F8cWLZI1CD5CeN&sid=m5dgz9NClHT8Bm6IQbagpqdCzuE5BHja&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1778664996277&ot=YzHWYkCo3GE_63nhAUMO-A&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e28eb3fdc597ac2e2e43&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/421/radio-magica-883-fm.ec269816.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe17",
+    "name": "Radio Planeta",
+    "streamUrl": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6839e274f40e6b9832e37633?aid=68386a6e44ba64f6064b25c9&pid=tFaeumSRBfSGgRkJVMGgYKK9fZncz8d1&sid=m5dgz9NClHT8Bm6IQbagpqdCzuE5BHja&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1778665063926&ot=QpUSTHK2G6TRNZxjF_z1Zg&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e274f40e6b9832e37633&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/983/radio-planeta.cdb39ceb.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe19",
+    "name": "Radio Moda",
+    "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e1c82cc4c480fcd318dd?aid=68386a6e44ba64f6064b25c9&pid=EwyB3CPMgH6JCpXQof17yzCYVx3tmpuW&sid=m5dgz9NClHT8Bm6IQbagpqdCzuE5BHja&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1778665188885&ot=TJw2fEmHSRgx1fqUFPfQvA&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e1c82cc4c480fcd318dd&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/105/radio-moda-fm-973.687b02c7.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe20",
+    "name": "Oasis FM",
+    "streamUrl": "http://s1.viastreaming.net:7120/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/bv65sxavejhl.jpg",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe21",
+    "name": "Festiva FM",
+    "streamUrl": "https://acp2.lorini.net:28018/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/725/festiva-fm.c9f9d087.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe22",
+    "name": "Inca Sat",
+    "streamUrl": "https://stream-204.zeno.fm/eqotxvldgmpvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlcW90eHZsZGdtcHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9FbTE0NEFnUzRPZXo2UHFKaV9tX3ciLCJpYXQiOjE3Nzg1NzkwMzIsImV4cCI6MTc3ODU3OTA5Mn0.zHd4uP8FUxYWSa-cKduLMPI59eoEpQIDtgBSYZ0UBi4&dyn-uid=4931213401204820528&an-uid=69987459409159035&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3A99105234-5d27-471c-915d-78291726dfd3&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=45bf72b9d1502729c77319762e3bfb56",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/n9tCTVB7pf.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe23",
+    "name": "Radio Ke Brava",
+    "streamUrl": "https://stream.zenolive.com/59947b1wfuquv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/104/ke-brava.ebe14704.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe25",
+    "name": "Radio&Tv Maxi Mix",
+    "streamUrl": "https://stream-177.zeno.fm/5o4nsavwsuqtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bzRuc2F2d3N1cXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjVYd0txSkNoUi1tLW1aQ2lZYjVmb0EiLCJpYXQiOjE3Nzg1NzkzMTUsImV4cCI6MTc3ODU3OTM3NX0.Qz4fFKuQfxQ8RezPQ587JpHdMkoBYvsfKvFE7G8u1V4",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/490/radiotv-maxi-mix.2d30c55d.jpg",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe26",
+    "name": "Mega Star Peru",
+    "streamUrl": "http://stream.zeno.fm/m0gb9v7aqs8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/609/mega-str-peru.27d938d8.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe27",
+    "name": "FM Express 98.9",
+    "streamUrl": "https://sonic.sistemahost.es:7118/live",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/541/fm-express-989.c2cd1226.jpg",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe28",
+    "name": "Radio Level Hits",
+    "streamUrl": "http://ip.peruhits.com:7234/;stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/057/radio-level-hits.b5d6f9f9.jpg",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe32",
+    "name": "Radio Corazón 94.3 FM",
+    "streamUrl": "https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/eLk5CpPL4E.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe33",
+    "name": "Bienestar",
+    "streamUrl": "https://stream-286.zeno.fm/xqekge2d86xvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4cWVrZ2UyZDg2eHZ2IiwiaG9zdCI6InN0cmVhbS0yODYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imo5U0tPb1JqUUh1TFFTUHJvRzBhYUEiLCJpYXQiOjE3Nzg1Nzk3MTksImV4cCI6MTc3ODU3OTc3OX0.LlTi1v5onJ0RdFbMOXuoFIcmsrTESuKKGjSgCCcFG4g&zt=",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/348/radio-bienestar.82db2107.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe34",
+    "name": "Radio Baladitas",
+    "streamUrl": "http://stream.zeno.fm/hf2gsfm1mp8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/917/radio-baladitas.567bf7a4.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe35",
+    "name": "Radio Enamorados",
+    "streamUrl": "https://node-20.zeno.fm/b594gnc1fnruv.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/003/radio-enamorados-peru.80eb2d12.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe36",
+    "name": "Radio Románticas Inolvidables",
+    "streamUrl": "https://stream-158.zeno.fm/6m1ba7yt3vduv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/045/radio-baladas-del-recuerdo.c3c7390d.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe37",
+    "name": "Radio Z Rock & Pop",
+    "streamUrl": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/605/radio-z-rock-pop.64ba82ca.jpg",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe38",
+    "name": "Rock&Pop",
+    "streamUrl": "http://stream.zeno.fm/0k6va3rg8rhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/267/rockpop2.359f32ac.jpg",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe40",
+    "name": "Indie Perú Radio",
+    "streamUrl": "https://eu57-sonic.instainternet.com:7082/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/421/indie-peru-radio.9bfa1fa8.jpg",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe41",
+    "name": "Mundo Beatles Radio",
+    "streamUrl": "http://stream.zeno.fm/y79be89qxrhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/668/mundo-beatles-radio.14c49068.png",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe42",
+    "name": "RadioMix AQP Rock-Pop",
+    "streamUrl": "https://stream-179.zeno.fm/mwxnk1y5btvvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/007/radiomixaqp-baladas.533c408a.jpg",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe43",
+    "name": "Radio Doble Nueve Classic",
+    "streamUrl": "https://conectperu.com:7003/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/CU76Fq3Pq8.jpg",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe44",
+    "name": "Radio Doble Nueve Heritage",
+    "streamUrl": "https://conectperu.com:7002/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/Uc3GLzqW8G.jpg",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe48",
+    "name": "Radio Onda Azul",
+    "streamUrl": "https://stream-289.zeno.fm/z4xkhcavfu4uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6NHhraGNhdmZ1NHV2IiwiaG9zdCI6InN0cmVhbS0yODkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZ1MjJVejdNUUhtX0NMdk1QaElWMWciLCJpYXQiOjE3Nzg1ODA0NzgsImV4cCI6MTc3ODU4MDUzOH0.WTPotHgoB3DbNlwatHTlg8fyr2VA2g304D_2Elrugfs",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/dbfdbe2g9dpx.png",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe49",
+    "name": "Radio Callao",
+    "streamUrl": "http://server8.emitironline.com:18176/",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/384/radio-callao-madrid.aec6c223.png",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe50",
+    "name": "Radio Canto Grande 97.7 FM",
+    "streamUrl": "https://servistream.info:9138/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/440/radio-sentimiento-andino-cristiana.0dc5a109.png",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe51",
+    "name": "Radio A 94.9",
+    "streamUrl": "https://stream-160.zeno.fm/qxsaiqu7pn4tv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/065/radio-a-949-fm.c1838600.png",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe52",
+    "name": "Radio Karibeña 94.9 FM",
+    "streamUrl": "https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/144/la-karibena.e4a6a8a3.jpg",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe53",
+    "name": "La Kalle 96.1 FM",
+    "streamUrl": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/484/radio-la-kalle.dc00363f.jpg",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe54",
+    "name": "Radio La Zona 90.5 FM",
+    "streamUrl": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Z6ZZYZYE6R.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe55",
+    "name": "Radio La Mega 96.7 FM",
+    "streamUrl": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/21517.v20.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe56",
+    "name": "Panamericana Salsa Power",
+    "streamUrl": "https://mdstrm.com/audio/6598b728d982060896866b8a/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/503/radio-panamericana-salsa-power.af97fbb9.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe57",
+    "name": "Panamericana Latino Refrescante",
+    "streamUrl": "https://mdstrm.com/audio/6598b76c6c07d80644b7321f/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/535/radio-panamericana-latino-refrescante.e873a05f.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe58",
+    "name": "Radio La Kalle Lima",
+    "streamUrl": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/484/radio-la-kalle.dc00363f.jpg",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe59",
+    "name": "La Salsa Maestra",
+    "streamUrl": "https://stream.zeno.fm/c1skkw28pfeuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/594/radio-salsa-peru.de606443.jpg",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe60",
+    "name": "Perú Cumbia",
+    "streamUrl": "https://servistream.info:8330/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/419/peru-cumbia-peru.c9324dc6.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe62",
+    "name": "Full Techno",
+    "streamUrl": "https://servistream.info:8320/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/884/full-techno-online.cf95aa90.jpg",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe63",
+    "name": "Electro Radio Live",
+    "streamUrl": "https://stream-142.zeno.fm/93kksqvkeg8uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/736/electro-radio-peru.ea0dfc79.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe64",
+    "name": "Radio Estacion Techno",
+    "streamUrl": "http://stream.zeno.fm/t3sqkau72rhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/319/radio-estacion-techno.8a912b91.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe66",
+    "name": "Radio Discoteca 90",
+    "streamUrl": "https://live.discoteca90.com:8004/stream?icy=http",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/671/radio-discoteca-90.5a470ed9.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe67",
+    "name": "Mambo INN Radio",
+    "streamUrl": "https://radio.perustream.com:7000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/acnpsxyu7khb.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe68",
+    "name": "Radio Cumbia Mix",
+    "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=5trFw5ahMujY333boAvHYyq4T5OMG8ke&sid=qZRy4NklZ8eJGKITzrEqZ4naK78d4im4&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1778670690881&ot=JOxPs97dA4Oos9N8P_mm-w&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/588/kumbia-mix.f8c1ceaa.jpg",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe69",
+    "name": "La Única Tropical",
+    "streamUrl": "https://stream-178.zeno.fm/see4wpyr9bhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/897/la-unica-tropical.a27848cf.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe70",
+    "name": "Estación Cumbia Radio",
+    "streamUrl": "https://stream-155.zeno.fm/q66qxthr0uhvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/341/radio-estacion-cumbia.224cf2e0.png",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe72",
+    "name": "Radio La Inolvidable 93.7 FM",
+    "streamUrl": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4?aid=68386a6e44ba64f6064b25c9&pid=x6DsP9wPrurGv1zmgWAOOwboluSNqmDz&sid=qZRy4NklZ8eJGKITzrEqZ4naK78d4im4&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1778670856933&ot=6G6FzWLaBywyYJcrzUkDSw&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/103/la-inolvidable.31cb36f0.png",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe74",
+    "name": "Estación 90s Radio",
+    "streamUrl": "https://audio.miradioenvivo.com:10939/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/511/estacion-90s-radio.d89352bc.jpg",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe75",
+    "name": "La Noventera",
+    "streamUrl": "https://host.gometri.com/proxy/lanoventera/stream/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/743/la-noventera.f257e89d.jpg",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe76",
+    "name": "Radio Retro",
+    "streamUrl": "https://stream2.eistreaming.com/7068/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/777/radio-retro-peru.9bdc124c.png",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe77",
+    "name": "Gen X",
+    "streamUrl": "https://s2.radio.co/sf25229e16/listen",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/508/gen-x-radio2.c64cad91.jpg",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe78",
+    "name": "Sonorama Radio",
+    "streamUrl": "https://stream-177.zeno.fm/j3va6zjgxuztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqM3ZhNnpqZ3h1enR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImFIYXl5bkxmUkRPWnRRUEN3eG9wM2ciLCJpYXQiOjE3Nzg1ODQ2ODEsImV4cCI6MTc3ODU4NDc0MX0.cRgk9jN4W_RYX4MAIdJP-WlC9tdsWpMr09rClnFNDVU",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/204/sonorama-radio.e91179ae.jpg",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe79",
+    "name": "Radio Del Amor",
+    "streamUrl": "https://stream-151.zeno.fm/z7re4u64gd0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/876/radio-del-amor-romantica.4cbb30f0.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe80",
+    "name": "Latidos 94.7 FM",
+    "streamUrl": "http://ip.peruhits.com:9944/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rnynfyczp4ht.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe81",
+    "name": "Radio Karicia",
+    "streamUrl": "https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/312/radio-karicia.80d08c99.png",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe82",
+    "name": "Jazz Contempo",
+    "streamUrl": "http://conectperu.com:8048/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/902/jazz-contempo.55c6063c.jpg",
+    "genre": "genre_jazz",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe84",
+    "name": "Radio Filarmonía 102.7",
+    "streamUrl": "https://c22.radioboss.fm:8100/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/pwTdeAxdw6.png",
+    "genre": "genre_clasic",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe86",
+    "name": "K-Pop Radio",
+    "streamUrl": "https://stream-175.zeno.fm/aebyki1euhmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhZWJ5a2kxZXVobXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRmZ1F3bDBOUURlT0FVbDAwV0I3c1EiLCJpYXQiOjE3Nzg1ODQ5NzEsImV4cCI6MTc3ODU4NTAzMX0.yap6LhOjtGeTQfmpOil9kE71SHnMOiUIcX38VD4azjw",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/397/k-pop-radio.c44ea366.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe87",
+    "name": "Generacion Kpop",
+    "streamUrl": "http://stream9.mexiserver.com:8242/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/532/generacion-kpop-peru.6c92b983.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe88",
+    "name": "Radio Amo la Música",
+    "streamUrl": "http://stream-179.zeno.fm/aqmct15qmchvv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/425/radio-amo-la-musica.d123e7cc.jpg",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe89",
+    "name": "Radio Onda Digital",
+    "streamUrl": "https://conectperu.com/8354/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/848/radio-onda-digital.5658c4e8.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe90",
+    "name": "Pachamama",
+    "streamUrl": "https://servidor14-2.brlogic.com:8744/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rvkbaen4qe6a.png",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe91",
+    "name": "Perú Folk Radio",
+    "streamUrl": "https://raymistream.net/listen/perufolkradio/live",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/770/peru-folk-radio.8d53bede.png",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe95",
+    "name": "Radio Huancayo",
+    "streamUrl": "https://cloud9.ldwebstudios.net:7000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/6bbqanuyxe9m.png",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe96",
+    "name": "Radio Yaraví",
+    "streamUrl": "https://tupanel.info/stream/radioyaravi/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/sbejepghhg7z.png",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe97",
+    "name": "Radio Melodia Arequipa",
+    "streamUrl": "http://stream.radiomelodia.com.pe:8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/863/radio-arequipa-online.fb3e86e2.png",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe98",
+    "name": "Onda Popular",
+    "streamUrl": "https://dattavolt.com/8278/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/173/radio-onda-popular.3e0e7246.png",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe99",
+    "name": "Radio Frecuencia Popular",
+    "streamUrl": "https://radio.sistemasandinos.org/7412/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/118/radio-frecuencia-popular-zepita.754cacfb.png",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe100",
+    "name": "Nuevo Tiempo Juliaca 780 AM",
+    "streamUrl": "https://stream-284.zeno.fm/yq1mhfpw2bruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5cTFtaGZwdzJicnV2IiwiaG9zdCI6InN0cmVhbS0yODQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZ3S2hfWEdqVHN1WEsxZHhBTy11MnciLCJpYXQiOjE3Nzg1ODUzMzksImV4cCI6MTc3ODU4NTM5OX0.C2O-1ZajtO938jZPPIm82L6npKzLG9Tu9dmGYgBzz2M",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/mtekgkqjwgdd.jpg",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe103",
+    "name": "Radio Fidelísima",
+    "streamUrl": "https://st3.inkaniserver.net:8008/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/26290.v5.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe104",
+    "name": "Radio La Gloria Es De Dios",
+    "streamUrl": "https://radio101.mjwebexperts.com/8006/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/fVXxyxJtCZkMDj02SrdDa1skF2RR8DWaWxUPaM-i-tw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGd2LTZtX0FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGd2NEtoaVFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3MTQzMTc2MDAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe105",
+    "name": "Radio A - 94.9 FM",
+    "streamUrl": "https://stream-288.zeno.fm/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InF0cFROSGVuVG11RWZTWDN2dlMzcVEiLCJpYXQiOjE3Nzg1ODU2NTAsImV4cCI6MTc3ODU4NTcxMH0.ice3VoW59650vGHMLJN-s8X_uUzWBCDTnblIAvkm1-M",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/065/radio-a-949-fm.c1838600.png",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe106",
+    "name": "Radio Manantial de Vida",
+    "streamUrl": "https://server.streamingradios.net/8036/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/342/radio-manantial-de-vida-peru.6a713130.jpg",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe107",
+    "name": "Radio Eben-Ezer",
+    "streamUrl": "https://whmsonic.playerfullhd.com/8056/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/221/radio-eben-ezer-el-salvador.30c091fd.jpg",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe108",
+    "name": "Radio Girasol",
+    "streamUrl": "https://miradioperu.com/8008/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/837/radio-girasol-piura.67c4a9c3.png",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe110",
+    "name": "Radio Cusco RAM",
+    "streamUrl": "http://ramcusco.stream.laut.fm/ramcusco",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/129/radio-legal-cusco.8c05be02.jpg",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe111",
+    "name": "Radio Moyobamba",
+    "streamUrl": "https://radioconector.com:7005/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/93943.v3.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe112",
+    "name": "Radio Huascaran 104.5",
+    "streamUrl": "https://stream.mediatexcomunicaciones.com/8060/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/953/radio-huascaran-1045-fm.8b5a130a.jpg",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe115",
+    "name": "Radio Trujillo Estrella 102.7",
+    "streamUrl": "https://radio.datahost.pe/9660/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/379/radio-estrella-peru.970e8723.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe116",
+    "name": "Radio Pucallpa Super",
+    "streamUrl": "https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3",
+    "imageUrl": "https://myradioonline.net/wp-content/uploads/2026/05/radio-radio-super-pucallpa-4dbf9ec7.jpg",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe117",
+    "name": "Radio Iquitos Fantasía 88.3",
+    "streamUrl": "https://sp.oyotunstream.com:10943/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/381/radio-fantasia-883-fm.b97e35f1.jpg",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe119",
+    "name": "Radio Bagua Grande Stereo 99",
+    "streamUrl": "https://sechin.grupocentroserver.com/radio/8300/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/031/radio-stereo-grande.e70e34db.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe122",
+    "name": "Radio Frontera",
+    "streamUrl": "https://stream.xweb.ar/8128/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/471/radio-frontera-argentina.a359abb2.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe124",
+    "name": "Radio Arequipa JR 88.7",
+    "streamUrl": "https://tupanel.info:2000/stream/radiojr/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/863/radio-arequipa-online.fb3e86e2.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe125",
+    "name": "Radio Disney Perú",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/175/radio-disney-peru.9b7ebe6e.jpg",
+    "genre": "genre_kids",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe127",
+    "name": "Radio Cumbre",
+    "streamUrl": "https://stream.zeno.fm/t8b5cmybtd0uv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/879/radio-cumbre-huancayo.09815999.jpg",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe131",
+    "name": "Radio Gozo",
+    "streamUrl": "http://hestia.cdnstream.com/1530_128",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/825/radio-gozo.bc1f569f.png",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe132",
+    "name": "Radio Domino",
+    "streamUrl": "http://www.clubfmserver.be:8000/domino.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/7ng4f99gaeme.jpg",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe133",
+    "name": "Radio Galáctica",
+    "streamUrl": "https://sonic.dattassd.com:10949/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/grxaszcgdgjy.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe134",
+    "name": "Radio Inka Power",
+    "streamUrl": "https://sonic.dattassd.com:10952/stream",
+    "imageUrl": "https://www.estacionesfm.com/imgfm/imgfm/inka_power_xx4x4x.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe135",
+    "name": "Radio Cadis",
+    "streamUrl": "http://node-11.zeno.fm/a440accyxqzuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/76606.v9.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe137",
+    "name": "Radio Congreso del Perú",
+    "streamUrl": "https://vivo.miradio.in/8048/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/g6rbkde5tams.jpg",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe141",
+    "name": "Radio Norteña",
+    "streamUrl": "https://radio.livestreamingmundial.com:7060/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/w3Gesctkb6.jpg",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe142",
+    "name": "Radio Peruana",
+    "streamUrl": "https://cloudstream2036.conectarhosting.com/8352/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/109/peruana-radio.688edd13.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe143",
+    "name": "Exa FM",
+    "streamUrl": "https://stream-285.zeno.fm/uvhdnfd73hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dmhkbmZkNzNoaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOHZKRnNENEpTU0tad3gyRkcyS1BOZyIsImlhdCI6MTc3ODU4Njk0OSwiZXhwIjoxNzc4NTg3MDA5fQ.EHsjBtta72aBJUGzvPoY0aKeoAPQTK1xT3lGlr8pDVI",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/074/exa-fm.df7afcbb.png",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe144",
+    "name": "Radio Mix Lima",
+    "streamUrl": "https://stream-174.zeno.fm/qa5aurigvoivv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/85053.v8.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe146",
+    "name": "Radio Tarapoto JVM",
+    "streamUrl": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/pxjloEyPFpGKX0CeY6_AO3c-G7QiY6olTXF_YJzqaPw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNWVlOWJmNzktYzZjMC00YzZkLWI4MzUtMTcxMDBkODUxN2ZlL2ltYWdlLz91PTE3NzAwNTYwMTIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe148",
+    "name": "Radio Zona 5 93.3",
+    "streamUrl": "https://panel.innovatestream.pe:10975/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ZMuZ0FL2cw-HEZqy4J7EzPQXmCJle50NVYYL5WHus1Y/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTY0YWZmNGYtMDYwMS0xMWU4LWFlOTctNTI1NDNiZTA0YzgxL2ltYWdlLz91PTE3MDE2OTcxNjIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe150",
+    "name": "Radio Onda Popular Puno",
+    "streamUrl": "https://dattavolt.com/8280/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/173/radio-onda-popular.3e0e7246.png",
+    "genre": "genre_pop",
+    "country": "country_peru"
   }
 ]
