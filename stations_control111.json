@@ -1,1958 +1,30 @@
 [
   {
-    "id": "kz1",
-    "name": "Radio alau",
-    "streamUrl": "https://fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&ampport=8335&amptype=s2&ampmount=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz2",
-    "name": "Qazaq Radiosy",
-    "streamUrl": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz3",
-    "name": "Love Radio Kazakhstan",
-    "streamUrl": "http://stream2.n340.com/12_love_28_reg_23737?type=.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz4",
-    "name": "Shalkar",
-    "streamUrl": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz5",
-    "name": "Classic",
-    "streamUrl": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz6",
-    "name": "Radio 90s Eurodance",
-    "streamUrl": "https://listen9.myradio24.com/5967",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz7",
-    "name": "Russian Dance",
-    "streamUrl": "https://lux-radio.com:8015/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz8",
-    "name": "Retro FM 70s",
-    "streamUrl": "http://retro70.hostingradio.ru:8025/retro70-128.mp3?type=.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz9",
-    "name": "Radio Rauan 104 FM",
-    "streamUrl": "http://aska.ru-hoster.com:8025/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz10",
-    "name": "Radio ART FM",
-    "streamUrl": "http://s0.radioheart.ru:8000/radioart",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz11",
-    "name": "Моя Мелодия",
-    "streamUrl": "https://lux-radio.com:8025/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz12",
-    "name": "Radio Azamat",
-    "streamUrl": "https://listen4.myradio24.com/8162",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz13",
-    "name": "GFM",
-    "streamUrl": "https://music.geometryfm.ru/radio/8000/geometryfm320",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz14",
-    "name": "Radio Bulbul",
-    "streamUrl": "https://radiobulbul.stream.laut.fm/radiobulbul?t302=2025-12-17_23-59-32&uuid=dac1e2d4-eb24-4488-867d-81acedbf21bf",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz15",
-    "name": "Radio Lux FM",
-    "streamUrl": "https://icecast.luxfm.kz/luxfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz16",
-    "name": "tatarskoe-radio-tmk",
-    "streamUrl": "https://a4.radioheart.ru:9036/RH13170",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz17",
-    "name": "Ghana Music",
-    "streamUrl": "https://streaming.radio.co/s92f890821/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz18",
-    "name": "Европа Плюс 91.7 FM",
-    "streamUrl": "http://ep128.hostingradio.ru:8030/ep128",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz19",
-    "name": "Радио Nostalgie",
-    "streamUrl": "https://listen8.myradio24.com/alexx333",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz20",
-    "name": "Berliner Rundfunk - Rik De Lisle",
-    "streamUrl": "https://topradio.stream41.radiohost.de/brf-rik_mp3-128?agend=true&upd-meta&upd-scheme=https&_art=dD0xNzY2MDE2Mjc2JmQ9NTg4MTJiMzNkMTI2MjYyYzEyY2Q",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz21",
-    "name": "Рауан",
-    "streamUrl": "https://listen4.myradio24.com/rauan",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz22",
-    "name": "GFM-включайся в ритм EDM",
-    "streamUrl": "https://music.geometryfm.ru/radio/8010/geometryfm320",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz23",
-    "name": "Дача",
-    "streamUrl": "https://listen5.myradio24.com/76267",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz24",
-    "name": "Shalqar radiosy",
-    "streamUrl": "https://onair.radio1922.ru/64.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz25",
-    "name": "Retro FM",
-    "streamUrl": "http://retroserver.streamr.ru:8043/retro128",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz26",
-    "name": "Жаңа FM",
-    "streamUrl": "http://s0.radioheart.ru:8000/RH41867",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz27",
-    "name": "Radio Bulbul laut.fm",
-    "streamUrl": "http://radiobulbul.stream.laut.fm/radiobulbul",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz28",
-    "name": "Shalqar radiosy - Шалқар Радиосы",
-    "streamUrl": "http://listen9.myradio24.com/5967",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz29",
-    "name": "Юмор FM Казахстан",
-    "streamUrl": "https://s0.radioheart.ru:8000/RH41924",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz30",
-    "name": "Europa Plus",
-    "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz31",
-    "name": "Orda FM",
-    "streamUrl": "http://s0.radioheart.ru:8000/RH67172",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz32",
-    "name": "Новое Радио / Жаңа FM",
-    "streamUrl": "https://s0.radioheart.ru:8000/RH41867",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz33",
-    "name": "Радио 7",
-    "streamUrl": "http://listen2.myradio24.com:9000/8334",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz34",
-    "name": "LoveRadio",
-    "streamUrl": "http://stream2.n340.com/12_love_24_reg_23737",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz35",
-    "name": "Keygen FM",
-    "streamUrl": "http://95.143.216.164:8080/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz36",
-    "name": "ХИТ FМ (Hit FM)",
-    "streamUrl": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.22558728576139542",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz37",
-    "name": "Айсын FM",
-    "streamUrl": "http://s0.radioheart.ru:8000/RH65571",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz38",
-    "name": "Алау",
-    "streamUrl": "https://s0.radioheart.ru:8000/RH67172",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz39",
-    "name": "ОстровОК!",
-    "streamUrl": "https://listen4.myradio24.com/27010",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz40",
-    "name": "Радио АВЕРС",
-    "streamUrl": "https://listen1.myradio24.com/8134",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz41",
-    "name": "Russkoe Radio Asia",
-    "streamUrl": "https://stream02.pcradio.biz/rusradio_asia-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz42",
-    "name": "Business FM (Almaty)",
-    "streamUrl": "https://stream02.pcradio.biz/businessfm_kz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz43",
-    "name": "Kazakh radio (Qazaq Radiolary)",
-    "streamUrl": "https://stream02.pcradio.biz/kazradio_kz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz44",
-    "name": "Humor FM Kazakhstan 102.0 FM",
-    "streamUrl": "https://stream02.pcradio.biz/humourfm_kz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz45",
-    "name": "Zhuldyz FM",
-    "streamUrl": "https://stream02.pcradio.biz/zhuldyz_fm-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz46",
-    "name": "Classic (Astana)",
-    "streamUrl": "https://stream02.pcradio.biz/classicfm_kz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz47",
-    "name": "Zhana FM",
-    "streamUrl": "https://stream02.pcradio.biz/zhana_fm-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz48",
-    "name": "Radio Toj Duman",
-    "streamUrl": "https://stream02.pcradio.biz/rad_tdmnkz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz49",
-    "name": "Radio Vyshka (Kazahstan)",
-    "streamUrl": "https://stream02.pcradio.biz/rad_vshkkz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz50",
-    "name": "Energy FM 102.2",
-    "streamUrl": "https://stream02.pcradio.biz/energyfmkz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz51",
-    "name": "Synthwave Club",
-    "streamUrl": "https://stream02.pcradio.biz/rad_snthwvclb-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz52",
-    "name": "Radio 7 (Semey)",
-    "streamUrl": "https://stream02.pcradio.biz/radio7_kz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz53",
-    "name": "Aspan FM",
-    "streamUrl": "https://stream02.pcradio.biz/rad_spankz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz54",
-    "name": "Radio NS - Shanson",
-    "streamUrl": "https://stream02.pcradio.biz/rad_rdshsnkz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_chanson",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz55",
-    "name": "Radio Sana (Rudny) 103.3 FM",
-    "streamUrl": "https://stream02.pcradio.biz/rad_rdsana-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz56",
-    "name": "Beu FM",
-    "streamUrl": "https://stream02.pcradio.biz/rad_befmkz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz57",
-    "name": "Space Beat",
-    "streamUrl": "https://stream02.pcradio.biz/rad_spacbeatru-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz58",
-    "name": "Радио 7 Казахстан",
-    "streamUrl": "https://listen2.myradio24.com/8334",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz59",
-    "name": "Радио Халык",
-    "streamUrl": "https://s0.radioheart.ru:8000/RH46806",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz60",
-    "name": "Classic FM Kz",
-    "streamUrl": "https://stream2.n340.com/12_love_28_reg_23737",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz61",
-    "name": "Radio Sana 103.3",
-    "streamUrl": "https://listen4.myradio24.com/radiosana",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz62",
-    "name": "Юмор FM Казахстан - Pop Hits from Kazakhstan",
-    "streamUrl": "https://c28.radioboss.fm:18234/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz63",
-    "name": "Моя Мелодия - Classic Hits from Kazakhstan",
-    "streamUrl": "https://worldradio.online/proxy/?q=https://lux-radio.com:8025/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz64",
-    "name": "Aloha FM - Eclectic Mix from Kazakhstan",
-    "streamUrl": "https://listen3.myradio24.com/aloha",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz65",
-    "name": "Almaty",
-    "streamUrl": "https://lux-radio.com:8005/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz66",
-    "name": "Best FM - 100.5 FM",
-    "streamUrl": "http://nashe1.hostingradio.ru/best-128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz67",
-    "name": "Europa Plus Light",
-    "streamUrl": "https://emg02.hostingradio.ru/ep-light128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz68",
-    "name": "Europa Plus New",
-    "streamUrl": "https://emg02.hostingradio.ru/ep-new128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz69",
-    "name": "Europa Plus Top 40",
-    "streamUrl": "http://eptop128server.streamr.ru:8033/eptop128",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz70",
-    "name": "Like [Русский Хит]",
-    "streamUrl": "https://listen9.myradio24.com/91712",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz71",
-    "name": "Radio City Almaty",
-    "streamUrl": "https://icecast.cityradio.kz/city",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz72",
-    "name": "Радио NS - Национальная Сеть",
-    "streamUrl": "https://icecast.ns.kz/radions",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz73",
-    "name": "Business FM",
-    "streamUrl": "https://bfmreg.hostingradio.ru/kz.bfm128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz74",
-    "name": "Green Dance",
-    "streamUrl": "https://listen.radio-greendance.su/listen/green_dance/green_dance",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz75",
-    "name": "Русское Радио Азия",
-    "streamUrl": "https://rusradioreg.hostingradio.ru/asia.rusradio128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz76",
-    "name": "Geedeon",
-    "streamUrl": "https://listen10.myradio24.com/87888",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz77",
-    "name": "Радио Микс Казахстан",
-    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz78",
-    "name": "Space Beat (64k AAC)",
-    "streamUrl": "https://90116.web.hosting-russia.ru/listen/space_beat/mobile.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz79",
-    "name": "Space Beat (128k)",
-    "streamUrl": "https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz80",
-    "name": "Energy FM",
-    "streamUrl": "http://89.219.34.117:8008/NEWENERGY",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz81",
-    "name": "Astana radiosy - Астана Радиосы",
-    "streamUrl": "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz82",
-    "name": "Dala FM",
-    "streamUrl": "http://95.56.234.40:8080/DALA_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz83",
-    "name": "Radio ART",
-    "streamUrl": "https://listen.myrh.ru/id042551",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz84",
-    "name": "Radio Ice",
-    "streamUrl": "http://onair.radioice.ru:8000/mp3_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz85",
-    "name": "Radio Sana",
-    "streamUrl": "http://aska.ru-hoster.com:8021/stream.ogg",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz86",
-    "name": "Авторадио",
-    "streamUrl": "http://95.56.234.40:8080/AVTORADIO_AAC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz87",
-    "name": "Европа Плюс Казахстан",
-    "streamUrl": "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz88",
-    "name": "Жулдыз ФМ",
-    "streamUrl": "http://91.201.214.229:8000/zhulduz",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz89",
-    "name": "Радио NS",
-    "streamUrl": "http://89.219.35.26:8000/radions",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz90",
-    "name": "Радио Дача - Radio Dacha KZ",
-    "streamUrl": "https://stream.gakku.tv:8443/dacha",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz91",
-    "name": "Радио КН",
-    "streamUrl": "http://radiokn.ddns.net:7000/56?",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz92",
-    "name": "Радио Орда",
-    "streamUrl": "https://edge01.daitsuna.net/orda/orda/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz93",
-    "name": "Радио Талап",
-    "streamUrl": "https://streamingv2.shoutcast.com/radio-ao-talap",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz94",
-    "name": "Радио Тандем",
-    "streamUrl": "https://a1.radioheart.ru:9001/RH20072",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz95",
-    "name": "Русское Радио Костанай",
-    "streamUrl": "http://82.118.17.75:8000/RusRadio_Kostanai",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz96",
-    "name": "Тенгри FM",
-    "streamUrl": "http://91.201.214.229:8000/tengrifm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz97",
-    "name": "Той Думан - Toi Duman",
-    "streamUrl": "https://stream.gakku.tv:8443/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz98",
-    "name": "Avtoradio Kazakhstan",
-    "streamUrl": "http://95.56.234.40:8080/AVTORADIO",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz99",
-    "name": "Radio 102",
-    "streamUrl": "http://ne.fm/mp3/radio102",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz100",
-    "name": "Business FM 89.6",
-    "streamUrl": "http://94.247.130.243:5050/business",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz101",
-    "name": "Dala FM 100.2",
-    "streamUrl": "http://95.56.234.40:8080/DALA_320",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz102",
-    "name": "Russkoye Radio Asia 104.7 FM",
-    "streamUrl": "http://31.148.22.35:9000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz103",
-    "name": "Radio Aksai",
-    "streamUrl": "http://51.158.21.33:8000/radiohay",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz104",
-    "name": "Radio KN",
-    "streamUrl": "http://radiokn.ddns.net:7000/efir",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz105",
-    "name": "NE FM Urban",
-    "streamUrl": "http://ne.fm/mp3/URBAN",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz106",
-    "name": "Aloha FM",
-    "streamUrl": "https://listen7.myradio24.com/alohafm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz107",
-    "name": "Radio 1945",
-    "streamUrl": "http://78.46.66.184:1945/256",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz108",
-    "name": "Radio Teos",
-    "streamUrl": "http://radioteos.ru:8004/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz109",
-    "name": "NE FM Rock",
-    "streamUrl": "http://ps.ne.fm/ROCK_256k",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz110",
-    "name": "Umax FM",
-    "streamUrl": "http://ne.fm/mp3/kazradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz111",
-    "name": "Retro FM 80s",
-    "streamUrl": "http://retro80.hostingradio.ru:8026/retro80-128.mp3?type=.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz112",
-    "name": "NE FM LOUNGE",
-    "streamUrl": "http://ne.fm/mp3/LOUNGE",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz113",
-    "name": "Radio Nostalgie Taldykorgan",
-    "streamUrl": "http://live.radionostalgie.kz:8777/live?type=.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz114",
-    "name": "Radio NS Lounge",
-    "streamUrl": "http://ne.fm/mp3/radions-lounge",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz115",
-    "name": "Retro FM 90s",
-    "streamUrl": "http://retro90.hostingradio.ru:8027/retro90-128.mp3?type=.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz116",
-    "name": "Radio Klab FM",
-    "streamUrl": "http://s3.radioboss.fm:8015/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz117",
-    "name": "Gakku FM",
-    "streamUrl": "https://stream.gakku.tv/radio/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz118",
-    "name": "Aktobe Radio 101.4",
-    "streamUrl": "http://85.29.144.124:8000/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz119",
-    "name": "NE FM HIT",
-    "streamUrl": "http://ps.ne.fm/HIT",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz120",
-    "name": "Radio NS Russian Heath",
-    "streamUrl": "http://ne.fm/mp3/radions-russian",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz121",
-    "name": "Da Music Techno",
-    "streamUrl": "http://91.239.65.100:8002/techno?type=.mp3/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz122",
-    "name": "TMK Tatar",
-    "streamUrl": "http://stream7.radiostyle.ru:8007/radio-tmk?type=.mp3/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz123",
-    "name": "Da Music",
-    "streamUrl": "http://damusic.info:8000/damusic?type=.mp3/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz124",
-    "name": "Da Music Trance",
-    "streamUrl": "http://91.239.65.100:8001/trance?type=.mp3/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz125",
-    "name": "Radio NS Русский хит",
-    "streamUrl": "http://89.219.35.26:8000/radions-jazz",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz126",
-    "name": "Energy FM 1022",
-    "streamUrl": "https://stream.gakku.tv/radio/recordfm_192.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz127",
-    "name": "Lux",
-    "streamUrl": "http://lux-radio.com:8000/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz128",
-    "name": "NEFM HIT",
-    "streamUrl": "http://ne.fm/mp3/hitfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz129",
-    "name": "NEFM Rock",
-    "streamUrl": "http://ne.fm/mp3/rockradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz130",
-    "name": "Radio Sana 1033",
-    "streamUrl": "http://46.105.180.202:8021/stream.ogg",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz131",
-    "name": "TEKS",
-    "streamUrl": "http://ne.fm/mp3/teks",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz132",
-    "name": "FM",
-    "streamUrl": "https://str1.pcradio.ru/zhana_fm-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz133",
-    "name": "radio-dacha",
-    "streamUrl": "https://stream.gakku.tv/dacha",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz134",
-    "name": "radio-talap",
-    "streamUrl": "https://streamingv2.shoutcast.com/talapuralsk",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz135",
-    "name": "retro-fm",
-    "streamUrl": "https://a1.radioheart.ru:8001/retrofm-kz-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz136",
-    "name": "Радио Бұлбұл",
-    "streamUrl": "https://stream.laut.fm/radiobulbul?ref=radiode",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz137",
-    "name": "Орда FM",
-    "streamUrl": "https://orda.daitsuna.net/orda/orda/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz138",
-    "name": "Радио Вышка Казахстан",
-    "streamUrl": "https://stream.vyshka24.ru/kz",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz139",
-    "name": "Boom Room",
-    "streamUrl": "https://a5.radioheart.ru:8037/studio?_ga=2.64488047.1724080751.1537417053-1424790351.1529079995",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz140",
-    "name": "Soul FM",
-    "streamUrl": "https://myradio24.org/37928",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz141",
-    "name": "Special EDM",
-    "streamUrl": "https://stream.zeno.fm/8852wyq6v0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz142",
-    "name": "Русский Город",
-    "streamUrl": "https://myradio24.org/russgorod",
-    "imageUrl": "__________________________",
-    "genre": "genre_chanson",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz143",
-    "name": "Астана радиосы",
-    "streamUrl": "https://listen1.myradio24.com/5967_128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz144",
-    "name": "Radio Qazaq",
-    "streamUrl": "http://stream.teos.fm:4000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz145",
-    "name": "AktobeRadio",
-    "streamUrl": "http://85.29.144.124:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz146",
-    "name": "NE.FM - Hit",
-    "streamUrl": "http://ne.fm/mp3/HIT",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz147",
-    "name": "NE.FM - Urban",
-    "streamUrl": "http://episodes.ne.fm/mp3/URBAN",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz148",
-    "name": "Radio Betelgeuse",
-    "streamUrl": "http://sat.radio-betelgeuse.com:8000/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz149",
-    "name": "GenesisFM",
-    "streamUrl": "https://stream.zeno.fm/tha6c06nfejuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz150",
-    "name": "kush coma",
-    "streamUrl": "https://stream.zeno.fm/36t8sw2pmkhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz151",
-    "name": "ЗОЛОТОЕ КОЛЕСО",
-    "streamUrl": "https://stream.zeno.fm/veq2icpm6pmtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz152",
-    "name": "Radio Tinel",
-    "streamUrl": "https://stream.zeno.fm/mr0ns1ew77zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz153",
-    "name": "rrk_air",
-    "streamUrl": "https://stream.zeno.fm/3bhb6bwzgm0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz154",
-    "name": "BeautyCom",
-    "streamUrl": "https://stream.zeno.fm/cqtqroceviovv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz155",
-    "name": "Radio PVL",
-    "streamUrl": "https://stream.zeno.fm/gvhmwch7mg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz156",
-    "name": "Siberia",
-    "streamUrl": "https://stream.zeno.fm/p917224gt0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz157",
-    "name": "gtvfm",
-    "streamUrl": "https://stream.zeno.fm/whaakcg53d0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz158",
-    "name": "YuFM Dance Station 69.96 FM.",
-    "streamUrl": "https://stream.zeno.fm/ewn6nyzlfn4tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz159",
-    "name": "Radio TVI",
-    "streamUrl": "https://stream.zeno.fm/uzafz0e7fc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz160",
-    "name": "TestFM",
-    "streamUrl": "https://stream.zeno.fm/7gbcsrt2k0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz161",
-    "name": "AYUEDUKZ",
-    "streamUrl": "https://stream.zeno.fm/dz1nmz3wfs8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz162",
-    "name": "Freedom",
-    "streamUrl": "https://stream.zeno.fm/n1vs2cp1wwzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz163",
-    "name": "studio10kanal",
-    "streamUrl": "https://stream.zeno.fm/v0u70x2reg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz164",
-    "name": "Morgenchlen",
-    "streamUrl": "https://stream.zeno.fm/9b66k1wenkhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz165",
-    "name": "Radio Deep",
-    "streamUrl": "https://stream.zeno.fm/f8phqgwwvk8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz166",
-    "name": "Shaman FM",
-    "streamUrl": "https://stream.zeno.fm/z75tyapfwa0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz167",
-    "name": "Radio TVI - Hardbass",
-    "streamUrl": "https://stream.zeno.fm/scu1nrdf368uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz168",
-    "name": "BariBarFM",
-    "streamUrl": "https://stream.zeno.fm/ftp6zyf5vc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz169",
-    "name": "BIG WETS MUSIC",
-    "streamUrl": "https://stream.zeno.fm/a267dyq5kuhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz170",
-    "name": "Radio TVI Live",
-    "streamUrl": "https://stream.zeno.fm/ghn9ctw49ehvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz171",
-    "name": "rrk_backup",
-    "streamUrl": "https://stream.zeno.fm/xuw54t7y298uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz172",
-    "name": "Qarakesek",
-    "streamUrl": "https://stream.zeno.fm/yv492cvhakhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz173",
-    "name": "XBEAMFM",
-    "streamUrl": "https://stream.zeno.fm/gav0c4xrkikvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz174",
-    "name": "Blase Boys Club",
-    "streamUrl": "https://stream.zeno.fm/00m5uyvy908uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz175",
-    "name": "Sectorx",
-    "streamUrl": "https://stream.zeno.fm/e5t4rpeua18uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz176",
-    "name": "Cursed",
-    "streamUrl": "https://stream.zeno.fm/ldkdbqnxdlstv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz177",
-    "name": "Kui radiosy",
-    "streamUrl": "https://stream.zeno.fm/vrmmq5kt97zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz178",
-    "name": "Radio TVI - Midis",
-    "streamUrl": "https://stream.zeno.fm/me7273t8368uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz179",
-    "name": "mmsradio",
-    "streamUrl": "https://stream.zeno.fm/s8ztc51dwnhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz180",
-    "name": "MLG Radio KZ",
-    "streamUrl": "https://stream.zeno.fm/dez8tqm7fc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz181",
-    "name": "Qainar Bulaq",
-    "streamUrl": "https://stream.zeno.fm/usx93d6hephvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz182",
-    "name": "chungus",
-    "streamUrl": "https://stream.zeno.fm/z84s0f4e1hhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz183",
-    "name": "Nekshusha FM",
-    "streamUrl": "https://stream.zeno.fm/gfqhhgpv79dtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz184",
-    "name": "the epok",
-    "streamUrl": "https://stream.zeno.fm/q5fqf99kunhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz185",
-    "name": "Kazak R 106.8",
-    "streamUrl": "http://bulbul.hostingradio.ru:8057/bulbul128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz186",
-    "name": "Radio N-S FM",
-    "streamUrl": "http://stream.teos.fm:8004/aac_hq_autodj",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz187",
-    "name": "RADIO24 Казахстан",
-    "streamUrl": "https://stream.vyshka24.ru/r24kz",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz188",
-    "name": "Shalkar FM",
-    "streamUrl": "http://onradio.kaztrk.kz:8000/shalkar",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz189",
-    "name": "Radio Tex",
-    "streamUrl": "http://www.texfm.ro:8000/rnbhiphop",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz190",
-    "name": "Avtoradio",
-    "streamUrl": "http://178.88.167.62:8080/AVTORADIO_192",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz191",
-    "name": "Актобе Радио",
-    "streamUrl": "http://85.29.144.124:8000/audio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz192",
-    "name": "Vostok FM",
-    "streamUrl": "https://91.201.214.229:8000/vostokfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz193",
-    "name": "Radio NS – Rock",
-    "streamUrl": "http://89.219.35.26:8000/radions-rock",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz194",
-    "name": "Ретро FM Казахстан – 107.0 FM",
-    "streamUrl": "http://s1.radioheart.ru:8001/retrofm-kz-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz195",
-    "name": "Radio NS – Chanson",
-    "streamUrl": "http://89.219.35.26:8000/radions-shanson",
-    "imageUrl": "__________________________",
-    "genre": "genre_chanson",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz196",
-    "name": "NE.FM Dance",
-    "streamUrl": "http://ne.fm/mp3/NE.FM",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz197",
-    "name": "NE.FM Rock",
-    "streamUrl": "http://ne.fm/mp3/ROCK",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz198",
-    "name": "Теос Радио",
-    "streamUrl": "http://radioteos.ru:8002/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz199",
-    "name": "Radio NS – Jazz",
-    "streamUrl": "http://episodes.ne.fm/mp3/radions-jazz",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz200",
-    "name": "Радио Азамат",
-    "streamUrl": "https://myradio24.org/8162",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz201",
-    "name": "Ваше Радио",
-    "streamUrl": "https://live.zhanafm.kz:8443/vasheradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz202",
-    "name": "Радио онлайн Житикара",
-    "streamUrl": "https://a8.radioheart.ru:9006/RH75633",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz203",
-    "name": "Народное радио",
-    "streamUrl": "http://178.88.167.62:8080/DALA_192",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz204",
-    "name": "Starkids.fm",
-    "streamUrl": "http://eu2.radioboss.fm/proxy/starkidsfm?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_kids",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz205",
-    "name": "ТЕХНОСБОРНИКRADIO",
-    "streamUrl": "http://freeuk28.listen2myradio.com:4478/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz206",
-    "name": "Радио Рассвет",
-    "streamUrl": "http://s1.radioheart.ru:8001/rassvet",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz207",
-    "name": "Radio Tandem",
-    "streamUrl": "https://stream.pcradio.ru/tandem_kz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz208",
-    "name": "Evropa Kazakhstan",
-    "streamUrl": "https://stream.pcradio.ru/evropa_kazakhstan-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz209",
-    "name": "Kazakh",
-    "streamUrl": "http://onradio.kaztrk.kz:8000/kazradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz210",
-    "name": "Radio Tengri FM",
-    "streamUrl": "http://195.210.47.197:8000/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz211",
-    "name": "NE.FM Urban",
-    "streamUrl": "http://ps.ne.fm/URBAN_256k",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz212",
-    "name": "NE.FM HIT",
-    "streamUrl": "http://ps.ne.fm/HIT_256k",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz213",
-    "name": "Uyghurum Radiosi",
-    "streamUrl": "http://s1.radioheart.ru:8021/uradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz214",
-    "name": "Radio Mix",
-    "streamUrl": "http://radio.north.kz:8000/radiomix-128",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz215",
-    "name": "Station 1945",
-    "streamUrl": "http://78.46.66.184:1945/128",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz216",
-    "name": "Palmera Blanca - Latino",
-    "streamUrl": "http://latino.palmerablanca.com/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz217",
-    "name": "Radio Ingram",
-    "streamUrl": "http://streaming.radio.co/se7fba5a6f/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz218",
-    "name": "HTKZ",
-    "streamUrl": "http://episodes.ne.fm:8000/hitfmkz",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz219",
-    "name": "freetonik",
-    "streamUrl": "http://188.120.245.191:8000/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz220",
-    "name": "DaMusic CHILLOUT",
-    "streamUrl": "http://91.239.65.100:8003/chillout",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz221",
-    "name": "Love Radio Aktau",
-    "streamUrl": "http://s2.free-shoutcast.com:18360/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz222",
-    "name": "OA//RADIO.KZ",
-    "streamUrl": "http://streaming.radio.co:80/sd96be1033/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz223",
-    "name": "Ретро FM Qazaqstan",
-    "streamUrl": "http://91.201.214.229:8000/vostokfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz224",
-    "name": "Жаңа - MIX",
-    "streamUrl": "https://live.zhanafm.kz:8443/zhanamix",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz225",
-    "name": "BoomRoom.kz",
-    "streamUrl": "https://a5.radioheart.ru:9037/RH3009",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz226",
-    "name": "Техно Сборник Радио",
-    "streamUrl": "http://freeuk27.listen2myradio.com:11412/;stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz227",
-    "name": "Жаңа FM - Rock",
-    "streamUrl": "https://live.zhanafm.kz:8443/zhanarock",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz228",
-    "name": "Жаңа - Lounge",
-    "streamUrl": "https://live.zhanafm.kz:8443/zhanalounge",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz229",
-    "name": "Радио Житикара",
-    "streamUrl": "https://listen.myrh.ru/zhiti",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz230",
-    "name": "Жаңа FM - Pioner FM KZ",
-    "streamUrl": "https://live.zhanafm.kz:8443/pionerfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz231",
-    "name": "Radio Tekc",
-    "streamUrl": "http://live26.kiwi.kz:8000/tekc?type=.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz232",
-    "name": "Aspan FM 98.9",
-    "streamUrl": "http://77.240.38.228:8000/aspanfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz233",
-    "name": "Отдых ФМ",
-    "streamUrl": "https://stream.restfm.ru/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz234",
-    "name": "Жаңа EDM",
-    "streamUrl": "https://live.zhanafm.kz:8443/zhanaedm",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz235",
-    "name": "Geometry Fm - Dance Beats from Kazakhstan",
-    "streamUrl": "https://stream-152.zeno.fm/qt2wx733pa0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz236",
-    "name": "Радио Тандем - Pop Hits from Kazakhstan",
-    "streamUrl": "https://stream02.pcradio.ru/tandem_kz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz237",
-    "name": "Europa Plus Residance",
-    "streamUrl": "https://emg02.hostingradio.ru/ep-residance128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz238",
-    "name": "Radio 31",
-    "streamUrl": "http://perseus.shoutca.st:9380/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz239",
-    "name": "Той Думан",
-    "streamUrl": "https://stream.gakku.kz:8443/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz240",
-    "name": "Palmera Blanca radio - Daystream",
-    "streamUrl": "https://daystream.palmerablanca.com/daystream-128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "gh001",
+    "id": "gh1",
     "name": "Joy FM",
-    "streamUrl": "https://mmg-hls.streamguys1.com/JoyFM-mp3/playlist.m3u8",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://mmg.streamguys1.com/JoyFM-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/429/joy-fm-ghana.f6a39ae7.jpg",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh002",
+    "id": "gh2",
     "name": "Peace FM",
-    "streamUrl": "http://peacefm.atunwadigital.streamguys1.com/peacefm",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://peacefm-atunwadigital.streamguys1.com/peacefm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/UzsmqjMQfm.jpg",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh003",
+    "id": "gh3",
     "name": "Citi FM",
     "streamUrl": "https://citi973fm.radioca.st/stream/1/",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/733/973-citi-fm.60cbe479.png",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh004",
-    "name": "Adom FM",
-    "streamUrl": "http://mmg.streamguys1.com/AdomFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh005",
+    "id": "gh4",
     "name": "Class FM",
     "streamUrl": "http://stream-61.zeno.fm/6fseb4nbe3quv",
     "imageUrl": "__________________________",
@@ -1960,31 +32,7 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh006",
-    "name": "Live FM",
-    "streamUrl": "https://node-32.zeno.fm/7586sp6mua0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh007",
-    "name": "Hitz FM 1039",
-    "streamUrl": "http://mmg.streamguys1.com/HitzFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh008",
-    "name": "Max FM",
-    "streamUrl": "https://s3.radio.co/s38cbb0c35/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh009",
+    "id": "gh5",
     "name": "Starr FM",
     "streamUrl": "https://starrfm-atunwadigital.streamguys1.com/starrfm",
     "imageUrl": "__________________________",
@@ -1992,687 +40,15 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh010",
-    "name": "Kasapa FM",
-    "streamUrl": "https://stream.zeno.fm/3eh6htuyk8quv",
+    "id": "gh6",
+    "name": "Adom FM",
+    "streamUrl": "https://adomfm-atunwadigital.streamguys1.com/adomfm",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh011",
-    "name": "Angel FM",
-    "streamUrl": "http://angelfm.atunwadigital.streamguys1.com/angelfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh012",
-    "name": "Luv FM",
-    "streamUrl": "https://stream-52.zeno.fm/858neeq45y4tv?zs=paESs7M4RgODjXXyl0ENsQ",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh013",
-    "name": "Nhyira FM",
-    "streamUrl": "http://mmg.streamguys1.com/NhyiraFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh014",
-    "name": "Otec FM",
-    "streamUrl": "http://stream.zeno.fm/2dnt5ku7fxquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh015",
-    "name": "Wontumi FM",
-    "streamUrl": "https://wontumifm-atunwadigital.streamguys1.com/wontumifm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh016",
-    "name": "Pure FM",
-    "streamUrl": "https://purefm-atunwadigital.streamguys1.com/purefm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh017",
-    "name": "YFM Ghana",
-    "streamUrl": "https://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh018",
-    "name": "Y 107.9 FM",
-    "streamUrl": "http://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh019",
-    "name": "Vibe Fm",
-    "streamUrl": "https://stream.zeno.fm/r30dk08vdg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh020",
-    "name": "Accra FM",
-    "streamUrl": "https://stream.zeno.fm/z079t0nbe3quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh021",
-    "name": "Peace 104.3 FM",
-    "streamUrl": "https://peacefm-atunwadigital.streamguys1.com/peacefm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh022",
-    "name": "Ahotor FM 923",
-    "streamUrl": "https://stream.zeno.fm/a20ku9pk21zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh023",
-    "name": "Spice FM",
-    "streamUrl": "http://sp0001.opengradle.pro:8030/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh024",
-    "name": "Trust FM",
-    "streamUrl": "https://node-22.zeno.fm/83dhqkqe27zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh025",
-    "name": "Vision1 FM",
-    "streamUrl": "https://stream-63.zeno.fm/xua5q9hfgg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh026",
-    "name": "Bryt FM",
-    "streamUrl": "https://stream-33.zeno.fm/kxw7vk7nq7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh027",
-    "name": "Silver FM",
-    "streamUrl": "http://silverfm.atunwadigital.streamguys1.com/silverfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh028",
-    "name": "Kessben FM",
-    "streamUrl": "https://kessben933fmkumasi-atunwadigital.streamguys1.com/kessben933fmkumasi",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh029",
-    "name": "Neat FM",
-    "streamUrl": "http://neatfm.atunwadigital.streamguys1.com/neatfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh030",
-    "name": "ATINKA FM",
-    "streamUrl": "https://stream.zeno.fm/1t5rqgbk65quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh031",
-    "name": "Oman FM 107.1",
-    "streamUrl": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh032",
-    "name": "Abusua FM",
-    "streamUrl": "https://stream.zeno.fm/asungs6m55quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh033",
-    "name": "Radio Tamale",
-    "streamUrl": "http://hyades.shoutca.st:8125/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh034",
-    "name": "Agoo FM",
-    "streamUrl": "http://agoofm-atunwadigital.streamguys1.com/agoofm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh035",
-    "name": "Kumasi FM",
-    "streamUrl": "http://stream-66.zeno.fm/656k5f7be3quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh036",
-    "name": "Montie FM",
-    "streamUrl": "https://node-34.zeno.fm/qv605hy79zquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh037",
-    "name": "Mynd FM",
-    "streamUrl": "https://cast.hitzgh.com:8100/stream/1/?",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh038",
-    "name": "Voice FM",
-    "streamUrl": "https://stream-54.zeno.fm/q1t3ec24nceuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh039",
-    "name": "Spirit FM",
-    "streamUrl": "http://89.163.217.252:9322/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh040",
-    "name": "Focus FM",
-    "streamUrl": "https://stream.zenolive.com/w5h08t2e48vtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh041",
-    "name": "West End",
-    "streamUrl": "https://stream.zeno.fm/47nz3zut26duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh042",
-    "name": "Swiit FM",
-    "streamUrl": "https://stream-55.zeno.fm/6gb2qe8kug0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh043",
-    "name": "Opemsuo",
-    "streamUrl": "https://stream-51.zeno.fm/sbpqhvum1wzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh044",
-    "name": "Dadi FM",
-    "streamUrl": "https://node-21.zeno.fm/afzd4f4nq7zuv.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh045",
-    "name": "Radio Link",
-    "streamUrl": "https://node-28.zeno.fm/254u2cpd41zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh046",
-    "name": "Okwawu FM",
-    "streamUrl": "https://stream.zeno.fm/3gyq8m2efg8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh047",
-    "name": "Nimdie FM",
-    "streamUrl": "https://stream-24.zeno.fm/2fgbmk5529duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh048",
-    "name": "Nzema FM",
-    "streamUrl": "https://stream-57.zeno.fm/s8ew03sh368uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh049",
-    "name": "Free 975 FM",
-    "streamUrl": "https://node-14.zeno.fm/s6yzf3zvcceuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh050",
-    "name": "Magyk",
-    "streamUrl": "https://node-21.zeno.fm/y4dpmpf46wquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh051",
-    "name": "Fawe FM",
-    "streamUrl": "https://stream-40.zeno.fm/b4hw96uty8quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh052",
-    "name": "Akomapa FM",
-    "streamUrl": "http://mounthoreb1.primcast.com:8210/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh053",
-    "name": "Info Radio 91.1 FM - Ghana",
-    "streamUrl": "https://stream.zeno.fm/twzwfac27vzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh054",
-    "name": "Marhaba FM",
-    "streamUrl": "http://stream.zeno.fm/10n9rr510ehvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh055",
-    "name": "GBC Obonu FM",
-    "streamUrl": "http://173.249.50.205:8006/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh056",
-    "name": "Zuria FM",
-    "streamUrl": "https://sp0001.opengradle.pro:8070/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh057",
-    "name": "GBC Volta Star",
-    "streamUrl": "http://173.249.50.205:8008/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh058",
-    "name": "FRONTLINE RADIO GHANA",
-    "streamUrl": "http://sc3.spacialnet.com:35650/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh059",
-    "name": "Radio Univers 105.7FM",
-    "streamUrl": "https://ownaradio.com/radio/1057/univers",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh060",
-    "name": "agyenkwa FM",
-    "streamUrl": "https://stream.zeno.fm/gsnw8zsn3ehvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh061",
-    "name": "GBC Radio BAR",
-    "streamUrl": "https://stream.zeno.fm/6z0r6ueu8k0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh062",
-    "name": "ASHH FM",
-    "streamUrl": "http://ashhfm.atunwadigital.streamguys1.com/ashhfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh063",
-    "name": "Skyy Power FM",
-    "streamUrl": "https://node-29.zeno.fm/8ct99fxeq8quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh064",
-    "name": "Kingdom FM Kumasi",
-    "streamUrl": "https://stream.zeno.fm/wcbpgn6x7druv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh065",
-    "name": "Hot FM Online Gh",
-    "streamUrl": "http://hot939fm.atunwadigital.streamguys1.com/hot939fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh066",
-    "name": "Wontumi Radio 95.9",
-    "streamUrl": "https://stream.zeno.fm/a9n52xeawkduv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh067",
-    "name": "Asanteman Fm 107.3",
-    "streamUrl": "https://stream.zeno.fm/06hsz0rp5zquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh068",
-    "name": "Agyapa fm",
-    "streamUrl": "https://stream.zeno.fm/yuus2nussgauv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh069",
-    "name": "Radio Savannah",
-    "streamUrl": "https://stream.zeno.fm/aoobhhexr22tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh070",
-    "name": "Ark FM",
-    "streamUrl": "http://67.212.165.106:8247/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh071",
-    "name": "PLUTO FM",
-    "streamUrl": "https://stream.zeno.fm/os48pm2shx1vv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh072",
-    "name": "Radio Justice",
-    "streamUrl": "https://stream.zeno.fm/aeyfm2vzvd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh073",
-    "name": "Tumpaani",
-    "streamUrl": "https://stream.zeno.fm/xk3wgp9mgnzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh074",
-    "name": "Bliz Radio News",
-    "streamUrl": "https://stream.zeno.fm/pytsggd47zhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh075",
-    "name": "Ananse",
-    "streamUrl": "http://stream-43.zeno.fm/011t6b2vgg5tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh076",
-    "name": "STORM FM SUNYANI",
-    "streamUrl": "https://stream.zeno.fm/sknu6a7529duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh077",
-    "name": "Sunny Fm 887",
-    "streamUrl": "https://stream.zeno.fm/pxg4weyx0f8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh078",
-    "name": "ROYAL FM 84.5",
-    "streamUrl": "https://stream.zeno.fm/2sr6rwrkzk8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh079",
-    "name": "Empire FM 102.7",
-    "streamUrl": "https://empirefm-atunwadigital.streamguys1.com/empirefm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh080",
-    "name": "THE BEATFM 92.9",
-    "streamUrl": "https://stream.zeno.fm/fmpx4kk81k8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh081",
-    "name": "De Beat FM 95.5",
-    "streamUrl": "https://node-28.zeno.fm/u8vgbtg4yg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh082",
-    "name": "Shaft FM",
-    "streamUrl": "http://argon.grottopress.com:8005/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh083",
-    "name": "Diamond FM",
-    "streamUrl": "http://diamondfm.no-ip.org:8000/diamond",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh084",
-    "name": "MX BASE FM",
-    "streamUrl": "https://stream.zeno.fm/6qnnvqsdsxdvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh085",
-    "name": "GH ONE TV",
-    "streamUrl": "http://st2.zenorad.io:14878/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh086",
-    "name": "Ultimate Radio 106.9",
-    "streamUrl": "http://ample-zeno-08.radiojar.com/ac28vs4s6gwtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh087",
-    "name": "EASTERN FM",
-    "streamUrl": "https://stream.zeno.fm/kkc6tdkhgfhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh088",
-    "name": "Volta Heritage Fm",
-    "streamUrl": "https://stream.zeno.fm/hx0ss2hqpc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh089",
-    "name": "Radio Gold FM",
-    "streamUrl": "http://node-23.zeno.fm/9ycx8ncqdv8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh090",
-    "name": "Premier FM Ghana",
-    "streamUrl": "http://node-22.zeno.fm/w9zp4p3xmwzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh091",
-    "name": "Accra 100.5 FM",
-    "streamUrl": "https://stream.zeno.fm/b85stutry8quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh092",
-    "name": "Sunsum FM",
-    "streamUrl": "https://stream.zeno.fm/m087d3huy7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh093",
-    "name": "OFM 107.7",
-    "streamUrl": "http://s3.free-shoutcast.com:18056/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh094",
-    "name": "3FM",
-    "streamUrl": "https://stream.zeno.fm/hk573nh6sm0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh095",
+    "id": "gh7",
     "name": "Okay FM",
     "streamUrl": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
     "imageUrl": "__________________________",
@@ -2680,7 +56,15 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh096",
+    "id": "gh8",
+    "name": "Live FM",
+    "streamUrl": "https://node-32.zeno.fm/7586sp6mua0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh9",
     "name": "Onua FM",
     "streamUrl": "http://stream.zeno.fm/hmz5ma42u8quv",
     "imageUrl": "__________________________",
@@ -2688,111 +72,63 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh097",
-    "name": "Uniiq FM",
-    "streamUrl": "https://mediagh.us:2000/stream/uniiqfm",
+    "id": "gh10",
+    "name": "Kasapa FM",
+    "streamUrl": "https://stream.zeno.fm/3eh6htuyk8quv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh098",
-    "name": "Top FM 103.1",
-    "streamUrl": "http://184.154.43.106:8267/live",
+    "id": "gh11",
+    "name": "Montie FM",
+    "streamUrl": "https://node-34.zeno.fm/qv605hy79zquv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh099",
-    "name": "Radio XYZ",
-    "streamUrl": "http://stream.zeno.fm/jlcgxhhwoymvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh100",
-    "name": "RADIO GOLD 90.5",
-    "streamUrl": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh101",
-    "name": "Rainbow",
+    "id": "gh12",
+    "name": "Rainbow Radio",
     "streamUrl": "http://stream.zeno.fm/wv4tseqxk8quv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh102",
-    "name": "Sankofa",
-    "streamUrl": "http://s2.nexuscast.com:8068/",
+    "id": "gh13",
+    "name": "Radio XYZ",
+    "streamUrl": "http://stream.zeno.fm/jlcgxhhwoymvv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
+    "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh103",
-    "name": "PURE 957 FM",
-    "streamUrl": "http://purefm.atunwadigital.streamguys1.com/purefm",
+    "id": "gh14",
+    "name": "Ghana Today Radio",
+    "streamUrl": "http://stream2.ghanatoday.com/gtonline",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh104",
-    "name": "Fox 97.9 FM",
-    "streamUrl": "http://foxfm.atunwadigital.streamguys1.com/foxfm",
+    "id": "gh15",
+    "name": "Asaase Radio",
+    "streamUrl": "https://stream.zeno.fm/xua5q9hfgg0uv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh105",
-    "name": "Ezra FM",
-    "streamUrl": "https://stream.zeno.fm/ps7uuqzhp2zuv.aac",
+    "id": "gh16",
+    "name": "Max FM",
+    "streamUrl": "https://s3.radio.co/s38cbb0c35/listen",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
+    "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh106",
-    "name": "Success 90.9 FM",
-    "streamUrl": "http://stream.zeno.fm/cbycbgy7deruv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh107",
-    "name": "Light FM Ghana",
-    "streamUrl": "https://stream.zeno.fm/n4w8ek466p8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh108",
-    "name": "Happy 98.9 FM",
-    "streamUrl": "https://happyfm989accra-atunwadigital.streamguys1.com/happyfm989accra",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh109",
-    "name": "Medeamaa FM",
-    "streamUrl": "http://stream.zeno.fm/249ba9e1q0quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh110",
+    "id": "gh17",
     "name": "Hello 101.5 FM",
     "streamUrl": "http://hellofm.atunwadigital.streamguys1.com/hellofm",
     "imageUrl": "__________________________",
@@ -2800,183 +136,175 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh111",
-    "name": "MajorFM",
-    "streamUrl": "http://stream.zeno.fm/pkza99xshkhvv",
+    "id": "gh18",
+    "name": "YFM Ghana",
+    "streamUrl": "https://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh112",
-    "name": "Beats Radio Gh",
-    "streamUrl": "http://node-22.zeno.fm:80/wmk19ap2rzzuv",
+    "id": "gh19",
+    "name": "RADIO GOLD 90.5",
+    "streamUrl": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh113",
-    "name": "Melody FM UK",
-    "streamUrl": "https://stream.zeno.fm/ekzmrzpeqm0uv",
+    "id": "gh20",
+    "name": "3FM",
+    "streamUrl": "https://3fm-atunwadigital.streamguys1.com/3fm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh114",
-    "name": "Xlive Africa",
-    "streamUrl": "http://144.76.219.22:8785/stream",
+    "id": "gh21",
+    "name": "Hitz FM",
+    "streamUrl": "https://cast.hitzgh.com:8100/stream/1/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh115",
-    "name": "Aboozigi FM",
-    "streamUrl": "https://stream.zenolive.com/0exsuvf2td0uv/",
+    "id": "gh22",
+    "name": "Silver FM",
+    "streamUrl": "http://silverfm.atunwadigital.streamguys1.com/silverfm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh116",
-    "name": "Genesis",
-    "streamUrl": "https://stream-43.zeno.fm/s5z8eb9yfm8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh117",
-    "name": "Nimdie 95.1 FM",
-    "streamUrl": "https://stream.zenolive.com/2fgbmk5529duv",
+    "id": "gh23",
+    "name": "Pure FM",
+    "streamUrl": "http://purefm.atunwadigital.streamguys1.com/purefm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh118",
-    "name": "HighLife",
+    "id": "gh24",
+    "name": "Fox FM",
+    "streamUrl": "http://foxfm.atunwadigital.streamguys1.com/foxfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh25",
+    "name": "Oman FM",
+    "streamUrl": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh26",
+    "name": "Kessben FM",
+    "streamUrl": "https://kessben933fmkumasi-atunwadigital.streamguys1.com/kessben933fmkumasi",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh27",
+    "name": "Wontumi FM",
+    "streamUrl": "https://wontumifm-atunwadigital.streamguys1.com/wontumifm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh28",
+    "name": "Agoo FM",
+    "streamUrl": "http://agoofm-atunwadigital.streamguys1.com/agoofm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh29",
+    "name": "Kumasi FM",
+    "streamUrl": "http://stream-66.zeno.fm/656k5f7be3quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh30",
+    "name": "Bryt FM",
+    "streamUrl": "https://stream-33.zeno.fm/kxw7vk7nq7zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh31",
+    "name": "HighLife Radio",
     "streamUrl": "https://stream.zeno.fm/se1g3g3udceuv.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh119",
-    "name": "MUOK FM",
-    "streamUrl": "https://stream.zeno.fm/3k4m9ezpmrhvv",
+    "id": "gh32",
+    "name": "Otec FM",
+    "streamUrl": "http://stream.zeno.fm/2dnt5ku7fxquv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh120",
-    "name": "Bryt 99.1FM",
-    "streamUrl": "https://stream.zeno.fm/kxw7vk7nq7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh121",
-    "name": "Silver 98.3 FM",
-    "streamUrl": "http://kessbenfmaccra-atunwadigital.streamguys1.com/kessbenfmaccra",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh122",
-    "name": "Lvission Multimedia Fm",
-    "streamUrl": "https://stream.zeno.fm/bmcsgk17g0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh123",
-    "name": "Benzi Radio Ghana",
-    "streamUrl": "https://node-20.zeno.fm/ww49kmcvef9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh124",
-    "name": "Wagoods",
-    "streamUrl": "http://s3.voscast.com:7666/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh125",
-    "name": "ROYALS FM WENCHI",
-    "streamUrl": "https://stream.zeno.fm/akvh7m2kva0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh126",
-    "name": "GHRadio1",
-    "streamUrl": "https://stream.zeno.fm/dzgdmrn0c5zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh127",
-    "name": "Ghana Today",
-    "streamUrl": "http://stream2.ghanatoday.com/gtonline",
+    "id": "gh33",
+    "name": "GBC Obonu FM",
+    "streamUrl": "http://173.249.50.205:8006/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
     "country": "country_ghana"
   },
   {
-    "id": "gh128",
-    "name": "123 FM",
-    "streamUrl": "https://sp0001.opengradle.pro:1999/radio/8050/live.mp3",
+    "id": "gh34",
+    "name": "Radio Tamale",
+    "streamUrl": "http://hyades.shoutca.st:8125/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh35",
+    "name": "Nzema FM",
+    "streamUrl": "https://stream-57.zeno.fm/s8ew03sh368uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_ghana"
+  },
+  {
+    "id": "gh36",
+    "name": "Spice FM",
+    "streamUrl": "http://sp0001.opengradle.pro:8030/live.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh129",
-    "name": "Adepa",
-    "streamUrl": "http://stream.zeno.fm/necg45bcswzuv",
+    "id": "gh37",
+    "name": "Free 975 FM",
+    "streamUrl": "https://node-14.zeno.fm/s6yzf3zvcceuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh130",
-    "name": "Alpha",
-    "streamUrl": "http://89.163.217.252:9336/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh131",
-    "name": "Focus FM 94.3",
-    "streamUrl": "http://stream.zeno.fm/w5h08t2e48vtv",
+    "id": "gh38",
+    "name": "Top FM 103.1",
+    "streamUrl": "http://184.154.43.106:8267/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh132",
-    "name": "OFMTV",
-    "streamUrl": "http://198.7.63.116:8028/ofmtv.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh133",
+    "id": "gh39",
     "name": "Ultimate 106.9 FM",
     "streamUrl": "http://stream.zeno.fm/ac28vs4s6gwtv",
     "imageUrl": "__________________________",
@@ -2984,139 +312,83 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh134",
-    "name": "ASANTEMAN RADIO",
-    "streamUrl": "http://stream.zeno.fm/whaba8v8d4duv",
+    "id": "gh40",
+    "name": "Connect FM",
+    "streamUrl": "https://connectfm-atunwadigital.streamguys1.com/connectfm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh135",
-    "name": "Triples Digital",
-    "streamUrl": "http://stream.zeno.fm/uscwxqst9rquv",
+    "id": "gh41",
+    "name": "SportyFM",
+    "streamUrl": "https://sportyfm-atunwadigital.streamguys1.com/sportyfm",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_sport",
     "country": "country_ghana"
   },
   {
-    "id": "gh136",
-    "name": "Sweet Melodies FM",
-    "streamUrl": "http://197.251.194.215:8000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh137",
-    "name": "Koowaa FM",
-    "streamUrl": "http://the.radioservers.biz:9852/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh138",
-    "name": "ahenfo online radio",
-    "streamUrl": "http://ahenfoonlineradio.radio12345.com/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh139",
-    "name": "KLIQ RADIO",
-    "streamUrl": "http://stream.zeno.fm/zrsea48sgtzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh140",
-    "name": "Neesim",
-    "streamUrl": "https://stream-47.zeno.fm/ck9nndzae8zuv",
+    "id": "gh42",
+    "name": "Sankofa Radio",
+    "streamUrl": "http://s2.nexuscast.com:8068/",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
     "country": "country_ghana"
   },
   {
-    "id": "gh141",
-    "name": "Kesmi FM",
-    "streamUrl": "https://stream-40.zeno.fm/465pgb38kuhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh142",
-    "name": "Potters FM",
-    "streamUrl": "https://stream-43.zeno.fm/1x8bt2kucg8uv",
+    "id": "gh43",
+    "name": "Sunsum FM",
+    "streamUrl": "https://stream.zeno.fm/m087d3huy7zuv",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
     "country": "country_ghana"
   },
   {
-    "id": "gh143",
-    "name": "Ahenfie",
-    "streamUrl": "http://198.154.246.167:8000/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh144",
-    "name": "Lens",
-    "streamUrl": "https://stream.lensnetworks.com/proxy/lensradio?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh145",
-    "name": "Grace Devotional",
-    "streamUrl": "http://stream.zeno.fm/gs8n59qwyv8uv",
+    "id": "gh44",
+    "name": "Nhyira FM",
+    "streamUrl": "https://stream.zeno.fm/b85stutry8quv",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
     "country": "country_ghana"
   },
   {
-    "id": "gh146",
-    "name": "Melody FM",
-    "streamUrl": "https://stream-63.zeno.fm/8np9p06t6mzuv",
+    "id": "gh45",
+    "name": "West End Radio",
+    "streamUrl": "https://stream.zeno.fm/47nz3zut26duv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh147",
-    "name": "The Bride",
-    "streamUrl": "https://thebrideradio.com:8443/airtime_128",
+    "id": "gh46",
+    "name": "Trust FM",
+    "streamUrl": "https://node-22.zeno.fm/83dhqkqe27zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh148",
-    "name": "EPOS RADIO",
-    "streamUrl": "http://node-18.zeno.fm/8vgg9pvefv8uv?rj-ttl=5&rj-tok=AAABefBSO2EAXOk_0S_bzVqQcw",
+    "id": "gh47",
+    "name": "Uniiq FM",
+    "streamUrl": "https://mediagh.us:2000/stream/uniiqfm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
     "country": "country_ghana"
   },
   {
-    "id": "gh149",
-    "name": "ICGC-HIS PRESENCE RADIO",
-    "streamUrl": "http://stream.zeno.fm/3aw5sg7ct18uv",
+    "id": "gh48",
+    "name": "Oroko Radio",
+    "streamUrl": "https://oroko-radio.radiocult.fm/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_folk",
     "country": "country_ghana"
   },
   {
-    "id": "gh150",
-    "name": "UPHILL RADIO",
-    "streamUrl": "http://stream.zeno.fm/9ahv8pu7p98uv",
+    "id": "gh49",
+    "name": "Info Radio 91.1 FM",
+    "streamUrl": "http://stream.zeno.fm/ey34mac27vzuv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
+    "genre": "genre_news",
     "country": "country_ghana"
   }
 ]
