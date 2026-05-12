@@ -1,394 +1,1202 @@
 [
   {
-    "id": "gh1",
-    "name": "Joy FM",
-    "streamUrl": "https://mmg.streamguys1.com/JoyFM-mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/429/joy-fm-ghana.f6a39ae7.jpg",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh2",
-    "name": "Peace FM",
-    "streamUrl": "https://peacefm-atunwadigital.streamguys1.com/peacefm",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/UzsmqjMQfm.jpg",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh3",
-    "name": "Citi FM",
-    "streamUrl": "https://citi973fm.radioca.st/stream/1/",
-    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/733/973-citi-fm.60cbe479.png",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh4",
-    "name": "Class FM",
-    "streamUrl": "http://stream-61.zeno.fm/6fseb4nbe3quv",
+    "id": "pe1",
+    "name": "RPP Noticias",
+    "streamUrl": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh5",
-    "name": "Starr FM",
-    "streamUrl": "https://starrfm-atunwadigital.streamguys1.com/starrfm",
+    "id": "pe2",
+    "name": "Radio Nacional del Perú",
+    "streamUrl": "https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh6",
-    "name": "Adom FM",
-    "streamUrl": "https://adomfm-atunwadigital.streamguys1.com/adomfm",
+    "id": "pe3",
+    "name": "Radio Exitosa 95.5 FM",
+    "streamUrl": "http://167.114.118.120:7444/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh7",
-    "name": "Okay FM",
-    "streamUrl": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
+    "id": "pe4",
+    "name": "Radio América 104.7 FM",
+    "streamUrl": "https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh8",
-    "name": "Live FM",
-    "streamUrl": "https://node-32.zeno.fm/7586sp6mua0uv",
+    "id": "pe5",
+    "name": "Radio Capital 96.7 FM",
+    "streamUrl": "https://mdstrm.com/audio/5fab3437fc16c006bd6337c5/live.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh9",
-    "name": "Onua FM",
-    "streamUrl": "http://stream.zeno.fm/hmz5ma42u8quv",
+    "id": "pe6",
+    "name": "Radio Ovación 620 AM",
+    "streamUrl": "https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh10",
-    "name": "Kasapa FM",
-    "streamUrl": "https://stream.zeno.fm/3eh6htuyk8quv",
+    "id": "pe7",
+    "name": "Andina Radio 980 AM",
+    "streamUrl": "http://167.114.118.120:7058/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh11",
-    "name": "Montie FM",
-    "streamUrl": "https://node-34.zeno.fm/qv605hy79zquv",
+    "id": "pe8",
+    "name": "Radio Continente 820 AM",
+    "streamUrl": "https://sonic6.my-servers.org:7046/type=mp3",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh12",
-    "name": "Rainbow Radio",
-    "streamUrl": "http://stream.zeno.fm/wv4tseqxk8quv",
+    "id": "pe9",
+    "name": "Radio El Sol 1450 AM",
+    "streamUrl": "http://167.114.118.120:7340/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh13",
-    "name": "Radio XYZ",
-    "streamUrl": "http://stream.zeno.fm/jlcgxhhwoymvv",
+    "id": "pe10",
+    "name": "Radio Bethel 1570 AM",
+    "streamUrl": "https://tampa.audio-stream.com/proxy/bethelra?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh14",
-    "name": "Ghana Today Radio",
-    "streamUrl": "http://stream2.ghanatoday.com/gtonline",
+    "id": "pe11",
+    "name": "Radio Identidad",
+    "streamUrl": "https://5c3fb01839654.streamlock.net:1963/ipradiorci/liverciradio/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh15",
-    "name": "Asaase Radio",
-    "streamUrl": "https://stream.zeno.fm/xua5q9hfgg0uv",
+    "id": "pe12",
+    "name": "Radio Panamericana",
+    "streamUrl": "http://167.114.118.120:7154/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh16",
-    "name": "Max FM",
-    "streamUrl": "https://s3.radio.co/s38cbb0c35/listen",
+    "id": "pe13",
+    "name": "Foro Radio 88.7 FM",
+    "streamUrl": "http://212.83.146.67:6312/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh17",
-    "name": "Hello 101.5 FM",
-    "streamUrl": "http://hellofm.atunwadigital.streamguys1.com/hellofm",
+    "id": "pe14",
+    "name": "Radio Mar Plus 106.3",
+    "streamUrl": "https://17793.live.streamtheworld.com/CRP_MAR_SC",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh18",
-    "name": "YFM Ghana",
-    "streamUrl": "https://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra",
+    "id": "pe15",
+    "name": "Radio Milenia 1530 AM",
+    "streamUrl": "https://radio.pjcks.com/8020/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe16",
+    "name": "Radio Mágica 88.3 FM",
+    "streamUrl": "https://25093.live.streamtheworld.com/MAG_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe17",
+    "name": "Planeta",
+    "streamUrl": "http://19013.live.streamtheworld.com/CRP_PLA.mp3?dist=20004",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe18",
+    "name": "Planeta Hot 40",
+    "streamUrl": "https://23023.live.streamtheworld.com/CRP_PLA_HOT40_S01.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe19",
+    "name": "Radio Moda",
+    "streamUrl": "http://18303.live.streamtheworld.com/CRP_MOD.mp3?dist=20004",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe20",
+    "name": "Oasis",
+    "streamUrl": "http://19013.live.streamtheworld.com/CRP_OAS.mp3?dist=20004",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe21",
+    "name": "Radio Festiva",
+    "streamUrl": "https://24883.live.streamtheworld.com/CRP_FES_S01.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe22",
+    "name": "Inca Sat",
+    "streamUrl": "http://17853.live.streamtheworld.com/CRP_INC.mp3?dist=20004",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe23",
+    "name": "Radio Ke Brava",
+    "streamUrl": "https://stream.zenolive.com/59947b1wfuquv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe24",
+    "name": "Radio Laser 100.7 FM",
+    "streamUrl": "https://conectperu.com/8078/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe25",
+    "name": "Maxi Mix",
+    "streamUrl": "http://node-26.zeno.fm/znv7mhnuaxquv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe26",
+    "name": "Mega Star Peru",
+    "streamUrl": "http://stream.zeno.fm/m0gb9v7aqs8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe27",
+    "name": "FM Express",
+    "streamUrl": "https://eu1.serviaudio.com:10925/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe28",
+    "name": "Radio Level Hits",
+    "streamUrl": "http://ip.peruhits.com:7234/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe29",
+    "name": "Aero Music",
+    "streamUrl": "http://stream.zeno.fm/n652n9msaq8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe30",
+    "name": "Radio Miraflores",
+    "streamUrl": "http://fluoz-56.radiojar.com/1xkhc23kdv8uv.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe31",
+    "name": "Radio Galaxia 99.9 FM",
+    "streamUrl": "https://st3.inkaniserver.net:8096/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe32",
+    "name": "Radio Corazón 94.3 FM",
+    "streamUrl": "https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe33",
+    "name": "Bienestar",
+    "streamUrl": "http://17963.live.streamtheworld.com/BIENESTAR.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe34",
+    "name": "Radio Baladitas",
+    "streamUrl": "http://stream.zeno.fm/hf2gsfm1mp8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe35",
+    "name": "Radio Enamorados",
+    "streamUrl": "https://node-20.zeno.fm/b594gnc1fnruv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe36",
+    "name": "Radio Románticas Inolvidables",
+    "streamUrl": "https://stream-158.zeno.fm/6m1ba7yt3vduv",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe37",
+    "name": "Radio Zeta Rock & Pop",
+    "streamUrl": "http://167.114.118.120:7440/",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe38",
+    "name": "Rock&Pop",
+    "streamUrl": "http://stream.zeno.fm/0k6va3rg8rhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe39",
+    "name": "Z Rock & Pop",
+    "streamUrl": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe40",
+    "name": "Indie Perú Radio",
+    "streamUrl": "https://eu47-sonic.instainternet.com:7032/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe41",
+    "name": "Mundo Beatles Radio",
+    "streamUrl": "http://stream.zeno.fm/y79be89qxrhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe42",
+    "name": "RadioMix AQP Rock-Pop",
+    "streamUrl": "https://stream-179.zeno.fm/mwxnk1y5btvvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe43",
+    "name": "Radio Doble Nueve Classic",
+    "streamUrl": "http://149.56.241.147:8008/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe44",
+    "name": "Radio Doble Nueve Heritage",
+    "streamUrl": "http://149.56.241.147:8006/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe45",
+    "name": "Radio Doble Nueve Live",
+    "streamUrl": "http://149.56.241.147:8002/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe46",
+    "name": "Gárgola Classic",
+    "streamUrl": "https://7.innovatestream.pe:2020/stream/GARGOLA/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe47",
+    "name": "Radio Barranquino",
+    "streamUrl": "https://radio.euroserver.org/radio/8010/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe48",
+    "name": "Radio Onda Azul",
+    "streamUrl": "http://167.114.118.120:7160/",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe49",
+    "name": "Radio Callao",
+    "streamUrl": "http://stream.infomagia.com:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe50",
+    "name": "Radio Canto Grande 97.7 FM",
+    "streamUrl": "http://65.60.2.26:8050/",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe51",
+    "name": "Radio A 94.9",
+    "streamUrl": "https://stream-160.zeno.fm/qxsaiqu7pn4tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe52",
+    "name": "Radio Karibeña 94.9 FM",
+    "streamUrl": "https://7.innovatestream.pe:2020/stream/karibenaoficial/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe53",
+    "name": "La Kalle 96.1 FM",
+    "streamUrl": "https://7.innovatestream.pe:2020/stream/lakalleoficial/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe54",
+    "name": "Radio La Zona 90.5 FM",
+    "streamUrl": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe55",
+    "name": "Radio La Mega 96.7 FM",
+    "streamUrl": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe56",
+    "name": "Panamericana Salsa Power",
+    "streamUrl": "https://mdstrm.com/audio/6598b728d982060896866b8a/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe57",
+    "name": "Panamericana Latino Refrescante",
+    "streamUrl": "https://mdstrm.com/audio/6598b76c6c07d80644b7321f/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe58",
+    "name": "Radio La Kalle Lima",
+    "streamUrl": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe59",
+    "name": "La Salsa Maestra",
+    "streamUrl": "https://stream.zeno.fm/c1skkw28pfeuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe60",
+    "name": "PerúCumbia.com",
+    "streamUrl": "http://184.154.28.210:7130/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe61",
+    "name": "Ataque Techno Perú",
+    "streamUrl": "https://streamprivate.live:10982/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe62",
+    "name": "Full Techno",
+    "streamUrl": "http://184.154.28.210:7150/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe63",
+    "name": "Electro Radio Live",
+    "streamUrl": "https://stream-142.zeno.fm/93kksqvkeg8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe64",
+    "name": "Radio Estacion Techno",
+    "streamUrl": "http://stream.zeno.fm/t3sqkau72rhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe65",
+    "name": "Radio Dance 90",
+    "streamUrl": "http://87.236.196.34:8900/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe66",
+    "name": "Radio Discoteca 90",
+    "streamUrl": "http://87.236.196.34:8918/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe67",
+    "name": "Mambo INN Radio",
+    "streamUrl": "https://radio.perustream.com:7000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe68",
+    "name": "Radio Cumbia Mix",
+    "streamUrl": "https://streaming.gometri.com/stream/8017/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe69",
+    "name": "La Única Tropical",
+    "streamUrl": "https://stream-178.zeno.fm/see4wpyr9bhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe70",
+    "name": "Estación Cumbia Radio",
+    "streamUrl": "https://stream-155.zeno.fm/q66qxthr0uhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe71",
+    "name": "Bossa Nova Perú Radio",
+    "streamUrl": "https://conectperu.com/8158/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe72",
+    "name": "Radio La Inolvidable 93.7 FM",
+    "streamUrl": "https://24943.live.streamtheworld.com/CRP_LI_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe73",
+    "name": "LaOchentera.com",
+    "streamUrl": "http://184.154.28.210:7200/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe74",
+    "name": "Estación 90s Radio",
+    "streamUrl": "http://radio.ancashserver.com:9552/",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe75",
+    "name": "La Noventera",
+    "streamUrl": "https://host.gometri.com/proxy/lanoventera/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe76",
+    "name": "Radio Retro",
+    "streamUrl": "https://stream2.eistreaming.com/7068/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe77",
+    "name": "Gen X",
+    "streamUrl": "https://turadio.accesopanel.com/8526/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe78",
+    "name": "Oasis Patrio Sonorama",
+    "streamUrl": "https://18733.live.streamtheworld.com/CRP_SON_S01_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe79",
+    "name": "Radio Del Amor",
+    "streamUrl": "https://stream-151.zeno.fm/z7re4u64gd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe80",
+    "name": "Latidos 94.7 FM",
+    "streamUrl": "http://ip.peruhits.com:9944/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe81",
+    "name": "Radio Karicia",
+    "streamUrl": "https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe82",
+    "name": "Jazzcontempo",
+    "streamUrl": "http://conectperu.com:8048/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe83",
+    "name": "Filarmonía",
+    "streamUrl": "http://m.mediastream.pe/av_filarmonia/livestream/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe84",
+    "name": "Radio Filarmonía 102.7",
+    "streamUrl": "https://c22.radioboss.fm:8100/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe85",
+    "name": "Radio Doble Nueve Millenial",
+    "streamUrl": "http://149.56.241.147:8004/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe86",
+    "name": "K Pop Way Radio",
+    "streamUrl": "http://streamer.radio.co/s06b196587/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe87",
+    "name": "Generacion Kpop",
+    "streamUrl": "http://stream9.mexiserver.com:8242/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe88",
+    "name": "Radio Amo la Música",
+    "streamUrl": "http://stream-179.zeno.fm/aqmct15qmchvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe89",
+    "name": "Radio Onda Digital",
+    "streamUrl": "https://conectperu.com/8354/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh19",
-    "name": "RADIO GOLD 90.5",
-    "streamUrl": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh20",
-    "name": "3FM",
-    "streamUrl": "https://3fm-atunwadigital.streamguys1.com/3fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh21",
-    "name": "Hitz FM",
-    "streamUrl": "https://cast.hitzgh.com:8100/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh22",
-    "name": "Silver FM",
-    "streamUrl": "http://silverfm.atunwadigital.streamguys1.com/silverfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh23",
-    "name": "Pure FM",
-    "streamUrl": "http://purefm.atunwadigital.streamguys1.com/purefm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh24",
-    "name": "Fox FM",
-    "streamUrl": "http://foxfm.atunwadigital.streamguys1.com/foxfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh25",
-    "name": "Oman FM",
-    "streamUrl": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh26",
-    "name": "Kessben FM",
-    "streamUrl": "https://kessben933fmkumasi-atunwadigital.streamguys1.com/kessben933fmkumasi",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh27",
-    "name": "Wontumi FM",
-    "streamUrl": "https://wontumifm-atunwadigital.streamguys1.com/wontumifm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh28",
-    "name": "Agoo FM",
-    "streamUrl": "http://agoofm-atunwadigital.streamguys1.com/agoofm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh29",
-    "name": "Kumasi FM",
-    "streamUrl": "http://stream-66.zeno.fm/656k5f7be3quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh30",
-    "name": "Bryt FM",
-    "streamUrl": "https://stream-33.zeno.fm/kxw7vk7nq7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh31",
-    "name": "HighLife Radio",
-    "streamUrl": "https://stream.zeno.fm/se1g3g3udceuv.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh32",
-    "name": "Otec FM",
-    "streamUrl": "http://stream.zeno.fm/2dnt5ku7fxquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh33",
-    "name": "GBC Obonu FM",
-    "streamUrl": "http://173.249.50.205:8006/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh34",
-    "name": "Radio Tamale",
-    "streamUrl": "http://hyades.shoutca.st:8125/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh35",
-    "name": "Nzema FM",
-    "streamUrl": "https://stream-57.zeno.fm/s8ew03sh368uv",
+    "id": "pe90",
+    "name": "Pachamama",
+    "streamUrl": "https://servidor14-2.brlogic.com:8744/live",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh36",
-    "name": "Spice FM",
-    "streamUrl": "http://sp0001.opengradle.pro:8030/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh37",
-    "name": "Free 975 FM",
-    "streamUrl": "https://node-14.zeno.fm/s6yzf3zvcceuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh38",
-    "name": "Top FM 103.1",
-    "streamUrl": "http://184.154.43.106:8267/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh39",
-    "name": "Ultimate 106.9 FM",
-    "streamUrl": "http://stream.zeno.fm/ac28vs4s6gwtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh40",
-    "name": "Connect FM",
-    "streamUrl": "https://connectfm-atunwadigital.streamguys1.com/connectfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh41",
-    "name": "SportyFM",
-    "streamUrl": "https://sportyfm-atunwadigital.streamguys1.com/sportyfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh42",
-    "name": "Sankofa Radio",
-    "streamUrl": "http://s2.nexuscast.com:8068/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh43",
-    "name": "Sunsum FM",
-    "streamUrl": "https://stream.zeno.fm/m087d3huy7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh44",
-    "name": "Nhyira FM",
-    "streamUrl": "https://stream.zeno.fm/b85stutry8quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh45",
-    "name": "West End Radio",
-    "streamUrl": "https://stream.zeno.fm/47nz3zut26duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh46",
-    "name": "Trust FM",
-    "streamUrl": "https://node-22.zeno.fm/83dhqkqe27zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh47",
-    "name": "Uniiq FM",
-    "streamUrl": "https://mediagh.us:2000/stream/uniiqfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
-    "id": "gh48",
-    "name": "Oroko Radio",
-    "streamUrl": "https://oroko-radio.radiocult.fm/stream",
+    "id": "pe91",
+    "name": "Perú Folk Radio",
+    "streamUrl": "http://gnstreammedia.net:8020/stream.aac",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_ghana"
+    "country": "country_peru"
   },
   {
-    "id": "gh49",
-    "name": "Info Radio 91.1 FM",
-    "streamUrl": "http://stream.zeno.fm/ey34mac27vzuv",
+    "id": "pe92",
+    "name": "Radio Cutivalú",
+    "streamUrl": "https://7.innovatestream.pe:2020/stream/radiocutivalu/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe93",
+    "name": "Radio Marañon 96.1 FM",
+    "streamUrl": "http://167.114.118.120:7112/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe94",
+    "name": "Radio Loreto",
+    "streamUrl": "https://sp.oyotunstream.com/8006/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe95",
+    "name": "Radio Huancayo",
+    "streamUrl": "https://cloud9.ldwebstudios.net:7000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe96",
+    "name": "Radio Yaraví",
+    "streamUrl": "https://tupanel.info/stream/radioyaravi/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe97",
+    "name": "Radio Melodia Arequipa",
+    "streamUrl": "http://stream.radiomelodia.com.pe:8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe98",
+    "name": "Onda Popular",
+    "streamUrl": "https://dattavolt.com/8278/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe99",
+    "name": "Radio Frecuencia Popular",
+    "streamUrl": "https://radio.sistemasandinos.org/7412/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe100",
+    "name": "Radio Nuevo Tiempo Peru",
+    "streamUrl": "https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe101",
+    "name": "Radio Maria Peru",
+    "streamUrl": "http://dreamsiteradiocp4.com:8020/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe102",
+    "name": "Radio Fidelidad 99.9 FM",
+    "streamUrl": "http://stream.zeno.fm/dg4u1cfm08quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe103",
+    "name": "Radio Fidelísima",
+    "streamUrl": "https://st3.inkaniserver.net:8008/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe104",
+    "name": "Radio La Gloria Es De Dios",
+    "streamUrl": "https://radio101.mjwebexperts.com/8006/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe105",
+    "name": "Radio Armonía Cristiana 94.9 FM",
+    "streamUrl": "http://eu6.fastcast4u.com:5264/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe106",
+    "name": "Radio Manantial de Vida",
+    "streamUrl": "https://server.streamingradios.net/8036/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe107",
+    "name": "Radio Ebenezer",
+    "streamUrl": "https://strm.dal.s02.oneofthebest.org/listen/8090_radio_ebenezer/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe108",
+    "name": "Radio Girasol",
+    "streamUrl": "https://miradioperu.com/8008/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe109",
+    "name": "Radio La Senda Antigua",
+    "streamUrl": "http://stream.zeno.fm/k71xz7yh64zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe110",
+    "name": "Radio Cusco RAM",
+    "streamUrl": "http://ramcusco.stream.laut.fm/ramcusco",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe111",
+    "name": "Radio Moyobamba",
+    "streamUrl": "https://radioconector.com:7005/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe112",
+    "name": "Radio Huascaran 104.5",
+    "streamUrl": "http://158.69.4.171:8044/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe113",
+    "name": "Radio Chachapoyas",
+    "streamUrl": "http://109.73.65.69:30005/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe114",
+    "name": "Radio Cajamarca Doble N 95.3",
+    "streamUrl": "http://149.56.241.147:8072/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe115",
+    "name": "Radio Trujillo Estrella 102.7",
+    "streamUrl": "https://radio.datahost.pe/9660/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe116",
+    "name": "Radio Pucallpa Super",
+    "streamUrl": "https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe117",
+    "name": "Radio Iquitos Fantasía 88.3",
+    "streamUrl": "https://sp.oyotunstream.com:10943/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe118",
+    "name": "Radio Iquitos Astoria 94.9",
+    "streamUrl": "https://conectperu.com:7112/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe119",
+    "name": "Radio Bagua Grande Stereo 99",
+    "streamUrl": "https://sechin.grupocentroserver.com/radio/8300/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe120",
+    "name": "Clarín FM Chachapoyas",
+    "streamUrl": "http://radio.ancashserver.com:9788/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe121",
+    "name": "Radio Ancash Altura 104.5",
+    "streamUrl": "http://158.69.4.171:8398/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe122",
+    "name": "Radio Piura Frontera",
+    "streamUrl": "https://centova.streamrdm.com:4138/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe123",
+    "name": "Radio Tacna Contacto Sur",
+    "streamUrl": "https://s29.myradiostream.com/19140/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe124",
+    "name": "Radio Arequipa JR 88.7",
+    "streamUrl": "https://tupanel.info:2000/stream/radiojr/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe125",
+    "name": "Radio Disney Perú",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe126",
+    "name": "Radio La Ribereña Iquitos",
+    "streamUrl": "https://serverssl.innovatestream.pe:8080/http://167.114.118.120:6062/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe127",
+    "name": "Radio Cumbre",
+    "streamUrl": "https://stream.zeno.fm/t8b5cmybtd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe128",
+    "name": "Radio Bahía 103.1 FM Pisco",
+    "streamUrl": "http://167.114.118.119:7494/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe129",
+    "name": "Radio Cielo 1010 AM",
+    "streamUrl": "http://167.114.118.120:7342/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe130",
+    "name": "Radio Luz y Sonido",
+    "streamUrl": "https://radioserver11.profesionalhosting.com/proxy/mekqyaic?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe131",
+    "name": "Radio Gozo",
+    "streamUrl": "http://radio.gisslive.com:9006/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe132",
+    "name": "Radio Domino",
+    "streamUrl": "http://51.15.152.81:9142/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe133",
+    "name": "Radio Galáctica",
+    "streamUrl": "https://sonic.dattassd.com:10949/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe134",
+    "name": "Radio Inka Power",
+    "streamUrl": "https://sonic.dattassd.com:10952/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe135",
+    "name": "Radio Cadis",
+    "streamUrl": "http://node-11.zeno.fm/a440accyxqzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe136",
+    "name": "ABC Radio Peru",
+    "streamUrl": "https://radio.solucionesweb.pe:10997/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe137",
+    "name": "Radio Congreso del Perú",
+    "streamUrl": "https://vivo.miradio.in/8048/stream",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ghana"
+    "country": "country_peru"
+  },
+  {
+    "id": "pe138",
+    "name": "Frecuencia 100 Trujillo",
+    "streamUrl": "http://oyotunstream.com:7066/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe139",
+    "name": "Radio Buenaza 102.9 FM",
+    "streamUrl": "https://sp.dattavolt.com:7033/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe140",
+    "name": "Radio Nube",
+    "streamUrl": "https://streaming.gometri.com/stream/8025/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe141",
+    "name": "Radio Norteña",
+    "streamUrl": "https://radio.livestreamingmundial.com:7060/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe142",
+    "name": "Radio Peruana",
+    "streamUrl": "https://cloudstream2036.conectarhosting.com/8352/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe143",
+    "name": "Radio Exa FM Peru",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe144",
+    "name": "Radio Mix Lima",
+    "streamUrl": "https://stream-174.zeno.fm/qa5aurigvoivv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe145",
+    "name": "Radio Conoden",
+    "streamUrl": "http://stream.zeno.fm/wxpchhfw44zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe146",
+    "name": "Radio Tarapoto JVM",
+    "streamUrl": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe147",
+    "name": "Radio Superstereo 105.5 FM",
+    "streamUrl": "http://51.89.173.53:8031/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe148",
+    "name": "Radio Zona 5 93.3",
+    "streamUrl": "https://panel.innovatestream.pe:10975/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe149",
+    "name": "Radio Comas FM 101.7",
+    "streamUrl": "http://65.60.2.26:8044/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
+  },
+  {
+    "id": "pe150",
+    "name": "Radio Onda Popular Puno",
+    "streamUrl": "https://dattavolt.com/8280/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_peru"
   }
 ]
