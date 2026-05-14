@@ -1,1202 +1,1202 @@
 [
   {
-    "id": "pe1",
-    "name": "RPP Noticias",
-    "streamUrl": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
+    "id": "id01",
+    "name": "Prambors FM",
+    "streamUrl": "https://s2.cloudmu.id/listen/prambors/radio.aac",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82775/logo_DjhwOnon1t.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe2",
-    "name": "Radio Nacional del Perú",
-    "streamUrl": "https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe3",
-    "name": "Radio Exitosa 95.5 FM",
-    "streamUrl": "http://167.114.118.120:7444/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe4",
-    "name": "Radio América 104.7 FM",
-    "streamUrl": "https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe5",
-    "name": "Radio Capital 96.7 FM",
-    "streamUrl": "https://mdstrm.com/audio/5fab3437fc16c006bd6337c5/live.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe6",
-    "name": "Radio Ovación 620 AM",
-    "streamUrl": "https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe7",
-    "name": "Andina Radio 980 AM",
-    "streamUrl": "http://167.114.118.120:7058/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe8",
-    "name": "Radio Continente 820 AM",
-    "streamUrl": "https://sonic6.my-servers.org:7046/type=mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe9",
-    "name": "Radio El Sol 1450 AM",
-    "streamUrl": "http://167.114.118.120:7340/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe10",
-    "name": "Radio Bethel 1570 AM",
-    "streamUrl": "https://tampa.audio-stream.com/proxy/bethelra?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe11",
-    "name": "Radio Identidad",
-    "streamUrl": "https://5c3fb01839654.streamlock.net:1963/ipradiorci/liverciradio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe12",
-    "name": "Radio Panamericana",
-    "streamUrl": "http://167.114.118.120:7154/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe13",
-    "name": "Foro Radio 88.7 FM",
-    "streamUrl": "http://212.83.146.67:6312/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe14",
-    "name": "Radio Mar Plus 106.3",
-    "streamUrl": "https://17793.live.streamtheworld.com/CRP_MAR_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe15",
-    "name": "Radio Milenia 1530 AM",
-    "streamUrl": "https://radio.pjcks.com/8020/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe16",
-    "name": "Radio Mágica 88.3 FM",
-    "streamUrl": "https://25093.live.streamtheworld.com/MAG_SC",
+    "id": "id02",
+    "name": "Delta FM Jakarta",
+    "streamUrl": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe17",
-    "name": "Planeta",
-    "streamUrl": "http://19013.live.streamtheworld.com/CRP_PLA.mp3?dist=20004",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe18",
-    "name": "Planeta Hot 40",
-    "streamUrl": "https://23023.live.streamtheworld.com/CRP_PLA_HOT40_S01.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe19",
-    "name": "Radio Moda",
-    "streamUrl": "http://18303.live.streamtheworld.com/CRP_MOD.mp3?dist=20004",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe20",
-    "name": "Oasis",
-    "streamUrl": "http://19013.live.streamtheworld.com/CRP_OAS.mp3?dist=20004",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe21",
-    "name": "Radio Festiva",
-    "streamUrl": "https://24883.live.streamtheworld.com/CRP_FES_S01.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe22",
-    "name": "Inca Sat",
-    "streamUrl": "http://17853.live.streamtheworld.com/CRP_INC.mp3?dist=20004",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe23",
-    "name": "Radio Ke Brava",
-    "streamUrl": "https://stream.zenolive.com/59947b1wfuquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe24",
-    "name": "Radio Laser 100.7 FM",
-    "streamUrl": "https://conectperu.com/8078/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe25",
-    "name": "Maxi Mix",
-    "streamUrl": "http://node-26.zeno.fm/znv7mhnuaxquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe26",
-    "name": "Mega Star Peru",
-    "streamUrl": "http://stream.zeno.fm/m0gb9v7aqs8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe27",
-    "name": "FM Express",
-    "streamUrl": "https://eu1.serviaudio.com:10925/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe28",
-    "name": "Radio Level Hits",
-    "streamUrl": "http://ip.peruhits.com:7234/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe29",
-    "name": "Aero Music",
-    "streamUrl": "http://stream.zeno.fm/n652n9msaq8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe30",
-    "name": "Radio Miraflores",
-    "streamUrl": "http://fluoz-56.radiojar.com/1xkhc23kdv8uv.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe31",
-    "name": "Radio Galaxia 99.9 FM",
-    "streamUrl": "https://st3.inkaniserver.net:8096/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe32",
-    "name": "Radio Corazón 94.3 FM",
-    "streamUrl": "https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe33",
-    "name": "Bienestar",
-    "streamUrl": "http://17963.live.streamtheworld.com/BIENESTAR.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe34",
-    "name": "Radio Baladitas",
-    "streamUrl": "http://stream.zeno.fm/hf2gsfm1mp8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe35",
-    "name": "Radio Enamorados",
-    "streamUrl": "https://node-20.zeno.fm/b594gnc1fnruv.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe36",
-    "name": "Radio Románticas Inolvidables",
-    "streamUrl": "https://stream-158.zeno.fm/6m1ba7yt3vduv",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe37",
-    "name": "Radio Zeta Rock & Pop",
-    "streamUrl": "http://167.114.118.120:7440/",
+    "id": "id03",
+    "name": "Hard Rock FM",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8004/hardrock",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe38",
-    "name": "Rock&Pop",
-    "streamUrl": "http://stream.zeno.fm/0k6va3rg8rhvv",
+    "id": "id04",
+    "name": "Female Radio",
+    "streamUrl": "https://s1.cloudmu.id/listen/female_radio/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82818/logo_rq00T6WhCT.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id05",
+    "name": "101 Jak FM",
+    "streamUrl": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id06",
+    "name": "Hot 93.2 FM Jakarta",
+    "streamUrl": "https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id07",
+    "name": "Most FM 105.8",
+    "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id08",
+    "name": "Gen 98.7 FM Jakarta",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id09",
+    "name": "Kis 95.1 FM Jakarta",
+    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id10",
+    "name": "Mustang FM Jakarta",
+    "streamUrl": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe39",
-    "name": "Z Rock & Pop",
-    "streamUrl": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/",
+    "id": "id11",
+    "name": "Radio Dangdut Indonesia 97.1 FM",
+    "streamUrl": "https://stream.roov.id:8062/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83075/logo_jgGEeR8iOt.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id12",
+    "name": "Bahana FM",
+    "streamUrl": "https://rust.mrngroup.co:8020/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe40",
-    "name": "Indie Perú Radio",
-    "streamUrl": "https://eu47-sonic.instainternet.com:7032/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
+    "id": "id13",
+    "name": "CNN Indonesia Radio",
+    "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83530/logo_rIWO1zAMPD.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe41",
-    "name": "Mundo Beatles Radio",
-    "streamUrl": "http://stream.zeno.fm/y79be89qxrhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
+    "id": "id14",
+    "name": "VOA Indonesia Radio",
+    "streamUrl": "https://voa-ingest.akamaized.net/hls/live/2035218/154_222L/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83492/logo_aXlkgUcRBL.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe42",
-    "name": "RadioMix AQP Rock-Pop",
-    "streamUrl": "https://stream-179.zeno.fm/mwxnk1y5btvvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
+    "id": "id15",
+    "name": "Radio Elshinta Jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8005/bandung",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83181/logo_S27Uwur3qn.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe43",
-    "name": "Radio Doble Nueve Classic",
-    "streamUrl": "http://149.56.241.147:8008/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
+    "id": "id16",
+    "name": "Radio Elshinta Surabaya",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8030/surabaya",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83203/logo_txXEKJ42FA.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe44",
-    "name": "Radio Doble Nueve Heritage",
-    "streamUrl": "http://149.56.241.147:8006/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
+    "id": "id17",
+    "name": "Radio Elshinta Semarang",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8025/semarang",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83207/logo_ZIIlijr6wE.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe45",
-    "name": "Radio Doble Nueve Live",
-    "streamUrl": "http://149.56.241.147:8002/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
+    "id": "id18",
+    "name": "Radio Elshinta Medan",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8035/medan",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83202/logo_l6gGf384eV.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe46",
-    "name": "Gárgola Classic",
-    "streamUrl": "https://7.innovatestream.pe:2020/stream/GARGOLA/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe47",
-    "name": "Radio Barranquino",
-    "streamUrl": "https://radio.euroserver.org/radio/8010/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe48",
-    "name": "Radio Onda Azul",
-    "streamUrl": "http://167.114.118.120:7160/",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe49",
-    "name": "Radio Callao",
-    "streamUrl": "http://stream.infomagia.com:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe50",
-    "name": "Radio Canto Grande 97.7 FM",
-    "streamUrl": "http://65.60.2.26:8050/",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe51",
-    "name": "Radio A 94.9",
-    "streamUrl": "https://stream-160.zeno.fm/qxsaiqu7pn4tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe52",
-    "name": "Radio Karibeña 94.9 FM",
-    "streamUrl": "https://7.innovatestream.pe:2020/stream/karibenaoficial/stream",
+    "id": "id19",
+    "name": "Power FM Jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe53",
-    "name": "La Kalle 96.1 FM",
-    "streamUrl": "https://7.innovatestream.pe:2020/stream/lakalleoficial/stream/",
+    "id": "id20",
+    "name": "Suara Surabaya",
+    "streamUrl": "https://stream03.pcradio.biz/rad_srsrby-med",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
+    "genre": "genre_info",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe54",
-    "name": "Radio La Zona 90.5 FM",
-    "streamUrl": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
+    "id": "id21",
+    "name": "Ardan FM Bandung",
+    "streamUrl": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe55",
-    "name": "Radio La Mega 96.7 FM",
-    "streamUrl": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
+    "id": "id22",
+    "name": "AXR Jakarta",
+    "streamUrl": "https://28093.live.streamtheworld.com/AXR_JAKARTAAAC.aac",
+    "imageUrl": "https://radio.streamitter.com/images/logos/YH5HCY.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id23",
+    "name": "Radio B",
+    "streamUrl": "https://stream.rcs.revma.com/9yp8b9pd6k3vv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83392/logo_wwJysLdjd5.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id24",
+    "name": "Swaragama FM Yogyakarta",
+    "streamUrl": "http://jkt.jogjastreamers.com:8000/swaragama456789stereo",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe56",
-    "name": "Panamericana Salsa Power",
-    "streamUrl": "https://mdstrm.com/audio/6598b728d982060896866b8a/icecast.audio",
+    "id": "id25",
+    "name": "StarJogja FM 101.3",
+    "streamUrl": "http://jkt.jogjastreamers.com:8000/starfmykstereo",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe57",
-    "name": "Panamericana Latino Refrescante",
-    "streamUrl": "https://mdstrm.com/audio/6598b76c6c07d80644b7321f/icecast.audio",
+    "id": "id26",
+    "name": "Radio Q Jogja",
+    "streamUrl": "http://jkt.jogjastreamers.com:8000/qradio34567stereo",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe58",
-    "name": "Radio La Kalle Lima",
-    "streamUrl": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
+    "id": "id27",
+    "name": "Solopos FM",
+    "streamUrl": "https://live.solopos.com:8002/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82738/logo_0nXbT2PPjV.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe59",
-    "name": "La Salsa Maestra",
-    "streamUrl": "https://stream.zeno.fm/c1skkw28pfeuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
+    "id": "id28",
+    "name": "Classy 103.4 FM Surabaya",
+    "streamUrl": "http://stream.classyfm.co.id:1034/stream.mp3",
+    "imageUrl": "https://radio.streamitter.com/images/logos/YKCCLP.png",
+    "genre": "genre_clasic",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe60",
-    "name": "PerúCumbia.com",
-    "streamUrl": "http://184.154.28.210:7130/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe61",
-    "name": "Ataque Techno Perú",
-    "streamUrl": "https://streamprivate.live:10982/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe62",
-    "name": "Full Techno",
-    "streamUrl": "http://184.154.28.210:7150/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe63",
-    "name": "Electro Radio Live",
-    "streamUrl": "https://stream-142.zeno.fm/93kksqvkeg8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe64",
-    "name": "Radio Estacion Techno",
-    "streamUrl": "http://stream.zeno.fm/t3sqkau72rhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe65",
-    "name": "Radio Dance 90",
-    "streamUrl": "http://87.236.196.34:8900/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe66",
-    "name": "Radio Discoteca 90",
-    "streamUrl": "http://87.236.196.34:8918/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe67",
-    "name": "Mambo INN Radio",
-    "streamUrl": "https://radio.perustream.com:7000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe68",
-    "name": "Radio Cumbia Mix",
-    "streamUrl": "https://streaming.gometri.com/stream/8017/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe69",
-    "name": "La Única Tropical",
-    "streamUrl": "https://stream-178.zeno.fm/see4wpyr9bhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe70",
-    "name": "Estación Cumbia Radio",
-    "streamUrl": "https://stream-155.zeno.fm/q66qxthr0uhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe71",
-    "name": "Bossa Nova Perú Radio",
-    "streamUrl": "https://conectperu.com/8158/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe72",
-    "name": "Radio La Inolvidable 93.7 FM",
-    "streamUrl": "https://24943.live.streamtheworld.com/CRP_LI_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe73",
-    "name": "LaOchentera.com",
-    "streamUrl": "http://184.154.28.210:7200/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe74",
-    "name": "Estación 90s Radio",
-    "streamUrl": "http://radio.ancashserver.com:9552/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe75",
-    "name": "La Noventera",
-    "streamUrl": "https://host.gometri.com/proxy/lanoventera/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe76",
-    "name": "Radio Retro",
-    "streamUrl": "https://stream2.eistreaming.com/7068/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe77",
-    "name": "Gen X",
-    "streamUrl": "https://turadio.accesopanel.com/8526/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe78",
-    "name": "Oasis Patrio Sonorama",
-    "streamUrl": "https://18733.live.streamtheworld.com/CRP_SON_S01_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe79",
-    "name": "Radio Del Amor",
-    "streamUrl": "https://stream-151.zeno.fm/z7re4u64gd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe80",
-    "name": "Latidos 94.7 FM",
-    "streamUrl": "http://ip.peruhits.com:9944/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe81",
-    "name": "Radio Karicia",
-    "streamUrl": "https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe82",
-    "name": "Jazzcontempo",
-    "streamUrl": "http://conectperu.com:8048/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe83",
-    "name": "Filarmonía",
-    "streamUrl": "http://m.mediastream.pe/av_filarmonia/livestream/playlist.m3u8",
+    "id": "id29",
+    "name": "Classy NetRadio",
+    "streamUrl": "https://streaming.classynetradio.com:8000/classyHD",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe84",
-    "name": "Radio Filarmonía 102.7",
-    "streamUrl": "https://c22.radioboss.fm:8100/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_peru"
+    "id": "id30",
+    "name": "Retjo Buntung FM 99.4",
+    "streamUrl": "https://ssg.streamingmurah.com:9940/stream",
+    "imageUrl": "https://radio.streamitter.com/images/logos/OHPTQR.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe85",
-    "name": "Radio Doble Nueve Millenial",
-    "streamUrl": "http://149.56.241.147:8004/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe86",
-    "name": "K Pop Way Radio",
-    "streamUrl": "http://streamer.radio.co/s06b196587/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe87",
-    "name": "Generacion Kpop",
-    "streamUrl": "http://stream9.mexiserver.com:8242/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe88",
-    "name": "Radio Amo la Música",
-    "streamUrl": "http://stream-179.zeno.fm/aqmct15qmchvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe89",
-    "name": "Radio Onda Digital",
-    "streamUrl": "https://conectperu.com/8354/stream",
+    "id": "id31",
+    "name": "Radio Idola Semarang",
+    "streamUrl": "https://stream.cradio.co.id/idolafm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe90",
-    "name": "Pachamama",
-    "streamUrl": "https://servidor14-2.brlogic.com:8744/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe91",
-    "name": "Perú Folk Radio",
-    "streamUrl": "http://gnstreammedia.net:8020/stream.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe92",
-    "name": "Radio Cutivalú",
-    "streamUrl": "https://7.innovatestream.pe:2020/stream/radiocutivalu/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe93",
-    "name": "Radio Marañon 96.1 FM",
-    "streamUrl": "http://167.114.118.120:7112/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe94",
-    "name": "Radio Loreto",
-    "streamUrl": "https://sp.oyotunstream.com/8006/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe95",
-    "name": "Radio Huancayo",
-    "streamUrl": "https://cloud9.ldwebstudios.net:7000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe96",
-    "name": "Radio Yaraví",
-    "streamUrl": "https://tupanel.info/stream/radioyaravi/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe97",
-    "name": "Radio Melodia Arequipa",
-    "streamUrl": "http://stream.radiomelodia.com.pe:8000/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe98",
-    "name": "Onda Popular",
-    "streamUrl": "https://dattavolt.com/8278/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe99",
-    "name": "Radio Frecuencia Popular",
-    "streamUrl": "https://radio.sistemasandinos.org/7412/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe100",
-    "name": "Radio Nuevo Tiempo Peru",
-    "streamUrl": "https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/chunklist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe101",
-    "name": "Radio Maria Peru",
-    "streamUrl": "http://dreamsiteradiocp4.com:8020/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe102",
-    "name": "Radio Fidelidad 99.9 FM",
-    "streamUrl": "http://stream.zeno.fm/dg4u1cfm08quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe103",
-    "name": "Radio Fidelísima",
-    "streamUrl": "https://st3.inkaniserver.net:8008/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe104",
-    "name": "Radio La Gloria Es De Dios",
-    "streamUrl": "https://radio101.mjwebexperts.com/8006/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe105",
-    "name": "Radio Armonía Cristiana 94.9 FM",
-    "streamUrl": "http://eu6.fastcast4u.com:5264/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe106",
-    "name": "Radio Manantial de Vida",
-    "streamUrl": "https://server.streamingradios.net/8036/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe107",
-    "name": "Radio Ebenezer",
-    "streamUrl": "https://strm.dal.s02.oneofthebest.org/listen/8090_radio_ebenezer/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe108",
-    "name": "Radio Girasol",
-    "streamUrl": "https://miradioperu.com/8008/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe109",
-    "name": "Radio La Senda Antigua",
-    "streamUrl": "http://stream.zeno.fm/k71xz7yh64zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe110",
-    "name": "Radio Cusco RAM",
-    "streamUrl": "http://ramcusco.stream.laut.fm/ramcusco",
+    "id": "id32",
+    "name": "C Radio Semarang",
+    "streamUrl": "https://stream.cradio.co.id/cradio.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe111",
-    "name": "Radio Moyobamba",
-    "streamUrl": "https://radioconector.com:7005/stream",
+    "id": "id33",
+    "name": "Prambors FM Makassar",
+    "streamUrl": "http://rust.mrngroup.co:8040/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe112",
-    "name": "Radio Huascaran 104.5",
-    "streamUrl": "http://158.69.4.171:8044/",
+    "id": "id34",
+    "name": "Gen 103.1 FM Surabaya",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe113",
-    "name": "Radio Chachapoyas",
-    "streamUrl": "http://109.73.65.69:30005/",
+    "id": "id35",
+    "name": "FBI 91.8 FM Bali",
+    "streamUrl": "https://c1.siar.us:9180/fbibaliradio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe114",
-    "name": "Radio Cajamarca Doble N 95.3",
-    "streamUrl": "http://149.56.241.147:8072/",
+    "id": "id36",
+    "name": "Phoenix Radio Bali 91 FM",
+    "streamUrl": "https://live.phoenixradiobali.com:8250/phoenixradio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe115",
-    "name": "Radio Trujillo Estrella 102.7",
-    "streamUrl": "https://radio.datahost.pe/9660/stream",
+    "id": "id37",
+    "name": "The Beat Radio Bali",
+    "streamUrl": "https://c1.siar.us/radio/8030/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id38",
+    "name": "Menara 102.8 FM Bali",
+    "streamUrl": "https://c1.siar.us:10280/menarafmbali",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe116",
-    "name": "Radio Pucallpa Super",
-    "streamUrl": "https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3",
+    "id": "id39",
+    "name": "Radio Srinadi 99.7 FM Bali",
+    "streamUrl": "http://srinadifm.onlivestreaming.net:9970/srinadifm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe117",
-    "name": "Radio Iquitos Fantasía 88.3",
-    "streamUrl": "https://sp.oyotunstream.com:10943/stream",
+    "id": "id40",
+    "name": "Pas FM 92.4 Jakarta",
+    "streamUrl": "https://i.klikhost.com/8266/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82891/logo_lrdAvZaPko.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id41",
+    "name": "Pas FM 104.3 Surabaya",
+    "streamUrl": "https://passfm-radio.wow.net.id/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe118",
-    "name": "Radio Iquitos Astoria 94.9",
-    "streamUrl": "https://conectperu.com:7112/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe119",
-    "name": "Radio Bagua Grande Stereo 99",
-    "streamUrl": "https://sechin.grupocentroserver.com/radio/8300/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe120",
-    "name": "Clarín FM Chachapoyas",
-    "streamUrl": "http://radio.ancashserver.com:9788/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe121",
-    "name": "Radio Ancash Altura 104.5",
-    "streamUrl": "http://158.69.4.171:8398/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe122",
-    "name": "Radio Piura Frontera",
-    "streamUrl": "https://centova.streamrdm.com:4138/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe123",
-    "name": "Radio Tacna Contacto Sur",
-    "streamUrl": "https://s29.myradiostream.com/19140/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe124",
-    "name": "Radio Arequipa JR 88.7",
-    "streamUrl": "https://tupanel.info:2000/stream/radiojr/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe125",
-    "name": "Radio Disney Perú",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_kids",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe126",
-    "name": "Radio La Ribereña Iquitos",
-    "streamUrl": "https://serverssl.innovatestream.pe:8080/http://167.114.118.120:6062/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe127",
-    "name": "Radio Cumbre",
-    "streamUrl": "https://stream.zeno.fm/t8b5cmybtd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe128",
-    "name": "Radio Bahía 103.1 FM Pisco",
-    "streamUrl": "http://167.114.118.119:7494/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe129",
-    "name": "Radio Cielo 1010 AM",
-    "streamUrl": "http://167.114.118.120:7342/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe130",
-    "name": "Radio Luz y Sonido",
-    "streamUrl": "https://radioserver11.profesionalhosting.com/proxy/mekqyaic?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe131",
-    "name": "Radio Gozo",
-    "streamUrl": "http://radio.gisslive.com:9006/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe132",
-    "name": "Radio Domino",
-    "streamUrl": "http://51.15.152.81:9142/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe133",
-    "name": "Radio Galáctica",
-    "streamUrl": "https://sonic.dattassd.com:10949/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe134",
-    "name": "Radio Inka Power",
-    "streamUrl": "https://sonic.dattassd.com:10952/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe135",
-    "name": "Radio Cadis",
-    "streamUrl": "http://node-11.zeno.fm/a440accyxqzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe136",
-    "name": "ABC Radio Peru",
-    "streamUrl": "https://radio.solucionesweb.pe:10997/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
-  },
-  {
-    "id": "pe137",
-    "name": "Radio Congreso del Perú",
-    "streamUrl": "https://vivo.miradio.in/8048/stream",
+    "id": "id42",
+    "name": "Sindo Trijaya 104.6 FM Jakarta",
+    "streamUrl": "http://202.147.199.101:8000/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe138",
-    "name": "Frecuencia 100 Trujillo",
-    "streamUrl": "http://oyotunstream.com:7066/",
+    "id": "id43",
+    "name": "V Radio Jakarta 106.6 FM",
+    "streamUrl": "http://202.147.199.100:8000/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe139",
-    "name": "Radio Buenaza 102.9 FM",
-    "streamUrl": "https://sp.dattavolt.com:7033/",
+    "id": "id44",
+    "name": "Global FM Jakarta",
+    "streamUrl": "http://202.147.199.98/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe140",
-    "name": "Radio Nube",
-    "streamUrl": "https://streaming.gometri.com/stream/8025/stream",
+    "id": "id45",
+    "name": "Mettaswara Indonesia",
+    "streamUrl": "https://mettaswara.com:8700/indo",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe141",
-    "name": "Radio Norteña",
-    "streamUrl": "https://radio.livestreamingmundial.com:7060/live",
+    "id": "id46",
+    "name": "Mettaswara 90's",
+    "streamUrl": "https://mettaswara.com:8700/metta90",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id47",
+    "name": "Mettaswara Hits",
+    "streamUrl": "https://mettaswara.com:8700/hits",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82888/logo_zgGotmRz4v.png",
+    "genre": "genre_hits",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id48",
+    "name": "Mettaswara Relax",
+    "streamUrl": "https://mettaswara.com:8700/metta",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id49",
+    "name": "Mettaswara Disco",
+    "streamUrl": "https://mettaswara.com:8700/disco",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83461/logo_QEMOpU289u.png",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id50",
+    "name": "Mettaswara SoftRock",
+    "streamUrl": "https://mettaswara.com:8700/slowrock",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83468/logo_iss76eAZuJ.png",
+    "genre": "genre_rock",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id51",
+    "name": "Mettaswara Koplo",
+    "streamUrl": "https://mettaswara.com:8700/koplo",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83471/logo_slYrOHO0Z2.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id52",
+    "name": "Mettaswara Smooth",
+    "streamUrl": "https://mettaswara.com:8700/smooth",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83480/logo_qxYAjNCLam.png",
+    "genre": "genre_jazz",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id53",
+    "name": "Mettaswara Java",
+    "streamUrl": "https://mettaswara.com:8700/java",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe142",
-    "name": "Radio Peruana",
-    "streamUrl": "https://cloudstream2036.conectarhosting.com/8352/stream",
+    "id": "id54",
+    "name": "Mettaswara 2000's",
+    "streamUrl": "https://mettaswara.com:8700/theonest",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe143",
-    "name": "Radio Exa FM Peru",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "id": "id55",
+    "name": "Mettaswara ThrowBack",
+    "streamUrl": "https://mettaswara.com:8700/mettatrow",
     "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id56",
+    "name": "Mettaswara Dangdut",
+    "streamUrl": "https://mettaswara.com:8700/d4d",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id57",
+    "name": "Mettaswara Campursari",
+    "streamUrl": "https://mettaswara.com:8700/cps",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83461/logo_QEMOpU289u.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id58",
+    "name": "Suara Soneta",
+    "streamUrl": "https://a2.siar.us/listen/suarasoneta/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id59",
+    "name": "Campursari FM",
+    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id60",
+    "name": "Dansbandskanalen",
+    "streamUrl": "https://a8.siar.us/listen/campursari/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id61",
+    "name": "Star Radio 107.3 FM Tangerang",
+    "streamUrl": "http://listen.staradio1073fm.net:8070/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id62",
+    "name": "94.8 DJFM Surabaya",
+    "streamUrl": "http://c5.siar.us:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id63",
+    "name": "Vinyl FM 107",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id64",
+    "name": "95.4 KPFM Balikpapan",
+    "streamUrl": "http://i.klikhost.com:8312/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id65",
+    "name": "96.8 KPFM Samarinda",
+    "streamUrl": "https://s5.alhasmedia.com:8360/radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id66",
+    "name": "Geronimo FM Yogyakarta",
+    "streamUrl": "http://84.247.146.65:8090/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83403/logo_RDVvXk47dP.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id67",
+    "name": "Unisi Radio 104.5 FM",
+    "streamUrl": "https://stream.radiounisia.com/stream/1/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83363/logo_qCEk9cmWxr.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id68",
+    "name": "Sushi FM 99.1",
+    "streamUrl": "https://stream2.jejestreaming.com:9200/stream",
+    "imageUrl": "https://radio.streamitter.com/images/logos/77XMV8.png",
+    "genre": "genre_electronic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id69",
+    "name": "Electro Lounge",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "imageUrl": "__________________________",
+    "genre": "genre_electronic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id70",
+    "name": "KLCBS Bandung",
+    "streamUrl": "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id71",
+    "name": "Simfoni FM",
+    "streamUrl": "https://i.klikhost.com/9160/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id72",
+    "name": "Radio Pelita Kasih",
+    "streamUrl": "https://streaming.classynetradio.com:8040/rpkfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id73",
+    "name": "Radio Rhema",
+    "streamUrl": "https://live.rhemaradio.com/&amptype=mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82739/logo_TWtmx1OWHS.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id74",
+    "name": "Radio Maria Indonesia",
+    "streamUrl": "http://dreamsiteradiocp.com:8062/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id75",
+    "name": "Suara Muslim Surabaya",
+    "streamUrl": "http://pu.klikhost.com:8052/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id76",
+    "name": "Fajri FM",
+    "streamUrl": "https://ars.mitradio.com:8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id77",
+    "name": "Dakta Radio 107.0 FM Bekasi",
+    "streamUrl": "http://175.103.48.4:9302/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id78",
+    "name": "MQFM Bandung",
+    "streamUrl": "http://streaming.mqfmnetwork.com:1027/listen.pls?sid=2",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id79",
+    "name": "Serambi FM Aceh",
+    "streamUrl": "http://live.serambifm.com:8902/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id80",
+    "name": "KBR Kantor Berita Radio",
+    "streamUrl": "https://i.klikhost.com/8056/kbr",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id81",
+    "name": "Megaswara Bogor",
+    "streamUrl": "https://server.adyadigitalteknologi.com:8010/1",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82930/logo_za9rhE9Xh1.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id82",
+    "name": "Megaswara Sukabumi",
+    "streamUrl": "https://server.adyadigitalteknologi.com:8010/3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83132/logo_f27pltTlyC.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id83",
+    "name": "Elfara FM Malang",
+    "streamUrl": "https://c4.siar.us:8123/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82849/logo_4BOLCktIKC.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id84",
+    "name": "Hits Unikom Radio 103.9 FM",
+    "streamUrl": "https://streaming.hitsunikomradio.com/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83072/logo_Uy0Rz6BkSY.png",
     "genre": "genre_hits",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe144",
-    "name": "Radio Mix Lima",
-    "streamUrl": "https://stream-174.zeno.fm/qa5aurigvoivv",
-    "imageUrl": "__________________________",
+    "id": "id85",
+    "name": "Gema Surya FM",
+    "streamUrl": "https://r5.siar.us:9420/mp3.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82788/logo_pN6jQa0IdU.png",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe145",
-    "name": "Radio Conoden",
-    "streamUrl": "http://stream.zeno.fm/wxpchhfw44zuv",
+    "id": "id86",
+    "name": "Radio Imelda FM",
+    "streamUrl": "https://server.radioimeldafm.co.id:8030/imeldafm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe146",
-    "name": "Radio Tarapoto JVM",
-    "streamUrl": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion",
+    "id": "id87",
+    "name": "MG Radio Network",
+    "streamUrl": "https://edge.medcom.id/live-edge/smil:mgradio.smil/playlist.m3u8",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_peru"
+    "genre": "genre_news",
+    "country": "country_indonesia"
   },
   {
-    "id": "pe147",
-    "name": "Radio Superstereo 105.5 FM",
-    "streamUrl": "http://51.89.173.53:8031/",
+    "id": "id88",
+    "name": "Music City 107.5 FM Jakarta",
+    "streamUrl": "http://sci.streamingmurah.com:8003/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe148",
-    "name": "Radio Zona 5 93.3",
-    "streamUrl": "https://panel.innovatestream.pe:10975/stream",
-    "imageUrl": "__________________________",
+    "id": "id89",
+    "name": "Andika FM Kediri",
+    "streamUrl": "https://r5.siar.us:1057/andikafm",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83587/logo_2zI7f3s1OT.png",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe149",
-    "name": "Radio Comas FM 101.7",
-    "streamUrl": "http://65.60.2.26:8044/",
-    "imageUrl": "__________________________",
+    "id": "id90",
+    "name": "Pop FM Jakarta",
+    "streamUrl": "https://i.klikhost.com/8272/stream",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/133138.v2.png",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
   },
   {
-    "id": "pe150",
-    "name": "Radio Onda Popular Puno",
-    "streamUrl": "https://dattavolt.com/8280/stream",
+    "id": "id91",
+    "name": "Batam FM",
+    "streamUrl": "https://i.klikhost.com:8174/batamfm",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82745/logo_kDR8vMp18T.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id92",
+    "name": "Global FM Lombok",
+    "streamUrl": "https://i.klikhost.com/8098/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82779/logo_r1trhTz3Rp.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id93",
+    "name": "Metrum Radio Bandung",
+    "streamUrl": "https://ssg.streamingmurah.com:8400/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83090/logo_U5tO7aBjmC.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id94",
+    "name": "SUN FM 103.5 Banjarmasin",
+    "streamUrl": "https://a1.siar.us/radio/8440/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83152/logo_JDilQTNeH8.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id95",
+    "name": "Radio Gentara",
+    "streamUrl": "https://sukmben.radiogentara.com:8081/gentara64",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_peru"
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id96",
+    "name": "Suzana 91.3 FM Surabaya",
+    "streamUrl": "http://streaming.suzanafm.com:8000/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id97",
+    "name": "EBS 105.9 FM Surabaya",
+    "streamUrl": "http://streaming.suzanafm.com:8100/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id98",
+    "name": "102.7 MTB FM Surabaya",
+    "streamUrl": "https://103.123.98.58/listen/1027_mtb_fm_surabaya/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83002/logo_NwCYNUkWsv.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id99",
+    "name": "Sriwijaya 94.3 FM Palembang",
+    "streamUrl": "http://sriwijaya.onlivestreaming.net:9430/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id100",
+    "name": "El John FM Palembang",
+    "streamUrl": "http://103.28.149.117:8032/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id101",
+    "name": "Radio Bahana FM",
+    "streamUrl": "https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id102",
+    "name": "Prosalina FM Jember",
+    "streamUrl": "https://i.klikhost.com/8618/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id103",
+    "name": "MGT FM 101.1 Bandung",
+    "streamUrl": "https://s1.gntr.net/listen/mgtradio/mgtradio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id104",
+    "name": "MS Tri FM 104.2 Jakarta",
+    "streamUrl": "https://c2.siar.us/listen/mstrifm/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id105",
+    "name": "Radio Istara FM",
+    "streamUrl": "https://live.radioistara.com/listen/radioistara/radioistara",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/19004.v5.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id106",
+    "name": "KISI FM Bogor",
+    "streamUrl": "https://live.kisifm.com/kisifm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id107",
+    "name": "Tebet Radio Jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8066/stream",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/132364.v1.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id108",
+    "name": "RJM FM 91.5",
+    "streamUrl": "https://live.rjmfm.com:8078/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83234/logo_VSjdWTjWRV.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id109",
+    "name": "DNA FM Jepara",
+    "streamUrl": "https://sc.dnafm.net/listen/dnafm/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id110",
+    "name": "Orban FM Palembang",
+    "streamUrl": "https://a12.siar.us/listen/orbanfm/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83528/logo_zS615pzzXK.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id111",
+    "name": "Radio Aditya Pekanbaru",
+    "streamUrl": "https://ssg.streamingmurah.com:8098/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83597/logo_fNWyXy3P0e.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id112",
+    "name": "Urban 106.3 FM",
+    "streamUrl": "https://a1.siar.us/listen/urbanradio/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83541/logo_9vKTchHWST.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id113",
+    "name": "Rasika FM Semarang",
+    "streamUrl": "https://a6.siar.us:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id114",
+    "name": "Swara Semarang",
+    "streamUrl": "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id115",
+    "name": "Radio Dirgantara Bali",
+    "streamUrl": "https://a13.siar.us/listen/dirgantarabali/stream",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/133138.v2.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id116",
+    "name": "Suara Mahakam 101.1 FM Samarinda",
+    "streamUrl": "https://i.klikhost.com/8010/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id117",
+    "name": "Beat Radio Indonesia",
+    "streamUrl": "https://stream.beatradioid.com:8000/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83374/logo_HJQ8eKvQiX.png",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id118",
+    "name": "Zona Music Indonesia",
+    "streamUrl": "https://a.alhastream.com/listen/station_54/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83310/logo_TpKKXqBgfp.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id119",
+    "name": "Dengerin Musik Indonesia",
+    "streamUrl": "https://stream.denger.in/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83557/logo_eFG6LbY6F0.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id120",
+    "name": "Amber HD1",
+    "streamUrl": "http://209.97.165.140:8000/amber1",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83430/logo_6Dr8wWQvkR.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id121",
+    "name": "Amber HD2",
+    "streamUrl": "http://209.97.165.140:8000/amber2",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83427/logo_QZo2z54osb.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id122",
+    "name": "RTI Radio Streaming",
+    "streamUrl": "https://sv.rti.my.id:8000/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83153/logo_62HcGvfiU1.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id123",
+    "name": "Radio Unisia Yogyakarta",
+    "streamUrl": "https://stream.radiounisia.com/stream/1/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83363/logo_qCEk9cmWxr.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id124",
+    "name": "Insania FM Gorontalo",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniagorontalo/979gorontalo",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82905/logo_Yp3bSEhGSC.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id125",
+    "name": "Insania FM Makassar",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82903/logo_MuH4ACge44.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id126",
+    "name": "Insania FM Ternate",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniaternate/876ternate",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82897/logo_QAtpwHS1Py.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id127",
+    "name": "Insania FM Sorong",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniasorong/887sorong",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82924/logo_izWwbRY55d.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id128",
+    "name": "Warnalfm Padang",
+    "streamUrl": "https://a5.siar.us/listen/warna91.6fmpadang/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id129",
+    "name": "Amatron 3 FM",
+    "streamUrl": "http://51.79.167.17:7026/Amatron.aac/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id130",
+    "name": "Radio Sama FM",
+    "streamUrl": "https://sx.alhasmedia.com/radio/8360/radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id131",
+    "name": "SCFM Makassar",
+    "streamUrl": "https://void.idserverhost.com/8062/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82796/logo_k2C369SftS.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id132",
+    "name": "Telstar FM Makassar",
+    "streamUrl": "https://stream-eu-nc.arenastreaming.com:5101/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83549/logo_ssynWkJLs2.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id133",
+    "name": "Radio Elshinta Lampung",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8070/lampung",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83162/logo_J3OfA3GThS.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id134",
+    "name": "GCD Yogyakarta 98.6 FM",
+    "streamUrl": "https://studio1.indostreamers.com:8014/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id135",
+    "name": "Radio Kota Batik Pekalongan",
+    "streamUrl": "https://studio1.indostreamers.com:8010/stream/1/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83543/logo_w0DRYfkI3C.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id136",
+    "name": "Pandawa Radio",
+    "streamUrl": "https://void.idserverhost.com/8042/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82765/logo_xumOGd3DJh.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id137",
+    "name": "IMTV Jakarta",
+    "streamUrl": "https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83527/logo_36gU8RZeqp.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id138",
+    "name": "Radio Samhan Jakarta",
+    "streamUrl": "https://a8.siar.us/listen/samhanjakarta/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83613/logo_Pkkb3YPnkh.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id139",
+    "name": "Mosh Head Black Metal ID",
+    "streamUrl": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id140",
+    "name": "Radio Star",
+    "streamUrl": "https://live.amanditmedia.id/listen/starfm/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83575/logo_Q0HILl7di8.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id141",
+    "name": "Publica FM",
+    "streamUrl": "https://113fm-atunwadigital.streamguys1.com/1025",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83367/logo_OOGbPTHLyB.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id142",
+    "name": "Sonata AM Radio",
+    "streamUrl": "http://45.64.97.82:8074/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83169/logo_508KmJWgrh.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id143",
+    "name": "K Radio Jember",
+    "streamUrl": "https://stream-eu-nc.arenastreaming.com:6186/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83388/logo_mlP3l77dhJ.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id144",
+    "name": "RGR FM",
+    "streamUrl": "http://asv.alhastream.com:3700/rgr",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83568/logo_9PefpQgCCG.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id145",
+    "name": "OKTAP Radio",
+    "streamUrl": "https://s7.crownmediacenter.my.id/listen/oktap_radio/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83412/logo_LZVfvZMn3l.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id146",
+    "name": "Comfyradio",
+    "streamUrl": "https://station.comfyradio.id/listen/comfyradio/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83534/logo_22WmPum6WN.png",
+    "genre": "genre_relax",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id147",
+    "name": "Elgangga FM",
+    "streamUrl": "https://b.alhastream.com:5140/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82920/logo_EBVIZh6leZ.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id148",
+    "name": "Radio Famili Minang",
+    "streamUrl": "https://a7.alhastream.com:4180/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83026/logo_TQ1hPKdl6h.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id149",
+    "name": "Radio Wisata FM",
+    "streamUrl": "https://c2.siar.us:9889/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82868/logo_6rzQP9Az0t.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id150",
+    "name": "Wawa Radio 101.2 FM",
+    "streamUrl": "https://securestream.casthost.net:8219/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   }
 ]
