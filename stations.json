@@ -26558,5 +26558,1022 @@
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/173/radio-onda-popular.3e0e7246.png",
     "genre": "genre_pop",
     "country": "country_peru"
+  },
+  {
+    "id": "id01",
+    "name": "Prambors FM",
+    "streamUrl": "https://s1.cloudmu.id/listen/prambors_makassar/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/335/prambors-fm-1051-makassar.ee0949d3.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id02",
+    "name": "Delta FM Jakarta",
+    "streamUrl": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/854/delta-fm.57e81899.png",
+    "genre": "genre_hits",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id03",
+    "name": "Hard Rock FM",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8004/hardrock",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ANm8fKJ5nb.png",
+    "genre": "genre_rock",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id04",
+    "name": "Female Radio",
+    "streamUrl": "https://n43a-eu.rcs.revma.com/2cn5erwq9ncwv?rj-ttl=5&rj-tok=AAABniUi2bsAoKd7pOBR4D5GrA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/998/female-radio-979-fm.d7b96bd0.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id05",
+    "name": "101 Jak FM",
+    "streamUrl": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xDzEedy6ka.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id06",
+    "name": "Hot 93.2 FM Jakarta",
+    "streamUrl": "https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bwa9cq6nkvue.jpg",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id07",
+    "name": "Most FM 105.8",
+    "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Aakw5UsQVc.png",
+    "genre": "genre_hits",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id08",
+    "name": "Gen 98.7 FM Jakarta",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/MDU3dHRd9Kr-0Jc5Q7I6kBd-Qe5ZTOtbEylqLruQidU/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDdhMTRiMzAtZjYwMy00NDIyLWI4YWYtZDMzNDI5ZDYwYjM3L2ltYWdlLz91PTE3MTM4NzMyMzcwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id09",
+    "name": "Kis 95.1 FM",
+    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/696/951-kis-fm.d78ce352.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id10",
+    "name": "Mustang FM",
+    "streamUrl": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/699/mustang-88-fm.37ee47db.jpg",
+    "genre": "genre_rock",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id11",
+    "name": "Radio Dangdut Indonesia 97.1 FM",
+    "streamUrl": "http://202.147.199.99:8000/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/qpzvhD3RrL.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id12",
+    "name": "Bahana FM",
+    "streamUrl": "http://bahanafm.onlivestreaming.net:10450/live",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/858/bahana-1045-fm.5ed1fc26.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id13",
+    "name": "CNN Indonesia Radio",
+    "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83530/logo_rIWO1zAMPD.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id14",
+    "name": "VOA Indonesia Radio",
+    "streamUrl": "https://voa-ingest.akamaized.net/hls/live/2035218/154_222L/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83492/logo_aXlkgUcRBL.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id15",
+    "name": "Radio Elshinta Jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8005/bandung",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83181/logo_S27Uwur3qn.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id16",
+    "name": "Radio Elshinta Surabaya",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8030/surabaya",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83203/logo_txXEKJ42FA.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id17",
+    "name": "Radio Elshinta Semarang",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8025/semarang",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83207/logo_ZIIlijr6wE.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id19",
+    "name": "Power FM Jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/83918.v4.png",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id20",
+    "name": "Suara Surabaya",
+    "streamUrl": "https://stream03.pcradio.biz/rad_srsrby-med",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/18988.v10.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id21",
+    "name": "Ardan FM Bandung",
+    "streamUrl": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/396/ardan-fm.46d7b4ee.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id22",
+    "name": "AXR Jakarta",
+    "streamUrl": "https://22273.live.streamtheworld.com/AXR_JAKARTAAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/421/axr-asia-expat-radio-jakarta.5650e0ef.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id23",
+    "name": "Radio B",
+    "streamUrl": "https://stream.rcs.revma.com/9yp8b9pd6k3vv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83392/logo_wwJysLdjd5.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id24",
+    "name": "Swaragama FM",
+    "streamUrl": "http://jkt.jogjastreamers.com:8000/swaragama456789stereo",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5RLYj5EPxq.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id25",
+    "name": "StarJogja FM 101.3",
+    "streamUrl": "http://jkt.jogjastreamers.com:8000/starfmykstereo",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/999/starjogja-fm.c0a4b777.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id27",
+    "name": "Solopos FM",
+    "streamUrl": "https://live.solopos.com:8002/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82738/logo_0nXbT2PPjV.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id28",
+    "name": "Classy 103.4 FM Surabaya",
+    "streamUrl": "http://stream.classyfm.co.id:1034/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JrYYPs8erP.png",
+    "genre": "genre_clasic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id29",
+    "name": "Classy NetRadio",
+    "streamUrl": "https://streaming.classynetradio.com:8000/classyHD",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/123/classy-netradio.d3810422.png",
+    "genre": "genre_clasic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id30",
+    "name": "Retjo Buntung FM 99.4",
+    "streamUrl": "https://ssg.streamingmurah.com:9940/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mMMkCEQKH2.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id32",
+    "name": "C Radio Semarang",
+    "streamUrl": "http://mettaswara.com:8700/cradio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/108/c-radio-semarang.807110de.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id33",
+    "name": "Prambors FM Makassar",
+    "streamUrl": "https://s1.cloudmu.id/listen/prambors_makassar/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/335/prambors-fm-1051-makassar.ee0949d3.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id34",
+    "name": "Gen 103.1 FM Surabaya",
+    "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/595/1031-gen-fm-surabaya.7068d519.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id35",
+    "name": "FBI 91.8 FM Bali",
+    "streamUrl": "https://c1.siar.us:9180/fbibaliradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/310/fbi-918-fm.50334b98.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id36",
+    "name": "Phoenix Radio Bali 91 FM",
+    "streamUrl": "https://live.phoenixradiobali.com:8250/phoenixradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tvjCWGTApT.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id37",
+    "name": "The Beat Radio Bali",
+    "streamUrl": "https://c1.siar.us/radio/8030/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/tKkXZgQQbE.jpg",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id38",
+    "name": "Menara 102.8 FM Bali",
+    "streamUrl": "https://c1.siar.us:10280/menarafmbali",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/156/radio-bali-menara-fm-1028.d420631a.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id39",
+    "name": "Radio Srinadi 99.7 FM Bali",
+    "streamUrl": "http://srinadifm.onlivestreaming.net:9970/srinadifm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/152918.v1.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id42",
+    "name": "Sindo Trijaya 104.6 FM Jakarta",
+    "streamUrl": "http://202.147.199.101:8000/stream.nsv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/19001.v14.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id43",
+    "name": "V Radio Jakarta 106.6 FM",
+    "streamUrl": "http://202.147.199.100:8000/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/135/v-radio-jakarta-1066-fm.9060ce48.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id45",
+    "name": "Mettaswara Indonesia",
+    "streamUrl": "https://mettaswara.com:8700/indo",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/384/mettaswara-indonesia.a1d33564.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id46",
+    "name": "Mettaswara 90's",
+    "streamUrl": "https://mettaswara.com:8700/metta90",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/383/mettaswara-90s.867bdbc1.png",
+    "genre": "genre_90s",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id47",
+    "name": "Mettaswara Hits",
+    "streamUrl": "https://mettaswara.com:8700/hits",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/387/mettaswara-hits.6537f6b1.png",
+    "genre": "genre_hits",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id48",
+    "name": "Mettaswara Relax",
+    "streamUrl": "https://mettaswara.com:8700/metta",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/3cvLu6e8Dg.jpg",
+    "genre": "genre_relax",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id49",
+    "name": "Mettaswara Disco",
+    "streamUrl": "https://mettaswara.com:8700/disco",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/273/mettaswara-disco-indonesia.f1b0a9eb.jpg",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id50",
+    "name": "Mettaswara SoftRock",
+    "streamUrl": "https://mettaswara.com:8700/slowrock",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/386/mettaswara-soft-rock.b434a249.png",
+    "genre": "genre_rock",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id51",
+    "name": "Mettaswara Koplo",
+    "streamUrl": "https://mettaswara.com:8700/koplo",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/128381.v5.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id52",
+    "name": "Mettaswara Smooth",
+    "streamUrl": "https://mettaswara.com:8700/smooth",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/388/mettaswara-smooth.99d1ea0b.png",
+    "genre": "genre_jazz",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id53",
+    "name": "Mettaswara Java",
+    "streamUrl": "https://mettaswara.com:8700/java",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/390/mettaswara-java.c77663f7.jpg",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id54",
+    "name": "Mettaswara 2000's",
+    "streamUrl": "https://mettaswara.com:8700/theonest",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/119/mettaswara-indo-2000.117802d9.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id55",
+    "name": "Mettaswara ThrowBack",
+    "streamUrl": "https://mettaswara.com:8700/mettatrow",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/382/mettaswara-throwback-802.3b3c1706.png",
+    "genre": "genre_retro",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id56",
+    "name": "Mettaswara Dangdut",
+    "streamUrl": "https://mettaswara.com:8700/d4d",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/CDCqpweNvm.jpg",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id57",
+    "name": "Mettaswara Campursari",
+    "streamUrl": "https://mettaswara.com:8700/cps",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/s3jdKC9HKv.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id58",
+    "name": "Suara Soneta",
+    "streamUrl": "https://a2.siar.us/listen/suarasoneta/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/35cgxzahyytq.jpeg",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id59",
+    "name": "Campursari FM",
+    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/045/radio-campursari-fm.daaedc15.jpg",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id61",
+    "name": "WMTA Star 107.3 FM",
+    "streamUrl": "https://server02.nkstreaming.com:8121/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/643/wmta-real-gospel-1380-am.8e7cc1d6.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id62",
+    "name": "94.8 DJFM Surabaya",
+    "streamUrl": "http://c5.siar.us:8000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/991/dj-fm-indonesia.06e156a7.jpg",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id63",
+    "name": "Vinyl FM 107",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/647/vinyl-fm-107.a3e761d1.png",
+    "genre": "genre_retro",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id65",
+    "name": "96.8 KPFM Samarinda",
+    "streamUrl": "https://s5.alhasmedia.com:8360/radio",
+    "imageUrl": "https://img.radios.com.br/radio/lg/radio30131_1725648088.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id66",
+    "name": "Radio Geronimo",
+    "streamUrl": "
+https://uksoutha.streaming.broadcast.radio:28420/Geronimo?=&___cb=611275342535887&rp_source=1",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/499/radio-geronimo.af5aa289.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id67",
+    "name": "Unisi Radio 104.5 FM",
+    "streamUrl": "https://stream.radiounisia.com/stream/1/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83363/logo_qCEk9cmWxr.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id68",
+    "name": "Sushi FM 99.1",
+    "streamUrl": "https://stream2.jejestreaming.com:9200/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/85966.v9.png",
+    "genre": "genre_electronic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id69",
+    "name": "Electro Lounge",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/437/electro-lounge-sweden-only.dee255d5.png",
+    "genre": "genre_electronic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id70",
+    "name": "KLCBS Bandung",
+    "streamUrl": "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/375/klcbs-1004-fm.124f66d0.jpg",
+    "genre": "genre_clasic",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id72",
+    "name": "Radio Pelita Kasih",
+    "streamUrl": "https://streaming.classynetradio.com:8040/rpkfm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vgQMSB4K5J.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id73",
+    "name": "Radio Rhema",
+    "streamUrl": "https://live.rhemaradio.com/&amptype=mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82739/logo_TWtmx1OWHS.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id74",
+    "name": "Radio Maria Indonesia",
+    "streamUrl": "http://dreamsiteradiocp.com:8062/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jg2MwphhZA.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id75",
+    "name": "Suara Muslim Surabaya",
+    "streamUrl": "http://pu.klikhost.com:8052/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/081/suara-muslim.767a7e61.jpg",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id76",
+    "name": "Fajri FM",
+    "streamUrl": "https://ars.mitradio.com:8000/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/796/radio-fajri.992ab910.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id77",
+    "name": "Dakta Radio 107.0 FM Bekasi",
+    "streamUrl": "http://175.103.48.4:9302/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/AyjN57Ay8A.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id78",
+    "name": "MQFM Bandung",
+    "streamUrl": "http://streaming.mqfmnetwork.com:1027/relay",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/9nLgkFArUM.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id81",
+    "name": "Megaswara Bogor",
+    "streamUrl": "https://server.adyadigitalteknologi.com:8010/1",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82930/logo_za9rhE9Xh1.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id82",
+    "name": "Megaswara Sukabumi",
+    "streamUrl": "https://server.adyadigitalteknologi.com:8010/3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83132/logo_f27pltTlyC.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id83",
+    "name": "Elfara FM Malang",
+    "streamUrl": "https://c4.siar.us:8123/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82849/logo_4BOLCktIKC.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id84",
+    "name": "Hits Unikom Radio 103.9 FM",
+    "streamUrl": "https://streaming.hitsunikomradio.com/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83072/logo_Uy0Rz6BkSY.png",
+    "genre": "genre_hits",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id85",
+    "name": "Gema Surya FM",
+    "streamUrl": "https://r5.siar.us:9420/mp3.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82788/logo_pN6jQa0IdU.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id86",
+    "name": "Radio Imelda FM",
+    "streamUrl": "https://server.radioimeldafm.co.id:8030/imeldafm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/QfxnTdtPGV.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id88",
+    "name": "Music City 107.5 FM Jakarta",
+    "streamUrl": "http://sci.streamingmurah.com:8003/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/102209.v21.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id89",
+    "name": "Andika FM Kediri",
+    "streamUrl": "https://r5.siar.us:1057/andikafm",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83587/logo_2zI7f3s1OT.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id93",
+    "name": "Metrum Radio Bandung",
+    "streamUrl": "http://45.64.97.82:8400/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/28eeah4fbke9.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id94",
+    "name": "SUN FM 103.5 Banjarmasin",
+    "streamUrl": "https://a1.siar.us/radio/8440/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/fy6rjhk7mne5.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id95",
+    "name": "Radio Gentara",
+    "streamUrl": "https://stream-n1.gntr.net/listen/radio_gentara/gentara.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/157/radio-gentara.04b3d352.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id96",
+    "name": "Suzana 91.3 FM Surabaya",
+    "streamUrl": "http://streaming.suzanafm.com:8000/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/036/suzana-913-fm.af16c533.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id97",
+    "name": "EBS 105.9 FM Surabaya",
+    "streamUrl": "http://streaming.suzanafm.com:8100/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/BLj5YUbczS.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id98",
+    "name": "102.7 MTB FM Surabaya",
+    "streamUrl": "https://103.123.98.58/listen/1027_mtb_fm_surabaya/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83002/logo_NwCYNUkWsv.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id99",
+    "name": "Sriwijaya 94.3 FM Palembang",
+    "streamUrl": "http://sriwijaya.onlivestreaming.net:9430/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/653/sriwijaya-radio.a80bea35.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id100",
+    "name": "El John FM Palembang",
+    "streamUrl": "http://103.28.149.117:8032/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9R8E2tNHty.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id101",
+    "name": "Radio Bahana FM",
+    "streamUrl": "https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/858/bahana-1045-fm.5ed1fc26.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id103",
+    "name": "MGT FM 101.1 Bandung",
+    "streamUrl": "https://s1.gntr.net/listen/mgtradio/mgtradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/qVTEm9pFkN.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id104",
+    "name": "MS Tri FM 104.2 Jakarta",
+    "streamUrl": "https://c2.siar.us/listen/mstrifm/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/h8rbYLvJ3w.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id105",
+    "name": "Radio Istara FM",
+    "streamUrl": "https://live.radioistara.com/listen/radioistara/radioistara",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/19004.v5.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id106",
+    "name": "KISI FM Bogor",
+    "streamUrl": "https://live.kisifm.com/kisifm",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/5PDbAAaqPB.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id107",
+    "name": "Tebet Radio Jakarta",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8066/stream",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/132364.v1.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id109",
+    "name": "DNA FM Jepara",
+    "streamUrl": "https://sc.dnafm.net/listen/dnafm/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7mr8ltltmvpl.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id110",
+    "name": "Orban FM Palembang",
+    "streamUrl": "https://a12.siar.us/listen/orbanfm/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83528/logo_zS615pzzXK.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id112",
+    "name": "Urban 106.3 FM",
+    "streamUrl": "https://a1.siar.us/listen/urbanradio/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83541/logo_9vKTchHWST.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id113",
+    "name": "Rasika FM Semarang",
+    "streamUrl": "https://a6.siar.us:8000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zTeuDAfGxN.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id114",
+    "name": "Swara Semarang",
+    "streamUrl": "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dj8mdtherbja.jpg",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id115",
+    "name": "Radio Dirgantara Bali",
+    "streamUrl": "https://a13.siar.us/listen/dirgantarabali/stream",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/133138.v2.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id117",
+    "name": "Beat Radio Indonesia",
+    "streamUrl": "https://stream.beatradioid.com:8000/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83374/logo_HJQ8eKvQiX.png",
+    "genre": "genre_dance",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id118",
+    "name": "Zona Music Indonesia",
+    "streamUrl": "https://a.alhastream.com/listen/station_54/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83310/logo_TpKKXqBgfp.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id119",
+    "name": "Dengerin Musik Indonesia",
+    "streamUrl": "https://stream.denger.in/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83557/logo_eFG6LbY6F0.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id120",
+    "name": "Amber HD1",
+    "streamUrl": "http://209.97.165.140:8000/amber1",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83430/logo_6Dr8wWQvkR.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id121",
+    "name": "Amber HD2",
+    "streamUrl": "http://209.97.165.140:8000/amber2",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83427/logo_QZo2z54osb.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id122",
+    "name": "RTI Radio Streaming",
+    "streamUrl": "https://sv.rti.my.id:8000/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83153/logo_62HcGvfiU1.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id124",
+    "name": "Insania FM Gorontalo",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniagorontalo/979gorontalo",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82905/logo_Yp3bSEhGSC.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id125",
+    "name": "Insania FM Makassar",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82903/logo_MuH4ACge44.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id126",
+    "name": "Insania FM Ternate",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniaternate/876ternate",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82897/logo_QAtpwHS1Py.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id127",
+    "name": "Insania FM Sorong",
+    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniasorong/887sorong",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82924/logo_izWwbRY55d.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id128",
+    "name": "Warnalfm Padang",
+    "streamUrl": "https://a5.siar.us/listen/warna91.6fmpadang/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/19464.v9.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id130",
+    "name": "Radio Sama FM",
+    "streamUrl": "https://sx.alhasmedia.com/radio/8360/radio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/mf2a8rckdczr.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id132",
+    "name": "Telstar FM Makassar",
+    "streamUrl": "https://stream-eu-nc.arenastreaming.com:5101/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83549/logo_ssynWkJLs2.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id133",
+    "name": "Radio Elshinta Lampung",
+    "streamUrl": "https://stream-ssl.arenastreaming.com:8070/lampung",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83162/logo_J3OfA3GThS.png",
+    "genre": "genre_news",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id134",
+    "name": "GCD Yogyakarta 98.6 FM",
+    "streamUrl": "https://studio1.indostreamers.com:8014/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/uxdqbkpzqdpm.jpg",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id135",
+    "name": "Radio Kota Batik Pekalongan",
+    "streamUrl": "https://studio1.indostreamers.com:8010/stream/1/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83543/logo_w0DRYfkI3C.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id136",
+    "name": "Pandawa Radio",
+    "streamUrl": "https://void.idserverhost.com/8042/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82765/logo_xumOGd3DJh.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id137",
+    "name": "IMTV Jakarta",
+    "streamUrl": "https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83527/logo_36gU8RZeqp.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id138",
+    "name": "Radio Samhan Jakarta",
+    "streamUrl": "https://a8.siar.us/listen/samhanjakarta/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83613/logo_Pkkb3YPnkh.png",
+    "genre": "genre_religious",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id139",
+    "name": "Mosh Head Black Metal ID",
+    "streamUrl": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/jHZVkLLu9H.png",
+    "genre": "genre_rock",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id140",
+    "name": "Radio Star",
+    "streamUrl": "https://live.amanditmedia.id/listen/starfm/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83575/logo_Q0HILl7di8.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id142",
+    "name": "Sonata AM Radio",
+    "streamUrl": "http://45.64.97.82:8074/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83169/logo_508KmJWgrh.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id143",
+    "name": "K Radio Jember",
+    "streamUrl": "https://stream-eu-nc.arenastreaming.com:6186/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83388/logo_mlP3l77dhJ.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id144",
+    "name": "RGR FM",
+    "streamUrl": "http://asv.alhastream.com:3700/rgr",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83568/logo_9PefpQgCCG.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id145",
+    "name": "OKTAP Radio",
+    "streamUrl": "https://s7.crownmediacenter.my.id/listen/oktap_radio/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83412/logo_LZVfvZMn3l.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id146",
+    "name": "Comfyradio",
+    "streamUrl": "https://station.comfyradio.id/listen/comfyradio/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83534/logo_22WmPum6WN.png",
+    "genre": "genre_relax",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id147",
+    "name": "Elgangga FM",
+    "streamUrl": "https://b.alhastream.com:5140/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82920/logo_EBVIZh6leZ.png",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id148",
+    "name": "Radio Famili Minang",
+    "streamUrl": "https://a7.alhastream.com:4180/radio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83026/logo_TQ1hPKdl6h.png",
+    "genre": "genre_folk",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id149",
+    "name": "Radio Wisata FM",
+    "streamUrl": "https://c2.siar.us:9889/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82868/logo_6rzQP9Az0t.png",
+    "genre": "genre_info",
+    "country": "country_indonesia"
+  },
+  {
+    "id": "id150",
+    "name": "Wawa Radio 101.2 FM",
+    "streamUrl": "https://securestream.casthost.net:8219/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_indonesia"
   }
 ]
