@@ -1,1202 +1,882 @@
 [
   {
-    "id": "id01",
-    "name": "Prambors FM",
-    "streamUrl": "https://s2.cloudmu.id/listen/prambors/radio.aac",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82775/logo_DjhwOnon1t.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id02",
-    "name": "Delta FM Jakarta",
-    "streamUrl": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id03",
-    "name": "Hard Rock FM",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8004/hardrock",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id04",
-    "name": "Female Radio",
-    "streamUrl": "https://s1.cloudmu.id/listen/female_radio/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82818/logo_rq00T6WhCT.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id05",
-    "name": "101 Jak FM",
-    "streamUrl": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
+    "id": "bd01",
+    "name": "Radio Foorti 88.0 FM",
+    "streamUrl": "http://stream.zenolive.com/f0bfdk2w34zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id06",
-    "name": "Hot 93.2 FM Jakarta",
-    "streamUrl": "https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_indonesia"
+    "id": "bd02",
+    "name": "Radio Today FM 89.6",
+    "streamUrl": "https://stream.zeno.fm/0zha3rfq02quv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80324/logo_8syv4fxQcf.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
   },
   {
-    "id": "id07",
-    "name": "Most FM 105.8",
-    "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id08",
-    "name": "Gen 98.7 FM Jakarta",
-    "streamUrl": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
+    "id": "bd03",
+    "name": "Jago FM 94.4",
+    "streamUrl": "http://128.199.184.111:12496/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id09",
-    "name": "Kis 95.1 FM Jakarta",
-    "streamUrl": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8",
+    "id": "bd04",
+    "name": "Peoples Radio 91.6 FM",
+    "streamUrl": "http://s3.myradiostream.com:14498/listen.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80322/logo_cEKgZ9sKXH.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd05",
+    "name": "BBC Bangla",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_bangla_radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd06",
+    "name": "Dhaka FM 90.4",
+    "streamUrl": "http://stream.zenolive.com/ay4pqkk604zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id10",
-    "name": "Mustang FM Jakarta",
-    "streamUrl": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
+    "id": "bd07",
+    "name": "Capital FM 94.8",
+    "streamUrl": "http://stream.zenolive.com/4nzaapqw34zuv",
     "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_indonesia"
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
   },
   {
-    "id": "id11",
-    "name": "Radio Dangdut Indonesia 97.1 FM",
-    "streamUrl": "https://stream.roov.id:8062/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83075/logo_jgGEeR8iOt.png",
+    "id": "bd08",
+    "name": "Bangladesh Betar Dhaka 88.8 FM",
+    "streamUrl": "http://as3.digitalsynapsebd.com:8263/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80326/logo_kxUuGO3nfk.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd09",
+    "name": "Bangladesh Betar Dhaka Ka 693 KHz",
+    "streamUrl": "http://as3.digitalsynapsebd.com:8582/stream.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80329/logo_Xssq45ChVL.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd10",
+    "name": "Bangladesh Betar Dhaka Kha 630 KHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8741/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd11",
+    "name": "Bangladesh Betar Barisal AM 1287 KHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8569/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd12",
+    "name": "Bangladesh Betar Barisal FM 105.2 MHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8620/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd13",
+    "name": "Bangladesh Betar Chattogram AM 833 KHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8920/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd14",
+    "name": "Bangladesh Betar Chattogram FM 88.8 MHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:9236/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd15",
+    "name": "Bangladesh Betar Khulna AM 558 KHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:9248/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd16",
+    "name": "Bangladesh Betar Khulna FM 88.8 MHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:9252/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd17",
+    "name": "Bangladesh Betar Rajshahi AM 1080 KHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:9240/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd18",
+    "name": "Bangladesh Betar Rajshahi FM 88.8 MHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:9244/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80348/logo_5IcsiJ0NJa.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd19",
+    "name": "Bangladesh Betar Rangpur AM 1053 KHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8622/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd20",
+    "name": "Bangladesh Betar Rangpur FM 88.8 MHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8624/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd21",
+    "name": "Bangladesh Betar Sylhet AM 963 KHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8096/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd22",
+    "name": "Bangladesh Betar Sylhet FM 88.8 MHz",
+    "streamUrl": "http://as2.digitalsynapsebd.com:8246/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd23",
+    "name": "Ekattor Radio 98.4",
+    "streamUrl": "http://stream.zenolive.com/arm7p58w34zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd24",
+    "name": "Radio Shadhin 92.4 FM",
+    "streamUrl": "https://stream.zeno.fm/eabgu655puquv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80321/logo_xrqQPGmWPt.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd25",
+    "name": "ABC FM 89.2",
+    "streamUrl": "https://stream.zeno.fm/0w3wy7y158quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd26",
+    "name": "Radio Padma 99.2 FM",
+    "streamUrl": "https://radiopadmabd.radioca.st/radiopadma",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80328/logo_o9aKMfo4Pt.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd27",
+    "name": "Colours FM 101.6",
+    "streamUrl": "http://45.64.135.88:8000/stream1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd28",
+    "name": "Radio Foorti Chattogram",
+    "streamUrl": "https://stream.zeno.fm/cs298e2w34zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd29",
+    "name": "Uttorbango Betar",
+    "streamUrl": "https://stream.zeno.fm/spqbxkqxdf9uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80333/logo_pp6CQJKoG4.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd30",
+    "name": "Radio Mahananda 98.8 FM",
+    "streamUrl": "https://streaming.radiomahananda.fm/proxy/radiomahananda/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80338/logo_m6ZBDMkYLR.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd31",
+    "name": "FnF FM Bangla",
+    "streamUrl": "http://eu6.fastcast4u.com:5099/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80323/logo_UKU7OmGRX0.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd32",
+    "name": "iWiFM",
+    "streamUrl": "http://94.23.23.97:29270/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80331/logo_UKU7OmGRX0.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd33",
+    "name": "Radio GoonGoon",
+    "streamUrl": "https://audio.streamcast.xyz/radio/8000/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80327/logo_vIkactj8nW.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd34",
+    "name": "Radio Bushra",
+    "streamUrl": "https://stream.zeno.fm/mzuka1fdxzzuv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80335/logo_wSfezsdCp5.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd35",
+    "name": "Roots Air BD",
+    "streamUrl": "http://live64.zeilsteen.com:7054/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80332/logo_tjsVVrWxbZ.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd36",
+    "name": "Radio Purbakantho",
+    "streamUrl": "https://stream.zeno.fm/r8sntxcw81zuv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80334/logo_xfpp7EzyfQ.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd37",
+    "name": "Radio Vivid Voice",
+    "streamUrl": "https://stream.zeno.fm/xuin6ocdc2juv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80343/logo_xb5fbZdcJ8.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd38",
+    "name": "Provat FM",
+    "streamUrl": "https://stream.zeno.fm/nlv7ffoe39yvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80342/logo_YaR6E81POD.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd39",
+    "name": "Radio Theater Bangla",
+    "streamUrl": "https://stream.zeno.fm/hrawdb5yx8ovv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80344/logo_lefvCP14OI.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd40",
+    "name": "Teesta Flow Radio",
+    "streamUrl": "https://stream.zeno.fm/upaj1sodvdkvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80349/logo_zqCoUDaVOb.png",
+    "genre": "genre_relax",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd41",
+    "name": "Hemel Music Radio",
+    "streamUrl": "https://stream.zeno.fm/s4f64yu82c9uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80337/logo_mMzNpTEmIr.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd42",
+    "name": "Radio Bhumi 92.8 FM",
+    "streamUrl": "https://stream.zeno.fm/ybf1umk1k18uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80330/logo_5mnbuatIKe.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd43",
+    "name": "Radio Ullash",
+    "streamUrl": "https://stream.zeno.fm/gpgkgp9mp18uv.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80336/logo_9kyAfdtvQL.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd44",
+    "name": "Radio Dawah Bangla",
+    "streamUrl": "https://stream.zeno.fm/rzkykmse9zcuv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80345/logo_8OH7j6Xk1b.png",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd45",
+    "name": "Radio JKKNIU",
+    "streamUrl": "https://stream.zeno.fm/risgdzpf1cxtv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80346/logo_o0xeCU8svP.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd46",
+    "name": "Radio Hamza",
+    "streamUrl": "https://stream.zeno.fm/lohedguhtkttv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80341/logo_hXfH4T3m9x.png",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd47",
+    "name": "Radio Capital",
+    "streamUrl": "https://server03.quran-uni.com:7038/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80325/logo_sOLnyWDwAz.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd48",
+    "name": "Radio Jamuna FM",
+    "streamUrl": "https://stream.zeno.fm/pcmmlmkpvmmvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80347/logo_PAn2Ylyp0Z.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd49",
+    "name": "Radio Sondhi",
+    "streamUrl": "https://stream.zeno.fm/4k1vwiexedzvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80339/logo_jwR98ykREP.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd50",
+    "name": "Tzgospel Bangladesh",
+    "streamUrl": "https://stream.zeno.fm/w7zvq9kvcfhvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80340/logo_rzC23jJolD.png",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd51",
+    "name": "AL-QURAN BANGLA",
+    "streamUrl": "http://66.45.232.131:9994/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd52",
+    "name": "Radio Ambar",
+    "streamUrl": "http://118.179.215.45:8000/stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd53",
+    "name": "Gaan Baksho - Bangla HD Radio",
+    "streamUrl": "https://cast1.asurahosting.com/proxy/gaanbaks/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd54",
+    "name": "Radio Lakshyapar",
+    "streamUrl": "https://lakshyapar.getstreamhosting.com:8100/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd55",
+    "name": "A2Z Radio",
+    "streamUrl": "https://listen.radioking.com/radio/1743/stream/125",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd56",
+    "name": "Radio Ekattor 98.4 FM",
+    "streamUrl": "https://stream.zeno.fm/arm7p58w34zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd57",
+    "name": "Rajshahi FM",
+    "streamUrl": "https://stream.zeno.fm/nxfshdayjrdvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80348/logo_5IcsiJ0NJa.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd58",
+    "name": "Radio Bhumi Dhaka",
+    "streamUrl": "https://stream.zeno.fm/s6x1u9yw34zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd59",
+    "name": "Bangla Tune",
+    "streamUrl": "http://ample-zeno-04.radiojar.com/wh8wm0pwcd5tv.m3u?rj-ttl=5&rj-token=AAABXvMKkyNARHFcbFlv7C-fA38AvSAL7FiBkKYpiLObYlZ4uXmkqQ",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd60",
+    "name": "Radio Mukti 99.2 FM",
+    "streamUrl": "https://stream.zeno.fm/89vwaa67oqbuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd61",
+    "name": "Radio SylNet",
+    "streamUrl": "https://stream.zeno.fm/rk92702kyk8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd62",
+    "name": "Radio Karatoa",
+    "streamUrl": "https://stream.zeno.fm/u7p10xhsutzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd63",
+    "name": "Bengal Radio",
+    "streamUrl": "https://stream.zeno.fm/965y3quqks8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd64",
+    "name": "Radio Shabdo 91.1 FM",
+    "streamUrl": "https://stream.zeno.fm/0rdm9n9r97zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd65",
+    "name": "Radio Jagoron",
+    "streamUrl": "https://stream.zeno.fm/ku2e67d3yf8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd66",
+    "name": "Radio Kishoreganj",
+    "streamUrl": "https://stream.zeno.fm/yxp325tqfg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd67",
+    "name": "Radio Comilla",
+    "streamUrl": "https://stream.zeno.fm/daxrjrtq68euv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd68",
+    "name": "Radio Tangail",
+    "streamUrl": "https://stream.zeno.fm/qyzuh2d5dxhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd69",
+    "name": "Radio Sarabela 98.8 FM",
+    "streamUrl": "https://stream.zeno.fm/vf8fbt6mr18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd70",
+    "name": "Radio Din-Raat",
+    "streamUrl": "https://stream.zeno.fm/enwcsg26wmftv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd71",
+    "name": "Nilphamari FM",
+    "streamUrl": "https://stream.zeno.fm/eat4pata6nhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd72",
+    "name": "SatkhiraRadio",
+    "streamUrl": "https://stream.zeno.fm/88y9ac7wag8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd73",
+    "name": "Radio Janata",
+    "streamUrl": "https://stream.zeno.fm/xse83ybpg5zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd74",
+    "name": "Peoples Radio (stream)",
+    "streamUrl": "https://stream.zeno.fm/y2a9a8bt8druv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd75",
+    "name": "Radio Bangla",
+    "streamUrl": "https://stream.zeno.fm/8582u1g9dd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd76",
+    "name": "Lokobetar FM 99.2",
+    "streamUrl": "https://stream.zeno.fm/q4kfslhiwaktv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd77",
+    "name": "Farm Radio",
+    "streamUrl": "https://stream.zeno.fm/tage75htbwzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd78",
+    "name": "Radio Anannya",
+    "streamUrl": "https://stream.zeno.fm/3ypdtqzd9rhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd79",
+    "name": "Radio Payra",
+    "streamUrl": "https://stream.zeno.fm/benwxhpuhueuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd80",
+    "name": "Radio Sonahar",
+    "streamUrl": "https://stream.zeno.fm/2bzunxq48a0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd81",
+    "name": "Radio Hearts",
+    "streamUrl": "https://stream.zeno.fm/23t4kdr2qa0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd82",
+    "name": "Bangla HipHop Station",
+    "streamUrl": "https://stream.zeno.fm/6f77gnemx38uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd83",
+    "name": "Radio Barakah",
+    "streamUrl": "https://stream.zeno.fm/gz73d47hq18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd84",
+    "name": "Quran Radio With Bangla Translation",
+    "streamUrl": "https://stream.zeno.fm/1z49becwn18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd85",
+    "name": "SA Islamic Radio",
+    "streamUrl": "https://stream.zeno.fm/hr0wb3ax8vzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd86",
+    "name": "Peace Radio",
+    "streamUrl": "https://stream.zeno.fm/whnht0bb3c9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd87",
+    "name": "Ruqyah Radio BD",
+    "streamUrl": "https://stream.zeno.fm/pz72fq579f0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd88",
+    "name": "Islahi Mujakara",
+    "streamUrl": "https://stream.zeno.fm/ghcsb5a7ma0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd89",
+    "name": "Dainik An Noor",
+    "streamUrl": "https://stream.zeno.fm/mxak4tf8fc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd90",
+    "name": "RADIO MUSLIM",
+    "streamUrl": "https://stream.zeno.fm/2208uz7s4f0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd91",
+    "name": "Nazrul Giti",
+    "streamUrl": "https://stream.zeno.fm/7kwayxtph48uv",
+    "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id12",
-    "name": "Bahana FM",
-    "streamUrl": "https://rust.mrngroup.co:8020/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id13",
-    "name": "CNN Indonesia Radio",
-    "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83530/logo_rIWO1zAMPD.png",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id14",
-    "name": "VOA Indonesia Radio",
-    "streamUrl": "https://voa-ingest.akamaized.net/hls/live/2035218/154_222L/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83492/logo_aXlkgUcRBL.png",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id15",
-    "name": "Radio Elshinta Jakarta",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8005/bandung",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83181/logo_S27Uwur3qn.png",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id16",
-    "name": "Radio Elshinta Surabaya",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8030/surabaya",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83203/logo_txXEKJ42FA.png",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id17",
-    "name": "Radio Elshinta Semarang",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8025/semarang",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83207/logo_ZIIlijr6wE.png",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id18",
-    "name": "Radio Elshinta Medan",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8035/medan",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83202/logo_l6gGf384eV.png",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id19",
-    "name": "Power FM Jakarta",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "id": "bd92",
+    "name": "Dance Party",
+    "streamUrl": "https://stream.zeno.fm/kb7fu88b8a0uv",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id20",
-    "name": "Suara Surabaya",
-    "streamUrl": "https://stream03.pcradio.biz/rad_srsrby-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id21",
-    "name": "Ardan FM Bandung",
-    "streamUrl": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id22",
-    "name": "AXR Jakarta",
-    "streamUrl": "https://28093.live.streamtheworld.com/AXR_JAKARTAAAC.aac",
-    "imageUrl": "https://radio.streamitter.com/images/logos/YH5HCY.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id23",
-    "name": "Radio B",
-    "streamUrl": "https://stream.rcs.revma.com/9yp8b9pd6k3vv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83392/logo_wwJysLdjd5.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id24",
-    "name": "Swaragama FM Yogyakarta",
-    "streamUrl": "http://jkt.jogjastreamers.com:8000/swaragama456789stereo",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id25",
-    "name": "StarJogja FM 101.3",
-    "streamUrl": "http://jkt.jogjastreamers.com:8000/starfmykstereo",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id26",
-    "name": "Radio Q Jogja",
-    "streamUrl": "http://jkt.jogjastreamers.com:8000/qradio34567stereo",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id27",
-    "name": "Solopos FM",
-    "streamUrl": "https://live.solopos.com:8002/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82738/logo_0nXbT2PPjV.png",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id28",
-    "name": "Classy 103.4 FM Surabaya",
-    "streamUrl": "http://stream.classyfm.co.id:1034/stream.mp3",
-    "imageUrl": "https://radio.streamitter.com/images/logos/YKCCLP.png",
-    "genre": "genre_clasic",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id29",
-    "name": "Classy NetRadio",
-    "streamUrl": "https://streaming.classynetradio.com:8000/classyHD",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id30",
-    "name": "Retjo Buntung FM 99.4",
-    "streamUrl": "https://ssg.streamingmurah.com:9940/stream",
-    "imageUrl": "https://radio.streamitter.com/images/logos/OHPTQR.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id31",
-    "name": "Radio Idola Semarang",
-    "streamUrl": "https://stream.cradio.co.id/idolafm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id32",
-    "name": "C Radio Semarang",
-    "streamUrl": "https://stream.cradio.co.id/cradio.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id33",
-    "name": "Prambors FM Makassar",
-    "streamUrl": "http://rust.mrngroup.co:8040/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id34",
-    "name": "Gen 103.1 FM Surabaya",
-    "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id35",
-    "name": "FBI 91.8 FM Bali",
-    "streamUrl": "https://c1.siar.us:9180/fbibaliradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id36",
-    "name": "Phoenix Radio Bali 91 FM",
-    "streamUrl": "https://live.phoenixradiobali.com:8250/phoenixradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id37",
-    "name": "The Beat Radio Bali",
-    "streamUrl": "https://c1.siar.us/radio/8030/stream",
+    "id": "bd93",
+    "name": "Beatz of Bangla",
+    "streamUrl": "https://stream.zeno.fm/cxhu0x91768uv",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id38",
-    "name": "Menara 102.8 FM Bali",
-    "streamUrl": "https://c1.siar.us:10280/menarafmbali",
+    "id": "bd94",
+    "name": "BUET Radio",
+    "streamUrl": "https://stream.zeno.fm/tq42hpva8a0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id39",
-    "name": "Radio Srinadi 99.7 FM Bali",
-    "streamUrl": "http://srinadifm.onlivestreaming.net:9970/srinadifm",
+    "id": "bd95",
+    "name": "BU Radio",
+    "streamUrl": "https://stream.zeno.fm/x3wb4hevj5atv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id40",
-    "name": "Pas FM 92.4 Jakarta",
-    "streamUrl": "https://i.klikhost.com/8266/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82891/logo_lrdAvZaPko.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id41",
-    "name": "Pas FM 104.3 Surabaya",
-    "streamUrl": "https://passfm-radio.wow.net.id/stream",
+    "id": "bd96",
+    "name": "Radio Kontho",
+    "streamUrl": "https://stream.zeno.fm/0zzpcgup6s8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id42",
-    "name": "Sindo Trijaya 104.6 FM Jakarta",
-    "streamUrl": "http://202.147.199.101:8000/stream.nsv",
+    "id": "bd97",
+    "name": "Radio Bangla 24",
+    "streamUrl": "https://stream.zeno.fm/5t6rgfxu6obuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd98",
+    "name": "Radio Anannya Pop",
+    "streamUrl": "https://stream.zeno.fm/3ypdtqzd9rhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd99",
+    "name": "Shohoj Manush Radio",
+    "streamUrl": "https://stream.zeno.fm/gkactv6rtg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd100",
+    "name": "Radio Priyo",
+    "streamUrl": "https://stream.zeno.fm/7fvzsb8muotuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd101",
+    "name": "Radio Shodesh",
+    "streamUrl": "https://stream.zeno.fm/e99xgax8uuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd102",
+    "name": "Bangla Waz",
+    "streamUrl": "https://stream.zeno.fm/shyc28p6g0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd103",
+    "name": "Radio Renesa",
+    "streamUrl": "https://stream.zeno.fm/sfz79turkkhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd104",
+    "name": "Radio Sarabela",
+    "streamUrl": "https://stream.zeno.fm/vf8fbt6mr18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd105",
+    "name": "Jagonews24",
+    "streamUrl": "https://stream.zeno.fm/p6u5p8sshxhvv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id43",
-    "name": "V Radio Jakarta 106.6 FM",
-    "streamUrl": "http://202.147.199.100:8000/stream.mp3",
+    "id": "bd106",
+    "name": "Radio Upakul",
+    "streamUrl": "https://stream.zeno.fm/h42nn2u4h0hvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id44",
-    "name": "Global FM Jakarta",
-    "streamUrl": "http://202.147.199.98/stream.mp3",
+    "id": "bd107",
+    "name": "InfoBangla FM",
+    "streamUrl": "https://stream.zeno.fm/vwt29nj4wtjtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd108",
+    "name": "Radio Southern",
+    "streamUrl": "https://stream.zeno.fm/us72sarn738uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id45",
-    "name": "Mettaswara Indonesia",
-    "streamUrl": "https://mettaswara.com:8700/indo",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id46",
-    "name": "Mettaswara 90's",
-    "streamUrl": "https://mettaswara.com:8700/metta90",
-    "imageUrl": "__________________________",
-    "genre": "genre_90s",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id47",
-    "name": "Mettaswara Hits",
-    "streamUrl": "https://mettaswara.com:8700/hits",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82888/logo_zgGotmRz4v.png",
-    "genre": "genre_hits",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id48",
-    "name": "Mettaswara Relax",
-    "streamUrl": "https://mettaswara.com:8700/metta",
+    "id": "bd109",
+    "name": "Chill FM",
+    "streamUrl": "https://stream.zeno.fm/0f9npkyqf48uv",
     "imageUrl": "__________________________",
     "genre": "genre_relax",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   },
   {
-    "id": "id49",
-    "name": "Mettaswara Disco",
-    "streamUrl": "https://mettaswara.com:8700/disco",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83461/logo_QEMOpU289u.png",
-    "genre": "genre_dance",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id50",
-    "name": "Mettaswara SoftRock",
-    "streamUrl": "https://mettaswara.com:8700/slowrock",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83468/logo_iss76eAZuJ.png",
-    "genre": "genre_rock",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id51",
-    "name": "Mettaswara Koplo",
-    "streamUrl": "https://mettaswara.com:8700/koplo",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83471/logo_slYrOHO0Z2.png",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id52",
-    "name": "Mettaswara Smooth",
-    "streamUrl": "https://mettaswara.com:8700/smooth",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83480/logo_qxYAjNCLam.png",
-    "genre": "genre_jazz",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id53",
-    "name": "Mettaswara Java",
-    "streamUrl": "https://mettaswara.com:8700/java",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id54",
-    "name": "Mettaswara 2000's",
-    "streamUrl": "https://mettaswara.com:8700/theonest",
+    "id": "bd110",
+    "name": "Palki FM",
+    "streamUrl": "https://stream.zeno.fm/uyg6loabmokvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id55",
-    "name": "Mettaswara ThrowBack",
-    "streamUrl": "https://mettaswara.com:8700/mettatrow",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id56",
-    "name": "Mettaswara Dangdut",
-    "streamUrl": "https://mettaswara.com:8700/d4d",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id57",
-    "name": "Mettaswara Campursari",
-    "streamUrl": "https://mettaswara.com:8700/cps",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83461/logo_QEMOpU289u.png",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id58",
-    "name": "Suara Soneta",
-    "streamUrl": "https://a2.siar.us/listen/suarasoneta/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id59",
-    "name": "Campursari FM",
-    "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id60",
-    "name": "Dansbandskanalen",
-    "streamUrl": "https://a8.siar.us/listen/campursari/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id61",
-    "name": "Star Radio 107.3 FM Tangerang",
-    "streamUrl": "http://listen.staradio1073fm.net:8070/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id62",
-    "name": "94.8 DJFM Surabaya",
-    "streamUrl": "http://c5.siar.us:8000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id63",
-    "name": "Vinyl FM 107",
-    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id64",
-    "name": "95.4 KPFM Balikpapan",
-    "streamUrl": "http://i.klikhost.com:8312/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id65",
-    "name": "96.8 KPFM Samarinda",
-    "streamUrl": "https://s5.alhasmedia.com:8360/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id66",
-    "name": "Geronimo FM Yogyakarta",
-    "streamUrl": "http://84.247.146.65:8090/live",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83403/logo_RDVvXk47dP.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id67",
-    "name": "Unisi Radio 104.5 FM",
-    "streamUrl": "https://stream.radiounisia.com/stream/1/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83363/logo_qCEk9cmWxr.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id68",
-    "name": "Sushi FM 99.1",
-    "streamUrl": "https://stream2.jejestreaming.com:9200/stream",
-    "imageUrl": "https://radio.streamitter.com/images/logos/77XMV8.png",
-    "genre": "genre_electronic",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id69",
-    "name": "Electro Lounge",
-    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id70",
-    "name": "KLCBS Bandung",
-    "streamUrl": "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id71",
-    "name": "Simfoni FM",
-    "streamUrl": "https://i.klikhost.com/9160/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id72",
-    "name": "Radio Pelita Kasih",
-    "streamUrl": "https://streaming.classynetradio.com:8040/rpkfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id73",
-    "name": "Radio Rhema",
-    "streamUrl": "https://live.rhemaradio.com/&amptype=mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82739/logo_TWtmx1OWHS.png",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id74",
-    "name": "Radio Maria Indonesia",
-    "streamUrl": "http://dreamsiteradiocp.com:8062/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id75",
-    "name": "Suara Muslim Surabaya",
-    "streamUrl": "http://pu.klikhost.com:8052/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id76",
-    "name": "Fajri FM",
-    "streamUrl": "https://ars.mitradio.com:8000/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id77",
-    "name": "Dakta Radio 107.0 FM Bekasi",
-    "streamUrl": "http://175.103.48.4:9302/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id78",
-    "name": "MQFM Bandung",
-    "streamUrl": "http://streaming.mqfmnetwork.com:1027/listen.pls?sid=2",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id79",
-    "name": "Serambi FM Aceh",
-    "streamUrl": "http://live.serambifm.com:8902/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id80",
-    "name": "KBR Kantor Berita Radio",
-    "streamUrl": "https://i.klikhost.com/8056/kbr",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id81",
-    "name": "Megaswara Bogor",
-    "streamUrl": "https://server.adyadigitalteknologi.com:8010/1",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82930/logo_za9rhE9Xh1.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id82",
-    "name": "Megaswara Sukabumi",
-    "streamUrl": "https://server.adyadigitalteknologi.com:8010/3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83132/logo_f27pltTlyC.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id83",
-    "name": "Elfara FM Malang",
-    "streamUrl": "https://c4.siar.us:8123/live",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82849/logo_4BOLCktIKC.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id84",
-    "name": "Hits Unikom Radio 103.9 FM",
-    "streamUrl": "https://streaming.hitsunikomradio.com/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83072/logo_Uy0Rz6BkSY.png",
-    "genre": "genre_hits",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id85",
-    "name": "Gema Surya FM",
-    "streamUrl": "https://r5.siar.us:9420/mp3.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82788/logo_pN6jQa0IdU.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id86",
-    "name": "Radio Imelda FM",
-    "streamUrl": "https://server.radioimeldafm.co.id:8030/imeldafm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id87",
-    "name": "MG Radio Network",
-    "streamUrl": "https://edge.medcom.id/live-edge/smil:mgradio.smil/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id88",
-    "name": "Music City 107.5 FM Jakarta",
-    "streamUrl": "http://sci.streamingmurah.com:8003/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id89",
-    "name": "Andika FM Kediri",
-    "streamUrl": "https://r5.siar.us:1057/andikafm",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83587/logo_2zI7f3s1OT.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id90",
-    "name": "Pop FM Jakarta",
-    "streamUrl": "https://i.klikhost.com/8272/stream",
-    "imageUrl": "https://radiostationslive.com/uploads/2024/01/133138.v2.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id91",
-    "name": "Batam FM",
-    "streamUrl": "https://i.klikhost.com:8174/batamfm",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82745/logo_kDR8vMp18T.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id92",
-    "name": "Global FM Lombok",
-    "streamUrl": "https://i.klikhost.com/8098/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82779/logo_r1trhTz3Rp.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id93",
-    "name": "Metrum Radio Bandung",
-    "streamUrl": "https://ssg.streamingmurah.com:8400/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83090/logo_U5tO7aBjmC.png",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id94",
-    "name": "SUN FM 103.5 Banjarmasin",
-    "streamUrl": "https://a1.siar.us/radio/8440/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83152/logo_JDilQTNeH8.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id95",
-    "name": "Radio Gentara",
-    "streamUrl": "https://sukmben.radiogentara.com:8081/gentara64",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id96",
-    "name": "Suzana 91.3 FM Surabaya",
-    "streamUrl": "http://streaming.suzanafm.com:8000/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id97",
-    "name": "EBS 105.9 FM Surabaya",
-    "streamUrl": "http://streaming.suzanafm.com:8100/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id98",
-    "name": "102.7 MTB FM Surabaya",
-    "streamUrl": "https://103.123.98.58/listen/1027_mtb_fm_surabaya/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83002/logo_NwCYNUkWsv.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id99",
-    "name": "Sriwijaya 94.3 FM Palembang",
-    "streamUrl": "http://sriwijaya.onlivestreaming.net:9430/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id100",
-    "name": "El John FM Palembang",
-    "streamUrl": "http://103.28.149.117:8032/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id101",
-    "name": "Radio Bahana FM",
-    "streamUrl": "https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id102",
-    "name": "Prosalina FM Jember",
-    "streamUrl": "https://i.klikhost.com/8618/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id103",
-    "name": "MGT FM 101.1 Bandung",
-    "streamUrl": "https://s1.gntr.net/listen/mgtradio/mgtradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id104",
-    "name": "MS Tri FM 104.2 Jakarta",
-    "streamUrl": "https://c2.siar.us/listen/mstrifm/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id105",
-    "name": "Radio Istara FM",
-    "streamUrl": "https://live.radioistara.com/listen/radioistara/radioistara",
-    "imageUrl": "https://radiostationslive.com/uploads/2024/01/19004.v5.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id106",
-    "name": "KISI FM Bogor",
-    "streamUrl": "https://live.kisifm.com/kisifm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id107",
-    "name": "Tebet Radio Jakarta",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8066/stream",
-    "imageUrl": "https://radiostationslive.com/uploads/2024/01/132364.v1.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id108",
-    "name": "RJM FM 91.5",
-    "streamUrl": "https://live.rjmfm.com:8078/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83234/logo_VSjdWTjWRV.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id109",
-    "name": "DNA FM Jepara",
-    "streamUrl": "https://sc.dnafm.net/listen/dnafm/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id110",
-    "name": "Orban FM Palembang",
-    "streamUrl": "https://a12.siar.us/listen/orbanfm/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83528/logo_zS615pzzXK.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id111",
-    "name": "Radio Aditya Pekanbaru",
-    "streamUrl": "https://ssg.streamingmurah.com:8098/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83597/logo_fNWyXy3P0e.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id112",
-    "name": "Urban 106.3 FM",
-    "streamUrl": "https://a1.siar.us/listen/urbanradio/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83541/logo_9vKTchHWST.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id113",
-    "name": "Rasika FM Semarang",
-    "streamUrl": "https://a6.siar.us:8000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id114",
-    "name": "Swara Semarang",
-    "streamUrl": "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id115",
-    "name": "Radio Dirgantara Bali",
-    "streamUrl": "https://a13.siar.us/listen/dirgantarabali/stream",
-    "imageUrl": "https://radiostationslive.com/uploads/2024/01/133138.v2.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id116",
-    "name": "Suara Mahakam 101.1 FM Samarinda",
-    "streamUrl": "https://i.klikhost.com/8010/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id117",
-    "name": "Beat Radio Indonesia",
-    "streamUrl": "https://stream.beatradioid.com:8000/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83374/logo_HJQ8eKvQiX.png",
-    "genre": "genre_dance",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id118",
-    "name": "Zona Music Indonesia",
-    "streamUrl": "https://a.alhastream.com/listen/station_54/radio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83310/logo_TpKKXqBgfp.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id119",
-    "name": "Dengerin Musik Indonesia",
-    "streamUrl": "https://stream.denger.in/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83557/logo_eFG6LbY6F0.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id120",
-    "name": "Amber HD1",
-    "streamUrl": "http://209.97.165.140:8000/amber1",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83430/logo_6Dr8wWQvkR.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id121",
-    "name": "Amber HD2",
-    "streamUrl": "http://209.97.165.140:8000/amber2",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83427/logo_QZo2z54osb.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id122",
-    "name": "RTI Radio Streaming",
-    "streamUrl": "https://sv.rti.my.id:8000/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83153/logo_62HcGvfiU1.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id123",
-    "name": "Radio Unisia Yogyakarta",
-    "streamUrl": "https://stream.radiounisia.com/stream/1/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83363/logo_qCEk9cmWxr.png",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id124",
-    "name": "Insania FM Gorontalo",
-    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniagorontalo/979gorontalo",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82905/logo_Yp3bSEhGSC.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id125",
-    "name": "Insania FM Makassar",
-    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82903/logo_MuH4ACge44.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id126",
-    "name": "Insania FM Ternate",
-    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniaternate/876ternate",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82897/logo_QAtpwHS1Py.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id127",
-    "name": "Insania FM Sorong",
-    "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniasorong/887sorong",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82924/logo_izWwbRY55d.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id128",
-    "name": "Warnalfm Padang",
-    "streamUrl": "https://a5.siar.us/listen/warna91.6fmpadang/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id129",
-    "name": "Amatron 3 FM",
-    "streamUrl": "http://51.79.167.17:7026/Amatron.aac/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id130",
-    "name": "Radio Sama FM",
-    "streamUrl": "https://sx.alhasmedia.com/radio/8360/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id131",
-    "name": "SCFM Makassar",
-    "streamUrl": "https://void.idserverhost.com/8062/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82796/logo_k2C369SftS.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id132",
-    "name": "Telstar FM Makassar",
-    "streamUrl": "https://stream-eu-nc.arenastreaming.com:5101/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83549/logo_ssynWkJLs2.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id133",
-    "name": "Radio Elshinta Lampung",
-    "streamUrl": "https://stream-ssl.arenastreaming.com:8070/lampung",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83162/logo_J3OfA3GThS.png",
-    "genre": "genre_news",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id134",
-    "name": "GCD Yogyakarta 98.6 FM",
-    "streamUrl": "https://studio1.indostreamers.com:8014/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id135",
-    "name": "Radio Kota Batik Pekalongan",
-    "streamUrl": "https://studio1.indostreamers.com:8010/stream/1/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83543/logo_w0DRYfkI3C.png",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id136",
-    "name": "Pandawa Radio",
-    "streamUrl": "https://void.idserverhost.com/8042/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82765/logo_xumOGd3DJh.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id137",
-    "name": "IMTV Jakarta",
-    "streamUrl": "https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83527/logo_36gU8RZeqp.png",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id138",
-    "name": "Radio Samhan Jakarta",
-    "streamUrl": "https://a8.siar.us/listen/samhanjakarta/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83613/logo_Pkkb3YPnkh.png",
-    "genre": "genre_religious",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id139",
-    "name": "Mosh Head Black Metal ID",
-    "streamUrl": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id140",
-    "name": "Radio Star",
-    "streamUrl": "https://live.amanditmedia.id/listen/starfm/radio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83575/logo_Q0HILl7di8.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id141",
-    "name": "Publica FM",
-    "streamUrl": "https://113fm-atunwadigital.streamguys1.com/1025",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83367/logo_OOGbPTHLyB.png",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id142",
-    "name": "Sonata AM Radio",
-    "streamUrl": "http://45.64.97.82:8074/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83169/logo_508KmJWgrh.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id143",
-    "name": "K Radio Jember",
-    "streamUrl": "https://stream-eu-nc.arenastreaming.com:6186/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83388/logo_mlP3l77dhJ.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id144",
-    "name": "RGR FM",
-    "streamUrl": "http://asv.alhastream.com:3700/rgr",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83568/logo_9PefpQgCCG.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id145",
-    "name": "OKTAP Radio",
-    "streamUrl": "https://s7.crownmediacenter.my.id/listen/oktap_radio/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83412/logo_LZVfvZMn3l.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id146",
-    "name": "Comfyradio",
-    "streamUrl": "https://station.comfyradio.id/listen/comfyradio/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83534/logo_22WmPum6WN.png",
-    "genre": "genre_relax",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id147",
-    "name": "Elgangga FM",
-    "streamUrl": "https://b.alhastream.com:5140/radio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82920/logo_EBVIZh6leZ.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id148",
-    "name": "Radio Famili Minang",
-    "streamUrl": "https://a7.alhastream.com:4180/radio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83026/logo_TQ1hPKdl6h.png",
-    "genre": "genre_folk",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id149",
-    "name": "Radio Wisata FM",
-    "streamUrl": "https://c2.siar.us:9889/live",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82868/logo_6rzQP9Az0t.png",
-    "genre": "genre_info",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id150",
-    "name": "Wawa Radio 101.2 FM",
-    "streamUrl": "https://securestream.casthost.net:8219/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
+    "country": "country_bangladesh"
   }
 ]
