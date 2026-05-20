@@ -27575,5 +27575,749 @@ https://uksoutha.streaming.broadcast.radio:28420/Geronimo?=&___cb=61127534253588
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
     "genre": "genre_pop",
     "country": "country_indonesia"
+  },
+  {
+    "id": "bd01",
+    "name": "Radio Foorti 88.0 FM",
+    "streamUrl": "http://stream.zenolive.com/f0bfdk2w34zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/naxCsVC6UBTbZAn3D95AlXkm0-EAqf6JfdjVtB5puJc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0FnUDdLdmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FsY0NpbHdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg1NTU0ODAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd02",
+    "name": "Radio Today FM 89.6",
+    "streamUrl": "https://stream.zeno.fm/0zha3rfq02quv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80324/logo_8syv4fxQcf.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd03",
+    "name": "Jago FM 94.4",
+    "streamUrl": "https://proxy.liveonbd.com/?s=http://139.59.86.99:12496/stream&station=Jago%20FM",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2015/01/Jago-FM-1.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd04",
+    "name": "Peoples Radio 91.6 FM",
+    "streamUrl": "http://s3.myradiostream.com:14498/listen.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80322/logo_cEKgZ9sKXH.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd05",
+    "name": "BBC Bangla",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2011/06/bbc-bangla.jpg",
+    "genre": "genre_news",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd06",
+    "name": "Dhaka FM 90.4",
+    "streamUrl": "http://stream.zenolive.com/ay4pqkk604zuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2012/10/dhaka-fm.jpeg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd08",
+    "name": "Bangladesh Betar Dhaka",
+    "streamUrl": "https://stream-283.zeno.fm/8sn7cac604zuv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80326/logo_kxUuGO3nfk.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd24",
+    "name": "Radio Shadhin 92.4 FM",
+    "streamUrl": "https://stream.zeno.fm/eabgu655puquv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80321/logo_xrqQPGmWPt.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd26",
+    "name": "Radio Padma 99.2 FM",
+    "streamUrl": "https://radiopadmabd.radioca.st/radiopadma",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80328/logo_o9aKMfo4Pt.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd28",
+    "name": "Radio Foorti Chattogram",
+    "streamUrl": "https://stream.zeno.fm/cs298e2w34zuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2011/10/radio-foorti-flash-1.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd29",
+    "name": "Uttorbango Betar",
+    "streamUrl": "https://stream.zeno.fm/spqbxkqxdf9uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80333/logo_pp6CQJKoG4.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd31",
+    "name": "FnF FM Bangla",
+    "streamUrl": "http://eu6.fastcast4u.com:5099/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/29375.v9.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd32",
+    "name": "iWiFM",
+    "streamUrl": "http://94.23.23.97:29270/;",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80331/logo_UKU7OmGRX0.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd33",
+    "name": "Radio GoonGoon",
+    "streamUrl": "https://audio.streamcast.xyz/radio/8000/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80327/logo_vIkactj8nW.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd34",
+    "name": "Radio Bushra",
+    "streamUrl": "https://stream.zeno.fm/mzuka1fdxzzuv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80335/logo_wSfezsdCp5.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd35",
+    "name": "Roots Air BD",
+    "streamUrl": "http://live64.zeilsteen.com:7054/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80332/logo_tjsVVrWxbZ.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd36",
+    "name": "Radio Purbakantho",
+    "streamUrl": "https://stream.zeno.fm/r8sntxcw81zuv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80334/logo_xfpp7EzyfQ.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd37",
+    "name": "Radio Vivid Voice",
+    "streamUrl": "https://stream.zeno.fm/xuin6ocdc2juv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80343/logo_xb5fbZdcJ8.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd39",
+    "name": "Radio Theater Bangla",
+    "streamUrl": "https://stream.zeno.fm/hrawdb5yx8ovv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80344/logo_lefvCP14OI.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd40",
+    "name": "Teesta Flow Radio",
+    "streamUrl": "https://stream-178.zeno.fm/upaj1sodvdkvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80349/logo_zqCoUDaVOb.png",
+    "genre": "genre_relax",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd41",
+    "name": "Hemel Music Radio",
+    "streamUrl": "https://stream.zeno.fm/s4f64yu82c9uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80337/logo_mMzNpTEmIr.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd42",
+    "name": "Radio Bhumi 92.8 FM",
+    "streamUrl": "https://stream.zeno.fm/ybf1umk1k18uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80330/logo_5mnbuatIKe.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd43",
+    "name": "Radio Ullash",
+    "streamUrl": "https://stream.zeno.fm/gpgkgp9mp18uv.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80336/logo_9kyAfdtvQL.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd44",
+    "name": "Radio Dawah Bangla",
+    "streamUrl": "https://stream.zeno.fm/rzkykmse9zcuv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80345/logo_8OH7j6Xk1b.png",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd45",
+    "name": "Radio JKKNIU",
+    "streamUrl": "https://stream.zeno.fm/risgdzpf1cxtv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80346/logo_o0xeCU8svP.png",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd48",
+    "name": "Radio Jamuna FM",
+    "streamUrl": "https://stream.zeno.fm/pcmmlmkpvmmvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80347/logo_PAn2Ylyp0Z.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd49",
+    "name": "Radio Sondhi",
+    "streamUrl": "https://stream.zeno.fm/4k1vwiexedzvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80339/logo_jwR98ykREP.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd51",
+    "name": "AL-QURAN BANGLA",
+    "streamUrl": "http://66.45.232.131:9994/stream/1/",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2011/08/bangla-al-quran-1.jpg",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd53",
+    "name": "Gaan Baksho - Bangla HD Radio",
+    "streamUrl": "https://cast1.asurahosting.com/proxy/gaanbaks/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/29212.v19.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd55",
+    "name": "A2Z Radio",
+    "streamUrl": "https://listen.radioking.com/radio/1743/stream/125",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2018/07/a2z-radio.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd57",
+    "name": "Rajshahi FM",
+    "streamUrl": "https://stream.zeno.fm/nxfshdayjrdvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80348/logo_5IcsiJ0NJa.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd58",
+    "name": "Radio Bhumi Dhaka",
+    "streamUrl": "https://stream.zeno.fm/s6x1u9yw34zuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd60",
+    "name": "Radio Mukti 99.2 FM",
+    "streamUrl": "https://stream.zeno.fm/89vwaa67oqbuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2018/12/radio-mukti-fm-99.2.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd73",
+    "name": "Radio Janata",
+    "streamUrl": "https://stream.zeno.fm/xse83ybpg5zuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Radio-Janata.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd74",
+    "name": "Peoples Radio",
+    "streamUrl": "https://s3.myradiostream.com:14498/;",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2012/02/peoples-radio-1.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd76",
+    "name": "Lokobetar FM 99.2",
+    "streamUrl": "https://stream.zeno.fm/q4kfslhiwaktv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2019/08/lokobetar-fm-99.2.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd77",
+    "name": "Farm Radio",
+    "streamUrl": "https://stream.zeno.fm/tage75htbwzuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2020/04/farm-radio.jpg",
+    "genre": "genre_info",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd78",
+    "name": "Radio Anannya",
+    "streamUrl": "https://stream-179.zeno.fm/3ypdtqzd9rhvv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Radio-Anannya.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd79",
+    "name": "Radio Payra",
+    "streamUrl": "https://stream-175.zeno.fm/benwxhpuhueuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Radio-Payra.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd81",
+    "name": "Radio Hearts",
+    "streamUrl": "https://stream-179.zeno.fm/23t4kdr2qa0uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Radio-Hearts.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd83",
+    "name": "Radio Barakah",
+    "streamUrl": "https://stream-176.zeno.fm/gz73d47hq18uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Radio-Barakah.jpg",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd84",
+    "name": "Quran Radio With Bangla Translation",
+    "streamUrl": "https://stream.zeno.fm/1z49becwn18uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Quran-Radio-With-Bangla-Translation.jpg",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd86",
+    "name": "Peace Radio",
+    "streamUrl": "https://stream-177.zeno.fm/whnht0bb3c9uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Peace-Radio.jpg",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd87",
+    "name": "Ruqyah Radio BD",
+    "streamUrl": "https://stream.zeno.fm/pz72fq579f0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/IHh2yh7gQBTBebX3tBAsJYYPJZml26eCuKmY0t2iqYU/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFwc3lReUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFF4cV8yb1FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4MDgxMzYyNzAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd91",
+    "name": "Nazrul Giti",
+    "streamUrl": "https://stream-178.zeno.fm/7kwayxtph48uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Nazrul-Giti.jpg",
+    "genre": "genre_folk",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd94",
+    "name": "BUET Radio",
+    "streamUrl": "https://stream.zeno.fm/tq42hpva8a0uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Buet-Radio-1.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd95",
+    "name": "BU Radio",
+    "streamUrl": "https://stream.zeno.fm/x3wb4hevj5atv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/BU-Radio.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd100",
+    "name": "Radio Priyo",
+    "streamUrl": "https://stream.zeno.fm/7fvzsb8muotuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2018/06/Priyo-Radio.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd101",
+    "name": "Radio Shodesh",
+    "streamUrl": "https://stream-178.zeno.fm/e99xgax8uuhvv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Radio-Shodesh.jpg",
+    "genre": "genre_pop",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "bd107",
+    "name": "InfoBangla FM",
+    "streamUrl": "https://stream-179.zeno.fm/vwt29nj4wtjtv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/08/InfoBangla-FM.jpg",
+    "genre": "genre_news",
+    "country": "country_bangladesh"
+  },
+  {
+    "id": "et01",
+    "name": "Sheger FM 102.1",
+    "streamUrl": "https://stream.zenolive.com/cwkxynwagt5tv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/aXv2-I9KwzvkUfR8IXosWgv_fyZk2Yaojyef5XJB7J4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0FnSmk2a0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnTGlRaHdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyNzc4Njg3NjAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et02",
+    "name": "Bisrat FM 101.1",
+    "streamUrl": "https://bisratfm-atunwadigital.streamguys1.com/bisratfm",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2020/03/bisrat-fm-101.1.jpg",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et03",
+    "name": "Ahadu Radio FM 94.3",
+    "streamUrl": "https://stream.zeno.fm/txxpndf1wwzuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2019/05/ahadu-radio-fm-94.3.jpg",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et04",
+    "name": "Ethio FM 107.8",
+    "streamUrl": "https://stream.zeno.fm/72y045deqeruv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/08/Ethio-FM.jpg",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et05",
+    "name": "EBC FM Addis 104.7",
+    "streamUrl": "https://stream.zeno.fm/2xguamap7yzuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/XgfNNyBGOE4Eg13MWy_q-NfMRVZykMaNXY_-2VQ2oR0/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E0TEx3emdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F3cHF1eWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU5NzQ1MjAwMA.webp",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et06",
+    "name": "EBC FM Addis 97.1",
+    "streamUrl": "https://stream.zeno.fm/rb6wbrap7yzuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/09/ebc-fm-addis-97.1.jpg",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et07",
+    "name": "EBC National Radio",
+    "streamUrl": "https://stream.zeno.fm/ad402tap7yzuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/04/ebc-national-radio.jpg",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et10",
+    "name": "Awash FM 90.7",
+    "streamUrl": "https://stream.zeno.fm/655zm6w4vc9uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/09/awash-90.7-fm.jpg",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et11",
+    "name": "Arada FM 95.1",
+    "streamUrl": "https://stream.zeno.fm/prvemoptrjttv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2023/08/Arada-FM-95.1.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et12",
+    "name": "Tirita FM 97.6",
+    "streamUrl": "https://stream.zeno.fm/x751reg18zhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/HtWDuvCyA4o-K9PNBNv_H5gZ2VsIHENw7ciLdQ-Oegg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREk2YzJycmdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREkyYUt3dGdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcwMTg2Nzg3MjAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et15",
+    "name": "Amhara FM 96.9 Bahir Dar",
+    "streamUrl": "https://stream.zeno.fm/cxf4zy74em0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/JBQ24fmjdeHTB8DLnfjadcCTkZ00EWTyXCApGhgHsW4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHc0Y2k3alFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHdrWkNqaHdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTQyMDcxNTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et16",
+    "name": "Amhara Radio",
+    "streamUrl": "https://stream.zeno.fm/uyca0sqa2d0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/B5BT42cyBy0PasqsUdZIlU8hbGdTwW2Y-k9PUJ1JdKs/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c2TXVQaHdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dtSzdUeEFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY1ODcwMDg5NDAwMA.webp",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et17",
+    "name": "Taem Radio ጣዕም ሬድዮ",
+    "streamUrl": "https://stream.zeno.fm/ffg8htkh1k0uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79906/logo_wPicoftkFI.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et21",
+    "name": "Jano FM",
+    "streamUrl": "https://stream.zeno.fm/1cyn1as4v68uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/09/jano-fm.jpg",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et22",
+    "name": "J FM 106.7",
+    "streamUrl": "https://stream.zeno.fm/w8knfk1w7bhvv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2022/02/J-FM-106.7.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et28",
+    "name": "Radio 251 Ethiopia",
+    "streamUrl": "https://stream-178.zeno.fm/lbiglqs5tdrvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/DMIHs5yHa4sVRHm8touIU_WTk4HrfAET9-LEq7JxP6M/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjA5MDhiYTEtZmE5OC00ZTk1LWEzZGQtMDAzODcyOGEzMzlkL2ltYWdlLz91PTE2NzUyNDQ5ODYwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et29",
+    "name": "Agelgl Radio",
+    "streamUrl": "https://stream.zeno.fm/bcvugxneddmtv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79910/logo_muhMSiTdo8.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et30",
+    "name": "Hero Radio Ethiopia",
+    "streamUrl": "https://a2.asurahosting.com:6790/Ethiopia.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79913/logo_y4aw2M3U61.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et31",
+    "name": "Antenna Web Addis Abeba Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebEtiopia",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79908/logo_bgGBUEyRAs.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et32",
+    "name": "Antenna Web Macallè Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebMacalle",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79912/logo_HqaPMf3AJY.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et33",
+    "name": "Antenna Web Adama Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebAdama",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79911/logo_C8ySJdSwdf.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et34",
+    "name": "Antenna Web Gondar Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebGondar",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79909/logo_2P0WXi2lEj.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et36",
+    "name": "Ethio FM",
+    "streamUrl": "https://stream-282.zeno.fm/b8skbyqeqeruv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/72102.v13.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et37",
+    "name": "Mirt Internet Radio",
+    "streamUrl": "https://stream.zeno.fm/akmuznguawzuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2020/06/mirt-internet-radio.jpg",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et39",
+    "name": "EthiopikaLink",
+    "streamUrl": "https://stream.zeno.fm/67x9n638rfeuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2020/06/ethiopikalink.jpg",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et43",
+    "name": "VOA News Ethiopia",
+    "streamUrl": "https://stream.zeno.fm/hfw7uzpex98uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2014/11/VOA-News.jpg",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et46",
+    "name": "OMN Radio",
+    "streamUrl": "https://stream-176.zeno.fm/0i2tzykrry9uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Ail-074_ZwsIDPqOB37lrAZqpuWoSc9v4hDBmMIW6oQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDgxNDYzYzQtZDM5MS00NzI4LThlNjUtOGVjYWQ2MGU2NjgyL2ltYWdlLz91PTE3NTExODc2NzgwMDA.webp",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et47",
+    "name": "Mereja",
+    "streamUrl": "https://stream.zeno.fm/bqtruhn4q98uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et48",
+    "name": "Voice of Ethiopia",
+    "streamUrl": "https://stream.zeno.fm/hubm64kkr2zuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/09/voice-of-ethiopia.jpg",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et56",
+    "name": "Hilawie FM",
+    "streamUrl": "https://stream.zeno.fm/0dg06w3sy7zuv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/09/hilawie.jpg",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et58",
+    "name": "Tizta ትዝታ FM",
+    "streamUrl": "https://stream.zeno.fm/55nlq5yzqlftv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/vdzgoZRIWKMO42tsQOA9QG3TNsPpHXODknb0cYpN8rY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNzc2NjE4OWQtYWNiYi00MjFhLWFlMzEtMjA1NjRjNTJkYzc2L2ltYWdlLz91PTE3Njc3ODc0NjYwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et59",
+    "name": "Ethio Oldies",
+    "streamUrl": "https://www.ethioldies.com/listen/ethioldies/radio.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/AIeTq79-t4p89zBA9TJjhI8WjUqm6hE6dRCCvvN5QeY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTc0ZDE1ZWEtMzNhOC00MTkwLTg0MzYtMWI5YTE4NGY4MmUzL2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
+    "genre": "genre_retro",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et63",
+    "name": "Addis Music",
+    "streamUrl": "https://stream.zeno.fm/umguj2baxdctv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/0isYAGzRLqjg3uh8gahv8d8n-frPPSxr7xnuOgX90GQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMzkxZmZiNDEtYWIxZS00NDIzLWI5MzYtNzIwZjY4ZDI3OTM3L2ltYWdlLz91PTE2NjQ5Nzg4OTUwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et66",
+    "name": "Jazz Ethiopia World",
+    "streamUrl": "http://mediaserv38.live-streams.nl:8006/live",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2013/11/jazz-fm-uk.jpeg",
+    "genre": "genre_jazz",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et70",
+    "name": "YeneVibe Radio",
+    "streamUrl": "https://stream.zeno.fm/5mz3qqftsnhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/pH792T1hKYLQNcoj6CioSOLHE_v8NkWsAHWVyC33mrg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0ktZGZ0OEFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0loWWFfblFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc2NzcwODg2OTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et74",
+    "name": "BBN Our Voice",
+    "streamUrl": "https://stream-178.zeno.fm/26m7bd6z06duv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/09/bbn-our-voice.jpg",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et76",
+    "name": "Hena Talk",
+    "streamUrl": "https://stream-179.zeno.fm/g51r6n3z8p8uv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/09/hena-talk.jpg",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et88",
+    "name": "Yegna FM",
+    "streamUrl": "https://stream-291.zeno.fm/opjffqrtopytv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/BZD3HVERDx8h6GbU8QvMM932DU-37cusYlnbjY01HYE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMzM0OGRkYzMtOWY4ZS00M2U4LTgwN2YtOThmOGZjMWFkNzFmL2ltYWdlLz91PTE2NjQ4NTA3NjAwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et96",
+    "name": "Halaal Radio",
+    "streamUrl": "https://stream.zeno.fm/lxud6vpiylutv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2024/05/Halaal-Radio.jpg",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et98",
+    "name": "Orthodox Radio",
+    "streamUrl": "https://stream.zeno.fm/pfaho9uockwuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/l-lAFXrZZMnKweNyLqPuYepoaF60MtfvqWFtrcZzGCA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZmVhODZlZDctMzY1ZS00YTc0LThhNjItNjUzNTc3ODk4ZDVjL2ltYWdlLz91PTE2NjU4MjkyMzkwMDA.webp",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et100",
+    "name": "The Voice of the Kingdom (V.O.K)",
+    "streamUrl": "https://stream.zeno.fm/4r93t09p50duv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2020/04/the-voice-of-the-kingdom.jpg",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et101",
+    "name": "El Shaddai Radio",
+    "streamUrl": "https://stream.zeno.fm/wkqxucx3sfeuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/rKtHbqJ_BaR-XMT4FK3JqdFN1E3vua94N02LramnVl0/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E2THlrOEFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0E0TzN5bXdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTc0ODM5MTAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et104",
+    "name": "Wengel FM",
+    "streamUrl": "https://stream.zeno.fm/wsat39ewmd0uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/yjYtmeYGuRyIL0FOmZ4BlfmAlCp3feRV0lbYELn5T0E/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFuTmVxcVFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFrcGY5eGdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MzMzMTI2ODAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
   }
 ]
