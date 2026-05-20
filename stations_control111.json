@@ -1,882 +1,882 @@
 [
   {
-    "id": "bd01",
-    "name": "Radio Foorti 88.0 FM",
-    "streamUrl": "http://stream.zenolive.com/f0bfdk2w34zuv",
+    "id": "et01",
+    "name": "Sheger FM 102.1",
+    "streamUrl": "https://stream.zenolive.com/cwkxynwagt5tv",
+    "imageUrl": "https://radio.streamitter.com/images/logos/TQVZRP.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et02",
+    "name": "Bisrat FM 101.1",
+    "streamUrl": "https://ice1.securenetsystems.net/DEMOSTN?_=1404933662",
+    "imageUrl": "https://radio.streamitter.com/images/logos/ES4XDR.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et03",
+    "name": "Ahadu Radio FM 94.3",
+    "streamUrl": "https://stream.zeno.fm/txxpndf1wwzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd02",
-    "name": "Radio Today FM 89.6",
-    "streamUrl": "https://stream.zeno.fm/0zha3rfq02quv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80324/logo_8syv4fxQcf.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd03",
-    "name": "Jago FM 94.4",
-    "streamUrl": "http://128.199.184.111:12496/stream",
+    "id": "et04",
+    "name": "Ethio FM 107.8",
+    "streamUrl": "https://stream.zeno.fm/72y045deqeruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd04",
-    "name": "Peoples Radio 91.6 FM",
-    "streamUrl": "http://s3.myradiostream.com:14498/listen.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80322/logo_cEKgZ9sKXH.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "id": "et05",
+    "name": "EBC FM Addis 104.7",
+    "streamUrl": "https://stream.zeno.fm/2xguamap7yzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd05",
-    "name": "BBC Bangla",
-    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_bangla_radio",
+    "id": "et06",
+    "name": "EBC FM Addis 97.1",
+    "streamUrl": "https://stream.zeno.fm/rb6wbrap7yzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et07",
+    "name": "EBC National Radio",
+    "streamUrl": "https://stream.zeno.fm/ad402tap7yzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et08",
+    "name": "FBC Fana Broadcasting Corporate",
+    "streamUrl": "https://stream.zeno.fm/8hxry1bwkeruv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd06",
-    "name": "Dhaka FM 90.4",
-    "streamUrl": "http://stream.zenolive.com/ay4pqkk604zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd07",
-    "name": "Capital FM 94.8",
-    "streamUrl": "http://stream.zenolive.com/4nzaapqw34zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd08",
-    "name": "Bangladesh Betar Dhaka 88.8 FM",
-    "streamUrl": "http://as3.digitalsynapsebd.com:8263/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80326/logo_kxUuGO3nfk.png",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd09",
-    "name": "Bangladesh Betar Dhaka Ka 693 KHz",
-    "streamUrl": "http://as3.digitalsynapsebd.com:8582/stream.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80329/logo_Xssq45ChVL.png",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd10",
-    "name": "Bangladesh Betar Dhaka Kha 630 KHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8741/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd11",
-    "name": "Bangladesh Betar Barisal AM 1287 KHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8569/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd12",
-    "name": "Bangladesh Betar Barisal FM 105.2 MHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8620/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd13",
-    "name": "Bangladesh Betar Chattogram AM 833 KHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8920/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd14",
-    "name": "Bangladesh Betar Chattogram FM 88.8 MHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:9236/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd15",
-    "name": "Bangladesh Betar Khulna AM 558 KHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:9248/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd16",
-    "name": "Bangladesh Betar Khulna FM 88.8 MHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:9252/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd17",
-    "name": "Bangladesh Betar Rajshahi AM 1080 KHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:9240/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd18",
-    "name": "Bangladesh Betar Rajshahi FM 88.8 MHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:9244/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80348/logo_5IcsiJ0NJa.png",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd19",
-    "name": "Bangladesh Betar Rangpur AM 1053 KHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8622/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd20",
-    "name": "Bangladesh Betar Rangpur FM 88.8 MHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8624/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd21",
-    "name": "Bangladesh Betar Sylhet AM 963 KHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8096/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd22",
-    "name": "Bangladesh Betar Sylhet FM 88.8 MHz",
-    "streamUrl": "http://as2.digitalsynapsebd.com:8246/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd23",
-    "name": "Ekattor Radio 98.4",
-    "streamUrl": "http://stream.zenolive.com/arm7p58w34zuv",
+    "id": "et09",
+    "name": "Walta FM 105.3",
+    "streamUrl": "https://stream.zeno.fm/t5td4ky6hkeuv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd24",
-    "name": "Radio Shadhin 92.4 FM",
-    "streamUrl": "https://stream.zeno.fm/eabgu655puquv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80321/logo_xrqQPGmWPt.png",
+    "id": "et10",
+    "name": "Awash FM 90.7",
+    "streamUrl": "https://stream.zeno.fm/655zm6w4vc9uv",
+    "imageUrl": "https://radio.streamitter.com/images/logos/ARZDK4.png",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd25",
-    "name": "ABC FM 89.2",
-    "streamUrl": "https://stream.zeno.fm/0w3wy7y158quv",
+    "id": "et11",
+    "name": "Arada FM 95.1",
+    "streamUrl": "https://stream.zeno.fm/prvemoptrjttv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd26",
-    "name": "Radio Padma 99.2 FM",
-    "streamUrl": "https://radiopadmabd.radioca.st/radiopadma",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80328/logo_o9aKMfo4Pt.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd27",
-    "name": "Colours FM 101.6",
-    "streamUrl": "http://45.64.135.88:8000/stream1",
+    "id": "et12",
+    "name": "Tirita FM 97.6",
+    "streamUrl": "https://stream.zeno.fm/x751reg18zhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd28",
-    "name": "Radio Foorti Chattogram",
-    "streamUrl": "https://stream.zeno.fm/cs298e2w34zuv",
+    "id": "et13",
+    "name": "Menaharia 99.1 FM",
+    "streamUrl": "https://stream.zeno.fm/yw8poig9iwtuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd29",
-    "name": "Uttorbango Betar",
-    "streamUrl": "https://stream.zeno.fm/spqbxkqxdf9uv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80333/logo_pp6CQJKoG4.png",
+    "id": "et14",
+    "name": "Zami FM 90.7",
+    "streamUrl": "https://stream.zeno.fm/akagu6gb90duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et15",
+    "name": "Amhara FM 96.9 Bahir Dar",
+    "streamUrl": "https://stream.zeno.fm/cxf4zy74em0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et16",
+    "name": "Amhara Radio",
+    "streamUrl": "https://stream.zeno.fm/uyca0sqa2d0uv",
+    "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd30",
-    "name": "Radio Mahananda 98.8 FM",
-    "streamUrl": "https://streaming.radiomahananda.fm/proxy/radiomahananda/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80338/logo_m6ZBDMkYLR.png",
+    "id": "et17",
+    "name": "Taem Radio ጣዕም ሬድዮ",
+    "streamUrl": "https://stream.zeno.fm/ffg8htkh1k0uv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79906/logo_wPicoftkFI.png",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd31",
-    "name": "FnF FM Bangla",
-    "streamUrl": "http://eu6.fastcast4u.com:5099/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80323/logo_UKU7OmGRX0.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd32",
-    "name": "iWiFM",
-    "streamUrl": "http://94.23.23.97:29270/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80331/logo_UKU7OmGRX0.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd33",
-    "name": "Radio GoonGoon",
-    "streamUrl": "https://audio.streamcast.xyz/radio/8000/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80327/logo_vIkactj8nW.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd34",
-    "name": "Radio Bushra",
-    "streamUrl": "https://stream.zeno.fm/mzuka1fdxzzuv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80335/logo_wSfezsdCp5.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd35",
-    "name": "Roots Air BD",
-    "streamUrl": "http://live64.zeilsteen.com:7054/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80332/logo_tjsVVrWxbZ.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd36",
-    "name": "Radio Purbakantho",
-    "streamUrl": "https://stream.zeno.fm/r8sntxcw81zuv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80334/logo_xfpp7EzyfQ.png",
+    "id": "et18",
+    "name": "OBN Radio Oromiyaa",
+    "streamUrl": "https://stream.zeno.fm/9kha8gxkpd0uv",
+    "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd37",
-    "name": "Radio Vivid Voice",
-    "streamUrl": "https://stream.zeno.fm/xuin6ocdc2juv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80343/logo_xb5fbZdcJ8.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd38",
-    "name": "Provat FM",
-    "streamUrl": "https://stream.zeno.fm/nlv7ffoe39yvv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80342/logo_YaR6E81POD.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd39",
-    "name": "Radio Theater Bangla",
-    "streamUrl": "https://stream.zeno.fm/hrawdb5yx8ovv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80344/logo_lefvCP14OI.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd40",
-    "name": "Teesta Flow Radio",
-    "streamUrl": "https://stream.zeno.fm/upaj1sodvdkvv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80349/logo_zqCoUDaVOb.png",
-    "genre": "genre_relax",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd41",
-    "name": "Hemel Music Radio",
-    "streamUrl": "https://stream.zeno.fm/s4f64yu82c9uv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80337/logo_mMzNpTEmIr.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd42",
-    "name": "Radio Bhumi 92.8 FM",
-    "streamUrl": "https://stream.zeno.fm/ybf1umk1k18uv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80330/logo_5mnbuatIKe.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd43",
-    "name": "Radio Ullash",
-    "streamUrl": "https://stream.zeno.fm/gpgkgp9mp18uv.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80336/logo_9kyAfdtvQL.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd44",
-    "name": "Radio Dawah Bangla",
-    "streamUrl": "https://stream.zeno.fm/rzkykmse9zcuv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80345/logo_8OH7j6Xk1b.png",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd45",
-    "name": "Radio JKKNIU",
-    "streamUrl": "https://stream.zeno.fm/risgdzpf1cxtv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80346/logo_o0xeCU8svP.png",
-    "genre": "genre_info",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd46",
-    "name": "Radio Hamza",
-    "streamUrl": "https://stream.zeno.fm/lohedguhtkttv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80341/logo_hXfH4T3m9x.png",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd47",
-    "name": "Radio Capital",
-    "streamUrl": "https://server03.quran-uni.com:7038/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80325/logo_sOLnyWDwAz.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd48",
-    "name": "Radio Jamuna FM",
-    "streamUrl": "https://stream.zeno.fm/pcmmlmkpvmmvv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80347/logo_PAn2Ylyp0Z.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd49",
-    "name": "Radio Sondhi",
-    "streamUrl": "https://stream.zeno.fm/4k1vwiexedzvv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80339/logo_jwR98ykREP.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd50",
-    "name": "Tzgospel Bangladesh",
-    "streamUrl": "https://stream.zeno.fm/w7zvq9kvcfhvv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80340/logo_rzC23jJolD.png",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd51",
-    "name": "AL-QURAN BANGLA",
-    "streamUrl": "http://66.45.232.131:9994/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd52",
-    "name": "Radio Ambar",
-    "streamUrl": "http://118.179.215.45:8000/stream/1",
+    "id": "et19",
+    "name": "Finfinnee Radio",
+    "streamUrl": "https://stream.zeno.fm/gtb0xm6vbm5tv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd53",
-    "name": "Gaan Baksho - Bangla HD Radio",
-    "streamUrl": "https://cast1.asurahosting.com/proxy/gaanbaks/stream",
+    "id": "et20",
+    "name": "Jon FM Ethiopia",
+    "streamUrl": "https://stream.zeno.fm/cx33cb724hhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd54",
-    "name": "Radio Lakshyapar",
-    "streamUrl": "https://lakshyapar.getstreamhosting.com:8100/stream",
+    "id": "et21",
+    "name": "Jano FM",
+    "streamUrl": "https://stream.zeno.fm/1cyn1as4v68uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd55",
-    "name": "A2Z Radio",
-    "streamUrl": "https://listen.radioking.com/radio/1743/stream/125",
+    "id": "et22",
+    "name": "J FM 106.7",
+    "streamUrl": "https://stream.zeno.fm/w8knfk1w7bhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd56",
-    "name": "Radio Ekattor 98.4 FM",
-    "streamUrl": "https://stream.zeno.fm/arm7p58w34zuv",
+    "id": "et23",
+    "name": "Silte FM 92.6",
+    "streamUrl": "https://stream.zeno.fm/dfroy2it9yntv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et24",
+    "name": "Gondar FM 105.1",
+    "streamUrl": "https://stream.zeno.fm/3nxefw5vxhhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et25",
+    "name": "Fana FM 98.1",
+    "streamUrl": "https://stream.zeno.fm/n9daadfogpevv",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd57",
-    "name": "Rajshahi FM",
-    "streamUrl": "https://stream.zeno.fm/nxfshdayjrdvv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/80348/logo_5IcsiJ0NJa.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd58",
-    "name": "Radio Bhumi Dhaka",
-    "streamUrl": "https://stream.zeno.fm/s6x1u9yw34zuv",
+    "id": "et26",
+    "name": "Axumite Radio",
+    "streamUrl": "https://stream.zeno.fm/b9bn18xa2k8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd59",
-    "name": "Bangla Tune",
-    "streamUrl": "http://ample-zeno-04.radiojar.com/wh8wm0pwcd5tv.m3u?rj-ttl=5&rj-token=AAABXvMKkyNARHFcbFlv7C-fA38AvSAL7FiBkKYpiLObYlZ4uXmkqQ",
+    "id": "et27",
+    "name": "Radio Xoriyo",
+    "streamUrl": "http://www.ogadennet.com/rx/radioxor.mp3",
+    "imageUrl": "https://radio.streamitter.com/images/logos/9Z4FP7.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et28",
+    "name": "Radio 251 Ethiopia",
+    "streamUrl": "https://str2b.openstream.co/648?aw_0_1st.stationid=4017",
+    "imageUrl": "https://radio.streamitter.com/images/logos/FUDPNX.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et29",
+    "name": "Agelgl Radio",
+    "streamUrl": "https://stream.zeno.fm/bcvugxneddmtv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79910/logo_muhMSiTdo8.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et30",
+    "name": "Hero Radio Ethiopia",
+    "streamUrl": "https://a2.asurahosting.com:6790/Ethiopia.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79913/logo_y4aw2M3U61.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et31",
+    "name": "Antenna Web Addis Abeba Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebEtiopia",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79908/logo_bgGBUEyRAs.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et32",
+    "name": "Antenna Web Macallè Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebMacalle",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79912/logo_HqaPMf3AJY.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et33",
+    "name": "Antenna Web Adama Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebAdama",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79911/logo_C8ySJdSwdf.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et34",
+    "name": "Antenna Web Gondar Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebGondar",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79909/logo_2P0WXi2lEj.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et35",
+    "name": "Dribble Radio",
+    "streamUrl": "https://stream.zeno.fm/emi8k7a80yguv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79907/logo_75FYYgVTtx.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et36",
+    "name": "Ethio-Sudan Radio",
+    "streamUrl": "https://stream.zeno.fm/rmz1mlw6scguv",
+    "imageUrl": "https://radio.streamitter.com/images/logos/B7373F.png",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et37",
+    "name": "Mirt Internet Radio",
+    "streamUrl": "https://stream.zeno.fm/akmuznguawzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd60",
-    "name": "Radio Mukti 99.2 FM",
-    "streamUrl": "https://stream.zeno.fm/89vwaa67oqbuv",
+    "id": "et38",
+    "name": "Rahel Radio",
+    "streamUrl": "https://stream.zeno.fm/ae0ucgr1h2zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd61",
-    "name": "Radio SylNet",
-    "streamUrl": "https://stream.zeno.fm/rk92702kyk8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd62",
-    "name": "Radio Karatoa",
-    "streamUrl": "https://stream.zeno.fm/u7p10xhsutzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd63",
-    "name": "Bengal Radio",
-    "streamUrl": "https://stream.zeno.fm/965y3quqks8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd64",
-    "name": "Radio Shabdo 91.1 FM",
-    "streamUrl": "https://stream.zeno.fm/0rdm9n9r97zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd65",
-    "name": "Radio Jagoron",
-    "streamUrl": "https://stream.zeno.fm/ku2e67d3yf8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd66",
-    "name": "Radio Kishoreganj",
-    "streamUrl": "https://stream.zeno.fm/yxp325tqfg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd67",
-    "name": "Radio Comilla",
-    "streamUrl": "https://stream.zeno.fm/daxrjrtq68euv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd68",
-    "name": "Radio Tangail",
-    "streamUrl": "https://stream.zeno.fm/qyzuh2d5dxhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd69",
-    "name": "Radio Sarabela 98.8 FM",
-    "streamUrl": "https://stream.zeno.fm/vf8fbt6mr18uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd70",
-    "name": "Radio Din-Raat",
-    "streamUrl": "https://stream.zeno.fm/enwcsg26wmftv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd71",
-    "name": "Nilphamari FM",
-    "streamUrl": "https://stream.zeno.fm/eat4pata6nhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd72",
-    "name": "SatkhiraRadio",
-    "streamUrl": "https://stream.zeno.fm/88y9ac7wag8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd73",
-    "name": "Radio Janata",
-    "streamUrl": "https://stream.zeno.fm/xse83ybpg5zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd74",
-    "name": "Peoples Radio (stream)",
-    "streamUrl": "https://stream.zeno.fm/y2a9a8bt8druv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd75",
-    "name": "Radio Bangla",
-    "streamUrl": "https://stream.zeno.fm/8582u1g9dd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd76",
-    "name": "Lokobetar FM 99.2",
-    "streamUrl": "https://stream.zeno.fm/q4kfslhiwaktv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd77",
-    "name": "Farm Radio",
-    "streamUrl": "https://stream.zeno.fm/tage75htbwzuv",
+    "id": "et39",
+    "name": "EthiopikaLink",
+    "streamUrl": "https://stream.zeno.fm/67x9n638rfeuv",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd78",
-    "name": "Radio Anannya",
-    "streamUrl": "https://stream.zeno.fm/3ypdtqzd9rhvv",
+    "id": "et40",
+    "name": "Habesha Radio",
+    "streamUrl": "http://94.23.23.97:4388/stream/1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd79",
-    "name": "Radio Payra",
-    "streamUrl": "https://stream.zeno.fm/benwxhpuhueuv",
+    "id": "et41",
+    "name": "Habesha FM",
+    "streamUrl": "https://stream.zeno.fm/ba5ws036e78uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd80",
-    "name": "Radio Sonahar",
-    "streamUrl": "https://stream.zeno.fm/2bzunxq48a0uv",
+    "id": "et42",
+    "name": "DW Amharic",
+    "streamUrl": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et43",
+    "name": "VOA News Ethiopia",
+    "streamUrl": "https://stream.zeno.fm/hfw7uzpex98uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et44",
+    "name": "Ethiopian Satellite Television Service (ESAT)",
+    "streamUrl": "https://stream.zeno.fm/wgp313a32v5tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et45",
+    "name": "DWET - Dimtsi Weyane Tigray",
+    "streamUrl": "http://dmtsiweyane.com:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et46",
+    "name": "OMN Radio",
+    "streamUrl": "https://stream.zeno.fm/y73k9wt20ehvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et47",
+    "name": "Mereja",
+    "streamUrl": "https://stream.zeno.fm/bqtruhn4q98uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et48",
+    "name": "Voice of Ethiopia",
+    "streamUrl": "https://stream.zeno.fm/hubm64kkr2zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et49",
+    "name": "Adama Broadcasting Service",
+    "streamUrl": "https://stream.zeno.fm/ju558nlhrqvuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et50",
+    "name": "SNNPR State Radio",
+    "streamUrl": "https://stream.zeno.fm/bksxz9xe4uhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et51",
+    "name": "Wollo FM Radio",
+    "streamUrl": "https://stream.zeno.fm/g0w7xnm04hhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd81",
-    "name": "Radio Hearts",
-    "streamUrl": "https://stream.zeno.fm/23t4kdr2qa0uv",
+    "id": "et52",
+    "name": "Tigray Beat FM",
+    "streamUrl": "https://stream.zeno.fm/emzqfz17t68uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd82",
-    "name": "Bangla HipHop Station",
-    "streamUrl": "https://stream.zeno.fm/6f77gnemx38uv",
+    "id": "et53",
+    "name": "Afran Qalloo Media",
+    "streamUrl": "https://stream.zeno.fm/0cna7avb0xhvv",
     "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_bangladesh"
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd83",
-    "name": "Radio Barakah",
-    "streamUrl": "https://stream.zeno.fm/gz73d47hq18uv",
+    "id": "et54",
+    "name": "Oromo FM",
+    "streamUrl": "https://stream.zeno.fm/kasyctwf268uv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd84",
-    "name": "Quran Radio With Bangla Translation",
-    "streamUrl": "https://stream.zeno.fm/1z49becwn18uv",
+    "id": "et55",
+    "name": "Fankim FM 99.5",
+    "streamUrl": "https://stream.zeno.fm/9a0dtk35qy8uv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd85",
-    "name": "SA Islamic Radio",
-    "streamUrl": "https://stream.zeno.fm/hr0wb3ax8vzuv",
+    "id": "et56",
+    "name": "Hilawie FM",
+    "streamUrl": "https://stream.zeno.fm/0dg06w3sy7zuv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd86",
-    "name": "Peace Radio",
-    "streamUrl": "https://stream.zeno.fm/whnht0bb3c9uv",
+    "id": "et57",
+    "name": "Selamta Radio",
+    "streamUrl": "https://stream.zeno.fm/ukbs7gzm0k0uv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd87",
-    "name": "Ruqyah Radio BD",
-    "streamUrl": "https://stream.zeno.fm/pz72fq579f0uv",
+    "id": "et58",
+    "name": "Tizta ትዝታ FM",
+    "streamUrl": "https://stream.zeno.fm/55nlq5yzqlftv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_retro",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd88",
-    "name": "Islahi Mujakara",
-    "streamUrl": "https://stream.zeno.fm/ghcsb5a7ma0uv",
+    "id": "et59",
+    "name": "Ethio Oldies",
+    "streamUrl": "https://www.ethioldies.com/listen/ethioldies/radio.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_retro",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd89",
-    "name": "Dainik An Noor",
-    "streamUrl": "https://stream.zeno.fm/mxak4tf8fc9uv",
+    "id": "et60",
+    "name": "E24 Classics",
+    "streamUrl": "https://stream.zeno.fm/neckz1te9rhvv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_retro",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd90",
-    "name": "RADIO MUSLIM",
-    "streamUrl": "https://stream.zeno.fm/2208uz7s4f0uv",
+    "id": "et61",
+    "name": "Afro FM",
+    "streamUrl": "https://stream.zeno.fm/fu367ky6hkeuv",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd91",
-    "name": "Nazrul Giti",
-    "streamUrl": "https://stream.zeno.fm/7kwayxtph48uv",
+    "id": "et62",
+    "name": "Afro Ethiopia",
+    "streamUrl": "https://stream.zeno.fm/tuwamhzvhkhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et63",
+    "name": "Addis Music",
+    "streamUrl": "https://stream.zeno.fm/umguj2baxdctv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et64",
+    "name": "Ambassel Musica",
+    "streamUrl": "https://stream.zeno.fm/um5wuf4spwzuv",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd92",
-    "name": "Dance Party",
-    "streamUrl": "https://stream.zeno.fm/kb7fu88b8a0uv",
+    "id": "et65",
+    "name": "Azmari Kignit",
+    "streamUrl": "https://stream.zeno.fm/xshyfxqynjkuv",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_bangladesh"
+    "genre": "genre_folk",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd93",
-    "name": "Beatz of Bangla",
-    "streamUrl": "https://stream.zeno.fm/cxhu0x91768uv",
+    "id": "et66",
+    "name": "Jazz Ethiopia World",
+    "streamUrl": "http://mediaserv38.live-streams.nl:8006/live",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_bangladesh"
+    "genre": "genre_jazz",
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd94",
-    "name": "BUET Radio",
-    "streamUrl": "https://stream.zeno.fm/tq42hpva8a0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd95",
-    "name": "BU Radio",
-    "streamUrl": "https://stream.zeno.fm/x3wb4hevj5atv",
+    "id": "et67",
+    "name": "Ethio Music Tegene",
+    "streamUrl": "https://s57.radiolize.com/radio/8060/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd96",
-    "name": "Radio Kontho",
-    "streamUrl": "https://stream.zeno.fm/0zzpcgup6s8uv",
+    "id": "et68",
+    "name": "Hatricksport Radio",
+    "streamUrl": "https://stream.zeno.fm/t16mzsnrfzzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et69",
+    "name": "Daily Hype Radio",
+    "streamUrl": "https://stream.zeno.fm/apzzddhstbruv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et70",
+    "name": "YeneVibe Radio",
+    "streamUrl": "https://stream.zeno.fm/5mz3qqftsnhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd97",
-    "name": "Radio Bangla 24",
-    "streamUrl": "https://stream.zeno.fm/5t6rgfxu6obuv",
+    "id": "et71",
+    "name": "World on Tempo",
+    "streamUrl": "https://zeno.fm/radio/world-on-tempo/",
+    "imageUrl": "https://radio.streamitter.com/images/logos/GR6OCT.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et72",
+    "name": "Zemen FM",
+    "streamUrl": "https://stream.zeno.fm/budkf4g10xruv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd98",
-    "name": "Radio Anannya Pop",
-    "streamUrl": "https://stream.zeno.fm/3ypdtqzd9rhvv",
+    "id": "et73",
+    "name": "Abyssinia Internet Radio",
+    "streamUrl": "https://stream.zeno.fm/gakhldaxxxduv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd99",
-    "name": "Shohoj Manush Radio",
-    "streamUrl": "https://stream.zeno.fm/gkactv6rtg0uv",
+    "id": "et74",
+    "name": "BBN Our Voice",
+    "streamUrl": "https://stream.zeno.fm/26m7bd6z06duv",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd100",
-    "name": "Radio Priyo",
-    "streamUrl": "https://stream.zeno.fm/7fvzsb8muotuv",
+    "id": "et75",
+    "name": "Biruh Radio",
+    "streamUrl": "https://stream.zeno.fm/ct70ahbmvzzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd101",
-    "name": "Radio Shodesh",
-    "streamUrl": "https://stream.zeno.fm/e99xgax8uuhvv",
+    "id": "et76",
+    "name": "Hena Talk",
+    "streamUrl": "https://stream.zeno.fm/g51r6n3z8p8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et77",
+    "name": "Tebeb Radio",
+    "streamUrl": "https://stream.zeno.fm/lsbj2so1xxluv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et78",
+    "name": "Yengat Wege",
+    "streamUrl": "https://stream.zeno.fm/pp0d9hyddxquv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd102",
-    "name": "Bangla Waz",
-    "streamUrl": "https://stream.zeno.fm/shyc28p6g0hvv",
+    "id": "et79",
+    "name": "Medan Radio",
+    "streamUrl": "https://stream.zeno.fm/8n4kguhur8vtv",
+    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et80",
+    "name": "Tsega FM",
+    "streamUrl": "https://s4.radio.co/s5d3a718f4/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et81",
+    "name": "Chilot Radio",
+    "streamUrl": "https://cast4.my-control-panel.com/proxy/fenotehi/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et82",
+    "name": "Maraki Radio",
+    "streamUrl": "https://stream.zeno.fm/mk0suaoogd5tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et83",
+    "name": "Nile FM",
+    "streamUrl": "https://stream.zeno.fm/rku473dkr18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et84",
+    "name": "Horizon FM",
+    "streamUrl": "https://stream.zeno.fm/z2sa9a377ehvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et85",
+    "name": "Lole Radio",
+    "streamUrl": "https://stream.zeno.fm/bk2m4g15uc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et86",
+    "name": "Harambee Radio",
+    "streamUrl": "https://stream.zeno.fm/d28an1b6w4ltv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et87",
+    "name": "Endod Radio",
+    "streamUrl": "https://stream.zeno.fm/xff787tfh5zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et88",
+    "name": "Yegna FM",
+    "streamUrl": "https://stream.zeno.fm/opjffqrtopytv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et89",
+    "name": "Yerer FM",
+    "streamUrl": "https://stream.zeno.fm/tk6ct2edfc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et90",
+    "name": "Sheger Daily",
+    "streamUrl": "https://stream.zeno.fm/6ztsku7cfbkvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et91",
+    "name": "Kaliti Press",
+    "streamUrl": "https://streams.radio.co/sb2f12c08a/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et92",
+    "name": "Gulele Global Media",
+    "streamUrl": "https://stream.zeno.fm/789zga1xsxhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et93",
+    "name": "Awaze Radio",
+    "streamUrl": "https://stream.zeno.fm/esaf37sm2s5tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et94",
+    "name": "LemnAlen",
+    "streamUrl": "https://stream.zeno.fm/5ae65edzx68uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et95",
+    "name": "Bete Media ቤተ ሚዲያ",
+    "streamUrl": "https://stream.zeno.fm/mt70qamc5zhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et96",
+    "name": "Halaal Radio",
+    "streamUrl": "https://stream.zeno.fm/lxud6vpiylutv",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd103",
-    "name": "Radio Renesa",
-    "streamUrl": "https://stream.zeno.fm/sfz79turkkhvv",
+    "id": "et97",
+    "name": "Halaal Media",
+    "streamUrl": "https://stream.zeno.fm/rqx24qj7offvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et98",
+    "name": "Orthodox Radio",
+    "streamUrl": "https://stream.zeno.fm/pfaho9uockwuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et99",
+    "name": "Betemeskel",
+    "streamUrl": "https://stream.zeno.fm/xbpzacbw298uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et100",
+    "name": "The Voice of the Kingdom (V.O.K)",
+    "streamUrl": "https://stream.zeno.fm/4r93t09p50duv",
+    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et101",
+    "name": "El Shaddai Radio",
+    "streamUrl": "https://stream.zeno.fm/wkqxucx3sfeuv",
+    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et102",
+    "name": "Birhan Gospel Radio",
+    "streamUrl": "https://stream.zeno.fm/qt90skpqp0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et103",
+    "name": "Wongel Radio",
+    "streamUrl": "https://stream.zeno.fm/uu2wwsedgceuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et104",
+    "name": "Wengel FM",
+    "streamUrl": "https://stream.zeno.fm/wsat39ewmd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et105",
+    "name": "Heaven Radio",
+    "streamUrl": "https://stream.zeno.fm/q6zt1xhvcd5tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et106",
+    "name": "Glorious Harvest Worship Radio",
+    "streamUrl": "https://stream.zeno.fm/umhzr6hq7yzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et107",
+    "name": "Quran in Amharic (EDC)",
+    "streamUrl": "http://quraan.us:9880/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
+  },
+  {
+    "id": "et108",
+    "name": "Jamm FM Radio",
+    "streamUrl": "http://stream.jammfmradio.com:8075",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd104",
-    "name": "Radio Sarabela",
-    "streamUrl": "https://stream.zeno.fm/vf8fbt6mr18uv",
+    "id": "et109",
+    "name": "BEKY Radio",
+    "streamUrl": "https://stream.zeno.fm/h3udk6vdn98uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "country": "country_ethiopia"
   },
   {
-    "id": "bd105",
-    "name": "Jagonews24",
-    "streamUrl": "https://stream.zeno.fm/p6u5p8sshxhvv",
+    "id": "et110",
+    "name": "Hiwot Radio",
+    "streamUrl": "https://stream.zeno.fm/13g3ddyfakhvv",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd106",
-    "name": "Radio Upakul",
-    "streamUrl": "https://stream.zeno.fm/h42nn2u4h0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd107",
-    "name": "InfoBangla FM",
-    "streamUrl": "https://stream.zeno.fm/vwt29nj4wtjtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd108",
-    "name": "Radio Southern",
-    "streamUrl": "https://stream.zeno.fm/us72sarn738uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd109",
-    "name": "Chill FM",
-    "streamUrl": "https://stream.zeno.fm/0f9npkyqf48uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd110",
-    "name": "Palki FM",
-    "streamUrl": "https://stream.zeno.fm/uyg6loabmokvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
+    "genre": "genre_religious",
+    "country": "country_ethiopia"
   }
 ]
