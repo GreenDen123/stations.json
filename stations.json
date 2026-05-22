@@ -90,7 +90,7 @@
   {
     "id": "ru3",
     "name": "Авторадио",
-    "streamUrl": "https://pub0301.101.ru:8443/stream/air/mp3/256/100",
+    "streamUrl": "https://hls-01-gpm.hostingradio.ru/avtoradio7/128/playlist.m3u8",
     "imageUrl": "https://topradio.me/assets/image/radio/100/avtoradio.webp",
     "genre": "genre_pop",
     "country": "country_russia"
