@@ -170,7 +170,7 @@
   {
     "id": "ru13",
     "name": "Юмор FM",
-    "streamUrl": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/102",
+    "streamUrl": "https://hls-01-gpm.hostingradio.ru/humorfm7/128/playlist.m3u8",
     "imageUrl": "https://topradio.me/assets/image/radio/100/yumor_fm.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -194,7 +194,7 @@
   {
     "id": "ru16",
     "name": "Радио ENERGY",
-    "streamUrl": "https://srv21.gpmradio.ru:8443/stream/air/aac/64/99",
+    "streamUrl": "https://hls-01-gpm.hostingradio.ru/energyfm7/128/playlist.m3u8",
     "imageUrl": "https://topradio.me/assets/image/radio/100/energy-arm.png",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -258,7 +258,7 @@
   {
     "id": "ru25",
     "name": "Relax FM",
-    "streamUrl": "https://videoshot.radiopotok.ru/f/v/abstract/66.webm",
+    "streamUrl": "https://hls-01-gpm.hostingradio.ru/relaxfm7/128/playlist.m3u8",
     "imageUrl": "https://topradio.me/assets/image/radio/180/relax-fm.webp",
     "genre": "genre_pop",
     "country": "country_russia"
