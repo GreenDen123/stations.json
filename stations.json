@@ -218,7 +218,7 @@
   {
     "id": "ru20",
     "name": "Love Radio",
-    "streamUrl": "https://stream.gakku.kz:8443/love128.mp3",
+    "streamUrl": "https://microit2.n340.com:8443/VgMv0WV17ZVx1uuo_12_love_64?radiostatistica=101.ru",
     "imageUrl": "https://topradio.me/assets/image/radio/180/love-radio-md.webp",
     "genre": "genre_pop",
     "country": "country_russia"
@@ -25464,7 +25464,7 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh16",
+    "id": "gh016",
     "name": "Max FM 95.8",
     "streamUrl": "http://live.radyotvonline.com:8090/;",
     "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/zWDuCUufAa.png",
