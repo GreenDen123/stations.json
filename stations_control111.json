@@ -1,882 +1,1042 @@
 [
   {
-    "id": "et01",
-    "name": "Sheger FM 102.1",
-    "streamUrl": "https://stream.zenolive.com/cwkxynwagt5tv",
-    "imageUrl": "https://radio.streamitter.com/images/logos/TQVZRP.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et02",
-    "name": "Bisrat FM 101.1",
-    "streamUrl": "https://ice1.securenetsystems.net/DEMOSTN?_=1404933662",
-    "imageUrl": "https://radio.streamitter.com/images/logos/ES4XDR.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et03",
-    "name": "Ahadu Radio FM 94.3",
-    "streamUrl": "https://stream.zeno.fm/txxpndf1wwzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et04",
-    "name": "Ethio FM 107.8",
-    "streamUrl": "https://stream.zeno.fm/72y045deqeruv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et05",
-    "name": "EBC FM Addis 104.7",
-    "streamUrl": "https://stream.zeno.fm/2xguamap7yzuv",
+    "id": "hu01",
+    "name": "Kossuth Rádió (MR1)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4736/mr1.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et06",
-    "name": "EBC FM Addis 97.1",
-    "streamUrl": "https://stream.zeno.fm/rb6wbrap7yzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et07",
-    "name": "EBC National Radio",
-    "streamUrl": "https://stream.zeno.fm/ad402tap7yzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et08",
-    "name": "FBC Fana Broadcasting Corporate",
-    "streamUrl": "https://stream.zeno.fm/8hxry1bwkeruv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et09",
-    "name": "Walta FM 105.3",
-    "streamUrl": "https://stream.zeno.fm/t5td4ky6hkeuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et10",
-    "name": "Awash FM 90.7",
-    "streamUrl": "https://stream.zeno.fm/655zm6w4vc9uv",
-    "imageUrl": "https://radio.streamitter.com/images/logos/ARZDK4.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et11",
-    "name": "Arada FM 95.1",
-    "streamUrl": "https://stream.zeno.fm/prvemoptrjttv",
+    "id": "hu02",
+    "name": "Petőfi Rádió (MR2)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et12",
-    "name": "Tirita FM 97.6",
-    "streamUrl": "https://stream.zeno.fm/x751reg18zhvv",
+    "id": "hu03",
+    "name": "Bartók Rádió (MR3)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4741/mr3.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_clasic",
+    "country": "country_hungary"
   },
   {
-    "id": "et13",
-    "name": "Menaharia 99.1 FM",
-    "streamUrl": "https://stream.zeno.fm/yw8poig9iwtuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et14",
-    "name": "Zami FM 90.7",
-    "streamUrl": "https://stream.zeno.fm/akagu6gb90duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et15",
-    "name": "Amhara FM 96.9 Bahir Dar",
-    "streamUrl": "https://stream.zeno.fm/cxf4zy74em0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et16",
-    "name": "Amhara Radio",
-    "streamUrl": "https://stream.zeno.fm/uyca0sqa2d0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et17",
-    "name": "Taem Radio ጣዕም ሬድዮ",
-    "streamUrl": "https://stream.zeno.fm/ffg8htkh1k0uv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79906/logo_wPicoftkFI.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et18",
-    "name": "OBN Radio Oromiyaa",
-    "streamUrl": "https://stream.zeno.fm/9kha8gxkpd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et19",
-    "name": "Finfinnee Radio",
-    "streamUrl": "https://stream.zeno.fm/gtb0xm6vbm5tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et20",
-    "name": "Jon FM Ethiopia",
-    "streamUrl": "https://stream.zeno.fm/cx33cb724hhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et21",
-    "name": "Jano FM",
-    "streamUrl": "https://stream.zeno.fm/1cyn1as4v68uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et22",
-    "name": "J FM 106.7",
-    "streamUrl": "https://stream.zeno.fm/w8knfk1w7bhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et23",
-    "name": "Silte FM 92.6",
-    "streamUrl": "https://stream.zeno.fm/dfroy2it9yntv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et24",
-    "name": "Gondar FM 105.1",
-    "streamUrl": "https://stream.zeno.fm/3nxefw5vxhhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et25",
-    "name": "Fana FM 98.1",
-    "streamUrl": "https://stream.zeno.fm/n9daadfogpevv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et26",
-    "name": "Axumite Radio",
-    "streamUrl": "https://stream.zeno.fm/b9bn18xa2k8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et27",
-    "name": "Radio Xoriyo",
-    "streamUrl": "http://www.ogadennet.com/rx/radioxor.mp3",
-    "imageUrl": "https://radio.streamitter.com/images/logos/9Z4FP7.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et28",
-    "name": "Radio 251 Ethiopia",
-    "streamUrl": "https://str2b.openstream.co/648?aw_0_1st.stationid=4017",
-    "imageUrl": "https://radio.streamitter.com/images/logos/FUDPNX.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et29",
-    "name": "Agelgl Radio",
-    "streamUrl": "https://stream.zeno.fm/bcvugxneddmtv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79910/logo_muhMSiTdo8.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et30",
-    "name": "Hero Radio Ethiopia",
-    "streamUrl": "https://a2.asurahosting.com:6790/Ethiopia.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79913/logo_y4aw2M3U61.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et31",
-    "name": "Antenna Web Addis Abeba Radio",
-    "streamUrl": "https://tinyurl.com/AntennaWebEtiopia",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79908/logo_bgGBUEyRAs.png",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et32",
-    "name": "Antenna Web Macallè Radio",
-    "streamUrl": "https://tinyurl.com/AntennaWebMacalle",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79912/logo_HqaPMf3AJY.png",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et33",
-    "name": "Antenna Web Adama Radio",
-    "streamUrl": "https://tinyurl.com/AntennaWebAdama",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79911/logo_C8ySJdSwdf.png",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et34",
-    "name": "Antenna Web Gondar Radio",
-    "streamUrl": "https://tinyurl.com/AntennaWebGondar",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79909/logo_2P0WXi2lEj.png",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et35",
-    "name": "Dribble Radio",
-    "streamUrl": "https://stream.zeno.fm/emi8k7a80yguv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79907/logo_75FYYgVTtx.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et36",
-    "name": "Ethio-Sudan Radio",
-    "streamUrl": "https://stream.zeno.fm/rmz1mlw6scguv",
-    "imageUrl": "https://radio.streamitter.com/images/logos/B7373F.png",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et37",
-    "name": "Mirt Internet Radio",
-    "streamUrl": "https://stream.zeno.fm/akmuznguawzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et38",
-    "name": "Rahel Radio",
-    "streamUrl": "https://stream.zeno.fm/ae0ucgr1h2zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et39",
-    "name": "EthiopikaLink",
-    "streamUrl": "https://stream.zeno.fm/67x9n638rfeuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et40",
-    "name": "Habesha Radio",
-    "streamUrl": "http://94.23.23.97:4388/stream/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et41",
-    "name": "Habesha FM",
-    "streamUrl": "https://stream.zeno.fm/ba5ws036e78uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et42",
-    "name": "DW Amharic",
-    "streamUrl": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et43",
-    "name": "VOA News Ethiopia",
-    "streamUrl": "https://stream.zeno.fm/hfw7uzpex98uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et44",
-    "name": "Ethiopian Satellite Television Service (ESAT)",
-    "streamUrl": "https://stream.zeno.fm/wgp313a32v5tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et45",
-    "name": "DWET - Dimtsi Weyane Tigray",
-    "streamUrl": "http://dmtsiweyane.com:8000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et46",
-    "name": "OMN Radio",
-    "streamUrl": "https://stream.zeno.fm/y73k9wt20ehvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et47",
-    "name": "Mereja",
-    "streamUrl": "https://stream.zeno.fm/bqtruhn4q98uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et48",
-    "name": "Voice of Ethiopia",
-    "streamUrl": "https://stream.zeno.fm/hubm64kkr2zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et49",
-    "name": "Adama Broadcasting Service",
-    "streamUrl": "https://stream.zeno.fm/ju558nlhrqvuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et50",
-    "name": "SNNPR State Radio",
-    "streamUrl": "https://stream.zeno.fm/bksxz9xe4uhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et51",
-    "name": "Wollo FM Radio",
-    "streamUrl": "https://stream.zeno.fm/g0w7xnm04hhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et52",
-    "name": "Tigray Beat FM",
-    "streamUrl": "https://stream.zeno.fm/emzqfz17t68uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et53",
-    "name": "Afran Qalloo Media",
-    "streamUrl": "https://stream.zeno.fm/0cna7avb0xhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et54",
-    "name": "Oromo FM",
-    "streamUrl": "https://stream.zeno.fm/kasyctwf268uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et55",
-    "name": "Fankim FM 99.5",
-    "streamUrl": "https://stream.zeno.fm/9a0dtk35qy8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et56",
-    "name": "Hilawie FM",
-    "streamUrl": "https://stream.zeno.fm/0dg06w3sy7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et57",
-    "name": "Selamta Radio",
-    "streamUrl": "https://stream.zeno.fm/ukbs7gzm0k0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et58",
-    "name": "Tizta ትዝታ FM",
-    "streamUrl": "https://stream.zeno.fm/55nlq5yzqlftv",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et59",
-    "name": "Ethio Oldies",
-    "streamUrl": "https://www.ethioldies.com/listen/ethioldies/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et60",
-    "name": "E24 Classics",
-    "streamUrl": "https://stream.zeno.fm/neckz1te9rhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et61",
-    "name": "Afro FM",
-    "streamUrl": "https://stream.zeno.fm/fu367ky6hkeuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et62",
-    "name": "Afro Ethiopia",
-    "streamUrl": "https://stream.zeno.fm/tuwamhzvhkhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et63",
-    "name": "Addis Music",
-    "streamUrl": "https://stream.zeno.fm/umguj2baxdctv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et64",
-    "name": "Ambassel Musica",
-    "streamUrl": "https://stream.zeno.fm/um5wuf4spwzuv",
+    "id": "hu04",
+    "name": "Dankó Rádió (MR7)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4748/mr7.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et65",
-    "name": "Azmari Kignit",
-    "streamUrl": "https://stream.zeno.fm/xshyfxqynjkuv",
+    "id": "hu05",
+    "name": "Duna World Rádió",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4761/dwr.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_ethiopia"
+    "genre": "genre_info",
+    "country": "country_hungary"
   },
   {
-    "id": "et66",
-    "name": "Jazz Ethiopia World",
-    "streamUrl": "http://mediaserv38.live-streams.nl:8006/live",
+    "id": "hu06",
+    "name": "Parlamenti Rádió (MR5)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_ethiopia"
+    "genre": "genre_info",
+    "country": "country_hungary"
   },
   {
-    "id": "et67",
-    "name": "Ethio Music Tegene",
-    "streamUrl": "https://s57.radiolize.com/radio/8060/radio.mp3",
+    "id": "hu07",
+    "name": "Nemzetiségi Rádió (MR4)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4744/mr4.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_info",
+    "country": "country_hungary"
   },
   {
-    "id": "et68",
-    "name": "Hatricksport Radio",
-    "streamUrl": "https://stream.zeno.fm/t16mzsnrfzzuv",
-    "imageUrl": "__________________________",
+    "id": "hu08",
+    "name": "Sportrádió",
+    "streamUrl": "https://icast.connectmedia.hu/4657/mr11.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35555/logo_PEvcgkOEBq.png",
     "genre": "genre_sport",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et69",
-    "name": "Daily Hype Radio",
-    "streamUrl": "https://stream.zeno.fm/apzzddhstbruv",
+    "id": "hu09",
+    "name": "Rádió 1 Budapest 96.4 FM",
+    "streamUrl": "https://icast.connectmedia.hu/5201/live.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35447/logo_A80mMI6TXF.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu10",
+    "name": "Rádió 1 Sopron",
+    "streamUrl": "https://icast.connectmedia.hu/5015/live.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35614/logo_pjigeIUxDS.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu11",
+    "name": "Rádió 1 Győr",
+    "streamUrl": "https://icast.connectmedia.hu/5202/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu12",
+    "name": "Rádió 1 Pécs",
+    "streamUrl": "https://icast.connectmedia.hu/5216/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu13",
+    "name": "Rádió 1 Gong FM",
+    "streamUrl": "https://icast.connectmedia.hu/5242/live.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35408/logo_GBdfI6BzTa.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu14",
+    "name": "Rádió 1 Gong",
+    "streamUrl": "https://icast.connectmedia.hu/5241/live.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35414/logo_l2UA5iz6fP.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu15",
+    "name": "Best FM Budapest",
+    "streamUrl": "https://icast.connectmedia.hu/5101/live.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et70",
-    "name": "YeneVibe Radio",
-    "streamUrl": "https://stream.zeno.fm/5mz3qqftsnhvv",
+    "id": "hu16",
+    "name": "Best FM Pécs",
+    "streamUrl": "https://icast.connectmedia.hu/5128/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et71",
-    "name": "World on Tempo",
-    "streamUrl": "https://zeno.fm/radio/world-on-tempo/",
-    "imageUrl": "https://radio.streamitter.com/images/logos/GR6OCT.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et72",
-    "name": "Zemen FM",
-    "streamUrl": "https://stream.zeno.fm/budkf4g10xruv",
+    "id": "hu17",
+    "name": "Best FM Nyíregyháza",
+    "streamUrl": "https://icast.connectmedia.hu/5115/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et73",
-    "name": "Abyssinia Internet Radio",
-    "streamUrl": "https://stream.zeno.fm/gakhldaxxxduv",
+    "id": "hu18",
+    "name": "Best FM Székesfehérvár",
+    "streamUrl": "https://icast.connectmedia.hu/5113/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et74",
-    "name": "BBN Our Voice",
-    "streamUrl": "https://stream.zeno.fm/26m7bd6z06duv",
+    "id": "hu19",
+    "name": "Best FM Zalaegerszeg",
+    "streamUrl": "https://icast.connectmedia.hu/5111/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et75",
-    "name": "Biruh Radio",
-    "streamUrl": "https://stream.zeno.fm/ct70ahbmvzzuv",
+    "id": "hu20",
+    "name": "Best FM Szolnok",
+    "streamUrl": "https://icast.connectmedia.hu/5112/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et76",
-    "name": "Hena Talk",
-    "streamUrl": "https://stream.zeno.fm/g51r6n3z8p8uv",
+    "id": "hu21",
+    "name": "Best FM Eger",
+    "streamUrl": "https://icast.connectmedia.hu/5116/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et77",
-    "name": "Tebeb Radio",
-    "streamUrl": "https://stream.zeno.fm/lsbj2so1xxluv",
+    "id": "hu22",
+    "name": "Best FM Dunaújváros",
+    "streamUrl": "https://icast.connectmedia.hu/5117/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et78",
-    "name": "Yengat Wege",
-    "streamUrl": "https://stream.zeno.fm/pp0d9hyddxquv",
+    "id": "hu23",
+    "name": "Retró Rádió 99.5 FM",
+    "streamUrl": "https://icast.connectmedia.hu/5001/live.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_retro",
+    "country": "country_hungary"
   },
   {
-    "id": "et79",
-    "name": "Medan Radio",
-    "streamUrl": "https://stream.zeno.fm/8n4kguhur8vtv",
-    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et80",
-    "name": "Tsega FM",
-    "streamUrl": "https://s4.radio.co/s5d3a718f4/listen",
+    "id": "hu24",
+    "name": "Sláger FM",
+    "streamUrl": "http://92.61.114.159:7812/slagerfm320.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "genre": "genre_hits",
+    "country": "country_hungary"
   },
   {
-    "id": "et81",
-    "name": "Chilot Radio",
-    "streamUrl": "https://cast4.my-control-panel.com/proxy/fenotehi/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et82",
-    "name": "Maraki Radio",
-    "streamUrl": "https://stream.zeno.fm/mk0suaoogd5tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et83",
-    "name": "Nile FM",
-    "streamUrl": "https://stream.zeno.fm/rku473dkr18uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et84",
-    "name": "Horizon FM",
-    "streamUrl": "https://stream.zeno.fm/z2sa9a377ehvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et85",
-    "name": "Lole Radio",
-    "streamUrl": "https://stream.zeno.fm/bk2m4g15uc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et86",
-    "name": "Harambee Radio",
-    "streamUrl": "https://stream.zeno.fm/d28an1b6w4ltv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et87",
-    "name": "Endod Radio",
-    "streamUrl": "https://stream.zeno.fm/xff787tfh5zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et88",
-    "name": "Yegna FM",
-    "streamUrl": "https://stream.zeno.fm/opjffqrtopytv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et89",
-    "name": "Yerer FM",
-    "streamUrl": "https://stream.zeno.fm/tk6ct2edfc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et90",
-    "name": "Sheger Daily",
-    "streamUrl": "https://stream.zeno.fm/6ztsku7cfbkvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et91",
-    "name": "Kaliti Press",
-    "streamUrl": "https://streams.radio.co/sb2f12c08a/listen",
+    "id": "hu25",
+    "name": "InfoRádió 95.8",
+    "streamUrl": "https://stream.infostart.hu/stream",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et92",
-    "name": "Gulele Global Media",
-    "streamUrl": "https://stream.zeno.fm/789zga1xsxhvv",
+    "id": "hu26",
+    "name": "Klasszik Rádió",
+    "streamUrl": "https://s04.diazol.hu:9600/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu27",
+    "name": "Karc FM",
+    "streamUrl": "https://stream.karcfm.hu/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et93",
-    "name": "Awaze Radio",
-    "streamUrl": "https://stream.zeno.fm/esaf37sm2s5tv",
+    "id": "hu28",
+    "name": "Klubrádió",
+    "streamUrl": "https://hu-stream02.klubradio.hu:8443/bpstream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35652/logo_Xa92B2F7Ak.png",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu29",
+    "name": "Tilos Rádió",
+    "streamUrl": "https://stream.tilos.hu/tilos_128.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et94",
-    "name": "LemnAlen",
-    "streamUrl": "https://stream.zeno.fm/5ae65edzx68uv",
+    "id": "hu30",
+    "name": "Folkrádió",
+    "streamUrl": "https://stream.folkradio.hu/folkradio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu31",
+    "name": "Danubius Rádió",
+    "streamUrl": "https://stream.danubiusradio.hu/danubius_320k",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et95",
-    "name": "Bete Media ቤተ ሚዲያ",
-    "streamUrl": "https://stream.zeno.fm/mt70qamc5zhvv",
+    "id": "hu32",
+    "name": "Hit Rádió",
+    "streamUrl": "https://stream2.hit.hu:8080/high",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu33",
+    "name": "Spirit FM",
+    "streamUrl": "https://stream3.hit.hu:8080/spirit1",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu34",
+    "name": "Jazzy Rádió 90.9 FM",
+    "streamUrl": "https://jazzy.hu/jazzy.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu35",
+    "name": "Jazzy Groove",
+    "streamUrl": "https://s04.diazol.hu:9512/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu36",
+    "name": "Jazzy Soul",
+    "streamUrl": "https://s04.diazol.hu:9522/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu37",
+    "name": "Jazzy Cool",
+    "streamUrl": "https://s04.diazol.hu:9532/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu38",
+    "name": "Jazzradio.hu",
+    "streamUrl": "https://www.jazzradio.hu:8000/jazzradio_192.ogg",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu39",
+    "name": "Cool FM",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/coolfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu40",
+    "name": "Cool FM – Goldies",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/goldhq",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu41",
+    "name": "Cool FM – Kult X",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/krehq",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu42",
+    "name": "Cool FM – (Classic) Rock",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc10",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu43",
+    "name": "Cool FM – 90s Dance",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc05",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35498/logo_ZLB1natics.png",
+    "genre": "genre_90s",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu44",
+    "name": "Cool FM – 2000s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc03",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35500/logo_YgBr4KAgd7.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu45",
+    "name": "Cool FM – 2010s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc02",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu46",
+    "name": "Cool FM – Dance 90s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc06",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu47",
+    "name": "Cool FM – Dance 2000s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc04",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu48",
+    "name": "Cool FM – Rap & Hip Hop",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc08",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35492/logo_867UwN8X30.png",
+    "genre": "genre_hiphop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu49",
+    "name": "Cool FM – Jazz",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc13",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu50",
+    "name": "Cool FM – Love Songs",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc28",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu51",
+    "name": "Cool FM – Chill",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc24",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu52",
+    "name": "Cool FM – Filmzenék",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc01",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35577/logo_LGcqdIvdgg.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu53",
+    "name": "Cool FM – Country",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc17",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35579/logo_q13DOSNZV8.png",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu54",
+    "name": "Cool FM – Remix Music",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc23",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu55",
+    "name": "Cool FM – Best Hits Ever",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc11",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu56",
+    "name": "Cool FM – Hazai Kedvencek",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc19",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu57",
+    "name": "Cool FM – Funky & Soul",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc25",
+    "imageUrl": "__________________________",
+    "genre": "genre_blues",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu58",
+    "name": "Cool FM – World Music",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc26",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu59",
+    "name": "Cool FM – Party Hits",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc18",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu60",
+    "name": "Cool FM – Karácsony",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc27",
+    "imageUrl": "https://radiospinner.com/media/logos/180/103501/logo_9YgepTnzRl.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu61",
+    "name": "Oxygen Music",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenmusic_192",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu62",
+    "name": "Oxygen The 80s Hits",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe80shits_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu63",
+    "name": "Oxygen The 90s Hits",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe90shits_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu64",
+    "name": "Oxygen The 00s Hits",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe00shits",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu65",
+    "name": "Oxygen Classic Rock",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenclassicrock_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu66",
+    "name": "Oxygen Black Music",
+    "streamUrl": "https://oxygenmusic.hu:8443/blackmusic_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu67",
+    "name": "Oxygen Love Songs",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenlovesongs_128",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35574/logo_6jn8zr0VP3.png",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu68",
+    "name": "Oxygen Lounge",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenlounge",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu69",
+    "name": "Oxygen Kids",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenkids_128",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35568/logo_vVLjPINaeT.png",
+    "genre": "genre_kids",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu70",
+    "name": "Oxygen Oldies",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenoldies",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu71",
+    "name": "Oxygen Magyar Zene",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenmagyarzene",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu72",
+    "name": "Ozone FM",
+    "streamUrl": "https://oxygenmusic.hu:8000/ozonefm_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_electronic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu73",
+    "name": "Rise FM Hit House",
+    "streamUrl": "https://oxygenmusic.hu:8443/RISE_HITHOUSE_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu74",
+    "name": "Rise FM Deep",
+    "streamUrl": "https://oxygenmusic.hu:8443/RISE_DEEPHOUSE_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_deephouse",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu75",
+    "name": "Rise FM Classic",
+    "streamUrl": "https://oxygenmusic.hu:8443/RISE_CLASSIC_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu76",
+    "name": "Rise FM R'n'B",
+    "streamUrl": "https://oxygenmusic.hu:8443/RISE_RNB_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu77",
+    "name": "Juventus Rádió",
+    "streamUrl": "https://www.radiojuventus.hu/stream_192k",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu78",
+    "name": "BDPST Rock",
+    "streamUrl": "https://bdpstrock.hu/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu79",
+    "name": "Best Of Rock Rádió",
+    "streamUrl": "https://stream.phost.hu:8000/bestofrock_hq",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu80",
+    "name": "FM 103.9 Rock",
+    "streamUrl": "https://stream.rockradio.hu/",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu81",
+    "name": "Base FM",
+    "streamUrl": "https://icast.connectmedia.hu/5401/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_electronic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu82",
+    "name": "Luxfunk Radio",
+    "streamUrl": "http://188.165.11.30:5000/luxfunkradio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu83",
+    "name": "Luxfunk Dance",
+    "streamUrl": "http://188.165.11.30:5000/luxfunkdance.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu84",
+    "name": "Magic Disco Rádió",
+    "streamUrl": "http://188.165.11.30:4420/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu85",
+    "name": "Club Dance Radio",
+    "streamUrl": "https://s01.diazol.hu:35002/minitech.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu86",
+    "name": "Rádió 24 102.9 FM",
+    "streamUrl": "https://s01.diazol.hu:10102/live.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et96",
-    "name": "Halaal Radio",
-    "streamUrl": "https://stream.zeno.fm/lxud6vpiylutv",
+    "id": "hu87",
+    "name": "Nóta FM",
+    "streamUrl": "http://live.notafm.hu:8000/notafm.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
+    "genre": "genre_folk",
+    "country": "country_hungary"
   },
   {
-    "id": "et97",
-    "name": "Halaal Media",
-    "streamUrl": "https://stream.zeno.fm/rqx24qj7offvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et98",
-    "name": "Orthodox Radio",
-    "streamUrl": "https://stream.zeno.fm/pfaho9uockwuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et99",
-    "name": "Betemeskel",
-    "streamUrl": "https://stream.zeno.fm/xbpzacbw298uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et100",
-    "name": "The Voice of the Kingdom (V.O.K)",
-    "streamUrl": "https://stream.zeno.fm/4r93t09p50duv",
-    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et101",
-    "name": "El Shaddai Radio",
-    "streamUrl": "https://stream.zeno.fm/wkqxucx3sfeuv",
-    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et102",
-    "name": "Birhan Gospel Radio",
-    "streamUrl": "https://stream.zeno.fm/qt90skpqp0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et103",
-    "name": "Wongel Radio",
-    "streamUrl": "https://stream.zeno.fm/uu2wwsedgceuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et104",
-    "name": "Wengel FM",
-    "streamUrl": "https://stream.zeno.fm/wsat39ewmd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et105",
-    "name": "Heaven Radio",
-    "streamUrl": "https://stream.zeno.fm/q6zt1xhvcd5tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et106",
-    "name": "Glorious Harvest Worship Radio",
-    "streamUrl": "https://stream.zeno.fm/umhzr6hq7yzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et107",
-    "name": "Quran in Amharic (EDC)",
-    "streamUrl": "http://quraan.us:9880/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_ethiopia"
-  },
-  {
-    "id": "et108",
-    "name": "Jamm FM Radio",
-    "streamUrl": "http://stream.jammfmradio.com:8075",
+    "id": "hu88",
+    "name": "Sunshine FM 99.4",
+    "streamUrl": "http://195.56.193.129:8100/sunshine",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et109",
-    "name": "BEKY Radio",
-    "streamUrl": "https://stream.zeno.fm/h3udk6vdn98uv",
+    "id": "hu89",
+    "name": "Next FM",
+    "streamUrl": "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
   },
   {
-    "id": "et110",
-    "name": "Hiwot Radio",
-    "streamUrl": "https://stream.zeno.fm/13g3ddyfakhvv",
+    "id": "hu90",
+    "name": "Balaton Rádió",
+    "streamUrl": "http://91.82.85.41:8200/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu91",
+    "name": "Balatonica Radio",
+    "streamUrl": "http://balatonica.hu:8000/stream_high",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu92",
+    "name": "Rádió 88 Szeged",
+    "streamUrl": "http://stream.radio88.hu:8000/stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu93",
+    "name": "Rádió 88 Retro",
+    "streamUrl": "http://stream1.radio88.hu:8300/stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu94",
+    "name": "Rádió 88 Top",
+    "streamUrl": "http://stream3.radio88.hu:8500/stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu95",
+    "name": "Európa Rádió Miskolc",
+    "streamUrl": "https://europaradio.hu/miskolc",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu96",
+    "name": "Európa Rádió Debrecen",
+    "streamUrl": "https://europaradio.hu/debrecen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu97",
+    "name": "Európa Rádió Nyíregyháza",
+    "streamUrl": "https://europaradio.hu/nyiregyhaza",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu98",
+    "name": "Győr Plusz Rádió",
+    "streamUrl": "https://stream.42netmedia.com:8443/sc_gyor1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu99",
+    "name": "Top FM Rádió",
+    "streamUrl": "http://live.topfm.hu:8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu100",
+    "name": "Manna FM",
+    "streamUrl": "http://icast.connectmedia.hu/4780/live.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_ethiopia"
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu101",
+    "name": "Magyar Katolikus Rádió",
+    "streamUrl": "http://www.katradio.hu:9000/live_hi.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu102",
+    "name": "Magyarországi Mária Rádió",
+    "streamUrl": "http://www.mariaradio.hu:8000/mr",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu103",
+    "name": "Magyar Evangéliumi Rádió",
+    "streamUrl": "http://stream.radio.co/s3fd8d173f/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu104",
+    "name": "Civil Rádió Budapest",
+    "streamUrl": "http://civilradio.hu:8000/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu105",
+    "name": "Bias Rádió",
+    "streamUrl": "https://admin.biasradio.com/listen/bias_radio/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu106",
+    "name": "Friss FM 93.4",
+    "streamUrl": "http://stream.frissfm.hu:10050/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu107",
+    "name": "Mega Rádió 98.4",
+    "streamUrl": "https://megaradio.hu/megastream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu108",
+    "name": "Laza Rádió",
+    "streamUrl": "https://stream.lazaradio.com/mulatos64.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu109",
+    "name": "Irénke Mulatós Rádiója",
+    "streamUrl": "https://s03.diazol.hu:10092/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35522/logo_QKL0Jc5QYB.png",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu110",
+    "name": "Szakcsi Radio (Jazz)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4691/mr9.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35607/logo_TfMvRTnqHJ.png",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu111",
+    "name": "Csukás Meserádió",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4611/mr10.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35626/logo_SNj0XIj60f.png",
+    "genre": "genre_kids",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu112",
+    "name": "All-Star 80's Disco Radio",
+    "streamUrl": "https://a3.asurahosting.com:7500/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35629/logo_WWd8rHwoSx.png",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu113",
+    "name": "All-Star 70's Disco Radio",
+    "streamUrl": "https://a10.asurahosting.com:7940/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35419/logo_D1JlOlGsJb.png",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu114",
+    "name": "Sztráda Rádió",
+    "streamUrl": "https://s03.diazol.hu:35082/live.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35465/logo_TNyHm5LfZ1.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu115",
+    "name": "Bajai Radio",
+    "streamUrl": "https://s03.diazol.hu:7002/live.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35415/logo_BfYv47NXvi.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu116",
+    "name": "Rábaköz Radio",
+    "streamUrl": "https://radio.molnarkft.hu/rabakozradio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35679/logo_W8vBwyr2I4.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu117",
+    "name": "Zemplén FM",
+    "streamUrl": "https://oxygenmusic.hu:8443/zemplen",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35517/logo_veHroKZK76.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu118",
+    "name": "Egerszeg Rádió",
+    "streamUrl": "https://egerszeg.str.42net.hu/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35482/logo_Km84yLN4WG.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu119",
+    "name": "Szünet Rádió",
+    "streamUrl": "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35444/logo_MUHlz8W2Ir.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu120",
+    "name": "Magyar Vándor Rádió",
+    "streamUrl": "https://c16.radioboss.fm:8461/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35515/logo_iotvMbxMki.png",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu121",
+    "name": "Tarján Rádió",
+    "streamUrl": "https://stream.tarjanradio.hu:8000/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35449/logo_CTW9U8QyXa.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu122",
+    "name": "Rádió Comedy",
+    "streamUrl": "https://a7.asurahosting.com:8430/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35631/logo_hgNcAnoSQF.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu123",
+    "name": "KORONAfm100",
+    "streamUrl": "https://stream.koronafm100.hu/listen/koronafm100/stream_sq.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35644/logo_Lc4TB6F72H.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu124",
+    "name": "DjFirstFm Rádió",
+    "streamUrl": "https://radio.djfirst.hu/listen/www.djfirst.hu/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35623/logo_EDwWBnlRlk.png",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu125",
+    "name": "Duna-Tisza Rádió",
+    "streamUrl": "https://dunatiszaradio.hu/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu126",
+    "name": "Duna-Tisza Gold",
+    "streamUrl": "https://dunatiszaradio.hu/gold.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu127",
+    "name": "Lahmacun Radio",
+    "streamUrl": "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu128",
+    "name": "Radio Groove",
+    "streamUrl": "https://s03.diazol.hu:35112/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu129",
+    "name": "Buddha FM",
+    "streamUrl": "http://libretime.buddhafm.hu:4000/buddhafm",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu130",
+    "name": "Italo Disco Hungary",
+    "streamUrl": "https://stream.diazol.hu:7032/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_hungary"
   }
 ]
