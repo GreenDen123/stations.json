@@ -1,1042 +1,962 @@
 [
   {
-    "id": "hu01",
-    "name": "Kossuth Rádió (MR1)",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4736/mr1.mp3",
+    "id": "ba01",
+    "name": "BH Radio 1",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/hls5/bh_radio1.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu02",
-    "name": "Petőfi Rádió (MR2)",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
+    "id": "ba02",
+    "name": "Radio Republike Srpske",
+    "streamUrl": "https://radio.rtrs.tv/radio/live/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba03",
+    "name": "Big Radio 1",
+    "streamUrl": "https://big1.bigportal.ba:8080/big1",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32431.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba04",
+    "name": "Big Radio 2",
+    "streamUrl": "https://big2.bigportal.ba:8080/big2",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu03",
-    "name": "Bartók Rádió (MR3)",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4741/mr3.mp3",
+    "id": "ba05",
+    "name": "Big Radio 3",
+    "streamUrl": "https://big3.bigportal.ba:8080/big3",
     "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_hungary"
+    "genre": "genre_pop",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu04",
-    "name": "Dankó Rádió (MR7)",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4748/mr7.mp3",
+    "id": "ba06",
+    "name": "Big Radio Folk",
+    "streamUrl": "https://folk.bigportal.ba:8080/folk",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu05",
-    "name": "Duna World Rádió",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4761/dwr.mp3",
+    "id": "ba07",
+    "name": "Big Radio Rock",
+    "streamUrl": "https://rock.bigportal.ba:8080/rock",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_hungary"
+    "genre": "genre_rock",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu06",
-    "name": "Parlamenti Rádió (MR5)",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
+    "id": "ba08",
+    "name": "Big Radio Balade",
+    "streamUrl": "https://balade.bigportal.ba:8080/balade",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_hungary"
+    "genre": "genre_relax",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu07",
-    "name": "Nemzetiségi Rádió (MR4)",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4744/mr4.mp3",
+    "id": "ba09",
+    "name": "Big Radio 4 Domaćica",
+    "streamUrl": "https://domacica.bigportal.ba:8080/domacica",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_hungary"
+    "genre": "genre_folk",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu08",
-    "name": "Sportrádió",
-    "streamUrl": "https://icast.connectmedia.hu/4657/mr11.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35555/logo_PEvcgkOEBq.png",
-    "genre": "genre_sport",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu09",
-    "name": "Rádió 1 Budapest 96.4 FM",
-    "streamUrl": "https://icast.connectmedia.hu/5201/live.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35447/logo_A80mMI6TXF.png",
+    "id": "ba10",
+    "name": "Radio BN",
+    "streamUrl": "http://stream.rtvbn.com:8522/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32425.png",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu10",
-    "name": "Rádió 1 Sopron",
-    "streamUrl": "https://icast.connectmedia.hu/5015/live.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35614/logo_pjigeIUxDS.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu11",
-    "name": "Rádió 1 Győr",
-    "streamUrl": "https://icast.connectmedia.hu/5202/live.mp3",
+    "id": "ba11",
+    "name": "Kiss FM BiH",
+    "streamUrl": "http://stream.kissfm.ba:8010/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu12",
-    "name": "Rádió 1 Pécs",
-    "streamUrl": "https://icast.connectmedia.hu/5216/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu13",
-    "name": "Rádió 1 Gong FM",
-    "streamUrl": "https://icast.connectmedia.hu/5242/live.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35408/logo_GBdfI6BzTa.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu14",
-    "name": "Rádió 1 Gong",
-    "streamUrl": "https://icast.connectmedia.hu/5241/live.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35414/logo_l2UA5iz6fP.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu15",
-    "name": "Best FM Budapest",
-    "streamUrl": "https://icast.connectmedia.hu/5101/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu16",
-    "name": "Best FM Pécs",
-    "streamUrl": "https://icast.connectmedia.hu/5128/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu17",
-    "name": "Best FM Nyíregyháza",
-    "streamUrl": "https://icast.connectmedia.hu/5115/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu18",
-    "name": "Best FM Székesfehérvár",
-    "streamUrl": "https://icast.connectmedia.hu/5113/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu19",
-    "name": "Best FM Zalaegerszeg",
-    "streamUrl": "https://icast.connectmedia.hu/5111/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu20",
-    "name": "Best FM Szolnok",
-    "streamUrl": "https://icast.connectmedia.hu/5112/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu21",
-    "name": "Best FM Eger",
-    "streamUrl": "https://icast.connectmedia.hu/5116/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu22",
-    "name": "Best FM Dunaújváros",
-    "streamUrl": "https://icast.connectmedia.hu/5117/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu23",
-    "name": "Retró Rádió 99.5 FM",
-    "streamUrl": "https://icast.connectmedia.hu/5001/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu24",
-    "name": "Sláger FM",
-    "streamUrl": "http://92.61.114.159:7812/slagerfm320.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu25",
-    "name": "InfoRádió 95.8",
-    "streamUrl": "https://stream.infostart.hu/stream",
-    "imageUrl": "__________________________",
+    "id": "ba12",
+    "name": "Radio Avaz",
+    "streamUrl": "http://51.254.61.148:8222/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32464.png",
     "genre": "genre_news",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu26",
-    "name": "Klasszik Rádió",
-    "streamUrl": "https://s04.diazol.hu:9600/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu27",
-    "name": "Karc FM",
-    "streamUrl": "https://stream.karcfm.hu/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu28",
-    "name": "Klubrádió",
-    "streamUrl": "https://hu-stream02.klubradio.hu:8443/bpstream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35652/logo_Xa92B2F7Ak.png",
-    "genre": "genre_info",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu29",
-    "name": "Tilos Rádió",
-    "streamUrl": "https://stream.tilos.hu/tilos_128.mp3",
-    "imageUrl": "__________________________",
+    "id": "ba13",
+    "name": "Radio Studio D",
+    "streamUrl": "http://radio.studiod.ba:8018/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32456.png",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu30",
-    "name": "Folkrádió",
-    "streamUrl": "https://stream.folkradio.hu/folkradio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu31",
-    "name": "Danubius Rádió",
-    "streamUrl": "https://stream.danubiusradio.hu/danubius_320k",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu32",
-    "name": "Hit Rádió",
-    "streamUrl": "https://stream2.hit.hu:8080/high",
+    "id": "ba14",
+    "name": "HIT FM Radio Sarajevo",
+    "streamUrl": "https://slusaj.off.ba:8010/hit",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu33",
-    "name": "Spirit FM",
-    "streamUrl": "https://stream3.hit.hu:8080/spirit1",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu34",
-    "name": "Jazzy Rádió 90.9 FM",
-    "streamUrl": "https://jazzy.hu/jazzy.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu35",
-    "name": "Jazzy Groove",
-    "streamUrl": "https://s04.diazol.hu:9512/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu36",
-    "name": "Jazzy Soul",
-    "streamUrl": "https://s04.diazol.hu:9522/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu37",
-    "name": "Jazzy Cool",
-    "streamUrl": "https://s04.diazol.hu:9532/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu38",
-    "name": "Jazzradio.hu",
-    "streamUrl": "https://www.jazzradio.hu:8000/jazzradio_192.ogg",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu39",
-    "name": "Cool FM",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/coolfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu40",
-    "name": "Cool FM – Goldies",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/goldhq",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu41",
-    "name": "Cool FM – Kult X",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/krehq",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu42",
-    "name": "Cool FM – (Classic) Rock",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc10",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu43",
-    "name": "Cool FM – 90s Dance",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc05",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35498/logo_ZLB1natics.png",
-    "genre": "genre_90s",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu44",
-    "name": "Cool FM – 2000s",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc03",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35500/logo_YgBr4KAgd7.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu45",
-    "name": "Cool FM – 2010s",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc02",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu46",
-    "name": "Cool FM – Dance 90s",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc06",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu47",
-    "name": "Cool FM – Dance 2000s",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc04",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu48",
-    "name": "Cool FM – Rap & Hip Hop",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc08",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35492/logo_867UwN8X30.png",
-    "genre": "genre_hiphop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu49",
-    "name": "Cool FM – Jazz",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc13",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu50",
-    "name": "Cool FM – Love Songs",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc28",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu51",
-    "name": "Cool FM – Chill",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc24",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu52",
-    "name": "Cool FM – Filmzenék",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc01",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35577/logo_LGcqdIvdgg.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu53",
-    "name": "Cool FM – Country",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc17",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35579/logo_q13DOSNZV8.png",
-    "genre": "genre_folk",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu54",
-    "name": "Cool FM – Remix Music",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc23",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu55",
-    "name": "Cool FM – Best Hits Ever",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc11",
+    "id": "ba15",
+    "name": "HIT Radio Brčko",
+    "streamUrl": "http://51.254.61.148:8152/",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu56",
-    "name": "Cool FM – Hazai Kedvencek",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc19",
+    "id": "ba16",
+    "name": "Radio Slon FM Tuzla",
+    "streamUrl": "http://31.47.0.130:88/broadwavehigh.mp3",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32518.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba17",
+    "name": "RSG Radio",
+    "streamUrl": "http://195.201.112.14:9000/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu57",
-    "name": "Cool FM – Funky & Soul",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc25",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu58",
-    "name": "Cool FM – World Music",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc26",
+    "id": "ba18",
+    "name": "Radio Mix",
+    "streamUrl": "http://195.201.112.14:9010/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu59",
-    "name": "Cool FM – Party Hits",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc18",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu60",
-    "name": "Cool FM – Karácsony",
-    "streamUrl": "https://mediagw.e-tiger.net/stream/zc27",
-    "imageUrl": "https://radiospinner.com/media/logos/180/103501/logo_9YgepTnzRl.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu61",
-    "name": "Oxygen Music",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenmusic_192",
+    "id": "ba19",
+    "name": "Antena Radio Sarajevo",
+    "streamUrl": "http://195.201.112.14:9020/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu62",
-    "name": "Oxygen The 80s Hits",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe80shits_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu63",
-    "name": "Oxygen The 90s Hits",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe90shits_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_90s",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu64",
-    "name": "Oxygen The 00s Hits",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe00shits",
+    "id": "ba20",
+    "name": "Radio Stari Grad",
+    "streamUrl": "http://stream.rsg.ba:9000/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu65",
-    "name": "Oxygen Classic Rock",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenclassicrock_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu66",
-    "name": "Oxygen Black Music",
-    "streamUrl": "https://oxygenmusic.hu:8443/blackmusic_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu67",
-    "name": "Oxygen Love Songs",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenlovesongs_128",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35574/logo_6jn8zr0VP3.png",
-    "genre": "genre_relax",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu68",
-    "name": "Oxygen Lounge",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenlounge",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu69",
-    "name": "Oxygen Kids",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenkids_128",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35568/logo_vVLjPINaeT.png",
-    "genre": "genre_kids",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu70",
-    "name": "Oxygen Oldies",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenoldies",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu71",
-    "name": "Oxygen Magyar Zene",
-    "streamUrl": "https://oxygenmusic.hu:8443/oxygenmagyarzene",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu72",
-    "name": "Ozone FM",
-    "streamUrl": "https://oxygenmusic.hu:8000/ozonefm_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu73",
-    "name": "Rise FM Hit House",
-    "streamUrl": "https://oxygenmusic.hu:8443/RISE_HITHOUSE_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu74",
-    "name": "Rise FM Deep",
-    "streamUrl": "https://oxygenmusic.hu:8443/RISE_DEEPHOUSE_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_deephouse",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu75",
-    "name": "Rise FM Classic",
-    "streamUrl": "https://oxygenmusic.hu:8443/RISE_CLASSIC_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu76",
-    "name": "Rise FM R'n'B",
-    "streamUrl": "https://oxygenmusic.hu:8443/RISE_RNB_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu77",
-    "name": "Juventus Rádió",
-    "streamUrl": "https://www.radiojuventus.hu/stream_192k",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu78",
-    "name": "BDPST Rock",
-    "streamUrl": "https://bdpstrock.hu/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu79",
-    "name": "Best Of Rock Rádió",
-    "streamUrl": "https://stream.phost.hu:8000/bestofrock_hq",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu80",
-    "name": "FM 103.9 Rock",
-    "streamUrl": "https://stream.rockradio.hu/",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu81",
-    "name": "Base FM",
-    "streamUrl": "https://icast.connectmedia.hu/5401/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu82",
-    "name": "Luxfunk Radio",
-    "streamUrl": "http://188.165.11.30:5000/luxfunkradio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu83",
-    "name": "Luxfunk Dance",
-    "streamUrl": "http://188.165.11.30:5000/luxfunkdance.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu84",
-    "name": "Magic Disco Rádió",
-    "streamUrl": "http://188.165.11.30:4420/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu85",
-    "name": "Club Dance Radio",
-    "streamUrl": "https://s01.diazol.hu:35002/minitech.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu86",
-    "name": "Rádió 24 102.9 FM",
-    "streamUrl": "https://s01.diazol.hu:10102/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu87",
-    "name": "Nóta FM",
-    "streamUrl": "http://live.notafm.hu:8000/notafm.mp3",
+    "id": "ba21",
+    "name": "Narodni Radio Sarajevo",
+    "streamUrl": "http://server1.tnt.ba:8010/",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu88",
-    "name": "Sunshine FM 99.4",
-    "streamUrl": "http://195.56.193.129:8100/sunshine",
+    "id": "ba22",
+    "name": "TNT Radio Sarajevo",
+    "streamUrl": "http://server1.tnt.ba:8004/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/108122606.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba23",
+    "name": "Narodni Radio Tuzla",
+    "streamUrl": "http://server1.tnt.ba:9080/stream.nsv",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32523.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba24",
+    "name": "Narodni Radio Zenica",
+    "streamUrl": "http://server1.tnt.ba:9010/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba25",
+    "name": "TNT Radio Travnik",
+    "streamUrl": "http://server1.tnt.ba:9000/stream.nsv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu89",
-    "name": "Next FM",
-    "streamUrl": "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3",
+    "id": "ba26",
+    "name": "TNT Radio Tuzla",
+    "streamUrl": "http://server1.tnt.ba:9060/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu90",
-    "name": "Balaton Rádió",
-    "streamUrl": "http://91.82.85.41:8200/",
+    "id": "ba27",
+    "name": "TNT Radio Zenica",
+    "streamUrl": "http://server1.tnt.ba:9070/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu91",
-    "name": "Balatonica Radio",
-    "streamUrl": "http://balatonica.hu:8000/stream_high",
+    "id": "ba28",
+    "name": "Antena Radio Jelah",
+    "streamUrl": "https://radio.tnt.ba/radio/8020/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu92",
-    "name": "Rádió 88 Szeged",
-    "streamUrl": "http://stream.radio88.hu:8000/stream/1",
+    "id": "ba29",
+    "name": "Radio M 98.7 FM",
+    "streamUrl": "http://team-data.ba:8030/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu93",
-    "name": "Rádió 88 Retro",
-    "streamUrl": "http://stream1.radio88.hu:8300/stream/1",
+    "id": "ba30",
+    "name": "Radio M Narodna",
+    "streamUrl": "http://team-data.ba:8036/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba31",
+    "name": "Radio M Ex-Yu",
+    "streamUrl": "http://team-data.ba:8034/",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu94",
-    "name": "Rádió 88 Top",
-    "streamUrl": "http://stream3.radio88.hu:8500/stream/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu95",
-    "name": "Európa Rádió Miskolc",
-    "streamUrl": "https://europaradio.hu/miskolc",
+    "id": "ba32",
+    "name": "Radio M Café",
+    "streamUrl": "http://team-data.ba:8032/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu96",
-    "name": "Európa Rádió Debrecen",
-    "streamUrl": "https://europaradio.hu/debrecen",
+    "id": "ba33",
+    "name": "Radio M Gym",
+    "streamUrl": "http://team-data.ba:8040/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba34",
+    "name": "Radio M Plus",
+    "streamUrl": "http://team-data.ba:8000/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu97",
-    "name": "Európa Rádió Nyíregyháza",
-    "streamUrl": "https://europaradio.hu/nyiregyhaza",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
+    "id": "ba35",
+    "name": "Radio Preporod",
+    "streamUrl": "http://s1.voscast.com:7986/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32465.png",
+    "genre": "genre_religious",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu98",
-    "name": "Győr Plusz Rádió",
-    "streamUrl": "https://stream.42netmedia.com:8443/sc_gyor1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu99",
-    "name": "Top FM Rádió",
-    "streamUrl": "http://live.topfm.hu:8000/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu100",
-    "name": "Manna FM",
-    "streamUrl": "http://icast.connectmedia.hu/4780/live.mp3",
+    "id": "ba36",
+    "name": "Radiopostaja Mir Međugorje",
+    "streamUrl": "https://radio-medjugorje.com/stream",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu101",
-    "name": "Magyar Katolikus Rádió",
-    "streamUrl": "http://www.katradio.hu:9000/live_hi.mp3",
+    "id": "ba37",
+    "name": "Radio Maria Bosnia",
+    "streamUrl": "http://dreamsiteradiocp2.com:8076/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32504.png",
+    "genre": "genre_religious",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba38",
+    "name": "Quran in Bosnian",
+    "streamUrl": "http://quraan.us:9994/",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu102",
-    "name": "Magyarországi Mária Rádió",
-    "streamUrl": "http://www.mariaradio.hu:8000/mr",
+    "id": "ba39",
+    "name": "Islamski Radio",
+    "streamUrl": "https://eu3.fastcast4u.com/proxy/msalih01?mp=/1",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu103",
-    "name": "Magyar Evangéliumi Rádió",
-    "streamUrl": "http://stream.radio.co/s3fd8d173f/listen",
+    "id": "ba40",
+    "name": "Radio Studio 99",
+    "streamUrl": "https://c2.radioboss.fm:18249/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_hungary"
+    "genre": "genre_pop",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu104",
-    "name": "Civil Rádió Budapest",
-    "streamUrl": "http://civilradio.hu:8000/listen.mp3",
+    "id": "ba41",
+    "name": "Radio Kapija",
+    "streamUrl": "http://s1.voscast.com:7470/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/6469.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba42",
+    "name": "Radio Sarajevo",
+    "streamUrl": "http://malla.softnet.si:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba43",
+    "name": "RTV Zenica",
+    "streamUrl": "http://stream.rtvze.ba:8000/stream",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu105",
-    "name": "Bias Rádió",
-    "streamUrl": "https://admin.biasradio.com/listen/bias_radio/live",
+    "id": "ba44",
+    "name": "RTV7 Tuzla",
+    "streamUrl": "http://195.222.33.217:8016/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba45",
+    "name": "Radio TK",
+    "streamUrl": "http://www.rtvtk.ba:8888/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba46",
+    "name": "Slobomir FM",
+    "streamUrl": "http://51.254.61.148:9911/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu106",
-    "name": "Friss FM 93.4",
-    "streamUrl": "http://stream.frissfm.hu:10050/",
+    "id": "ba47",
+    "name": "Kontakt Radio",
+    "streamUrl": "https://mojstream.eu:8114/stream.nsv",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32441.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba48",
+    "name": "Radio Zenica",
+    "streamUrl": "http://87.117.217.103:32625/radiozenica/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu107",
-    "name": "Mega Rádió 98.4",
-    "streamUrl": "https://megaradio.hu/megastream",
+    "id": "ba49",
+    "name": "Radio Bihać",
+    "streamUrl": "https://radiobihaclive.radioca.st/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu108",
-    "name": "Laza Rádió",
-    "streamUrl": "https://stream.lazaradio.com/mulatos64.mp3",
+    "id": "ba50",
+    "name": "Radio USK",
+    "streamUrl": "https://radiousk.radioca.st/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba51",
+    "name": "Radio Bihać Folk",
+    "streamUrl": "https://radiobihacfolk.radioca.st/",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu109",
-    "name": "Irénke Mulatós Rádiója",
-    "streamUrl": "https://s03.diazol.hu:10092/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35522/logo_QKL0Jc5QYB.png",
+    "id": "ba52",
+    "name": "Radio Velika Kladuša",
+    "streamUrl": "http://212.83.150.15:8058/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32501.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba53",
+    "name": "Radio Doboj",
+    "streamUrl": "http://188.40.62.20:8034/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba54",
+    "name": "Radio Gračanica",
+    "streamUrl": "http://185.69.28.214:1234/broadwave.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba55",
+    "name": "Radio Gradačac",
+    "streamUrl": "http://188.40.62.20:8002/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba56",
+    "name": "Radio Tuzla",
+    "streamUrl": "http://91.121.138.173:8010/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba57",
+    "name": "Radio Lukavac",
+    "streamUrl": "http://195.222.33.217:8022/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba58",
+    "name": "Radio Srebrenik",
+    "streamUrl": "http://live.radiosrebrenik.ba:7600/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32458.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba59",
+    "name": "Radio Tešanj",
+    "streamUrl": "http://radio.daj.ba:8082/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32494.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba60",
+    "name": "Radio Zavidovići",
+    "streamUrl": "http://cast2.name.ba:8077/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba61",
+    "name": "Radio Breza",
+    "streamUrl": "https://sonicpanel.vmakerhost.com/8029/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba62",
+    "name": "Radio Kakanj",
+    "streamUrl": "http://cast2.name.ba:8067/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba63",
+    "name": "Radio Olovo",
+    "streamUrl": "https://sonicpanel.vmakerhost.com/8038/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba64",
+    "name": "Radio Visoko",
+    "streamUrl": "http://188.40.62.20:8080/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba65",
+    "name": "Radio Ilijaš",
+    "streamUrl": "http://188.40.62.20:8020/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba66",
+    "name": "Radio Vogošća",
+    "streamUrl": "http://188.40.62.20:8018/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba67",
+    "name": "Radio Odžak",
+    "streamUrl": "https://stream1.rcast.net/66771",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32448.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba68",
+    "name": "Radio Posušje",
+    "streamUrl": "http://136.243.144.93:9994/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32426.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba69",
+    "name": "Radio Livno",
+    "streamUrl": "https://r.name.ba:7322/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba70",
+    "name": "Radio Ljubuški",
+    "streamUrl": "https://s8.iqstreaming.com:8044/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba71",
+    "name": "Radio Čapljina",
+    "streamUrl": "https://s8.iqstreaming.com:8016/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba72",
+    "name": "Radio Široki Brijeg",
+    "streamUrl": "http://eu6.fastcast4u.com:5036/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba73",
+    "name": "Radio Tomislavgrad",
+    "streamUrl": "http://158.69.119.6:8038/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32895.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba74",
+    "name": "Radio Grude",
+    "streamUrl": "http://pa-hosting.de:8012/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba75",
+    "name": "Radio Mostarska Panorama",
+    "streamUrl": "https://radio.exomass.com/radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba76",
+    "name": "Radio Busovača",
+    "streamUrl": "https://ec2s.crolive.com.hr:1510/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba77",
+    "name": "Radio Vitez",
+    "streamUrl": "http://178.209.2.100:7020/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba78",
+    "name": "Radio Jajce",
+    "streamUrl": "https://s8.iqstreaming.com:8034/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba79",
+    "name": "Radio Glas Drine",
+    "streamUrl": "http://77.74.231.21:8028/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32473.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba80",
+    "name": "Radio Birač",
+    "streamUrl": "http://78.129.229.120:12815/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba81",
+    "name": "Radio Zenit",
+    "streamUrl": "http://5.189.168.133:8020/1",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32433.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba82",
+    "name": "Radio Srbac",
+    "streamUrl": "https://stream1.srvnetplus.com:18000/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32505.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba83",
+    "name": "Radio Bosanski Brod",
+    "streamUrl": "https://zpilipov-geckohost.radioca.st/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32432.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba84",
+    "name": "Radio Brčko",
+    "streamUrl": "http://91.191.0.45:8000/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32492.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba85",
+    "name": "Radio Prijedor (DiV)",
+    "streamUrl": "https://eliot.vestreams.com/8002/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba86",
+    "name": "Radio Bosanski Petrovac",
+    "streamUrl": "http://188.124.211.103:8200/petrovac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba87",
+    "name": "Radio DM Bijeljina",
+    "streamUrl": "http://dm-live-bijeljina.asuscomm.com:8040/stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba88",
+    "name": "Radio Goražde",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/gorazde_cam2.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba89",
+    "name": "Bobar Radio",
+    "streamUrl": "http://team-data.ba:9010/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba90",
+    "name": "Radio Konjic",
+    "streamUrl": "http://78.129.234.163:4531/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba91",
+    "name": "Radio Ostrа Luka",
+    "streamUrl": "http://144.76.172.23:8001/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32442.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba92",
+    "name": "Koprivljanski Radio",
+    "streamUrl": "http://cast2.name.ba:8101/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32490.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba93",
+    "name": "Radio Otvorena Mreža",
+    "streamUrl": "http://s8.iqstreaming.com:8050/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32462.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba94",
+    "name": "Kupreški Radio",
+    "streamUrl": "http://178.209.2.100:10000/live.ogg",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32463.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba95",
+    "name": "Radio Feral Sarajevo",
+    "streamUrl": "http://185.50.56.3:80/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32497.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba96",
+    "name": "Radio Herceg Bosna",
+    "streamUrl": "http://s3.free-shoutcast.com/stream/18644",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba97",
+    "name": "Radio Dobre Vibracije",
+    "streamUrl": "http://www.shoutcastunlimited.com:8892/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba98",
+    "name": "Zenit FM",
+    "streamUrl": "http://5.189.168.133:8020/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba99",
+    "name": "Kesten Radio",
+    "streamUrl": "http://95.216.209.21:8000/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32509.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba100",
+    "name": "Radio Bombonica",
+    "streamUrl": "https://stream1.srvnetplus.com:18102/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32439.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba101",
+    "name": "Radio Kameleon FM",
+    "streamUrl": "https://radiokameleon.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba102",
+    "name": "Estrada Folk Radio",
+    "streamUrl": "http://46.163.74.224:8116/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu110",
-    "name": "Szakcsi Radio (Jazz)",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4691/mr9.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35607/logo_TfMvRTnqHJ.png",
-    "genre": "genre_jazz",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu111",
-    "name": "Csukás Meserádió",
-    "streamUrl": "https://mr-stream.connectmedia.hu/4611/mr10.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35626/logo_SNj0XIj60f.png",
-    "genre": "genre_kids",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu112",
-    "name": "All-Star 80's Disco Radio",
-    "streamUrl": "https://a3.asurahosting.com:7500/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35629/logo_WWd8rHwoSx.png",
-    "genre": "genre_retro",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu113",
-    "name": "All-Star 70's Disco Radio",
-    "streamUrl": "https://a10.asurahosting.com:7940/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35419/logo_D1JlOlGsJb.png",
-    "genre": "genre_retro",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu114",
-    "name": "Sztráda Rádió",
-    "streamUrl": "https://s03.diazol.hu:35082/live.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35465/logo_TNyHm5LfZ1.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu115",
-    "name": "Bajai Radio",
-    "streamUrl": "https://s03.diazol.hu:7002/live.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35415/logo_BfYv47NXvi.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu116",
-    "name": "Rábaköz Radio",
-    "streamUrl": "https://radio.molnarkft.hu/rabakozradio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35679/logo_W8vBwyr2I4.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu117",
-    "name": "Zemplén FM",
-    "streamUrl": "https://oxygenmusic.hu:8443/zemplen",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35517/logo_veHroKZK76.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu118",
-    "name": "Egerszeg Rádió",
-    "streamUrl": "https://egerszeg.str.42net.hu/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35482/logo_Km84yLN4WG.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu119",
-    "name": "Szünet Rádió",
-    "streamUrl": "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35444/logo_MUHlz8W2Ir.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu120",
-    "name": "Magyar Vándor Rádió",
-    "streamUrl": "https://c16.radioboss.fm:8461/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35515/logo_iotvMbxMki.png",
+    "id": "ba103",
+    "name": "Balkan Hit Radio",
+    "streamUrl": "https://cast2.asurahosting.com/proxy/balkanhi/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu121",
-    "name": "Tarján Rádió",
-    "streamUrl": "https://stream.tarjanradio.hu:8000/live",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35449/logo_CTW9U8QyXa.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu122",
-    "name": "Rádió Comedy",
-    "streamUrl": "https://a7.asurahosting.com:8430/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35631/logo_hgNcAnoSQF.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu123",
-    "name": "KORONAfm100",
-    "streamUrl": "https://stream.koronafm100.hu/listen/koronafm100/stream_sq.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35644/logo_Lc4TB6F72H.png",
-    "genre": "genre_pop",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu124",
-    "name": "DjFirstFm Rádió",
-    "streamUrl": "https://radio.djfirst.hu/listen/www.djfirst.hu/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/35623/logo_EDwWBnlRlk.png",
-    "genre": "genre_dance",
-    "country": "country_hungary"
-  },
-  {
-    "id": "hu125",
-    "name": "Duna-Tisza Rádió",
-    "streamUrl": "https://dunatiszaradio.hu/live.mp3",
+    "id": "ba104",
+    "name": "Balkan Hip-Hop Radio",
+    "streamUrl": "http://centova.dukahosting.com:2022/",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_hungary"
+    "genre": "genre_hiphop",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu126",
-    "name": "Duna-Tisza Gold",
-    "streamUrl": "https://dunatiszaradio.hu/gold.mp3",
+    "id": "ba105",
+    "name": "Hard Rock Radio",
+    "streamUrl": "http://109.236.85.141:7165/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba106",
+    "name": "Radio Rock Brčko",
+    "streamUrl": "https://eu10.fastcast4u.com:10415/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba107",
+    "name": "Pakao Radio",
+    "streamUrl": "http://stream.pakaoradio.net:8000/live",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32486.png",
+    "genre": "genre_rock",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba108",
+    "name": "Radio Jugoslovenski",
+    "streamUrl": "http://136.243.20.131:8620",
     "imageUrl": "__________________________",
     "genre": "genre_retro",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu127",
-    "name": "Lahmacun Radio",
-    "streamUrl": "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
+    "id": "ba109",
+    "name": "Radio Gbg Sevdah",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay4",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba110",
+    "name": "Radio Gbg Zabavna",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_hungary"
+    "country": "country_bosnia"
   },
   {
-    "id": "hu128",
-    "name": "Radio Groove",
-    "streamUrl": "https://s03.diazol.hu:35112/live.mp3",
+    "id": "ba111",
+    "name": "Radio Gbg Laganini",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay3",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_hungary"
+    "genre": "genre_pop",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu129",
-    "name": "Buddha FM",
-    "streamUrl": "http://libretime.buddhafm.hu:4000/buddhafm",
+    "id": "ba112",
+    "name": "Radio Gbg Narodna",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay2",
     "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_hungary"
+    "genre": "genre_folk",
+    "country": "country_bosnia"
   },
   {
-    "id": "hu130",
-    "name": "Italo Disco Hungary",
-    "streamUrl": "https://stream.diazol.hu:7032/live.mp3",
+    "id": "ba113",
+    "name": "Radio Balkan Music",
+    "streamUrl": "https://www.radiobalkanmusic.com/rbm/radio.php/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_hungary"
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba114",
+    "name": "eFM Studentski Radio",
+    "streamUrl": "https://node-05.zeno.fm/e0uu6uhveg0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba115",
+    "name": "College Radio Banja Luka",
+    "streamUrl": "https://s3.voscast.com:8600/stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba116",
+    "name": "Radio Dag Zee",
+    "streamUrl": "https://stream.zeno.fm/4nwt20drp7zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba117",
+    "name": "Radio Mega Tuzla",
+    "streamUrl": "https://node-06.zeno.fm/ur0ky1k8xnhvv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba118",
+    "name": "Radio Papo",
+    "streamUrl": "https://stm2.srvif.com:7182/",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/79106720.jpg",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba119",
+    "name": "Radio Vucilovac",
+    "streamUrl": "https://eu57-sonic.instainternet.com/8002/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32472.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba120",
+    "name": "Danger Zone BL",
+    "streamUrl": "http://ca4.rcast.net:8034/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/24476181.jpg",
+    "genre": "genre_rock",
+    "country": "country_bosnia"
   }
 ]
