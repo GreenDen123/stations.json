@@ -28318,5 +28318,933 @@
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/yjYtmeYGuRyIL0FOmZ4BlfmAlCp3feRV0lbYELn5T0E/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFuTmVxcVFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFrcGY5eGdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MzMzMTI2ODAwMA.webp",
     "genre": "genre_religious",
     "country": "country_ethiopia"
+  },
+  {
+    "id": "hu01",
+    "name": "Kossuth Rádió (MR1)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4736/mr1.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/mr1-kossuth-radio/list_45.webp",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu02",
+    "name": "Petőfi Rádió (MR2)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/mr2-petofi-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu03",
+    "name": "Bartók Rádió (MR3)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4741/mr3.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/mr3-bartok-radio/list_45.webp",
+    "genre": "genre_clasic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu04",
+    "name": "Dankó Rádió (MR7)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4748/mr7.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/danko-radio/list_45.webp",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu05",
+    "name": "Duna World Rádió",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4761/dwr.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/duna-world-radio/list_45.webp",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu06",
+    "name": "Parlamenti Rádió",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/parlamenti-radio/list_45.webp",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu07",
+    "name": "Nemzetiségi Rádió",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4744/mr4.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/nemzetisegi-radio/list_45.webp",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu08",
+    "name": "Sportrádió",
+    "streamUrl": "https://icast.connectmedia.hu/4657/mr11.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/sportradio/list_45.webp",
+    "genre": "genre_sport",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu09",
+    "name": "Rádió 1 Budapest 96.4 FM",
+    "streamUrl": "https://icast.connectmedia.hu/5201/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio-1/radio-1-budapest/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu10",
+    "name": "Rádió 1 Sopron",
+    "streamUrl": "https://icast.connectmedia.hu/5015/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio-focus/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu11",
+    "name": "Rádió 1 Győr",
+    "streamUrl": "https://icast.connectmedia.hu/5202/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/ozone-fm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu12",
+    "name": "Rádió 1 Pécs",
+    "streamUrl": "https://icast.connectmedia.hu/5216/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio-1/radio-1-pecs/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu13",
+    "name": "Rádió 1 Gong",
+    "streamUrl": "https://icast.connectmedia.hu/5242/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio-1/radio-1-pecs/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu15",
+    "name": "Best FM Budapest",
+    "streamUrl": "https://icast.connectmedia.hu/5101/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu16",
+    "name": "Best FM Pécs",
+    "streamUrl": "https://icast.connectmedia.hu/5128/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu17",
+    "name": "Best FM Nyíregyháza",
+    "streamUrl": "https://icast.connectmedia.hu/5115/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu18",
+    "name": "Best FM Székesfehérvár",
+    "streamUrl": "https://icast.connectmedia.hu/5113/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu19",
+    "name": "Best FM Zalaegerszeg",
+    "streamUrl": "https://icast.connectmedia.hu/5111/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu20",
+    "name": "Best FM Szolnok",
+    "streamUrl": "https://icast.connectmedia.hu/5112/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu21",
+    "name": "Best FM Eger",
+    "streamUrl": "https://icast.connectmedia.hu/5116/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu22",
+    "name": "Best FM Dunaújváros",
+    "streamUrl": "https://icast.connectmedia.hu/5117/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/amadeus-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu23",
+    "name": "Retró Rádió 99.5 FM",
+    "streamUrl": "https://icast.connectmedia.hu/5001/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/retro-radio/list_45.webp",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu24",
+    "name": "Sláger FM",
+    "streamUrl": "http://92.61.114.159:7812/slagerfm320.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/slager-fm/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu25",
+    "name": "InfoRádió 95.8",
+    "streamUrl": "https://stream.infostart.hu/stream",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/inforadio/list_45.webp",
+    "genre": "genre_news",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu26",
+    "name": "Klasszik Rádió",
+    "streamUrl": "https://s04.diazol.hu:9600/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/klasszik-radio/list_45.webp",
+    "genre": "genre_clasic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu27",
+    "name": "Karc FM",
+    "streamUrl": "https://stream.karcfm.hu/",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/karc-fm/list_45.webp",
+    "genre": "genre_news",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu28",
+    "name": "Klubrádió",
+    "streamUrl": "https://hu-stream02.klubradio.hu:8443/bpstream",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/klubradio/list_45.webp",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu29",
+    "name": "Tilos Rádió",
+    "streamUrl": "https://stream.tilos.hu/tilos_128.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/tilos-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu30",
+    "name": "Folkrádió",
+    "streamUrl": "https://stream.folkradio.hu/folkradio.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/folkradio/list_45.webp",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu31",
+    "name": "Danubius Rádió",
+    "streamUrl": "https://stream.danubiusradio.hu/danubius_320k",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/danubius-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu32",
+    "name": "Hit Rádió",
+    "streamUrl": "https://streamer.radio.co/s47952d7c4/listen",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/hit-radio/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu33",
+    "name": "Spirit FM",
+    "streamUrl": "https://s01.diazol.hu:10052/spweb1.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/spirit-fm/list_45.webp",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu34",
+    "name": "Jazzy Rádió 90.9 FM",
+    "streamUrl": "https://jazzy.hu/jazzy.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/jazzy-radio/list_45.webp",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu35",
+    "name": "Jazzy Groove",
+    "streamUrl": "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/jazzy-radio/list_45.webp",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu36",
+    "name": "Jazzy Soul",
+    "streamUrl": "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/jazzy-radio/list_45.webp",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu37",
+    "name": "Jazzy Cool",
+    "streamUrl": "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/jazzy-radio/list_45.webp",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu39",
+    "name": "Cool FM",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/coolfm",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu40",
+    "name": "Cool FM – Goldies",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/goldhq",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu41",
+    "name": "Cool FM – Kult X",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/krehq",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu42",
+    "name": "Cool FM – (Classic) Rock",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc10",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu43",
+    "name": "Cool FM – 90s Dance",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc05",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_90s",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu44",
+    "name": "Cool FM – 2000s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc03",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu45",
+    "name": "Cool FM – 2010s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc02",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu46",
+    "name": "Cool FM – Dance 90s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc06",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu47",
+    "name": "Cool FM – Dance 2000s",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc04",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu48",
+    "name": "Cool FM – Rap & Hip Hop",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc08",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35492/logo_867UwN8X30.png",
+    "genre": "genre_hiphop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu49",
+    "name": "Cool FM – Jazz",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc13",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu50",
+    "name": "Cool FM – Love Songs",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc28",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu51",
+    "name": "Cool FM – Chill",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc24",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu52",
+    "name": "Cool FM – Filmzenék",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc01",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu53",
+    "name": "Cool FM – Country",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc17",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu54",
+    "name": "Cool FM – Remix Music",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc23",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu55",
+    "name": "Cool FM – Best Hits Ever",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc11",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_hits",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu56",
+    "name": "Cool FM – Hazai Kedvencek",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc19",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu57",
+    "name": "Cool FM – Funky & Soul",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc25",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_blues",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu58",
+    "name": "Cool FM – World Music",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc26",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu59",
+    "name": "Cool FM – Party Hits",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc18",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu60",
+    "name": "Cool FM – Karácsony",
+    "streamUrl": "https://mediagw.e-tiger.net/stream/zc27",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/coolfm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu61",
+    "name": "Oxygen Music",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenmusic_192",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu62",
+    "name": "Oxygen The 80s Hits",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe80shits_128",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu63",
+    "name": "Oxygen The 90s Hits",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe90shits_128",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_90s",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu65",
+    "name": "Oxygen Classic Rock",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenclassicrock_128",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu66",
+    "name": "Oxygen Black Music",
+    "streamUrl": "https://oxygenmusic.hu:8443/blackmusic_128",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_hiphop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu67",
+    "name": "Oxygen Love Songs",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenlovesongs_128",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu68",
+    "name": "Oxygen Lounge",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenlounge",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_relax",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu69",
+    "name": "Oxygen Kids",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenkids_128",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_kids",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu70",
+    "name": "Oxygen Oldies",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenoldies",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu71",
+    "name": "Oxygen Magyar Zene",
+    "streamUrl": "https://oxygenmusic.hu:8443/oxygenmagyarzene",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu72",
+    "name": "Ozone FM",
+    "streamUrl": "https://oxygenmusic.hu:8000/ozonefm_128",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/list_45.webp",
+    "genre": "genre_electronic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu77",
+    "name": "Juventus Rádió",
+    "streamUrl": "https://s2.audiostream.hu/juventus_192k",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/juventus-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu78",
+    "name": "BDPST Rock",
+    "streamUrl": "https://bdpstrock.hu/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/bdpst-rock-radio/list_45.webp",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu80",
+    "name": "FM 103.9 Rock",
+    "streamUrl": "https://stream.rockradio.hu/",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/bdpst-rock-radio/list_45.webp",
+    "genre": "genre_rock",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu81",
+    "name": "Base FM",
+    "streamUrl": "https://icast.connectmedia.hu/5401/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/base-fm/list_45.webp",
+    "genre": "genre_electronic",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu82",
+    "name": "Luxfunk Radio",
+    "streamUrl": "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/luxfunk-radio/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu83",
+    "name": "Luxfunk Dance",
+    "streamUrl": "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/luxfunk-radio/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu84",
+    "name": "Magic Disco Rádió",
+    "streamUrl": "http://188.165.11.30:4420/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/magic-disco-radio/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu85",
+    "name": "Club Dance Radio",
+    "streamUrl": "https://stream.clubdance.online:8002/live.aac",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/club-dance-radio/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu86",
+    "name": "Rádió 24 102.9 FM",
+    "streamUrl": "https://s01.diazol.hu:10102/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio-24/list_45.webp",
+    "genre": "genre_news",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu87",
+    "name": "Nóta FM",
+    "streamUrl": "http://live.notafm.hu:8000/notafm.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/nota-fm/list_45.webp",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu88",
+    "name": "Sunshine FM 99.4",
+    "streamUrl": "http://195.56.193.129:8100/sunshine",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/sunshine-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu89",
+    "name": "Next FM",
+    "streamUrl": "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/next-fm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu90",
+    "name": "Balaton Rádió",
+    "streamUrl": "https://cloudfront41.lexanetwork.com:1540/stream001",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/balaton-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu91",
+    "name": "Balatonica Radio",
+    "streamUrl": "http://balatonica.hu:8000/stream_high",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/balatonica/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu92",
+    "name": "Rádió 88",
+    "streamUrl": "https://stream.radio88.hu/onair.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio88/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu95",
+    "name": "Európa Rádió Miskolc",
+    "streamUrl": "https://europaradio.hu/miskolc",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/europa-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu96",
+    "name": "Európa Rádió Debrecen",
+    "streamUrl": "https://europaradio.hu/debrecen",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/europa-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu97",
+    "name": "Európa Rádió Nyíregyháza",
+    "streamUrl": "https://europaradio.hu/nyiregyhaza",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/europa-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu98",
+    "name": "Győr Plusz Rádió",
+    "streamUrl": "https://stream.42netmedia.com:8443/sc_gyor1",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/gyor-plusz-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu99",
+    "name": "Top FM Rádió",
+    "streamUrl": "http://live.topfm.hu:8000/radio.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/top-fm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu100",
+    "name": "Manna FM",
+    "streamUrl": "http://icast.connectmedia.hu/4780/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/manna-fm/list_45.webp",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu101",
+    "name": "Magyar Katolikus Rádió",
+    "streamUrl": "http://www.katradio.hu:9000/live_hi.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/katolikus-radio/list_45.webp",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu102",
+    "name": "Magyarországi Mária Rádió",
+    "streamUrl": "http://www.mariaradio.hu:8000/mr",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/maria-radio/list_45.webp",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu103",
+    "name": "Magyar Evangéliumi Rádió",
+    "streamUrl": "http://stream.radio.co/s3fd8d173f/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/24410.v4.png",
+    "genre": "genre_religious",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu104",
+    "name": "Civil Rádió Budapest",
+    "streamUrl": "http://civilradio.hu:8000/listen.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/civil-radio/list_45.webp",
+    "genre": "genre_info",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu105",
+    "name": "Bias Rádió",
+    "streamUrl": "https://admin.biasradio.com/listen/bias_radio/live",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/bias-radio-radio-bias/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu106",
+    "name": "Friss FM 93.4",
+    "streamUrl": "http://stream.frissfm.hu:10050/;stream.nsv",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/friss-fm/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu107",
+    "name": "Mega Rádió 98.4",
+    "streamUrl": "https://n16-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABnmjQKgoAqkiPi7pQKumqVg",
+    "imageUrl": "https://myradioonline.pl/public/uploads/radio_img/radio-mega/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu108",
+    "name": "Laza Rádió",
+    "streamUrl": "https://stream.lazaradio.com/mulatos64.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/laza-radio/list_45.webp",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu109",
+    "name": "Irénke Mulatós Rádiója",
+    "streamUrl": "https://s03.diazol.hu:10092/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/101698.v8.png",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu110",
+    "name": "Szakcsi Radio (Jazz)",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4691/mr9.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/szakcsi-radio/list_45.webp",
+    "genre": "genre_jazz",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu111",
+    "name": "Csukás Meserádió",
+    "streamUrl": "https://mr-stream.connectmedia.hu/4611/mr10.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/csukas-meseradio/list_45.webp",
+    "genre": "genre_kids",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu112",
+    "name": "All-Star 80's Disco Radio",
+    "streamUrl": "https://a3.asurahosting.com:7500/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/141220.v2.png",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu113",
+    "name": "All-Star 70's Disco Radio",
+    "streamUrl": "https://a10.asurahosting.com:7940/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/47665.v15.png",
+    "genre": "genre_retro",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu114",
+    "name": "Sztráda Rádió",
+    "streamUrl": "https://s03.diazol.hu:35082/live.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/71615.v3.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu115",
+    "name": "Bajai Radio",
+    "streamUrl": "https://s03.diazol.hu:7002/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/bajai-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu116",
+    "name": "Rábaköz Radio",
+    "streamUrl": "https://radio.molnarkft.hu/rabakozradio",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/rabakoz-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu117",
+    "name": "Zemplén FM",
+    "streamUrl": "https://oxygenmusic.hu:8443/zemplen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/97934.v4.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu118",
+    "name": "Egerszeg Rádió",
+    "streamUrl": "https://egerszeg.str.42net.hu/stream",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/egerszeg-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu119",
+    "name": "Szünet Rádió",
+    "streamUrl": "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/szunet-radio/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu120",
+    "name": "Magyar Vándor Rádió",
+    "streamUrl": "https://c16.radioboss.fm:8461/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/96536.v8.png",
+    "genre": "genre_folk",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu121",
+    "name": "Tarján Rádió",
+    "streamUrl": "https://stream.tarjanradio.hu:8000/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/71341.v18.png",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu122",
+    "name": "Rádió Comedy",
+    "streamUrl": "https://a7.asurahosting.com:8430/radio.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio-comedy/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu123",
+    "name": "KORONAfm100",
+    "streamUrl": "https://stream.koronafm100.hu/listen/koronafm100/stream_sq.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/koronafm100/list_45.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu127",
+    "name": "Lahmacun Radio",
+    "streamUrl": "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu128",
+    "name": "Radio Groove",
+    "streamUrl": "https://s03.diazol.hu:35112/live.mp3",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/radio-groove/list_45.webp",
+    "genre": "genre_dance",
+    "country": "country_hungary"
+  },
+  {
+    "id": "hu129",
+    "name": "Buddha FM",
+    "streamUrl": "http://libretime.buddhafm.hu:4000/buddhafm",
+    "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/buddha-fm/list_45.webp",
+    "genre": "genre_relax",
+    "country": "country_hungary"
   }
 ]
