@@ -29246,5 +29246,709 @@
     "imageUrl": "https://myonlineradio.hu/public/uploads/radio_img/buddha-fm/list_45.webp",
     "genre": "genre_relax",
     "country": "country_hungary"
+  },
+  {
+    "id": "ba01",
+    "name": "BH Radio 1",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/hls5/bh_radio1.m3u8",
+    "imageUrl": "https://www.radio.net/175/bhradio1.png?version=ecbd05e72e7ba2e0299903546dbf9209af63f89f",
+    "genre": "genre_info",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba03",
+    "name": "Big Radio 1",
+    "streamUrl": "https://big1.bigportal.ba:8080/big1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/26414.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba04",
+    "name": "Big Radio 2",
+    "streamUrl": "https://big2.bigportal.ba:8080/big2",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/26412.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba05",
+    "name": "Big Radio 3",
+    "streamUrl": "https://big3.bigportal.ba:8080/big3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/26412.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba06",
+    "name": "Big Radio Folk",
+    "streamUrl": "https://folk.bigportal.ba:8080/folk",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/26412.v4.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba07",
+    "name": "Big Radio Rock",
+    "streamUrl": "https://rock.bigportal.ba:8080/rock",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/26412.v4.png",
+    "genre": "genre_rock",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba09",
+    "name": "Big Radio 4 Domaćica",
+    "streamUrl": "https://domacica.bigportal.ba:8080/domacica",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/26412.v4.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba11",
+    "name": "Kiss FM BiH",
+    "streamUrl": "http://stream.kissfm.ba:8010/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/27029.v6.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba13",
+    "name": "Radio Studio D",
+    "streamUrl": "http://radio.studiod.ba:8018/;",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32456.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba14",
+    "name": "HIT FM Radio Sarajevo",
+    "streamUrl": "https://slusaj.off.ba:8010/hit",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/124989.v2.png",
+    "genre": "genre_hits",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba16",
+    "name": "Radio Slon FM Tuzla",
+    "streamUrl": "http://31.47.0.130:88/broadwavehigh.mp3",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32518.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba17",
+    "name": "RSG Radio",
+    "streamUrl": "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/26588.v7.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba18",
+    "name": "Radio Mix",
+    "streamUrl": "http://stream.rsgmedia.ba/listen/radio_mix/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/27084.v10.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba19",
+    "name": "Antena Radio Sarajevo",
+    "streamUrl": "http://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/27070.v6.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba21",
+    "name": "Narodni Radio Sarajevo",
+    "streamUrl": "https://server1.tnt.ba/proxy/narodnisa?mp=/stream1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/96561.v4.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba22",
+    "name": "TNT Radio Sarajevo",
+    "streamUrl": "http://server1.tnt.ba:8004/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/96578.v3.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba23",
+    "name": "Narodni Radio Tuzla",
+    "streamUrl": "http://server1.tnt.ba:9080/stream.nsv",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32523.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba24",
+    "name": "Narodni Radio Zenica",
+    "streamUrl": "http://server1.tnt.ba:9010/stream.nsv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/77924.v7.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba25",
+    "name": "TNT Radio Travnik",
+    "streamUrl": "http://server1.tnt.ba:9000/stream.nsv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/26815.v10.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba26",
+    "name": "TNT Radio Tuzla",
+    "streamUrl": "http://server1.tnt.ba:9060/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/77923.v9.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba27",
+    "name": "TNT Radio Zenica",
+    "streamUrl": "http://server1.tnt.ba:9070/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/73014.v14.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba28",
+    "name": "Antena Radio Jelah",
+    "streamUrl": "https://radio.tnt.ba/radio/8020/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/26991.v5.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba29",
+    "name": "Radio M 98.7 FM",
+    "streamUrl": "http://94.130.11.28:8030/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/26583.v17.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba30",
+    "name": "Radio M Narodna",
+    "streamUrl": "http://94.130.11.28:8036/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/110026.v5.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba31",
+    "name": "Radio M Ex-Yu",
+    "streamUrl": "http://94.130.11.28:8034/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/110025.v5.png",
+    "genre": "genre_retro",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba32",
+    "name": "Radio M Café",
+    "streamUrl": "http://94.130.11.28:8032/;?type=http&nocache=602",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/78854.v11.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba33",
+    "name": "Radio M Gym",
+    "streamUrl": "http://94.130.11.28:8040/%20index.html?sid=1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/110028.v6.png",
+    "genre": "genre_dance",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba34",
+    "name": "Radio M Plus",
+    "streamUrl": "http://94.130.11.28:8000/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/96562.v13.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba35",
+    "name": "Radio Preporod",
+    "streamUrl": "https://s1.voscast.com:7987/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/27047.v3.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba36",
+    "name": "Radiopostaja Mir Međugorje",
+    "streamUrl": "https://mirm.live/mir.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/26541.v5.png",
+    "genre": "genre_religious",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba37",
+    "name": "Radio Maria Bosnia",
+    "streamUrl": "http://dreamsiteradiocp2.com:8076/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/26589.v5.png",
+    "genre": "genre_religious",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba39",
+    "name": "Islamski Radio",
+    "streamUrl": "https://eu3.fastcast4u.com/proxy/msalih01?mp=/1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/83091.v2.png",
+    "genre": "genre_religious",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba42",
+    "name": "Radio Sarajevo",
+    "streamUrl": "https://443-1.autopo.st/45?type=http",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/27101.v6.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba43",
+    "name": "RTV Zenica",
+    "streamUrl": "http://stream.rtvze.ba:8000/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/73018.v8.png",
+    "genre": "genre_info",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba47",
+    "name": "Kontakt Radio",
+    "streamUrl": "https://mojstream.eu:8114/stream.nsv",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32441.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba49",
+    "name": "Radio Bihać",
+    "streamUrl": "http://hydra.shoutca.st:8249/stream/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/26999.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba50",
+    "name": "Radio USK",
+    "streamUrl": "https://radiousk.radioca.st/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/27156.v9.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba51",
+    "name": "Radio Bihać Folk",
+    "streamUrl": "https://radiobihacfolk.radioca.st/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/72995.v6.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba52",
+    "name": "Radio Velika Kladuša",
+    "streamUrl": "https://rvk2021.radioca.st/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/27021.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba53",
+    "name": "RTV Doboj",
+    "streamUrl": "http://188.40.62.20:8034/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/27064.v7.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba56",
+    "name": "Radio Tuzla",
+    "streamUrl": "https://uzivo.radiotuzla.ba/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/27107.v3.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba58",
+    "name": "Radio Srebrenik",
+    "streamUrl": "http://live.radiosrebrenik.ba:7600/;",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32458.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba60",
+    "name": "Radio Zavidovići",
+    "streamUrl": "http://cast2.name.ba:8077/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/DBsy5MU3XbNBCmACv3EGa2EvkZ-RqCclsqX53rm0NXg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNjllYmFhODktZDZiMS00NmMxLWFhYWItMGU3MjRjNWZlMzk0L2ltYWdlLz91PTE3MzQ2ODExNTgwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba61",
+    "name": "Radio Breza",
+    "streamUrl": "https://sonicpanel.vmakerhost.com/8192/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/27081.v8.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba62",
+    "name": "Radio Kakanj",
+    "streamUrl": "http://cast2.name.ba:8067/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/26534.v11.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba63",
+    "name": "Radio Olovo",
+    "streamUrl": "https://sonicpanel.vmakerhost.com/8038/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/RGJbJJwrJsMO0_iDfxWXkNGEDkZ-f3ycqRB71WudilY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjZjNjIyM2EtYjBhMC00ZWU0LWE5ZmUtMWRhNDlmOTM2MTY5L2ltYWdlLz91PTE3MzQ3MDg5OTQwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba64",
+    "name": "Radio Visoko",
+    "streamUrl": "http://188.40.62.20:8080/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/87657.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba65",
+    "name": "Radio Ilijaš",
+    "streamUrl": "https://stream.leftor.com/proxy/radioili/stream/",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/27082.v6.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba67",
+    "name": "Radio Odžak",
+    "streamUrl": "https://stream1.rcast.net/66771",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32448.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba69",
+    "name": "Radio Livno",
+    "streamUrl": "https://r.name.ba:7322/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/27017.v8.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba70",
+    "name": "Radio Ljubuški",
+    "streamUrl": "https://s8.iqstreaming.com:8044/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/144713.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba72",
+    "name": "Radio Široki Brijeg",
+    "streamUrl": "http://eu6.fastcast4u.com:5036/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/26810.v6.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba73",
+    "name": "Radio Tomislavgrad",
+    "streamUrl": "https://a4.asurahosting.com/hls/rtg_live/aac_hifi.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/27020.v9.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba74",
+    "name": "Radio Grude",
+    "streamUrl": "http://radio.pa-hosting.de:1040/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/84366.v15.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba75",
+    "name": "Radio Mostarska Panorama",
+    "streamUrl": "https://radio.exomass.com/radio",
+    "imageUrl": "https://www.uzivoradio.net/wp-content/uploads/2019/12/mostarska-panorama-mostar.jpg",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba76",
+    "name": "Radio Busovača",
+    "streamUrl": "https://ec2s.crolive.com.hr:1510/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/27108.v11.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba77",
+    "name": "Radio Vitez",
+    "streamUrl": "https://radio.iti.hr/listen/radio_vitez/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/27112.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba78",
+    "name": "Radio Jajce",
+    "streamUrl": "https://s8.iqstreaming.com:8034/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/27015.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba81",
+    "name": "Radio Zenit",
+    "streamUrl": "http://5.189.168.133:8020/1",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32433.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba82",
+    "name": "Radio Srbac",
+    "streamUrl": "https://stream1.srvnetplus.com:18000/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/72996.v12.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba83",
+    "name": "Radio Bosanski Brod",
+    "streamUrl": "https://zpilipov-geckohost.radioca.st/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32432.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba85",
+    "name": "Radio Prijedor (DiV)",
+    "streamUrl": "https://eliot.vestreams.com/8002/stream",
+    "imageUrl": "https://www.uzivoradio.net/wp-content/uploads/2018/09/prijedor.jpg",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba86",
+    "name": "Radio Bosanski Petrovac",
+    "streamUrl": "http://89.111.229.113:7200/petrovac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/131730.v5.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba87",
+    "name": "Radio DM Bijeljina",
+    "streamUrl": "http://213.255.218.100:8000/stream.acc",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/27115.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba88",
+    "name": "Radio Goražde",
+    "streamUrl": "https://a8.asurahosting.com:9050/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/97193.v15.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba89",
+    "name": "Bobar Radio",
+    "streamUrl": "https://stream.radios.rs:9082/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/26519.v13.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba91",
+    "name": "Radio Ostrа Luka",
+    "streamUrl": "http://144.76.172.23:8001/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32442.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba92",
+    "name": "Koprivljanski Radio",
+    "streamUrl": "http://cast2.name.ba:9300/;?1605859715084.mp3",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32490.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba93",
+    "name": "Radio Otvorena Mreža",
+    "streamUrl": "http://s8.iqstreaming.com:8050/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32462.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba95",
+    "name": "Radio Feral Sarajevo",
+    "streamUrl": "http://185.50.56.3/;",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32497.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba96",
+    "name": "Radio Herceg-Bosne",
+    "streamUrl": "https://s3.free-shoutcast.com/stream/18038",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/27104.v12.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba97",
+    "name": "RDV-Radio Dobre Vibracije",
+    "streamUrl": "https://ec6.yesstreaming.net:1700/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/26547.v8.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba98",
+    "name": "Zenit FM",
+    "streamUrl": "http://5.189.168.133:8020/stream/1/",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/27113.v5.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba99",
+    "name": "Kesten Radio",
+    "streamUrl": "http://95.216.209.21:8000/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32509.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba101",
+    "name": "Radio Kameleon FM",
+    "streamUrl": "http://138.201.198.218:8075/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/26977.v5.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba103",
+    "name": "Balkan Hit Radio",
+    "streamUrl": "https://stream-178.zeno.fm/m4spoc52lvntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtNHNwb2M1Mmx2bnR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjktV2hQVXlQUnl5SmNPQnkzMW5seVEiLCJpYXQiOjE3Nzk5NTkyMDIsImV4cCI6MTc3OTk1OTI2Mn0.RE25yLxr_rjIi9sCr2rD7fiJTvL3xtnoFPH6sxlb5sM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/124794.v3.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba104",
+    "name": "Balkan Hip-Hop Radio",
+    "streamUrl": "http://centova.dukahosting.com:2022/;listen.pls?sid=1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/84962.v3.png",
+    "genre": "genre_hiphop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba107",
+    "name": "Pakao Radio",
+    "streamUrl": "http://stream.pakaoradio.net:8000/live",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32486.png",
+    "genre": "genre_rock",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba109",
+    "name": "Radio Gbg Sevdah",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay4",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/RXhyebvi0rMTfGutk3jOf0t5D5Zv8udHdKCKPzhAX8k/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzNjZDdhMTgtMDFlYy00NjJkLTgxMWItMTY2YjllZTZjZTY5L2ltYWdlLz91PTE3MTM4NzMyMzcwMDA.webp",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba110",
+    "name": "Radio Gbg Zabavna",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/RXhyebvi0rMTfGutk3jOf0t5D5Zv8udHdKCKPzhAX8k/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzNjZDdhMTgtMDFlYy00NjJkLTgxMWItMTY2YjllZTZjZTY5L2ltYWdlLz91PTE3MTM4NzMyMzcwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba111",
+    "name": "Radio Gbg Laganini",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/RXhyebvi0rMTfGutk3jOf0t5D5Zv8udHdKCKPzhAX8k/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzNjZDdhMTgtMDFlYy00NjJkLTgxMWItMTY2YjllZTZjZTY5L2ltYWdlLz91PTE3MTM4NzMyMzcwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba112",
+    "name": "Radio Gbg Narodna",
+    "streamUrl": "https://stream.radiogbg.se:8050/relay2",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/RXhyebvi0rMTfGutk3jOf0t5D5Zv8udHdKCKPzhAX8k/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzNjZDdhMTgtMDFlYy00NjJkLTgxMWItMTY2YjllZTZjZTY5L2ltYWdlLz91PTE3MTM4NzMyMzcwMDA.webp",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba113",
+    "name": "Radio Balkan Music",
+    "streamUrl": "https://www.radiobalkanmusic.com/rbm/radio.php/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/128223.v1.png",
+    "genre": "genre_folk",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba116",
+    "name": "Radio Dag Zee",
+    "streamUrl": "https://stream.zeno.fm/4nwt20drp7zuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba117",
+    "name": "Radio Mega Tuzla",
+    "streamUrl": "https://node-06.zeno.fm/ur0ky1k8xnhvv.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/114356.v4.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba118",
+    "name": "Radio Papo",
+    "streamUrl": "https://stm2.srvif.com:7182/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/79106720.jpg",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba119",
+    "name": "Radio Vucilovac",
+    "streamUrl": "https://eu57-sonic.instainternet.com/8002/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32472.png",
+    "genre": "genre_pop",
+    "country": "country_bosnia"
+  },
+  {
+    "id": "ba120",
+    "name": "Danger Zone BL",
+    "streamUrl": "http://stream.dangerzonebl.com:8000/stream",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/24476181.jpg",
+    "genre": "genre_rock",
+    "country": "country_bosnia"
   }
 ]
