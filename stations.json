@@ -504,14 +504,6 @@
     "country": "country_russia"
   },  
   {
-    "id": "ru56",
-    "name": "Лети со мной",
-    "streamUrl": "https://listen3.myradio24.com/14596",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/leti-so-mnoi.webp",
-    "genre": "genre_kids",
-    "country": "country_russia"
-  },
-  {
     "id": "ru57",
     "name": "Радио Детки",
     "streamUrl": "https://listen1.myradio24.com/radiodetki",
@@ -984,22 +976,6 @@
     "country": "country_russia"
   },
   {
-    "id": "ru121",
-    "name": "Вера классик",
-    "streamUrl": "https://radiovera.hostingradio.ru:8007/radioverausadba128.mp3",
-    "imageUrl": "https://online-red.com/images/radio-logo/vera.png",
-    "genre": "genre_religious",
-    "country": "country_russia"
-  },
-  {
-    "id": "ru113",
-    "name": "Вера и время",
-    "streamUrl": "https://radiovera.hostingradio.ru:8007/radioveragorod128.mp3",
-    "imageUrl": "https://online-red.com/images/radio-logo/vera.png",
-    "genre": "genre_religious",
-    "country": "country_russia"
-  },
-  {
     "id": "ru122",
     "name": "Радио Радонеж",
     "streamUrl": "https://icecast-radonezh.cdnvideo.ru/rad128?21b7",
@@ -1042,7 +1018,7 @@
   {
     "id": "ru127",
     "name": "Голос Надежды",
-    "streamUrl": "https://golosnadezhdi.radioca.st/stream?4cec2aed",
+    "streamUrl": "https://golosn.hostingradio.ru/golosn128.mp3",
     "imageUrl": "https://online-red.com/images/radio-logo/golos-nadezdi.png",
     "genre": "genre_religious",
     "country": "country_russia"
@@ -1968,14 +1944,6 @@
     "country": "country_france"
   },
   {
-    "id": "fr42",
-    "name": "NRJ Pop RnB Dance",
-    "streamUrl": "https://streaming.nrjaudio.fm/oumvqq8fnozc?origine=playernrj&aw_0_req.userConsentV2",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/nrj-poprnb-dance.png",
-    "genre": "genre_dance",
-    "country": "country_france"
-  },
-  {
     "id": "fr43",
     "name": "Direct FM",
     "streamUrl": "https://directfm.ice.infomaniak.ch/directfm-128.mp3",
@@ -2234,7 +2202,7 @@
   {
     "id": "md23",
     "name": "PRO DJ Radio",
-    "streamUrl": "https://live.prodjradio.net/flac",
+    "streamUrl": "https://live.prodjradio.net:8065/radio",
     "imageUrl": "https://topradio.me/assets/image/radio/180/prodj-radio.webp",
     "genre": "genre_dance",
     "country": "country_moldova"
@@ -2268,14 +2236,6 @@
     "name": "Dance FM",
     "streamUrl": "https://stream.radioplayer.md:8443/dancefm",
     "imageUrl": "https://topradio.me/assets/image/radio/180/dance-fm-md.webp",
-    "genre": "genre_dance",
-    "country": "country_moldova"
-  },
-  {
-    "id": "md28",
-    "name": "Drive FM",
-    "streamUrl": "http://109.185.236.241:8000/DriveFM192",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/drive-fm.webp",
     "genre": "genre_dance",
     "country": "country_moldova"
   },
@@ -3056,14 +3016,6 @@
     "country": "country_romania"
   },
   {
-    "id": "ro70",
-    "name": "Radio Dacia",
-    "streamUrl": "https://streaming.napocalive.ro/radio-dacia03",
-    "imageUrl": "https://liviurhos.github.io/radio-stations/images/radiodacia.png",
-    "genre": "genre_pop",
-    "country": "country_romania"
-  },
-  {
     "id": "ro71",
     "name": "Radio Badita Popular",
     "streamUrl": "http://89.39.189.29:8000/",
@@ -3253,14 +3205,6 @@
     "streamUrl": "https://str3.openstream.co/706",
     "imageUrl": "https://topradio.me/assets/image/radio/180/cool-music-radio.jpg",
     "genre": "genre_relax",
-    "country": "country_spain"
-  },
-  {
-    "id": "sp11",
-    "name": "JAM 66 Radio",
-    "streamUrl": "https://eu4.fastcast4u.com/proxy/jam66?mp=/1",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/jam-66-radio.webp",
-    "genre": "genre_pop",
     "country": "country_spain"
   },
   {
@@ -3882,7 +3826,7 @@
   {
     "id": "ua8",
     "name": "Європа Плюс 107.0 FM",
-    "streamUrl": "https://s5.radioforge.com:7908/live",
+    "streamUrl": "http://217.20.173.105:8100/live",
     "imageUrl": "https://topradio.me/assets/image/radio/180/evropa-plus-ukr.png",
     "genre": "genre_pop",
     "country": "country_ucraina"
@@ -4442,7 +4386,7 @@
   {
     "id": "usa34",
     "name": "WEMU 89.1",
-    "streamUrl": "https://22063.live.streamtheworld.com/WEMUFMAAC.aac",
+    "streamUrl": "https://26233.live.streamtheworld.com/WEMUFM.mp3?dist=onlineradiobox",
     "imageUrl": "https://topradio.me/assets/image/radio/180/wemu-89-1.png",
     "genre": "genre_blues",
     "country": "country_usa"
@@ -4506,7 +4450,7 @@
   {
     "id": "usa42",
     "name": "Magic 107.3 FM",
-    "streamUrl": "https://19303.live.streamtheworld.com/WMGLFMAAC.aac",
+    "streamUrl": "https://18513.live.streamtheworld.com/WMGLFMAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://topradio.me/assets/image/radio/180/magic-107-3.png",
     "genre": "genre_hiphop",
     "country": "country_usa"
@@ -8200,14 +8144,6 @@
     "country": "country_brazil"
   },
   {
-    "id": "br16",
-    "name": "Eldorado FM 107.3",
-    "streamUrl": "https://stream03.pcradio.biz/eldorado_1073-hi",
-    "imageUrl": "https://pcradio.ru/images/stations/61b09c63d95fb.jpg",
-    "genre": "genre_pop",
-    "country": "country_brazil"
-  },
-  {
     "id": "br17",
     "name": "Positiva Mix",
     "streamUrl": "https://stream03.pcradio.biz/positiva_mix-hi",
@@ -10274,7 +10210,7 @@
   {
     "id": "gre148",
     "name": "Μελωδία Ρόδου 103.7",
-    "streamUrl": "https://eco.onestreaming.com/proxy/melodiarodou/stream",
+    "streamUrl": "https://i2.streams.ovh/ic/melodiarodos/stream",
     "imageUrl": "https://resources.live24.gr/resources/images/stations/2c234fed-8856-4146-954d-766fc1d94748.jpg",
     "genre": "genre_pop",
     "country": "country_greece"
@@ -10362,7 +10298,7 @@
   {
     "id": "gre162",
     "name": "Plus 102.6",
-    "streamUrl": "https://plusradio.gr/stream1",
+    "streamUrl": "http://eco.onestreaming.com:8039/;",
     "imageUrl": "https://resources.live24.gr/resources/images/stations/e90b7fc0-fa82-48e4-bf32-6c1e95941ed7.png",
     "genre": "genre_pop",
     "country": "country_greece"
@@ -11648,26 +11584,10 @@
     "country": "country_denmark"
   },
   {
-    "id": "den19",
-    "name": "Radio Mars",
-    "streamUrl": "https://radio2.digidi.net/listen/mars/radio_mid.mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/738/radio-mars2.44b6721e.jpg",
-    "genre": "genre_pop",
-    "country": "country_denmark"
-  },
-  {
     "id": "den20",
     "name": "Radio Soft",
     "streamUrl": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/024/radio-soft.9d193171.jpg",
-    "genre": "genre_pop",
-    "country": "country_denmark"
-  },
-  {
-    "id": "den21",
-    "name": "Radio Vinyl",
-    "streamUrl": "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/ahtdfrfwjywa.jpg",
     "genre": "genre_pop",
     "country": "country_denmark"
   },
@@ -12664,14 +12584,6 @@
     "country": "country_cyprus"
   },
   {
-    "id": "ind1",
-    "name": "Light on the Rock",
-    "streamUrl": "https://stream.zeno.fm/hhbs712r7rhvv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/SNbtbb0OYKXHzQXKBCuYEaK01Ww9d99a8g8p_YZuhHo/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0kzXzd2c1FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lfLVhJX0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3Mjk3MTc4NzAwMA.webp",
-    "genre": "genre_pop",
-    "country": "country_india"
-  },
-  {
     "id": "ind2",
     "name": "Radio Baingan",
     "streamUrl": "https://stream.zeno.fm/eyxg23ky4x8uv",
@@ -13578,7 +13490,7 @@
   {
     "id": "ita42",
     "name": "Radio love dance",
-    "streamUrl": "https://stream.zeno.fm/ka3yt7gu40duv",
+    "streamUrl": "https://stream-179.zeno.fm/22zs5etswg5tv",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/849/one-dance.8a7e68ec.png",
     "genre": "genre_dance",
     "country": "country_italy"
@@ -13970,7 +13882,7 @@
   {
     "id": "ita91",
     "name": "Radio Battikuore",
-    "streamUrl": "https://nr6.newradio.it/proxy/mtiziano?mp=/?ext=.mp3",
+    "streamUrl": "https://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-128.aac?ua=Radio%20Gran%20Paradiso",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/707/radio-battikuore-955-fm.ccdb988b.png",
     "genre": "genre_pop",
     "country": "country_italy"
@@ -14554,7 +14466,7 @@
   {
     "id": "ita165",
     "name": "Gran Paradiso",
-    "streamUrl": "https://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-64.aac",
+    "streamUrl": "https://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-128.aac?ua=Radio%20Gran%20Paradiso",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/166/radio-gran-paradiso.499253c0.jpg",
     "genre": "genre_pop",
     "country": "country_italy"
@@ -15042,7 +14954,7 @@
   {
     "id": "ng67",
     "name": "Wellsradio radio",
-    "streamUrl": "https://servidor29.brlogic.com:7034/live",
+    "streamUrl": "https://servidor34.brlogic.com:7068/live",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/036/wellsradio-gospel.167c1605.png",
     "genre": "genre_pop",
     "country": "country_nigeria"
@@ -15053,14 +14965,6 @@
     "streamUrl": "https://stream.zeno.fm/aafdwnvhzchvv",
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/jsnTyCHVPa-6XzsqtUY7IAaxoeXWIGiy3CrAMOfs2gs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3dtLU9xaEFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l5STNfbGdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4MDI3OTA1NzAwMA.webp",
     "genre": "genre_pop",
-    "country": "country_nigeria"
-  },
-  {
-    "id": "ng71",
-    "name": "Rockcity FM radio",
-    "streamUrl": "https://stream.zeno.fm/g6qax5vq0v8uv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/537/rockcity-fm.a590df35.png",
-    "genre": "genre_rock",
     "country": "country_nigeria"
   },
   {
@@ -15384,14 +15288,6 @@
     "country": "country_nigeria"
   },
   {
-    "id": "ng167",
-    "name": "Redlight Online Radio",
-    "streamUrl": "https://stream.zeno.fm/07ux8e8edd0uv",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/96648.v3.png",
-    "genre": "genre_pop",
-    "country": "country_nigeria"
-  },
-  {
     "id": "ng169",
     "name": "Yesma Radio",
     "streamUrl": "https://stream.zeno.fm/be3uxnr067zuv",
@@ -15580,14 +15476,6 @@
     "name": "Diamond 88.5 FM Ilesa radio",
     "streamUrl": "https://cast3.asurahosting.com/proxy/brightbr/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/bahrvjlqu8tk.png",
-    "genre": "genre_pop",
-    "country": "country_nigeria"
-  },
-  {
-    "id": "ng249",
-    "name": "Jalbu Radio",
-    "streamUrl": "https://stream.zeno.fm/z23gvma2708uv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/5Qs0zhNmdD8ol9AiM1ggWK5eVLf_5hKobPiKV6lEslU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3cxYnl3cXdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d0Wk9Lb0FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0OTE2ODAwMA.webp",
     "genre": "genre_pop",
     "country": "country_nigeria"
   },
@@ -16664,14 +16552,6 @@
     "country": "country_turkey"
   },
   {
-    "id": "tr109",
-    "name": "Radyo Deva",
-    "streamUrl": "https://ssl123.ozelip.com/8108/stream",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/140/radyo-deva.cd533ad5.png",
-    "genre": "genre_pop",
-    "country": "country_turkey"
-  },
-  {
     "id": "tr110",
     "name": "Cizre Botan FM",
     "streamUrl": "http://yayin.netyayin.net:9914/",
@@ -17698,7 +17578,7 @@
   {
     "id": "mex1",
     "name": "Los 40",
-    "streamUrl": "https://22123.live.streamtheworld.com/LOS40_MEXICOAAC_SC",
+    "streamUrl": "https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/846/los-40-principales-mexico.b3eabffc.jpg",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -17714,7 +17594,7 @@
   {
     "id": "mex3",
     "name": "Exa FM Ensenada",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHADA_SC",
+    "streamUrl": "https://18303.live.streamtheworld.com/XHADA_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/214/exa-fm-ensenada.0157b297.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -17722,7 +17602,7 @@
   {
     "id": "mex5",
     "name": "La Mejor Durango",
-    "streamUrl": "https://18213.live.streamtheworld.com/XERCFM_SC",
+    "streamUrl": "https://17853.live.streamtheworld.com/XHDGO_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/507/knnr-la-mejor-977-fm.d57d3d95.jpg",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -17730,8 +17610,8 @@
   {
     "id": "mex6",
     "name": "Sol FM",
-    "streamUrl": "https://live.zuperdns.net:7015/stream.mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/478/sol-fm-897.9228b47a.png",
+    "streamUrl": "https://live.zuperdns.net/1895/stream/;stream.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/9764.v7.png",
     "genre": "genre_pop",
     "country": "country_mexico"
   },
@@ -17816,17 +17696,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex19",
-    "name": "Radio Bengala Ciudad Juárez",
-    "streamUrl": "https://19003.live.streamtheworld.com/XEWGAMAAC_SC",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/457/radio-bengala-ciudad-juarez.565e71a2.png",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex20",
     "name": "Exa FM Tampico",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHOX_SC",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHOX_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/236/exa-fm-tampico.fcaed123.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -17834,7 +17706,7 @@
   {
     "id": "mex21",
     "name": "Exa FM León",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHMDFM_SC",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHMDFM_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/219/exa-fm-leon.570cfbdc.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -17896,14 +17768,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex30",
-    "name": "La Mejor Oaxaca",
-    "streamUrl": "http://ororadio.serverroom.us:9142",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/070/encuentro-radio-oaxaca.ac450aa6.jpg",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex31",
     "name": "Radio Campesino",
     "streamUrl": "https://server.streamingradios.net:7021",
@@ -17961,8 +17825,8 @@
   },
   {
     "id": "mex41",
-    "name": "Crystal 104.9 FM",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHMLOFMAAC_SC",
+    "name": "Crystal 103.7 FM",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHCMEFMAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/456/crystal-1049-fm.ba6d0d02.png",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -17978,7 +17842,7 @@
   {
     "id": "mex45",
     "name": "La Mejor Acapulco",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHSE_SC",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHSE.mp3?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/s2qmshsh7fgx.png",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -18018,7 +17882,7 @@
   {
     "id": "mex53",
     "name": "Exa FM Mérida",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHMRA_SC",
+    "streamUrl": "https://18303.live.streamtheworld.com/XHMRA_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/223/exa-fm-merida.7d42af9c.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18042,7 +17906,7 @@
   {
     "id": "mex59",
     "name": "Exa FM Monterrey",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHRSMTYFM_SC",
+    "streamUrl": "https://26143.live.streamtheworld.com/XHRSMTYFMAAC_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/226/exa-fm-monterrey.69f33a76.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18122,7 +17986,7 @@
   {
     "id": "mex70",
     "name": "Instrumentales de Oro Radio",
-    "streamUrl": "https://media.streamingradiomx.com/listen/instrumentales_de_oro_radio/radio.mp3",
+    "streamUrl": "https://media.streamingradiomx.com/listen/oro/on",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/660/instrumentales-de-oro-radio.3f9e6173.png",
     "genre": "genre_retro",
     "country": "country_mexico"
@@ -18210,7 +18074,7 @@
   {
     "id": "mex85",
     "name": "Exa FM CDMX",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHEXA_SC",
+    "streamUrl": "https://stream-177.zeno.fm/61xnb247muquv",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/038/exa-1049.9ba498b0.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18232,17 +18096,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex89",
-    "name": "La Mejor Puerto Vallarta",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHCJX_SC",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/987/la-patrona-fm-puerto-vallarta.45952a99.png",
-    "genre": "genre_folk",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex91",
     "name": "Bandas Mexicanas Radio",
-    "streamUrl": "https://media.streamingradiomx.com/listen/bandas_mexicanas_radio/radio.mp3",
+    "streamUrl": "https://media.streamingradiomx.com/listen/bandas/on",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/442/romance-grupero-radio.cdb56c92.png",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -18282,7 +18138,7 @@
   {
     "id": "mex99",
     "name": "Mix 90.1 FM Toluca",
-    "streamUrl": "https://18423.live.streamtheworld.com/XHENOFMAAC_SC",
+    "streamUrl": "https://18073.live.streamtheworld.com/XHENOFMAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/643/mix-901-fm-toluca.b8e3c39c.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18298,7 +18154,7 @@
   {
     "id": "mex101",
     "name": "La Mejor Ensenada",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHENA_SC",
+    "streamUrl": "https://18303.live.streamtheworld.com/XHENA.mp3?dist=onlineradiobo",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/141/la-mejor-ensenada.42e90c7e.png",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -18336,17 +18192,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex109",
-    "name": "Exa FM Oaxaca",
-    "streamUrl": "http://ororadio2.serverroom.us:4638/",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/229/exa-fm-oaxaca.a30bf07a.jpg",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex111",
     "name": "Exa FM Nogales",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHQT_SC",
+    "streamUrl": "https://18303.live.streamtheworld.com/XHQT_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/228/exa-fm-nogales.2cb7c8f7.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18386,7 +18234,7 @@
   {
     "id": "mex117",
     "name": "La Mejor Monterrey",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHSROFM_SC",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHSROFM.mp3?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/152/la-mejor-monterrey.5734d388.jpg",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -18428,14 +18276,6 @@
     "name": "Ya! FM Villahermosa",
     "streamUrl": "https://sgaudio.centrocibernetico.com/yafmvillahermosa",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/778/ya-fm-villahermosa.37e1b857.jpg",
-    "genre": "genre_pop",
-    "country": "country_mexico"
-  },
-  {
-    "id": "mex132",
-    "name": "Crystal 95.7 FM",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHMYFMAAC_SC",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/029/crystal-957-fm.8916d629.png",
     "genre": "genre_pop",
     "country": "country_mexico"
   },
@@ -18482,7 +18322,7 @@
   {
     "id": "mex144",
     "name": "Exa FM Poza Rica",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHRIC_SC",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHRIC_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/231/exa-fm-poza-rica.dfa6252c.jpg",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18536,14 +18376,6 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex153",
-    "name": "Capital Máxima 103.3 FM",
-    "streamUrl": "https://27163.live.streamtheworld.com/XHZLAAC_SC",
-    "imageUrl": "https://pwaimg.listenlive.co/XHLZ_1361191_config_station_logo_image_1432913039.png",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex155",
     "name": "Recuerdo Radio",
     "streamUrl": "https://aguila1.netkairos.com:8048",
@@ -18594,7 +18426,7 @@
   {
     "id": "mex168",
     "name": "La Mejor Cuernavaca",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHVZ_SC",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHVZ.mp3?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/139/la-mejor-cuernavaca.e49c13b4.png",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -18770,7 +18602,7 @@
   {
     "id": "mex208",
     "name": "Amor 92.5 FM",
-    "streamUrl": "https://18233.live.streamtheworld.com/XHRJFMAAC_SC",
+    "streamUrl": "https://18443.live.streamtheworld.com/XHRJFMAAC_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/aqgprdjzfjyk.png",
     "genre": "genre_relax",
     "country": "country_mexico"
@@ -18786,7 +18618,7 @@
   {
     "id": "mex210",
     "name": "Exa FM Tijuana",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHGLX_SC",
+    "streamUrl": "https://18303.live.streamtheworld.com/XHGLX_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/240/exa-fm-tijuana.dc885881.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18802,7 +18634,7 @@
   {
     "id": "mex213",
     "name": "Exa FM Veracruz",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHPSFM_SC",
+    "streamUrl": "https://26143.live.streamtheworld.com/XHPT.mp3?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/243/exa-fm-veracruz.43551bd6.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18810,7 +18642,7 @@
   {
     "id": "mex215",
     "name": "Amor 103.3 FM",
-    "streamUrl": "https://22983.live.streamtheworld.com/XHRHFMAAC_SC",
+    "streamUrl": "https://14093.live.streamtheworld.com/XHRHFMAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/758/amor-1033-fm.5c180c8c.png",
     "genre": "genre_relax",
     "country": "country_mexico"
@@ -18850,7 +18682,7 @@
   {
     "id": "mex225",
     "name": "Beat 100.9",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHSONFM_SC",
+    "streamUrl": "https://26303.live.streamtheworld.com/XHSONFMAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/836/beat-1009.5b1c16b4.png",
     "genre": "genre_hits",
     "country": "country_mexico"
@@ -18906,7 +18738,7 @@
   {
     "id": "mex239",
     "name": "La Mejor Mexicali",
-    "streamUrl": "https://18213.live.streamtheworld.com/XHVGFM_SC",
+    "streamUrl": "https://14223.live.streamtheworld.com/XHENA.mp3?dist=onlineradiobo",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/150/la-mejor-mexicali.83eba3a8.jpg",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -18914,7 +18746,7 @@
   {
     "id": "mex240",
     "name": "FM Globo 101.9",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHPFFM_SC",
+    "streamUrl": "https://18303.live.streamtheworld.com/XHPFFM_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/325/fm-globo-1019.be535b1a.jpg",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -18930,7 +18762,7 @@
   {
     "id": "mex244",
     "name": "La Comadre 98.5 FM",
-    "streamUrl": "https://18423.live.streamtheworld.com/XHCLIFM_SC",
+    "streamUrl": "https://webprod.sipse.com.mx:8080/lacomadre/;",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/505/la-comadre-985-fm2.739eaafb.png",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -18954,7 +18786,7 @@
   {
     "id": "mex252",
     "name": "Sabrosita 590 AM",
-    "streamUrl": "https://19293.live.streamtheworld.com/XEPHAMAAC_SC",
+    "streamUrl": "https://26143.live.streamtheworld.com/XEPHAMAAC.aac",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/942/sabrosita590am.8c0d14cc.png",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -18992,17 +18824,9 @@
     "country": "country_mexico"
   },
   {
-    "id": "mex260",
-    "name": "Mix 91.7 FM Puebla",
-    "streamUrl": "https://18423.live.streamtheworld.com/XHRCFMAAC_SC",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/639/mix-917-fm-puebla.cc32a6c1.png",
-    "genre": "genre_hits",
-    "country": "country_mexico"
-  },
-  {
     "id": "mex261",
     "name": "FM Globo 99.3",
-    "streamUrl": "https://19003.live.streamtheworld.com/XHOCL_SC",
+    "streamUrl": "https://18303.live.streamtheworld.com/XHOCL_SC?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/447/fm-globo-993.2863bfef.png",
     "genre": "genre_pop",
     "country": "country_mexico"
@@ -19138,7 +18962,7 @@
   {
     "id": "mex290",
     "name": "La Mejor Zacatecas",
-    "streamUrl": "https://19313.live.streamtheworld.com/XHEMAAAC.aac",
+    "streamUrl": "https://15053.live.streamtheworld.com/XHEMA.mp3?dist=onlineradiobo",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/142/la-mejor-zacatecas.f77c3fef.jpg",
     "genre": "genre_folk",
     "country": "country_mexico"
@@ -19256,14 +19080,6 @@
     "country": "country_japan"
   },
   {
-    "id": "jp111",
-    "name": "AFN 360 Gravity",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_GRV_SC",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/zx2nw58mvbaa.png",
-    "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
     "id": "jp113",
     "name": "AFN 360 Okinawa",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OKN_SC",
@@ -19317,14 +19133,6 @@
     "streamUrl": "https://listen.moe/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/9t2unfkehj8b.jpg",
     "genre": "genre_pop",
-    "country": "country_japan"
-  },
-  {
-    "id": "jp160",
-    "name": "AFN 360 Country",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_CTYP_SC",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/pcll2yamrhfn.png",
-    "genre": "genre_folk",
     "country": "country_japan"
   },
   {
@@ -21301,14 +21109,6 @@
     "streamUrl": "https://rs201-krk-cyfronet.rmfstream.pl/RMF24",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/243/rmf24.572f9eb1.png",
     "genre": "genre_info",
-    "country": "country_poland"
-  },
-  {
-    "id": "pl192",
-    "name": "Radio DHT Drugi Kanał",
-    "streamUrl": "https://radiodht.com/stream_second/",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/967/radio-dht-kanal-drugi.9c9c441c.png",
-    "genre": "genre_pop",
     "country": "country_poland"
   },
   {
@@ -23810,7 +23610,7 @@
   {
     "id": "ie128",
     "name": "MPB Radio 2",
-    "streamUrl": "https://live.one-tv.co.uk/listen/radio2/320k.mp3",
+    "streamUrl": "https://sc.mpbnl.nl/radio2.mp3",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/125560.v19.png",
     "genre": "genre_pop",
     "country": "country_ireland"
@@ -24520,14 +24320,6 @@
     "country": "country_iceland"
   },
   {
-    "id": "is153",
-    "name": "Flashback 60’s",
-    "streamUrl": "http://ice-11.spilarinn.is/60flashback",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/j5LpDHtQ6l2T5Vrvwl5BG8xp-ZA5VILDMc5c0GIR8Bc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWZhMGYyZDQtMGNlNy00ZWQ4LWI3Y2EtNTUwYzg2ZTkyMzAzL2ltYWdlLz91PTE3MzM5MjcxMzQwMDA.webp",
-    "genre": "genre_retro",
-    "country": "country_iceland"
-  },
-  {
     "id": "is155",
     "name": "Flashback 90’s",
     "streamUrl": "http://ice-11.spilarinn.is/90flashback",
@@ -24680,14 +24472,6 @@
     "country": "country_kazakhstan"
   },
   {
-    "id": "kz13",
-    "name": "GFM",
-    "streamUrl": "https://music.geometryfm.ru/radio/8000/geometryfm320",
-    "imageUrl": "https://top-radio.ru/assets/image/radio/100/Gfm.png",
-    "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
     "id": "kz14",
     "name": "Radio Bulbul",
     "streamUrl": "https://radiobulbul.stream.laut.fm/radiobulbul?t302=2025-12-17_23-59-32&uuid=dac1e2d4-eb24-4488-867d-81acedbf21bf",
@@ -24749,14 +24533,6 @@
     "streamUrl": "https://listen4.myradio24.com/rauan",
     "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-rauan.jpg",
     "genre": "genre_pop",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz22",
-    "name": "GFM-включайся в ритм EDM",
-    "streamUrl": "https://music.geometryfm.ru/radio/8010/geometryfm320",
-    "imageUrl": "https://top-radio.ru/assets/image/radio/180/Gfm.png",
-    "genre": "genre_dance",
     "country": "country_kazakhstan"
   },
   {
@@ -25162,7 +24938,7 @@
   {
     "id": "kz94",
     "name": "Радио Тандем",
-    "streamUrl": "https://stream04.pcradio.ru/tandem_kz-med",
+    "streamUrl": "https://a13.asurahosting.com/listen/tandem_104.7_fm/radio.mp3",
     "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-Tandem.jpg",
     "genre": "genre_pop",
     "country": "country_kazakhstan"
@@ -25325,14 +25101,6 @@
     "streamUrl": "https://live.zhanafm.kz:8443/zhanaedm",
     "imageUrl": "https://top-radio.ru/assets/image/radio/180/recordedm.png",
     "genre": "genre_dance",
-    "country": "country_kazakhstan"
-  },
-  {
-    "id": "kz236",
-    "name": "Радио Тандем - Pop Hits from Kazakhstan",
-    "streamUrl": "https://stream02.pcradio.ru/tandem_kz-med",
-    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-Tandem.jpg",
-    "genre": "genre_pop",
     "country": "country_kazakhstan"
   },
   {
@@ -27933,14 +27701,6 @@
     "streamUrl": "https://stream-178.zeno.fm/7kwayxtph48uv",
     "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Nazrul-Giti.jpg",
     "genre": "genre_folk",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd94",
-    "name": "BUET Radio",
-    "streamUrl": "https://stream.zeno.fm/tq42hpva8a0uv",
-    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2025/09/Buet-Radio-1.jpg",
-    "genre": "genre_pop",
     "country": "country_bangladesh"
   },
   {
