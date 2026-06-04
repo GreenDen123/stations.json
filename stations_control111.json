@@ -3,31 +3,7 @@
     "id": "vn1",
     "name": "Cai Luong Viet Nam",
     "streamUrl": "https://stream.zeno.fm/0trm6wrnga0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn2",
-    "name": "Current Time FM",
-    "streamUrl": "http://stream.zeno.fm/psymefk0hd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn3",
-    "name": "Current Time FM 88.1",
-    "streamUrl": "https://stream.zeno.fm/wcssd4mde18uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn4",
-    "name": "Da Nang",
-    "streamUrl": "http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/XQ6HZodSQ9rqfeZuD2VzT2DQEnKUr4xQ1atU60M6eJU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EyY2lLaUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvTC1ZcEFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM2MDc0NzAwMA.webp",
     "genre": "genre_pop",
     "country": "country_vietnam"
   },
@@ -35,39 +11,31 @@
     "id": "vn5",
     "name": "Dai Phat Thanh Viet Nam",
     "streamUrl": "https://c13.radioboss.fm:18127/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
     "genre": "genre_pop",
     "country": "country_vietnam"
   },
   {
     "id": "vn6",
-    "name": "Hanoi Radio 90 FM",
-    "streamUrl": "https://1028513096.vnns.net/fm90/playlist.m3u8",
-    "imageUrl": "__________________________",
+    "name": "Hà Nội Community Radio",
+    "streamUrl": "https://ha-noi-community-radio.radiocult.fm/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/156323.v1.png",
     "genre": "genre_pop",
     "country": "country_vietnam"
   },
   {
     "id": "vn7",
+    "name": "Hanoi90",
+    "streamUrl": "http://14.162.146.90:8000/HANOI90",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/125634.v2.png",
+    "genre": "genre_pop",
+    "country": "country_vietnam"
+  },
+    {
+    "id": "vn2",
     "name": "Hanoi96",
     "streamUrl": "http://222.252.21.96:8000/HANOI96",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn8",
-    "name": "INTER FM",
-    "streamUrl": "http://stream.zeno.fm/1hbb9qbwszzuv.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn9",
-    "name": "Khanh Hoa",
-    "streamUrl": "http://210.245.20.94/hls/radio.m3u8",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/125634.v2.png",
     "genre": "genre_pop",
     "country": "country_vietnam"
   },
@@ -75,23 +43,15 @@
     "id": "vn10",
     "name": "Kien Giang",
     "streamUrl": "http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn11",
-    "name": "LA 34",
-    "streamUrl": "http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/2nG2wFS6HV.jpg",
     "genre": "genre_pop",
     "country": "country_vietnam"
   },
   {
     "id": "vn12",
     "name": "Little Saigon",
-    "streamUrl": "http://streaming.transnet1.com/",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://stream-289.zeno.fm/yvzaxu2qe7duv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Lc_toUIXabrpW3YjNaJRdXoMGtz8rdVhlxYo3NghSSI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E0TEx3emdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0F3S1RGa1FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg1NjIzNzAwMA.webp",
     "genre": "genre_pop",
     "country": "country_vietnam"
   },
@@ -99,31 +59,15 @@
     "id": "vn13",
     "name": "M Radio Việt Nam",
     "streamUrl": "https://stream.zeno.fm/4q7y9hvkp2zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn14",
-    "name": "Nationwide Viet",
-    "streamUrl": "http://vndcradio2.serverroom.us:4480/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn15",
-    "name": "Nationwide Viet",
-    "streamUrl": "http://162.244.80.33:4480/stream.mp3:4480/",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/qzPna8_7E7Elv3aQ59BRhjq_B3Co8kfuKnTFnfiaJyY/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EyY2lLaUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F1Y25IcXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEyMzAwMjAwMA.webp",
     "genre": "genre_pop",
     "country": "country_vietnam"
   },
   {
     "id": "vn16",
-    "name": "Nghe VOV1",
-    "streamUrl": "http://123.30.50.59:1935/live/vov2/stream.nsv",
-    "imageUrl": "__________________________",
+    "name": "VOV 1",
+    "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/media_w1130021241_1115713.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/29239.v9.png",
     "genre": "genre_news",
     "country": "country_vietnam"
   },
