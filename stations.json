@@ -2,7 +2,7 @@
   {
     "id": "ru1",
     "name": "Европа Плюс",
-    "streamUrl": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "streamUrl": "https://hls-01-regions.emgsound.ru/11_msk/112/playlist.m3u8",
     "imageUrl": "https://topradio.me/assets/image/radio/100/europa-plus.webp",
     "genre": "genre_pop",
     "country": "country_russia"
