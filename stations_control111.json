@@ -1,906 +1,962 @@
 [
   {
-    "id": "vn1",
-    "name": "Cai Luong Viet Nam",
-    "streamUrl": "https://stream.zeno.fm/0trm6wrnga0uv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/XQ6HZodSQ9rqfeZuD2VzT2DQEnKUr4xQ1atU60M6eJU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EyY2lLaUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvTC1ZcEFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM2MDc0NzAwMA.webp",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
+    "id": "il01",
+    "name": "Galatz 103 FM",
+    "streamUrl": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_israel"
   },
   {
-    "id": "vn5",
-    "name": "Dai Phat Thanh Viet Nam",
-    "streamUrl": "https://c13.radioboss.fm:18127/stream",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "id": "il02",
+    "name": "Galgalatz 91.8 FM",
+    "streamUrl": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_vietnam"
+    "country": "country_israel"
   },
   {
-    "id": "vn6",
-    "name": "Hà Nội Community Radio",
-    "streamUrl": "https://ha-noi-community-radio.radiocult.fm/stream",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/156323.v1.png",
+    "id": "il03",
+    "name": "Eco 99 FM",
+    "streamUrl": "http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_vietnam"
+    "country": "country_israel"
   },
   {
-    "id": "vn7",
-    "name": "Hanoi90",
-    "streamUrl": "http://14.162.146.90:8000/HANOI90",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/125634.v2.png",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
+    "id": "il04",
+    "name": "Kan Bet 95.5 FM",
+    "streamUrl": "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_israel"
   },
-    {
-    "id": "vn2",
-    "name": "Hanoi96",
+  {
+    "id": "il05",
+    "name": "Kan Gimmel",
+    "streamUrl": "https://kangimmel.media.kan.org.il/hls/live/2024813/2024813/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83979/logo_y4D5QSr4Lm.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il06",
+    "name": "Kan 88 FM",
+    "streamUrl": "https://kan88.media.kan.org.il/hls/live/2024812/2024812/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83980/logo_mFLWoHrTIh.png",
+    "genre": "genre_news",
+    "country": "country_israel"
+  },
+  {
+    "id": "il07",
+    "name": "Kan Moreshet",
+    "streamUrl": "https://kanmoreshet.media.kan.org.il/hls/live/2024814/2024814/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83978/logo_gILIBYJUOs.png",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il08",
+    "name": "Kan Tarbut",
+    "streamUrl": "https://kantarbut.media.kan.org.il/hls/live/2024816/2024816/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83971/logo_5HYH2sl7B2.png",
+    "genre": "genre_clasic",
+    "country": "country_israel"
+  },
+  {
+    "id": "il09",
+    "name": "Kan Kol HaMusica",
+    "streamUrl": "https://kankolhamusica.media.kan.org.il/hls/live/2024817/2024817/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83968/logo_5jkZt8c61a.png",
+    "genre": "genre_clasic",
+    "country": "country_israel"
+  },
+  {
+    "id": "il10",
+    "name": "Kan Makan (Arabic)",
+    "streamUrl": "https://makanradio.media.kan.org.il/hls/live/2024818/2024818/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_israel"
+  },
+  {
+    "id": "il11",
+    "name": "Kan Reka",
+    "streamUrl": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_israel"
+  },
+  {
+    "id": "il12",
+    "name": "Radio Tel Aviv 102 FM",
+    "streamUrl": "https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il13",
+    "name": "Radio Haifa 107.5 FM",
+    "streamUrl": "http://1075.livecdn.biz/radiohaifa",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il14",
+    "name": "100 FM Radius",
+    "streamUrl": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_israel"
+  },
+  {
+    "id": "il15",
+    "name": "100FM Radius - Hits",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84038/logo_nDhiYs2uQF.png",
+    "genre": "genre_hits",
+    "country": "country_israel"
+  },
+  {
+    "id": "il16",
+    "name": "100FM Radius - Retro",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Retro/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84032/logo_zP2mgmOdoF.png",
+    "genre": "genre_retro",
+    "country": "country_israel"
+  },
+  {
+    "id": "il17",
+    "name": "100FM Radius - 70s",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/10070s/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_israel"
+  },
+  {
+    "id": "il18",
+    "name": "100FM Radius - 80s",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/10080s/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_israel"
+  },
+  {
+    "id": "il19",
+    "name": "100FM Radius - 90s",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/10090s/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_israel"
+  },
+  {
+    "id": "il20",
+    "name": "100FM Radius - 2000s",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/1002000s/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84063/logo_zMGEHRIh1k.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il21",
+    "name": "100FM Radius - Dance",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Dance/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_israel"
+  },
+  {
+    "id": "il22",
+    "name": "100FM Radius - Club",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Club/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_israel"
+  },
+  {
+    "id": "il23",
+    "name": "100FM Radius - Deep",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Deep/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_deephouse",
+    "country": "country_israel"
+  },
+  {
+    "id": "il24",
+    "name": "100FM Radius - Hip Hop",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Hiphop/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il25",
+    "name": "100FM Radius - Rock",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_israel"
+  },
+  {
+    "id": "il26",
+    "name": "100FM Radius - Classic Rock",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83916/logo_eGm1zfZKRf.png",
+    "genre": "genre_rock",
+    "country": "country_israel"
+  },
+  {
+    "id": "il27",
+    "name": "100FM Radius - Jazz",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Jazz/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_israel"
+  },
+  {
+    "id": "il28",
+    "name": "100FM Radius - Blues",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_blues",
+    "country": "country_israel"
+  },
+  {
+    "id": "il29",
+    "name": "100FM Radius - Relax",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Relax/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83908/logo_nYhGua69Gy.png",
+    "genre": "genre_relax",
+    "country": "country_israel"
+  },
+  {
+    "id": "il30",
+    "name": "100FM Radius - Chillout",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_israel"
+  },
+  {
+    "id": "il31",
+    "name": "100FM Radius - Cafe",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Cafe/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_israel"
+  },
+  {
+    "id": "il32",
+    "name": "100FM Radius - Israeli",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Israeli/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il33",
+    "name": "100FM Radius - Yehudi",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84021/logo_Hb4SMpAQvP.png",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il34",
+    "name": "100FM Radius - Kids",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Kids/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83904/logo_3hG5gcn0QZ.png",
+    "genre": "genre_kids",
+    "country": "country_israel"
+  },
+  {
+    "id": "il35",
+    "name": "100FM Radius - Disney",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Disney/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84019/logo_VOvI3rTP0H.png",
+    "genre": "genre_kids",
+    "country": "country_israel"
+  },
+  {
+    "id": "il36",
+    "name": "100FM Radius - Hot",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/91Hot/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84014/logo_XjLqB7Pkur.png",
+    "genre": "genre_hits",
+    "country": "country_israel"
+  },
+  {
+    "id": "il37",
+    "name": "100FM Radius - Top 40",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Top40/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_israel"
+  },
+  {
+    "id": "il38",
+    "name": "100FM Radius - Workout",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_israel"
+  },
+  {
+    "id": "il39",
+    "name": "100FM Radius - Russian",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/891Digital/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84044/logo_NgsPO6LL7L.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il40",
+    "name": "100FM Radius - Greek",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Greek/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83901/logo_zVbLYWqX3H.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il41",
+    "name": "100FM Radius - Nostalgia",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_israel"
+  },
+  {
+    "id": "il42",
+    "name": "100FM Radius - Brit Pop",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_israel"
+  },
+  {
+    "id": "il43",
+    "name": "100FM Radius - Country",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Country/chunks.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_israel"
+  },
+  {
+    "id": "il44",
+    "name": "100FM Radius - Latin",
+    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il45",
+    "name": "Radio 103 FM",
+    "streamUrl": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il46",
+    "name": "Radio Lev HaMedina 91 FM",
+    "streamUrl": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83963/logo_SkEnrJWYF9.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il47",
+    "name": "Radio HaMesh 99.5 FM",
+    "streamUrl": "https://995.livecdn.biz/995fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il48",
+    "name": "Kol Barama",
+    "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il49",
+    "name": "Galey Yisrael",
+    "streamUrl": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il50",
+    "name": "Radio Darom 97 FM",
+    "streamUrl": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il51",
+    "name": "Radio Darom 101.5 FM",
+    "streamUrl": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il52",
+    "name": "Radio 2000 102.6 FM",
+    "streamUrl": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il53",
+    "name": "Radio FM 102 Eilat",
+    "streamUrl": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83957/logo_kySwGlrg3U.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il54",
+    "name": "Pervoe Radio (Russian)",
+    "streamUrl": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il55",
+    "name": "Luchshee Radio (Russian)",
+    "streamUrl": "https://edge-fs-10.cybercdn.live/TheBest/live/chunks.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il56",
+    "name": "Radio 90 FM",
+    "streamUrl": "https://radio.streamgates.net/stream/90fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il57",
+    "name": "Radio 101 FM",
+    "streamUrl": "https://radio.streamgates.net/stream/101fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il58",
+    "name": "Radio 104.5 FM Jerusalem",
+    "streamUrl": "https://radio.streamgates.net/stream/1045fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il59",
+    "name": "Radio Sol",
+    "streamUrl": "https://radio.streamgates.net/stream/sol",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83884/logo_cGoL2sPlJN.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il60",
+    "name": "Radio HaTahana 101.5 FM",
+    "streamUrl": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84004/logo_YpY3cpgwm7.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il61",
+    "name": "Kol Galim 106 FM",
+    "streamUrl": "https://live.ecast.co.il/stream/galimlive",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il62",
+    "name": "Kol HaKinneret",
+    "streamUrl": "https://radio.streamgates.net/stream/kinneret",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il63",
+    "name": "Kol HaGolan",
+    "streamUrl": "https://liveradio.co.il/kolhagolan",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il64",
+    "name": "Kol Yizre'el",
+    "streamUrl": "https://radio.streamgates.net/stream/yezreel",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il65",
+    "name": "Kol HaTzafon",
+    "streamUrl": "https://live.ecast.co.il/stream/khz",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83918/logo_GcvOjqTyuv.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il66",
+    "name": "Kol Ramat HaSharon 103.6 FM",
+    "streamUrl": "https://radio.streamgates.net/stream/1036",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il67",
+    "name": "Kol HaShfela 103.6 FM",
+    "streamUrl": "https://radio.streamgates.net/stream/1036kh",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il68",
+    "name": "Radio Dudi FM",
+    "streamUrl": "https://live.ecast.co.il/stream/dudifm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il69",
+    "name": "Radio Azori 69 FM",
+    "streamUrl": "https://live.ecast.co.il/stream/69fm/azori",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il70",
+    "name": "Radio Sahar",
+    "streamUrl": "https://live.ecast.co.il:8020",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il71",
+    "name": "Radio Eretz HaGolan",
+    "streamUrl": "https://radio.streamgates.net/stream/eretzgolan",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il72",
+    "name": "Radio Voice of the Red Sea (Eilat)",
+    "streamUrl": "https://radio.streamgates.net/stream/eilat",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il73",
+    "name": "Radio Lev Hayam Hatichon",
+    "streamUrl": "https://liveradio.co.il:8060/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/103354/logo_GHvzdtLXxk.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il74",
+    "name": "Radio Ahava Bayam Hatichon",
+    "streamUrl": "http://liveradio.co.il:9080",
+    "imageUrl": "https://radiospinner.com/media/logos/180/103330/logo_D0OmssIqh3.png",
+    "genre": "genre_relax",
+    "country": "country_israel"
+  },
+  {
+    "id": "il75",
+    "name": "Radio 5 (Sport)",
+    "streamUrl": "https://liveradio.co.il:8070/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83866/logo_VhkAbNpkjR.png",
+    "genre": "genre_sport",
+    "country": "country_israel"
+  },
+  {
+    "id": "il76",
+    "name": "Sport 5 Radio",
+    "streamUrl": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_israel"
+  },
+  {
+    "id": "il77",
+    "name": "Noshmim Mizrahit",
+    "streamUrl": "https://mzr.mediacast.co.il/mzradio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il78",
+    "name": "Mizrahit Original Radio",
+    "streamUrl": "https://sweb.co.il:8000/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83981/logo_uzz3LfpaUD.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il79",
+    "name": "Ze Rock Radio",
+    "streamUrl": "https://icecast.live/proxy/zerock/zerock",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_israel"
+  },
+  {
+    "id": "il80",
+    "name": "Teder FM",
+    "streamUrl": "https://radio.streamgates.net/stream/teder",
+    "imageUrl": "__________________________",
+    "genre": "genre_electronic",
+    "country": "country_israel"
+  },
+  {
+    "id": "il81",
+    "name": "Maxximixx Play Live",
+    "streamUrl": "https://maxximixx-server.com:5328/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83928/logo_XBy3bes9MO.png",
+    "genre": "genre_dance",
+    "country": "country_israel"
+  },
+  {
+    "id": "il82",
+    "name": "Maxximixx Always The New Sound",
+    "streamUrl": "https://maxximixx-server.com:6803/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83900/logo_7DHOZc6Tem.png",
+    "genre": "genre_dance",
+    "country": "country_israel"
+  },
+  {
+    "id": "il83",
+    "name": "Maxximixx Rave 90s",
+    "streamUrl": "https://maxximixx-server.com:6490/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83937/logo_FroFTv4Y1x.png",
+    "genre": "genre_90s",
+    "country": "country_israel"
+  },
+  {
+    "id": "il84",
+    "name": "Toker FM",
+    "streamUrl": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il85",
+    "name": "Radio Nostalgia",
+    "streamUrl": "http://194.213.4.197:8000/listen.pls?sid=1",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_israel"
+  },
+  {
+    "id": "il86",
+    "name": "Radio Menta",
+    "streamUrl": "http://menta-fm.co.il:8281/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il87",
+    "name": "Radio Mania",
+    "streamUrl": "https://cast.ereznet.co.il/radio/8030/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il88",
+    "name": "A-Shams Radio (Arabic)",
+    "streamUrl": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il89",
+    "name": "Radio Ran (Arabic)",
+    "streamUrl": "https://ams1.reliastream.com/proxy/avico00?mp=/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84029/logo_7r7JrO9H5O.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il90",
+    "name": "Radio Setareh (Persian)",
+    "streamUrl": "https://s2.free-shoutcast.com/stream/18256",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83896/logo_9UFPT2Oxs6.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il91",
+    "name": "Radio B.B Bukharian Jewish Music",
+    "streamUrl": "https://liveradio.co.il:1100/?type=http&nocache=1641830637",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83885/logo_93tELWg6Xj.png",
+    "genre": "genre_folk",
+    "country": "country_israel"
+  },
+  {
+    "id": "il92",
+    "name": "Radio Brizer Israel",
+    "streamUrl": "https://sweb.co.il:8888/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83950/logo_ZQqaLZfKsx.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il93",
+    "name": "Radio EL-HI",
+    "streamUrl": "https://a2.asurahosting.com:6760/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83983/logo_hZVkpR7lEi.png",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il94",
+    "name": "Kol Chai",
+    "streamUrl": "https://live.kcm.fm/live-new",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il95",
+    "name": "Kol Chai Music",
+    "streamUrl": "https://live.kcm.fm/livemusic",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il96",
+    "name": "Radio Kol-Chai Kids - רק ילדים",
+    "streamUrl": "https://live.kcm.fm/06",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84030/logo_yLmZuvQjdk.png",
+    "genre": "genre_kids",
+    "country": "country_israel"
+  },
+  {
+    "id": "il97",
+    "name": "Radio Breslev",
+    "streamUrl": "https://stream.radiobreslev.co.il/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il98",
+    "name": "Radio Mevaser Tov",
+    "streamUrl": "https://liveradio.co.il/chasidi",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83871/logo_YI36OGtkMd.png",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il99",
+    "name": "Radio Kol Nesher",
+    "streamUrl": "https://radio.kolnesher.co.il:7777/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83907/logo_eFHtXAeP4E.png",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il100",
+    "name": "Kabbalah English",
+    "streamUrl": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il101",
+    "name": "Kabbalah Hebrew",
+    "streamUrl": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il102",
+    "name": "Kabbalah Russian",
+    "streamUrl": "http://icecast.kab.tv/live1-rus-574bcfd5.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il103",
+    "name": "Yeshua Messianic Radio",
+    "streamUrl": "http://dc3.serverse.com:1120/?type=http",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83867/logo_ylqgKnuIRI.png",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il104",
+    "name": "Radio Agape Israel",
+    "streamUrl": "https://s3.radio.co/s43b65d791/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il105",
+    "name": "Israel News Talk Radio",
+    "streamUrl": "https://dfw.audio-stream.com/proxy/israelne?mp=%2Flive_live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83894/logo_lDyWExUhwZ.png",
+    "genre": "genre_news",
+    "country": "country_israel"
+  },
+  {
+    "id": "il106",
+    "name": "Joint Radio Beat",
+    "streamUrl": "https://betelgeuse.nucast.co.uk/stream/jrn-beat?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_electronic",
+    "country": "country_israel"
+  },
+  {
+    "id": "il107",
+    "name": "Joint Radio Blues Rock",
+    "streamUrl": "https://betelgeuse.nucast.co.uk/stream/jrn-blues?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_blues",
+    "country": "country_israel"
+  },
+  {
+    "id": "il108",
+    "name": "Joint Radio Reggae",
+    "streamUrl": "https://betelgeuse.nucast.co.uk/stream/jrn-reggae?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_israel"
+  },
+  {
+    "id": "il109",
+    "name": "Jewish Music Stream",
+    "streamUrl": "https://stream.jewishmusicstream.com:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_israel"
+  },
+  {
+    "id": "il110",
+    "name": "Hanoi96 Radio",
     "streamUrl": "http://222.252.21.96:8000/HANOI96",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/125634.v2.png",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83686/logo_lRH29Ga9pa.png",
     "genre": "genre_pop",
-    "country": "country_vietnam"
+    "country": "country_israel"
   },
   {
-    "id": "vn10",
-    "name": "Kien Giang",
-    "streamUrl": "http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8",
-    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/2nG2wFS6HV.jpg",
+    "id": "il111",
+    "name": "RadioFix2525",
+    "streamUrl": "https://stream3.rcast.net/72648",
+    "imageUrl": "https://radiospinner.com/media/logos/180/84003/logo_izp5KdGubL.png",
     "genre": "genre_pop",
-    "country": "country_vietnam"
+    "country": "country_israel"
   },
   {
-    "id": "vn12",
-    "name": "Little Saigon",
-    "streamUrl": "https://stream-289.zeno.fm/yvzaxu2qe7duv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Lc_toUIXabrpW3YjNaJRdXoMGtz8rdVhlxYo3NghSSI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E0TEx3emdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0F3S1RGa1FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg1NjIzNzAwMA.webp",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn13",
-    "name": "M Radio Việt Nam",
-    "streamUrl": "https://stream.zeno.fm/4q7y9hvkp2zuv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/qzPna8_7E7Elv3aQ59BRhjq_B3Co8kfuKnTFnfiaJyY/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EyY2lLaUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F1Y25IcXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEyMzAwMjAwMA.webp",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn16",
-    "name": "VOV 1",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/media_w1130021241_1115713.aac",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/29239.v9.png",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn17",
-    "name": "RADIO VNCR 106.3 FM",
-    "streamUrl": "https://vncr.mixlr.com/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn18",
-    "name": "RFA (Radio Free Asia) ch.2",
-    "streamUrl": "https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn19",
-    "name": "RFI Tiếng Việt - 64 - Vietnam - news",
-    "streamUrl": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn20",
-    "name": "RFI Vietnam Tiếng Việt",
-    "streamUrl": "http://live02.rfi.fr/rfienvietnamien-64.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn21",
-    "name": "RFI Vietnamese",
-    "streamUrl": "https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn22",
-    "name": "Radio Veritas Asia",
-    "streamUrl": "http://stream.rveritas-asia.org:8000/Vietnamese.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn23",
-    "name": "Saigon Radio 890am Dallas",
-    "streamUrl": "http://67.212.189.122:8068/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn24",
-    "name": "Saigon Radio Hai Ngoai 106.3",
-    "streamUrl": "http://ice3.securenetsystems.net/KALIM?playSessionID=B2EF8726-042D-601D-0DB377897A7EDF85",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn25",
-    "name": "Saigon Radio Houston 900 AM",
-    "streamUrl": "http://epsilon.shoutca.st:8619/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn26",
-    "name": "Saigon Radio San Jose 1430AM",
-    "streamUrl": "http://ice5.securenetsystems.net/KVVN?playSessionID=B2E069BC-019E-D87D-979D1FD9DD0EB2E2",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn27",
-    "name": "Saigoner",
-    "streamUrl": "https://stream.zeno.fm/5cyfrgpebkhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn28",
-    "name": "TNT",
-    "streamUrl": "http://162.244.80.118:3092/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn29",
-    "name": "TRT Radio Vietnam",
-    "streamUrl": "https://live.trt.com.vn/Radio-online/chunklist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn30",
-    "name": "Tien Giang",
-    "streamUrl": "http://thtg.vn/live/radio/radiolive.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn31",
-    "name": "VINA Vietnam",
-    "streamUrl": "http://vpr.serverroom.us:7492/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn32",
-    "name": "VOH 95.6",
-    "streamUrl": "https://strm.voh.com.vnhttp:/adio/channel1/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn33",
-    "name": "VOH 99.9",
-    "streamUrl": "https://strm.voh.com.vn/radio/channel3/chunklist_w309271778.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn34",
-    "name": "VOH 99.9",
-    "streamUrl": "https://strm.voh.com.vnhttp:/adio/channel3/chunklist_w309271778.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn35",
-    "name": "VOH AM",
-    "streamUrl": "https://strm.voh.com.vn/radio/channel2/chunklist_w2147462479.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn36",
-    "name": "VOH AM 610",
-    "streamUrl": "https://strm.voh.com.vn/radio/channel2/chunklist_w883582888.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn37",
-    "name": "VOH AM 610 Khz",
-    "streamUrl": "https://strm.voh.com.vn/radio/channel2/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn38",
-    "name": "VOH FM",
-    "streamUrl": "https://strm.voh.com.vn/radio/channel2/chunklist_w182917363.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn39",
-    "name": "VOH FM 87.7 Mhz",
-    "streamUrl": "https://strm.voh.com.vn/live/channel5/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn40",
-    "name": "VOH FM 95.6 Mhz",
-    "streamUrl": "https://strm.voh.com.vn/radio/channel1/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn41",
-    "name": "VOH FM 99.9",
-    "streamUrl": "http://118.70.205.22:1935/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn42",
-    "name": "VOH FM 99.9 Mhz",
-    "streamUrl": "https://strm.voh.com.vn/radio/channel3/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn43",
-    "name": "VOH Radio FM",
-    "streamUrl": "http://radio.vnunited.com:8000/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn44",
-    "name": "VOH fm",
-    "streamUrl": "https://5a6872aace0ce.streamlock.net/nghevov1/vov1.stream_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn45",
-    "name": "VOV 1",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn46",
-    "name": "VOV 2",
-    "streamUrl": "https://stream.vov.vn/c85fb6ff91648ff8d3e65c918c7ebcd71632652619/audio/vovvn1_vov2.stream_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn47",
-    "name": "VOV 2",
-    "streamUrl": "http://media.kythuatvov.vn:7003/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn48",
-    "name": "VOV 2",
-    "streamUrl": "https://stream.vovmedia.vn/vov2/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn49",
-    "name": "VOV 3",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn50",
-    "name": "VOV 3",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w796335891.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn51",
-    "name": "VOV 4",
-    "streamUrl": "http://streaming1.vov.vn:1935/audio/vovvn1_vovTTTB.stream_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn52",
-    "name": "VOV 4",
-    "streamUrl": "http://media.kythuatvov.vn:7035/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn53",
-    "name": "VOV 5",
-    "streamUrl": "https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn54",
-    "name": "VOV 5",
-    "streamUrl": "https://stream.vovmedia.vn/vov5",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn55",
-    "name": "VOV 5",
-    "streamUrl": "https://carol.epichosts.co.uk:8270/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn56",
-    "name": "VOV 5 World 24/7 English",
-    "streamUrl": "https://stream.vov.vn/5d91eb3cb0d3593198c458cd004fd1351660306902/audio/vovvn1_vov247.stream_aac/chunklist_w666216689.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn57",
-    "name": "VOV 5 World 24/7 English",
-    "streamUrl": "https://stream.vovmedia.vn/vov247",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn58",
-    "name": "VOV Giao Thông Hà Nội",
-    "streamUrl": "http://media.kythuatvov.vn:7025/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn59",
-    "name": "VOV Giao Thông Hà Nội",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8",
+    "id": "il112",
+    "name": "Radio Hevrati",
+    "streamUrl": "https://live.ecast.co.il/stream/hevrati",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
+    "genre": "genre_info",
+    "country": "country_israel"
   },
   {
-    "id": "vn60",
-    "name": "VOV Giao thông",
-    "streamUrl": "http://117.6.93.250:7025/",
+    "id": "il113",
+    "name": "Radio EOL",
+    "streamUrl": "https://eol-live.cdnwiz.com/eol/eolsite/playlist.m3u8",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn61",
-    "name": "VOV1",
-    "streamUrl": "https://stream.vov.vn/vov1-audio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn62",
-    "name": "VOV1",
-    "streamUrl": "http://113.164.229.226:7001/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn63",
-    "name": "VOV2",
-    "streamUrl": "https://stream.vov.vn/vov2-audio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn64",
-    "name": "VOV2 FM 96.5",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn65",
-    "name": "VOV3",
-    "streamUrl": "https://stream.vov.vn/vov3-audio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn66",
-    "name": "VOV3 Music",
-    "streamUrl": "http://media.kythuatvov.vn:10005/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn67",
-    "name": "VOV4",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vov4.DBCuuLong.sdp_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn68",
-    "name": "VOV5",
-    "streamUrl": "https://stream1.vov.vn/vov5-audio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn69",
-    "name": "VOV5",
-    "streamUrl": "https://stream.vov.vn/0f53d9b7c7dc25b081c5dd31ca39d6801660314767/audio/vovvn1_vov5.stream_aac/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn70",
-    "name": "VOV5 - Voice of Vietnam",
-    "streamUrl": "http://stream.mobiradio.vn/vov5",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn71",
-    "name": "VOVGT - TP Hồ Chí Minh",
-    "streamUrl": "https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn72",
-    "name": "VOVMedia - VOV FM89",
-    "streamUrl": "http://media.kythuatvov.vn:7021/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn73",
-    "name": "VOVMedia - VOV Giao thông Hồ Chí Minh",
-    "streamUrl": "http://media.kythuatvov.vn:7023/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn74",
-    "name": "VOVMedia - VOV5 Phát thanh đối ngoại",
-    "streamUrl": "http://media.kythuatvov.vn:7007/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn75",
-    "name": "Viet Washington DC",
-    "streamUrl": "http://varadio.serverroom.net:7968/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn76",
-    "name": "Vietchristian",
-    "streamUrl": "http://vpr.serverroom.us:7492/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn77",
-    "name": "Vietnam Vet",
-    "streamUrl": "https://cast2.asurahosting.com/proxy/vietnam1/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn78",
-    "name": "XONE FM",
-    "streamUrl": "https://node-04.zeno.fm/7m5cd9fad3quv.aac?rj-ttl=5&amprj-tok=AAABbtXubY8Ar1KDA50u7Cooyw",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn79",
-    "name": "Xonefm",
-    "streamUrl": "https://vnno-pt-1-tf-playlist-live-zmp3.zadn.vn/hpOx2UjqVEQ/zhls/live/standard-audio/855a669d5ad8b386eac9/standard-audio.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn80",
-    "name": "Avena-Radio",
-    "streamUrl": "https://stream.zeno.fm/vwd83ebg1c9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn81",
-    "name": "BTV Đài PTTH Bình Dương",
-    "streamUrl": "https://btvfm011220.cdn.vnns.io/0f17efc087522f4f6c5924cdd03c919a1660325640/btv-fm.tms/chunks.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn82",
-    "name": "BTV Đài PTTH Bình Dương FM",
-    "streamUrl": "https://btvfm011220.cdn.vnns.io/cabc6e567719bfb7a57307fa36069b7c1660317400/btv-fm.tms/chunks.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn83",
-    "name": "BXHRadio",
-    "streamUrl": "https://stream.zeno.fm/bnuzk0znhm8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn84",
-    "name": "DE1 Radio Chanel",
-    "streamUrl": "https://stream.zeno.fm/v62txpgnq18uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn85",
-    "name": "Dasliveradio2",
-    "streamUrl": "https://stream.laut.fm/dasliveradio2?ref=radiode",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn86",
-    "name": "Easy Radio FM88.3",
-    "streamUrl": "https://stream.zeno.fm/89wbgpkay4zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn87",
-    "name": "Lofi Radio Vietnam",
-    "streamUrl": "https://stream.zeno.fm/hbf2d2dmh48uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn88",
-    "name": "M Radio Giải Trí Việt Nam",
-    "streamUrl": "https://stream-37.zeno.fm/4q7y9hvkp2zuv?zs=nXdB3cFjR2O65YXQ-_HiTw&aw_0_req_lsid=8196d2c78a734f244852a3f8bbbecbcb",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn89",
-    "name": "NewsRadio 1500",
-    "streamUrl": "https://stream.zeno.fm/197pkxsrta0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn90",
-    "name": "NewsRadio 2 - FM 102.3",
-    "streamUrl": "https://stream.zeno.fm/9rgh9ek0hd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn91",
-    "name": "NewsRadio 3 - AM 610",
-    "streamUrl": "https://stream.zeno.fm/e9wggvtqnd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn92",
-    "name": "NewsRadio In4tainment",
-    "streamUrl": "https://stream.zeno.fm/1n701dyqnd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn93",
-    "name": "RADIO ADRECONCILIACAO",
-    "streamUrl": "https://stream.zeno.fm/12bt06chbm0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn94",
-    "name": "REMIX RADIO 01",
-    "streamUrl": "https://stream.zeno.fm/ptkzhcn15k0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn95",
-    "name": "Radio 247",
-    "streamUrl": "https://stream.zeno.fm/yqz6vefaxg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn96",
-    "name": "Radio Crispro941",
-    "streamUrl": "https://panelradio.online:19008/aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn97",
-    "name": "Radio Free Press",
-    "streamUrl": "https://stream.zeno.fm/0g4w54wqrfhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn98",
-    "name": "Radio Iggy Pop",
-    "streamUrl": "https://stream.zeno.fm/zy8gnebkb8zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn99",
-    "name": "Radio Saigon Dallas",
-    "streamUrl": "http://67.212.189.122:8068/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn100",
-    "name": "Radio Saigon Houston",
-    "streamUrl": "http://shout.audionow.com:8000/RadioSaigonHuston",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn101",
-    "name": "Radio Saigon Houston KREH 900 AM",
-    "streamUrl": "http://centova87.instainternet.com:8070/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn102",
-    "name": "Radio San Sebastian",
-    "streamUrl": "https://stream.zeno.fm/8so2thgopdytv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn103",
-    "name": "Radio Station",
-    "streamUrl": "https://stream.zeno.fm/k7n6rmznx38uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn104",
-    "name": "Radio Tiếng Nước Tôi",
-    "streamUrl": "http://162.244.80.118:3092/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn105",
-    "name": "Radio_Trung",
-    "streamUrl": "https://stream.zeno.fm/d7a0zfde8e9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_vietnam"
+    "genre": "genre_info",
+    "country": "country_israel"
   },
   {
-    "id": "vn106",
-    "name": "Radioapolo1320",
-    "streamUrl": "https://stream.zeno.fm/ceb24vdmdv8uv",
+    "id": "il114",
+    "name": "Mt Scopus Radio (Hebrew University)",
+    "streamUrl": "https://msradio.huji.ac.il/wwwroot/basics/48Kmancreation.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_vietnam"
+    "country": "country_israel"
   },
   {
-    "id": "vn107",
-    "name": "Vietnam Classical Radio Saigon",
-    "streamUrl": "https://stream.zeno.fm/6cmbm5pmkkhvv",
+    "id": "il115",
+    "name": "Radio Qualita",
+    "streamUrl": "https://www.radioking.com/play/radio-qualita",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_vietnam"
+    "country": "country_israel"
   },
   {
-    "id": "vn108",
-    "name": "vOzer's Radio Online",
-    "streamUrl": "http://live.vozradio.net:8000/live",
+    "id": "il116",
+    "name": "Rak Musica",
+    "streamUrl": "https://play.radioking.io/rak-musica/670240",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_vietnam"
+    "country": "country_israel"
   },
   {
-    "id": "vn109",
-    "name": "Đài PTTH Bình Phước – 89.4 FM",
-    "streamUrl": "http://c13.radioboss.fm:8127/stream",
+    "id": "il117",
+    "name": "Star 33 Radio",
+    "streamUrl": "https://online.star33radio.com:1115/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
+    "genre": "genre_pop",
+    "country": "country_israel"
   },
   {
-    "id": "vn110",
-    "name": "Đài PTTH Bình Thuận",
-    "streamUrl": "http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8",
+    "id": "il118",
+    "name": "Radio Breslev Carmiel",
+    "streamUrl": "https://securestreams6.autopo.st:2294/mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
+    "genre": "genre_religious",
+    "country": "country_israel"
   },
   {
-    "id": "vn111",
-    "name": "Đài PTTH Bạc Liêu",
-    "streamUrl": "https://tv.thbl.vn/live/radio/radio.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
+    "id": "il119",
+    "name": "Radio Gospel Mirshet Mimed",
+    "streamUrl": "https://stream2.svrdedicado.org/8326/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/83943/logo_ZOK61rWHE6.png",
+    "genre": "genre_religious",
+    "country": "country_israel"
   },
   {
-    "id": "vn112",
-    "name": "Đài PTTH Bắc Giang",
-    "streamUrl": "https://live.bacgiangtv.vn/bgtvlive/radio.m3u8",
+    "id": "il120",
+    "name": "Eman City Quran Radio",
+    "streamUrl": "http://66.45.232.131:9990/",
     "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn113",
-    "name": "Đài PTTH Bắc Kạn",
-    "streamUrl": "http://14.224.167.97:8080/hls/radio.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn114",
-    "name": "Đài PTTH Cao Bằng",
-    "streamUrl": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn115",
-    "name": "Đài PTTH Cà Mau",
-    "streamUrl": "http://tv.ctvcamau.vn/live/radio/radio.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn116",
-    "name": "Đài PTTH Cần Thơ",
-    "streamUrl": "https://tv.tchgroup.vn/live/radio/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn117",
-    "name": "Đài PTTH Gia Lai",
-    "streamUrl": "http://113.161.25.3:8134/hls/radio/radio.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn118",
-    "name": "Đài PTTH Hà Giang",
-    "streamUrl": "http://113.162.84.113:8081/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn119",
-    "name": "Đài PTTH Hà Nội JoyFM",
-    "streamUrl": "http://radio.joyfm.vn:1935/live/RadioOnline/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
-  },
-  {
-    "id": "vn120",
-    "name": "Đài PTTH Hưng Yên",
-    "streamUrl": "https://live.hungyentv.vn/hytvlive/radio.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_vietnam"
+    "genre": "genre_religious",
+    "country": "country_israel"
   }
 ]
