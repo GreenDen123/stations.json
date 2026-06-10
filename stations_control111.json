@@ -1,962 +1,386 @@
 [
   {
-    "id": "il01",
-    "name": "Galatz 103 FM",
-    "streamUrl": "http://glzwizzlv.bynetcdn.com/glz_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_israel"
-  },
-  {
-    "id": "il02",
-    "name": "Galgalatz 91.8 FM",
-    "streamUrl": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+    "id": "uz01",
+    "name": "Radio O'zbegim Taronasi 101 FM",
+    "streamUrl": "https://fm101.uz:9943/fm101_low.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il03",
-    "name": "Eco 99 FM",
-    "streamUrl": "http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+    "id": "uz02",
+    "name": "Qalbim Navosi",
+    "streamUrl": "https://live.qalbimnavosi.uz/qalbimnavosi",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82711/logo_K15R2IJfVJ.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz03",
+    "name": "A'lo FM",
+    "streamUrl": "http://tabassum.uz:9000/alo_low",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il04",
-    "name": "Kan Bet 95.5 FM",
-    "streamUrl": "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_israel"
-  },
-  {
-    "id": "il05",
-    "name": "Kan Gimmel",
-    "streamUrl": "https://kangimmel.media.kan.org.il/hls/live/2024813/2024813/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83979/logo_y4D5QSr4Lm.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il06",
-    "name": "Kan 88 FM",
-    "streamUrl": "https://kan88.media.kan.org.il/hls/live/2024812/2024812/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83980/logo_mFLWoHrTIh.png",
-    "genre": "genre_news",
-    "country": "country_israel"
-  },
-  {
-    "id": "il07",
-    "name": "Kan Moreshet",
-    "streamUrl": "https://kanmoreshet.media.kan.org.il/hls/live/2024814/2024814/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83978/logo_gILIBYJUOs.png",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il08",
-    "name": "Kan Tarbut",
-    "streamUrl": "https://kantarbut.media.kan.org.il/hls/live/2024816/2024816/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83971/logo_5HYH2sl7B2.png",
-    "genre": "genre_clasic",
-    "country": "country_israel"
-  },
-  {
-    "id": "il09",
-    "name": "Kan Kol HaMusica",
-    "streamUrl": "https://kankolhamusica.media.kan.org.il/hls/live/2024817/2024817/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83968/logo_5jkZt8c61a.png",
-    "genre": "genre_clasic",
-    "country": "country_israel"
-  },
-  {
-    "id": "il10",
-    "name": "Kan Makan (Arabic)",
-    "streamUrl": "https://makanradio.media.kan.org.il/hls/live/2024818/2024818/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_israel"
-  },
-  {
-    "id": "il11",
-    "name": "Kan Reka",
-    "streamUrl": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_israel"
-  },
-  {
-    "id": "il12",
-    "name": "Radio Tel Aviv 102 FM",
-    "streamUrl": "https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio",
+    "id": "uz04",
+    "name": "Navruz FM",
+    "streamUrl": "http://navruzfm.uz:9000/navruz_low",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il13",
-    "name": "Radio Haifa 107.5 FM",
-    "streamUrl": "http://1075.livecdn.biz/radiohaifa",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il14",
-    "name": "100 FM Radius",
-    "streamUrl": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_israel"
-  },
-  {
-    "id": "il15",
-    "name": "100FM Radius - Hits",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84038/logo_nDhiYs2uQF.png",
-    "genre": "genre_hits",
-    "country": "country_israel"
-  },
-  {
-    "id": "il16",
-    "name": "100FM Radius - Retro",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Retro/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84032/logo_zP2mgmOdoF.png",
-    "genre": "genre_retro",
-    "country": "country_israel"
-  },
-  {
-    "id": "il17",
-    "name": "100FM Radius - 70s",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/10070s/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_israel"
-  },
-  {
-    "id": "il18",
-    "name": "100FM Radius - 80s",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/10080s/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_israel"
-  },
-  {
-    "id": "il19",
-    "name": "100FM Radius - 90s",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/10090s/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_90s",
-    "country": "country_israel"
-  },
-  {
-    "id": "il20",
-    "name": "100FM Radius - 2000s",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/1002000s/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84063/logo_zMGEHRIh1k.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il21",
-    "name": "100FM Radius - Dance",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Dance/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_israel"
-  },
-  {
-    "id": "il22",
-    "name": "100FM Radius - Club",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Club/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_israel"
-  },
-  {
-    "id": "il23",
-    "name": "100FM Radius - Deep",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Deep/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_deephouse",
-    "country": "country_israel"
-  },
-  {
-    "id": "il24",
-    "name": "100FM Radius - Hip Hop",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Hiphop/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il25",
-    "name": "100FM Radius - Rock",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_israel"
-  },
-  {
-    "id": "il26",
-    "name": "100FM Radius - Classic Rock",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83916/logo_eGm1zfZKRf.png",
-    "genre": "genre_rock",
-    "country": "country_israel"
-  },
-  {
-    "id": "il27",
-    "name": "100FM Radius - Jazz",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Jazz/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_israel"
-  },
-  {
-    "id": "il28",
-    "name": "100FM Radius - Blues",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
-    "country": "country_israel"
-  },
-  {
-    "id": "il29",
-    "name": "100FM Radius - Relax",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Relax/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83908/logo_nYhGua69Gy.png",
-    "genre": "genre_relax",
-    "country": "country_israel"
-  },
-  {
-    "id": "il30",
-    "name": "100FM Radius - Chillout",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_israel"
-  },
-  {
-    "id": "il31",
-    "name": "100FM Radius - Cafe",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Cafe/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_israel"
-  },
-  {
-    "id": "il32",
-    "name": "100FM Radius - Israeli",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Israeli/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il33",
-    "name": "100FM Radius - Yehudi",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84021/logo_Hb4SMpAQvP.png",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il34",
-    "name": "100FM Radius - Kids",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Kids/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83904/logo_3hG5gcn0QZ.png",
-    "genre": "genre_kids",
-    "country": "country_israel"
-  },
-  {
-    "id": "il35",
-    "name": "100FM Radius - Disney",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Disney/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84019/logo_VOvI3rTP0H.png",
-    "genre": "genre_kids",
-    "country": "country_israel"
-  },
-  {
-    "id": "il36",
-    "name": "100FM Radius - Hot",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/91Hot/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84014/logo_XjLqB7Pkur.png",
-    "genre": "genre_hits",
-    "country": "country_israel"
-  },
-  {
-    "id": "il37",
-    "name": "100FM Radius - Top 40",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Top40/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_israel"
-  },
-  {
-    "id": "il38",
-    "name": "100FM Radius - Workout",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_israel"
-  },
-  {
-    "id": "il39",
-    "name": "100FM Radius - Russian",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/891Digital/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84044/logo_NgsPO6LL7L.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il40",
-    "name": "100FM Radius - Greek",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Greek/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83901/logo_zVbLYWqX3H.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il41",
-    "name": "100FM Radius - Nostalgia",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_israel"
-  },
-  {
-    "id": "il42",
-    "name": "100FM Radius - Brit Pop",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_israel"
-  },
-  {
-    "id": "il43",
-    "name": "100FM Radius - Country",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Country/chunks.m3u8",
+    "id": "uz05",
+    "name": "Navruz FM – Maqom",
+    "streamUrl": "http://navruzfm.uz:9000/navruz_maqom",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il44",
-    "name": "100FM Radius - Latin",
-    "streamUrl": "https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8",
+    "id": "uz06",
+    "name": "Navruz FM – Musofirim",
+    "streamUrl": "http://navruzfm.uz:9000/navruz_musofirim",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il45",
-    "name": "Radio 103 FM",
-    "streamUrl": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il46",
-    "name": "Radio Lev HaMedina 91 FM",
-    "streamUrl": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83963/logo_SkEnrJWYF9.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il47",
-    "name": "Radio HaMesh 99.5 FM",
-    "streamUrl": "https://995.livecdn.biz/995fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il48",
-    "name": "Kol Barama",
-    "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il49",
-    "name": "Galey Yisrael",
-    "streamUrl": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il50",
-    "name": "Radio Darom 97 FM",
-    "streamUrl": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il51",
-    "name": "Radio Darom 101.5 FM",
-    "streamUrl": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il52",
-    "name": "Radio 2000 102.6 FM",
-    "streamUrl": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il53",
-    "name": "Radio FM 102 Eilat",
-    "streamUrl": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83957/logo_kySwGlrg3U.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il54",
-    "name": "Pervoe Radio (Russian)",
-    "streamUrl": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il55",
-    "name": "Luchshee Radio (Russian)",
-    "streamUrl": "https://edge-fs-10.cybercdn.live/TheBest/live/chunks.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il56",
-    "name": "Radio 90 FM",
-    "streamUrl": "https://radio.streamgates.net/stream/90fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il57",
-    "name": "Radio 101 FM",
-    "streamUrl": "https://radio.streamgates.net/stream/101fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il58",
-    "name": "Radio 104.5 FM Jerusalem",
-    "streamUrl": "https://radio.streamgates.net/stream/1045fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il59",
-    "name": "Radio Sol",
-    "streamUrl": "https://radio.streamgates.net/stream/sol",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83884/logo_cGoL2sPlJN.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il60",
-    "name": "Radio HaTahana 101.5 FM",
-    "streamUrl": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84004/logo_YpY3cpgwm7.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il61",
-    "name": "Kol Galim 106 FM",
-    "streamUrl": "https://live.ecast.co.il/stream/galimlive",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il62",
-    "name": "Kol HaKinneret",
-    "streamUrl": "https://radio.streamgates.net/stream/kinneret",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il63",
-    "name": "Kol HaGolan",
-    "streamUrl": "https://liveradio.co.il/kolhagolan",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il64",
-    "name": "Kol Yizre'el",
-    "streamUrl": "https://radio.streamgates.net/stream/yezreel",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il65",
-    "name": "Kol HaTzafon",
-    "streamUrl": "https://live.ecast.co.il/stream/khz",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83918/logo_GcvOjqTyuv.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il66",
-    "name": "Kol Ramat HaSharon 103.6 FM",
-    "streamUrl": "https://radio.streamgates.net/stream/1036",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il67",
-    "name": "Kol HaShfela 103.6 FM",
-    "streamUrl": "https://radio.streamgates.net/stream/1036kh",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il68",
-    "name": "Radio Dudi FM",
-    "streamUrl": "https://live.ecast.co.il/stream/dudifm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il69",
-    "name": "Radio Azori 69 FM",
-    "streamUrl": "https://live.ecast.co.il/stream/69fm/azori",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il70",
-    "name": "Radio Sahar",
-    "streamUrl": "https://live.ecast.co.il:8020",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il71",
-    "name": "Radio Eretz HaGolan",
-    "streamUrl": "https://radio.streamgates.net/stream/eretzgolan",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il72",
-    "name": "Radio Voice of the Red Sea (Eilat)",
-    "streamUrl": "https://radio.streamgates.net/stream/eilat",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il73",
-    "name": "Radio Lev Hayam Hatichon",
-    "streamUrl": "https://liveradio.co.il:8060/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/103354/logo_GHvzdtLXxk.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il74",
-    "name": "Radio Ahava Bayam Hatichon",
-    "streamUrl": "http://liveradio.co.il:9080",
-    "imageUrl": "https://radiospinner.com/media/logos/180/103330/logo_D0OmssIqh3.png",
-    "genre": "genre_relax",
-    "country": "country_israel"
-  },
-  {
-    "id": "il75",
-    "name": "Radio 5 (Sport)",
-    "streamUrl": "https://liveradio.co.il:8070/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83866/logo_VhkAbNpkjR.png",
-    "genre": "genre_sport",
-    "country": "country_israel"
-  },
-  {
-    "id": "il76",
-    "name": "Sport 5 Radio",
-    "streamUrl": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_israel"
-  },
-  {
-    "id": "il77",
-    "name": "Noshmim Mizrahit",
-    "streamUrl": "https://mzr.mediacast.co.il/mzradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il78",
-    "name": "Mizrahit Original Radio",
-    "streamUrl": "https://sweb.co.il:8000/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83981/logo_uzz3LfpaUD.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il79",
-    "name": "Ze Rock Radio",
-    "streamUrl": "https://icecast.live/proxy/zerock/zerock",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_israel"
-  },
-  {
-    "id": "il80",
-    "name": "Teder FM",
-    "streamUrl": "https://radio.streamgates.net/stream/teder",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_israel"
-  },
-  {
-    "id": "il81",
-    "name": "Maxximixx Play Live",
-    "streamUrl": "https://maxximixx-server.com:5328/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83928/logo_XBy3bes9MO.png",
-    "genre": "genre_dance",
-    "country": "country_israel"
-  },
-  {
-    "id": "il82",
-    "name": "Maxximixx Always The New Sound",
-    "streamUrl": "https://maxximixx-server.com:6803/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83900/logo_7DHOZc6Tem.png",
-    "genre": "genre_dance",
-    "country": "country_israel"
-  },
-  {
-    "id": "il83",
-    "name": "Maxximixx Rave 90s",
-    "streamUrl": "https://maxximixx-server.com:6490/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83937/logo_FroFTv4Y1x.png",
-    "genre": "genre_90s",
-    "country": "country_israel"
-  },
-  {
-    "id": "il84",
-    "name": "Toker FM",
-    "streamUrl": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il85",
-    "name": "Radio Nostalgia",
-    "streamUrl": "http://194.213.4.197:8000/listen.pls?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_israel"
-  },
-  {
-    "id": "il86",
-    "name": "Radio Menta",
-    "streamUrl": "http://menta-fm.co.il:8281/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il87",
-    "name": "Radio Mania",
-    "streamUrl": "https://cast.ereznet.co.il/radio/8030/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il88",
-    "name": "A-Shams Radio (Arabic)",
-    "streamUrl": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il89",
-    "name": "Radio Ran (Arabic)",
-    "streamUrl": "https://ams1.reliastream.com/proxy/avico00?mp=/live",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84029/logo_7r7JrO9H5O.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il90",
-    "name": "Radio Setareh (Persian)",
-    "streamUrl": "https://s2.free-shoutcast.com/stream/18256",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83896/logo_9UFPT2Oxs6.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il91",
-    "name": "Radio B.B Bukharian Jewish Music",
-    "streamUrl": "https://liveradio.co.il:1100/?type=http&nocache=1641830637",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83885/logo_93tELWg6Xj.png",
     "genre": "genre_folk",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il92",
-    "name": "Radio Brizer Israel",
-    "streamUrl": "https://sweb.co.il:8888/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83950/logo_ZQqaLZfKsx.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il93",
-    "name": "Radio EL-HI",
-    "streamUrl": "https://a2.asurahosting.com:6760/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83983/logo_hZVkpR7lEi.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il94",
-    "name": "Kol Chai",
-    "streamUrl": "https://live.kcm.fm/live-new",
+    "id": "uz07",
+    "name": "Navruz FM – Durdonalari",
+    "streamUrl": "http://navruzfm.uz:9000/navruz_durdonalari",
     "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
+    "genre": "genre_folk",
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il95",
-    "name": "Kol Chai Music",
-    "streamUrl": "https://live.kcm.fm/livemusic",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il96",
-    "name": "Radio Kol-Chai Kids - רק ילדים",
-    "streamUrl": "https://live.kcm.fm/06",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84030/logo_yLmZuvQjdk.png",
-    "genre": "genre_kids",
-    "country": "country_israel"
-  },
-  {
-    "id": "il97",
-    "name": "Radio Breslev",
-    "streamUrl": "https://stream.radiobreslev.co.il/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il98",
-    "name": "Radio Mevaser Tov",
-    "streamUrl": "https://liveradio.co.il/chasidi",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83871/logo_YI36OGtkMd.png",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il99",
-    "name": "Radio Kol Nesher",
-    "streamUrl": "https://radio.kolnesher.co.il:7777/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83907/logo_eFHtXAeP4E.png",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il100",
-    "name": "Kabbalah English",
-    "streamUrl": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il101",
-    "name": "Kabbalah Hebrew",
-    "streamUrl": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il102",
-    "name": "Kabbalah Russian",
-    "streamUrl": "http://icecast.kab.tv/live1-rus-574bcfd5.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il103",
-    "name": "Yeshua Messianic Radio",
-    "streamUrl": "http://dc3.serverse.com:1120/?type=http",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83867/logo_ylqgKnuIRI.png",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il104",
-    "name": "Radio Agape Israel",
-    "streamUrl": "https://s3.radio.co/s43b65d791/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il105",
-    "name": "Israel News Talk Radio",
-    "streamUrl": "https://dfw.audio-stream.com/proxy/israelne?mp=%2Flive_live",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83894/logo_lDyWExUhwZ.png",
-    "genre": "genre_news",
-    "country": "country_israel"
-  },
-  {
-    "id": "il106",
-    "name": "Joint Radio Beat",
-    "streamUrl": "https://betelgeuse.nucast.co.uk/stream/jrn-beat?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_israel"
-  },
-  {
-    "id": "il107",
-    "name": "Joint Radio Blues Rock",
-    "streamUrl": "https://betelgeuse.nucast.co.uk/stream/jrn-blues?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
-    "country": "country_israel"
-  },
-  {
-    "id": "il108",
-    "name": "Joint Radio Reggae",
-    "streamUrl": "https://betelgeuse.nucast.co.uk/stream/jrn-reggae?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il109",
-    "name": "Jewish Music Stream",
-    "streamUrl": "https://stream.jewishmusicstream.com:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_israel"
-  },
-  {
-    "id": "il110",
-    "name": "Hanoi96 Radio",
-    "streamUrl": "http://222.252.21.96:8000/HANOI96",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83686/logo_lRH29Ga9pa.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il111",
-    "name": "RadioFix2525",
-    "streamUrl": "https://stream3.rcast.net/72648",
-    "imageUrl": "https://radiospinner.com/media/logos/180/84003/logo_izp5KdGubL.png",
-    "genre": "genre_pop",
-    "country": "country_israel"
-  },
-  {
-    "id": "il112",
-    "name": "Radio Hevrati",
-    "streamUrl": "https://live.ecast.co.il/stream/hevrati",
+    "id": "uz08",
+    "name": "Navruz FM – Hikmatli Dunyo",
+    "streamUrl": "http://navruzfm.uz:9000/navruz_hikmatlidunyo",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il113",
-    "name": "Radio EOL",
-    "streamUrl": "https://eol-live.cdnwiz.com/eol/eolsite/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_israel"
-  },
-  {
-    "id": "il114",
-    "name": "Mt Scopus Radio (Hebrew University)",
-    "streamUrl": "https://msradio.huji.ac.il/wwwroot/basics/48Kmancreation.mp3",
+    "id": "uz09",
+    "name": "Navruz FM – Tabassum",
+    "streamUrl": "http://navruzfm.uz:9000/navruz_tabassum",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il115",
-    "name": "Radio Qualita",
-    "streamUrl": "https://www.radioking.com/play/radio-qualita",
+    "id": "uz10",
+    "name": "Navruz FM – Qur'oni Karim",
+    "streamUrl": "http://navruzfm.uz:9000/quroni_karim",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz11",
+    "name": "Radio Maxima 105.4 FM",
+    "streamUrl": "https://stream02.pcradio.biz/rad_mxmz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz12",
+    "name": "Radio Maxima (Classic)",
+    "streamUrl": "https://classicfm.uz:8444/maxima.ogg",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz13",
+    "name": "Classic FM Uzbekistan 104.4",
+    "streamUrl": "https://classicfm.uz:8444/classic.ogg",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il116",
-    "name": "Rak Musica",
-    "streamUrl": "https://play.radioking.io/rak-musica/670240",
+    "id": "uz14",
+    "name": "Radio Grande",
+    "streamUrl": "http://melody.uz:8003/grand",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il117",
-    "name": "Star 33 Radio",
-    "streamUrl": "https://online.star33radio.com:1115/stream",
+    "id": "uz15",
+    "name": "Sezam FM",
+    "streamUrl": "http://sezamfm.com:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz16",
+    "name": "Oriat FM",
+    "streamUrl": "http://194.5.152.248:8000/fm",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il118",
-    "name": "Radio Breslev Carmiel",
-    "streamUrl": "https://securestreams6.autopo.st:2294/mp3",
+    "id": "uz17",
+    "name": "Oriat Dono 106.5 FM Samarkand",
+    "streamUrl": "http://oriat.mediabay.uz/oriatdono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz18",
+    "name": "Oriat Dono (alternate)",
+    "streamUrl": "http://194.5.152.248:8000/dono",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz19",
+    "name": "Yoshlar Ovozi FM",
+    "streamUrl": "http://ns10.jethost.uz:8000/yoshlarovoziaac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz20",
+    "name": "MTRK Yoshlar Radio",
+    "streamUrl": "https://mtrk.uz/uz/radio/yoshlar/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz21",
+    "name": "Avtoradio Hamroh",
+    "streamUrl": "https://st5.mediabay.uz/radio/Hamroh/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz22",
+    "name": "LifeFM",
+    "streamUrl": "http://lifefm.uz:8000/radio-128.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz23",
+    "name": "Navo Online",
+    "streamUrl": "https://navo.online:8005/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz24",
+    "name": "Dushanbe Navo Radio",
+    "streamUrl": "http://uk20freenew.listen2myradio.com:9428/",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82712/logo_ATROgomp3n.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz25",
+    "name": "Radio Markaz Online",
+    "streamUrl": "http://mediamarkaz.com:8000/radiomarkaz",
+    "imageUrl": "https://radiospinner.com/media/logos/180/82717/logo_SSETmHI4wG.png",
+    "genre": "genre_info",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz26",
+    "name": "Timsol Online Radiosi",
+    "streamUrl": "https://stream02.pcradio.biz/rad_timslfmuz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz27",
+    "name": "Mars FM Uzbekistan",
+    "streamUrl": "https://stream.zeno.fm/ugzz955srnhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz28",
+    "name": "Radio Kamolot FM",
+    "streamUrl": "http://live.kamolotfm.uz:8000/kamolotfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz29",
+    "name": "Azon FM",
+    "streamUrl": "https://azon.uz/radio",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il119",
-    "name": "Radio Gospel Mirshet Mimed",
-    "streamUrl": "https://stream2.svrdedicado.org/8326/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83943/logo_ZOK61rWHE6.png",
-    "genre": "genre_religious",
-    "country": "country_israel"
+    "id": "uz30",
+    "name": "NamDU FM",
+    "streamUrl": "https://listen.radioking.com/radio/480107/stream/536543",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_uzbekistan"
   },
   {
-    "id": "il120",
-    "name": "Eman City Quran Radio",
-    "streamUrl": "http://66.45.232.131:9990/",
+    "id": "uz31",
+    "name": "Islom Radio",
+    "streamUrl": "https://radio.islom.uz/islomuz",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_israel"
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz32",
+    "name": "Radio Ozodlik Uzbek (RFE/RL)",
+    "streamUrl": "http://rfe-channel-13.akacast.akamaistream.net/7/371/229663/v1/ibb.akacast.akamaistream.net/rfe_channel_13.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz33",
+    "name": "Радио Вышка Узбекистан",
+    "streamUrl": "https://stream.vyshka24.ru/uzbekistan",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz34",
+    "name": "UZR4 Do'stlik",
+    "streamUrl": "http://eldoradiolive.newmedia.lu:80/",
+    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz35",
+    "name": "SUPER.uz Radio",
+    "streamUrl": "https://stream.zeno.fm/b7ye4q0k3zhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz36",
+    "name": "PARVOZ FM",
+    "streamUrl": "https://stream.zeno.fm/p38kes0t498uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz37",
+    "name": "2000's – Радио нулевых",
+    "streamUrl": "https://stream.zeno.fm/fwstad5837zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz38",
+    "name": "MTRK Radio O'zbekiston",
+    "streamUrl": "https://mtrk.uz/uz/radio/uzbekiston/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz39",
+    "name": "MTRK Radio Toshkent",
+    "streamUrl": "https://mtrk.uz/uz/radio/toshkent/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz40",
+    "name": "MTRK Radio Mahalla",
+    "streamUrl": "https://mtrk.uz/uz/radio/mahalla/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz41",
+    "name": "MTRK O'zbekiston 24 Radio",
+    "streamUrl": "https://mtrk.uz/uz/radio/uzbekiston24/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz42",
+    "name": "Avtoradio Uzbekistan",
+    "streamUrl": "https://st2.mediabay.tv/Radio_AvtoradioUz/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz43",
+    "name": "Uzbek FM",
+    "streamUrl": "http://yayin.turkhosted.com:7034/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz44",
+    "name": "Radio Mumtoz FM",
+    "streamUrl": "http://81.19.85.200:80/megapolis128.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz45",
+    "name": "Khalifa FM",
+    "streamUrl": "https://stream.zeno.fm/y8gdyaatxhhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz46",
+    "name": "Timsol Online Radiosi (zeno)",
+    "streamUrl": "https://stream.zeno.fm/cqtrku1o8bbuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz47",
+    "name": "Radio A'LO FM (sonic)",
+    "streamUrl": "https://sonicpanel.oficialserver.com:7004/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz48",
+    "name": "Radio Yoshlar Ovozi (liveonline)",
+    "streamUrl": "https://liveonlineradio.net/fr/radio-yoshlar-ovozi",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
   }
 ]
