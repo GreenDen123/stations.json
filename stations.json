@@ -30718,5 +30718,141 @@
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/11033.v11.png",
     "genre": "genre_religious",
     "country": "country_israel"
+  },
+  {
+    "id": "uz02",
+    "name": "Qalbim Navosi",
+    "streamUrl": "https://live.qalbimnavosi.uz/qalbimnavosi",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/f7RsCHY8psDROgJtTYRz2A2U-T5xyG6Q8JOGtCy4dlo/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFiMTRhYTAtMzIxZS00YWJjLTk0MTAtYTQwYWJiNjA2MzMwL2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz03",
+    "name": "A'lo FM",
+    "streamUrl": "http://tabassum.uz:9000/alo_low",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/43391.v2.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz04",
+    "name": "Navruz FM",
+    "streamUrl": "http://navruzfm.uz:9000/navruz_low",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/WqSJMdgXFrwg2DdA86E6w5dONjIpd6OwOzKdZ3slPJU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvY2FkMjVlMzEtOWFjYS00MDU3LWFkMmUtMTlhYmFkYzUyNWE1L2ltYWdlLz91PTE3MDE2OTY3OTYwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz11",
+    "name": "Radio Maxima 105.4 FM",
+    "streamUrl": "https://stream02.pcradio.biz/rad_mxmz-med",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/72544.v5.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz12",
+    "name": "Radio Maxima (Classic)",
+    "streamUrl": "https://classicfm.uz:8444/maxima.ogg",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/72544.v5.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz13",
+    "name": "Classic FM Uzbekistan 104.4",
+    "streamUrl": "https://classicfm.uz:8444/classic.ogg",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2018/02/Classic-FM-104.4.jpg",
+    "genre": "genre_clasic",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz15",
+    "name": "Sezam FM",
+    "streamUrl": "http://sezamfm.com:8000/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/103761.v6.png",
+    "genre": "genre_hits",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz16",
+    "name": "Oriat FM",
+    "streamUrl": "http://194.5.152.248:8000/fm",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Okvr_J7RJDtSAMXQy_xqTwLlc09l_qdtqjDUhCsxeVw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjZiODcxOWMtM2E5NC00MDJlLWI1NmUtOTAxZjZjMmY0ZDg3L2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz18",
+    "name": "Oriat Dono",
+    "streamUrl": "http://194.5.152.248:8000/dono",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/43389.v7.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz19",
+    "name": "Yoshlar Ovozi FM",
+    "streamUrl": "http://ns10.jethost.uz:8000/yoshlarovoziaac",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2019/02/radio-yoshlar-ovozi.jpg",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz25",
+    "name": "Radio Markaz Online",
+    "streamUrl": "http://mediamarkaz.com:8000/radiomarkaz",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/143489.v1.png",
+    "genre": "genre_info",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz26",
+    "name": "Timsol Online Radiosi",
+    "streamUrl": "https://stream02.pcradio.biz/rad_timslfmuz-med",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/132069.v7.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz33",
+    "name": "Радио Вышка Узбекистан",
+    "streamUrl": "https://stream.vyshka24.ru/uzbekistan",
+    "imageUrl": "https://radiopotok.ru/f/station_webp/512/2350.webp",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz34",
+    "name": "UZR4 Do'stlik",
+    "streamUrl": "http://eldoradiolive.newmedia.lu:80/",
+    "imageUrl": "https://statics-v3.streema.com/static/img/radios/radio.placeholder.75.08b43890e797.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz35",
+    "name": "SUPER.uz Radio",
+    "streamUrl": "https://stream.zeno.fm/b7ye4q0k3zhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/NXLbkWf9Scr6Kf89OsmA7XBxAl_vpO4YDK89YDSC-Hk/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRElrZWFzOWdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElrZWItc2dvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc2NDczNjEzMjAwMA.webp",
+    "genre": "genre_hits",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz45",
+    "name": "Khalifa FM",
+    "streamUrl": "https://stream.zeno.fm/y8gdyaatxhhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/KGhYG7v99hNEndClu-j0-G3e8gfgzQbn9f7cubQN3Xs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0loc2VWakFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l4c1NpdWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3MjU3MjcxMTAwMA.webp",
+    "genre": "genre_religious",
+    "country": "country_uzbekistan"
+  },
+  {
+    "id": "uz46",
+    "name": "Timsol Online Radiosi",
+    "streamUrl": "https://stream.zeno.fm/cqtrku1o8bbuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/132069.v7.png",
+    "genre": "genre_pop",
+    "country": "country_uzbekistan"
   }
 ]
