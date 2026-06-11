@@ -1,129 +1,97 @@
 [
   {
     "id": "co01",
-    "name": "Caracol Radio Bogotá 100.9 FM",
-    "streamUrl": "https://27423.live.streamtheworld.com/CARACOL_RADIOAAC.aac",
-    "imageUrl": "__________________________",
+    "name": "Caracol Radio",
+    "streamUrl": "https://27443.live.streamtheworld.com/CARACOL_RADIOAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/303/caracol-radio.18b43470.jpg",
     "genre": "genre_news",
     "country": "country_colombia"
   },
   {
     "id": "co02",
-    "name": "W Radio Colombia 99.9 FM",
-    "streamUrl": "http://26523.live.streamtheworld.com/WRADIO_SC",
-    "imageUrl": "__________________________",
+    "name": "W Radio",
+    "streamUrl": "https://17793.live.streamtheworld.com/W_RADIO_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/296/w-radio-mexico.06306eb0.jpg",
     "genre": "genre_news",
     "country": "country_colombia"
   },
   {
     "id": "co03",
-    "name": "Blu Radio Bogotá 89.9 FM",
-    "streamUrl": "https://26663.live.streamtheworld.com/BLURADIO.mp3",
-    "imageUrl": "__________________________",
+    "name": "Blu Radio",
+    "streamUrl": "https://26653.live.streamtheworld.com/BLURADIO_ADP_SC?dist=+blu_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/283/blu-radio.d17783b0.jpg",
     "genre": "genre_news",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co04",
-    "name": "Blu Radio Nacional",
-    "streamUrl": "http://24233.live.streamtheworld.com/BLURADIO_ADP.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co05",
-    "name": "Blu Radio Cali 91.5 FM",
-    "streamUrl": "https://13693.live.streamtheworld.com/BLU_CALI_ADP_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co06",
-    "name": "Blu Radio – Musica",
-    "streamUrl": "https://27403.live.streamtheworld.com/MUSICABLU.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co07",
     "name": "Radioacktiva 97.9 FM Bogotá",
-    "streamUrl": "https://27573.live.streamtheworld.com/RADIO_ACTIVAAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27573.live.streamtheworld.com/RADIO_ACTIVA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/859/radioacktiva.c5cdb359.png",
     "genre": "genre_rock",
     "country": "country_colombia"
   },
   {
     "id": "co08",
     "name": "Radioacktiva 102.3 FM Medellín",
-    "streamUrl": "https://27403.live.streamtheworld.com/RADIOACKTIVA_MEDAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://24223.live.streamtheworld.com/RADIOACKTIVA_MEDAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/666/radioacktiva-medellin.c5cdb359.png",
     "genre": "genre_rock",
     "country": "country_colombia"
   },
   {
     "id": "co09",
-    "name": "40 Principales Colombia",
-    "streamUrl": "https://27403.live.streamtheworld.com/LOS40_COLOMBIA.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co10",
-    "name": "LOS40 Colombia AAC",
-    "streamUrl": "https://24223.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac",
-    "imageUrl": "__________________________",
+    "name": "Los 40 Principales",
+    "streamUrl": "https://27583.live.streamtheworld.com/LOS40_CHILE_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/290/los-40-principales-chile.b3eabffc.jpg",
     "genre": "genre_hits",
     "country": "country_colombia"
   },
   {
     "id": "co11",
     "name": "Tropicana Bogotá 102.9 FM",
-    "streamUrl": "http://playerservices.streamtheworld.com/m3u/TROPICANA.m3u",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27413.live.streamtheworld.com/TROPICANAAAC_SC?csegid=2000&dist=tropicana_co-web-live_streaming_play&pname=TDSdk",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/873/tropicana-bogota.6cfcedd4.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co12",
     "name": "Tropicana Villavicencio 99.3 FM",
-    "streamUrl": "https://provisioning.streamtheworld.com/pls/TR_VILLAVICENCIOAAC.pls",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27573.live.streamtheworld.com/TR_VILLAVICENCIOAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/984/tropicana-villavicencio-993-fm.5049912b.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co13",
     "name": "Tropicana Popayán 106.1 FM",
-    "streamUrl": "https://27343.live.streamtheworld.com/TR_POPAYAN_SC",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://24253.live.streamtheworld.com/TR_POPAYANAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/631/tropicana-popayan.b1bce25c.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co14",
-    "name": "Oxígeno Bogotá 100.4 FM",
-    "streamUrl": "http://playerservices.streamtheworld.com/m3u/OXIGENO.m3u",
-    "imageUrl": "__________________________",
+    "name": "Radio Oxígeno",
+    "streamUrl": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=4CpWW8hnjefGr32D2dFWzJLLzgJoVuvJ&sid=Lk2fsHNec3nRsSJq92mLpEapBvuOy9Fx&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781263276778&ot=Tm6yuTzLLoNN_kErXftl6A&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Fwww.emisorascolombianas.co%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/ns3bnMSxg9.jpeg",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co15",
     "name": "La Kalle FM",
-    "streamUrl": "https://27443.live.streamtheworld.com/LA_KALLE_ADP.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://24423.live.streamtheworld.com/LA_KALLE_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/860/la-kalle-969-fm.c8a228d5.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co16",
     "name": "Vibra Bogotá 104.9 FM",
-    "streamUrl": "http://playerservices.streamtheworld.com/m3u/VIBRAAAC.m3u",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://26503.live.streamtheworld.com/VIBRA_SC?dist=mytunerradiopuntocom",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/832/vibra-fm-1049.f9c0981a.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
