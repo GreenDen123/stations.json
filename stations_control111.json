@@ -1,386 +1,1202 @@
 [
   {
-    "id": "uz01",
-    "name": "Radio O'zbegim Taronasi 101 FM",
-    "streamUrl": "https://fm101.uz:9943/fm101_low.aac",
+    "id": "co01",
+    "name": "Caracol Radio Bogotá 100.9 FM",
+    "streamUrl": "https://27423.live.streamtheworld.com/CARACOL_RADIOAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co02",
+    "name": "W Radio Colombia 99.9 FM",
+    "streamUrl": "http://26523.live.streamtheworld.com/WRADIO_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co03",
+    "name": "Blu Radio Bogotá 89.9 FM",
+    "streamUrl": "https://26663.live.streamtheworld.com/BLURADIO.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co04",
+    "name": "Blu Radio Nacional",
+    "streamUrl": "http://24233.live.streamtheworld.com/BLURADIO_ADP.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co05",
+    "name": "Blu Radio Cali 91.5 FM",
+    "streamUrl": "https://13693.live.streamtheworld.com/BLU_CALI_ADP_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co06",
+    "name": "Blu Radio – Musica",
+    "streamUrl": "https://27403.live.streamtheworld.com/MUSICABLU.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz02",
-    "name": "Qalbim Navosi",
-    "streamUrl": "https://live.qalbimnavosi.uz/qalbimnavosi",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82711/logo_K15R2IJfVJ.png",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz03",
-    "name": "A'lo FM",
-    "streamUrl": "http://tabassum.uz:9000/alo_low",
+    "id": "co07",
+    "name": "Radioacktiva 97.9 FM Bogotá",
+    "streamUrl": "https://27573.live.streamtheworld.com/RADIO_ACTIVAAAC.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "genre": "genre_rock",
+    "country": "country_colombia"
   },
   {
-    "id": "uz04",
-    "name": "Navruz FM",
-    "streamUrl": "http://navruzfm.uz:9000/navruz_low",
+    "id": "co08",
+    "name": "Radioacktiva 102.3 FM Medellín",
+    "streamUrl": "https://27403.live.streamtheworld.com/RADIOACKTIVA_MEDAAC.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "genre": "genre_rock",
+    "country": "country_colombia"
   },
   {
-    "id": "uz05",
-    "name": "Navruz FM – Maqom",
-    "streamUrl": "http://navruzfm.uz:9000/navruz_maqom",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz06",
-    "name": "Navruz FM – Musofirim",
-    "streamUrl": "http://navruzfm.uz:9000/navruz_musofirim",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz07",
-    "name": "Navruz FM – Durdonalari",
-    "streamUrl": "http://navruzfm.uz:9000/navruz_durdonalari",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz08",
-    "name": "Navruz FM – Hikmatli Dunyo",
-    "streamUrl": "http://navruzfm.uz:9000/navruz_hikmatlidunyo",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz09",
-    "name": "Navruz FM – Tabassum",
-    "streamUrl": "http://navruzfm.uz:9000/navruz_tabassum",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz10",
-    "name": "Navruz FM – Qur'oni Karim",
-    "streamUrl": "http://navruzfm.uz:9000/quroni_karim",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz11",
-    "name": "Radio Maxima 105.4 FM",
-    "streamUrl": "https://stream02.pcradio.biz/rad_mxmz-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz12",
-    "name": "Radio Maxima (Classic)",
-    "streamUrl": "https://classicfm.uz:8444/maxima.ogg",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz13",
-    "name": "Classic FM Uzbekistan 104.4",
-    "streamUrl": "https://classicfm.uz:8444/classic.ogg",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz14",
-    "name": "Radio Grande",
-    "streamUrl": "http://melody.uz:8003/grand",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz15",
-    "name": "Sezam FM",
-    "streamUrl": "http://sezamfm.com:8000/stream",
+    "id": "co09",
+    "name": "40 Principales Colombia",
+    "streamUrl": "https://27403.live.streamtheworld.com/LOS40_COLOMBIA.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz16",
-    "name": "Oriat FM",
-    "streamUrl": "http://194.5.152.248:8000/fm",
+    "id": "co10",
+    "name": "LOS40 Colombia AAC",
+    "streamUrl": "https://24223.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co11",
+    "name": "Tropicana Bogotá 102.9 FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/m3u/TROPICANA.m3u",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz17",
-    "name": "Oriat Dono 106.5 FM Samarkand",
-    "streamUrl": "http://oriat.mediabay.uz/oriatdono.m3u8",
+    "id": "co12",
+    "name": "Tropicana Villavicencio 99.3 FM",
+    "streamUrl": "https://provisioning.streamtheworld.com/pls/TR_VILLAVICENCIOAAC.pls",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz18",
-    "name": "Oriat Dono (alternate)",
-    "streamUrl": "http://194.5.152.248:8000/dono",
+    "id": "co13",
+    "name": "Tropicana Popayán 106.1 FM",
+    "streamUrl": "https://27343.live.streamtheworld.com/TR_POPAYAN_SC",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz19",
-    "name": "Yoshlar Ovozi FM",
-    "streamUrl": "http://ns10.jethost.uz:8000/yoshlarovoziaac",
+    "id": "co14",
+    "name": "Oxígeno Bogotá 100.4 FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/m3u/OXIGENO.m3u",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz20",
-    "name": "MTRK Yoshlar Radio",
-    "streamUrl": "https://mtrk.uz/uz/radio/yoshlar/",
+    "id": "co15",
+    "name": "La Kalle FM",
+    "streamUrl": "https://27443.live.streamtheworld.com/LA_KALLE_ADP.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz21",
-    "name": "Avtoradio Hamroh",
-    "streamUrl": "https://st5.mediabay.uz/radio/Hamroh/index.m3u8",
+    "id": "co16",
+    "name": "Vibra Bogotá 104.9 FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/m3u/VIBRAAAC.m3u",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz22",
-    "name": "LifeFM",
-    "streamUrl": "http://lifefm.uz:8000/radio-128.aac",
+    "id": "co17",
+    "name": "Candela Estéreo Bogotá 101.9 FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/pls/CANDELAESTEREO.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co18",
+    "name": "Candela Cali 102.5 FM",
+    "streamUrl": "https://14073.live.streamtheworld.com/CANDELA_CALIAAC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co19",
+    "name": "Radio Nacional de Colombia – RTVC",
+    "streamUrl": "https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co20",
+    "name": "Radiónica RTVC 99.1 FM",
+    "streamUrl": "https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co21",
+    "name": "La FM Bogotá 94.9 FM",
+    "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9b23d1dcd7027f32f7fe",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co22",
+    "name": "Olímpica Stereo Cali",
+    "streamUrl": "https://24383.live.streamtheworld.com/OLP_CALIAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co23",
+    "name": "Olímpica Stereo Bogotá",
+    "streamUrl": "https://27353.live.streamtheworld.com/OLP_CALI.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co24",
+    "name": "Olímpica Stereo Cartagena 90.5 FM",
+    "streamUrl": "https://27343.live.streamtheworld.com/OLP_CARTAGENAAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co25",
+    "name": "Olímpica Stereo Bucaramanga 97.7 FM",
+    "streamUrl": "https://13693.live.streamtheworld.com/OLP_BUCARAMANGAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co26",
+    "name": "Olímpica Stereo Montería 90.5 FM",
+    "streamUrl": "https://26573.live.streamtheworld.com/OLP_MONTERIAAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co27",
+    "name": "Olímpica Stereo Barranquilla 92.1 FM",
+    "streamUrl": "https://master.letio.com/io/?gs=9102&type=live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co28",
+    "name": "Bésame 99.4 FM Bogotá",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHPSFMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co29",
+    "name": "Bésame 106.5 FM Cali",
+    "streamUrl": "https://26593.live.streamtheworld.com/BESAME_CALIAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co30",
+    "name": "Bésame 100.7 FM Cúcuta",
+    "streamUrl": "https://27403.live.streamtheworld.com/BESAME_CUCUTAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co31",
+    "name": "Bésame 90.7 FM Armenia",
+    "streamUrl": "https://27363.live.streamtheworld.com/BESAME_ARMENIAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co32",
+    "name": "Bésame 104.7 FM Bucaramanga",
+    "streamUrl": "https://13693.live.streamtheworld.com/BESAME_BUCARAMANGAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co33",
+    "name": "Bésame 93.7 FM Pereira",
+    "streamUrl": "https://27373.live.streamtheworld.com/BESAME_PEREIRA_FMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co34",
+    "name": "Bésame 91.7 FM Manizales",
+    "streamUrl": "https://18323.live.streamtheworld.com/BESAME_MANIZALESAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co35",
+    "name": "Bésame 106.9 FM Popayán",
+    "streamUrl": "https://27603.live.streamtheworld.com/BESAME_POPAYANAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co36",
+    "name": "Bésame FM Neiva",
+    "streamUrl": "https://radiohd.streaminghd.co:7052/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co37",
+    "name": "Radio Tiempo Bogotá",
+    "streamUrl": "https://master.letio.com/io/?gs=9100&type=master.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co38",
+    "name": "Radio Tiempo Cali 89.5 FM",
+    "streamUrl": "https://26583.live.streamtheworld.com/RT_CALIAAC_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co39",
+    "name": "Radio Tiempo Medellín",
+    "streamUrl": "https://14073.live.streamtheworld.com/RT_MEDELLINAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co40",
+    "name": "Radio Tiempo Barranquilla 96.1 FM",
+    "streamUrl": "https://19473.live.streamtheworld.com/RT_BARRANQUILLAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co41",
+    "name": "La Reina Barranquilla",
+    "streamUrl": "https://13693.live.streamtheworld.com/RNA_BARRANQUILLAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co42",
+    "name": "La Reina Cartagena 95.5 FM",
+    "streamUrl": "https://13693.live.streamtheworld.com/RNA_CARTAGENAAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co43",
+    "name": "Acuario Estéreo 1010 AM",
+    "streamUrl": "https://23033.live.streamtheworld.com/ACUARIOAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co44",
+    "name": "CRV Radio Vida 890 AM Bogotá",
+    "streamUrl": "https://26283.live.streamtheworld.com/VIDA_BOGOTA.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co45",
+    "name": "Azúcar Estéreo 1041 AM",
+    "streamUrl": "https://26343.live.streamtheworld.com/SAM02AAC80.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co46",
+    "name": "La Mega Pereira 105.2 FM",
+    "streamUrl": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co47",
+    "name": "Radio Uno Pereira 94.7 FM",
+    "streamUrl": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co48",
+    "name": "Radio Kronos Bogotá",
+    "streamUrl": "https://provisioning.streamtheworld.com/pls/KRONOSAAC.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co49",
+    "name": "HJCK El Mundo en Bogotá",
+    "streamUrl": "http://playerservices.streamtheworld.com/m3u/RADIO_HJCK.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co50",
+    "name": "Q'Hubo Radio – La 1070 AM",
+    "streamUrl": "http://playerservices.streamtheworld.com/m3u/QHUBO_BOGOTAAAC.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co51",
+    "name": "Caracol Radio Santa Marta 890 AM",
+    "streamUrl": "https://provisioning.streamtheworld.com/pls/CARACOL_STAMARTAAAC.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co52",
+    "name": "Radio María Colombia",
+    "streamUrl": "https://cdn.cloudrad.io/radiomariacolombia/listen.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co53",
+    "name": "Radio Bolivariana FM 92.4 Medellín",
+    "streamUrl": "http://streaming.radiobolivarianavirtual.com:7630/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co54",
+    "name": "CyC Radio – Instituto Caro y Cuervo",
+    "streamUrl": "https://stream.radio.co/s978e5f6bd/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co55",
+    "name": "Colmundo Radio Bogotá",
+    "streamUrl": "http://master.shoutcast.com:8000/colmundo-radio-bogota",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co56",
+    "name": "Uniminuto Radio 1430 AM Bogotá",
+    "streamUrl": "https://uniminutoradiobogota.out.airtime.pro//uniminutoradiobogota_a",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co57",
+    "name": "La X Bogotá",
+    "streamUrl": "https://www.laxmasmusica.com/static/web_dataNormal.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co58",
+    "name": "La X 96.5 FM",
+    "streamUrl": "https://tupanel.info/stream/2digitalradioHDsslLIVE040",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co59",
+    "name": "Colombia Crossover",
+    "streamUrl": "http://64.37.50.226:8006/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co60",
+    "name": "La Poderosa Radio Online – Salsa",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8018/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co61",
+    "name": "La Poderosa Radio Online – Salsa del Ayer",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8022/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co62",
+    "name": "La Poderosa Radio Online – Vallenato",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8034/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co63",
+    "name": "La Poderosa Radio Online – Popular",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8036/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co64",
+    "name": "La Poderosa Radio Online – Romántica",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8030/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co65",
+    "name": "La Poderosa Radio Online – 80s",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8024/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co66",
+    "name": "La Poderosa Radio Online – 90s",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8026/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_90s",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co67",
+    "name": "La Poderosa Radio Online – Boleros",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8028/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co68",
+    "name": "La Poderosa Radio Online – Crossover",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8014/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co69",
+    "name": "La Poderosa Radio Online – Viejoteca",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8016/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co70",
+    "name": "La Poderosa Radio Online – Mezclas",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8038/stream",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz23",
-    "name": "Navo Online",
-    "streamUrl": "https://navo.online:8005/stream",
+    "id": "co71",
+    "name": "La Poderosa Radio Online – Instrumental",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8020/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_uzbekistan"
+    "genre": "genre_relax",
+    "country": "country_colombia"
   },
   {
-    "id": "uz24",
-    "name": "Dushanbe Navo Radio",
-    "streamUrl": "http://uk20freenew.listen2myradio.com:9428/",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82712/logo_ATROgomp3n.png",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz25",
-    "name": "Radio Markaz Online",
-    "streamUrl": "http://mediamarkaz.com:8000/radiomarkaz",
-    "imageUrl": "https://radiospinner.com/media/logos/180/82717/logo_SSETmHI4wG.png",
-    "genre": "genre_info",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz26",
-    "name": "Timsol Online Radiosi",
-    "streamUrl": "https://stream02.pcradio.biz/rad_timslfmuz-med",
+    "id": "co72",
+    "name": "La Poderosa 104.1 FM",
+    "streamUrl": "https://samuel.i-radio.co:8001/araunastereo",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz27",
-    "name": "Mars FM Uzbekistan",
-    "streamUrl": "https://stream.zeno.fm/ugzz955srnhvv",
+    "id": "co73",
+    "name": "ZonaSalsa",
+    "streamUrl": "http://s40.myradiostream.com:8520/listen.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz28",
-    "name": "Radio Kamolot FM",
-    "streamUrl": "http://live.kamolotfm.uz:8000/kamolotfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz29",
-    "name": "Azon FM",
-    "streamUrl": "https://azon.uz/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz30",
-    "name": "NamDU FM",
-    "streamUrl": "https://listen.radioking.com/radio/480107/stream/536543",
+    "id": "co74",
+    "name": "Radio Santa Fe Bogotá",
+    "streamUrl": "https://radiohd.streaminghd.co:7316/stream",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz31",
-    "name": "Islom Radio",
-    "streamUrl": "https://radio.islom.uz/islomuz",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz32",
-    "name": "Radio Ozodlik Uzbek (RFE/RL)",
-    "streamUrl": "http://rfe-channel-13.akacast.akamaistream.net/7/371/229663/v1/ibb.akacast.akamaistream.net/rfe_channel_13.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz33",
-    "name": "Радио Вышка Узбекистан",
-    "streamUrl": "https://stream.vyshka24.ru/uzbekistan",
+    "id": "co75",
+    "name": "Mix Radio 103.9",
+    "streamUrl": "https://master.letio.com/io/?gs=9156&type=master.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz34",
-    "name": "UZR4 Do'stlik",
-    "streamUrl": "http://eldoradiolive.newmedia.lu:80/",
-    "imageUrl": "https://radio.streamitter.com/images/station-logo-no.png",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz35",
-    "name": "SUPER.uz Radio",
-    "streamUrl": "https://stream.zeno.fm/b7ye4q0k3zhvv",
+    "id": "co76",
+    "name": "Melodía Estéreo",
+    "streamUrl": "https://c60.letio.com/ShoutcastProxy.ashx?ids=7000",
     "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_uzbekistan"
+    "genre": "genre_relax",
+    "country": "country_colombia"
   },
   {
-    "id": "uz36",
-    "name": "PARVOZ FM",
-    "streamUrl": "https://stream.zeno.fm/p38kes0t498uv",
+    "id": "co77",
+    "name": "Cadena Dance Colombia",
+    "streamUrl": "https://sonic.streamingchilenos.com:8138",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "genre": "genre_dance",
+    "country": "country_colombia"
   },
   {
-    "id": "uz37",
-    "name": "2000's – Радио нулевых",
-    "streamUrl": "https://stream.zeno.fm/fwstad5837zuv",
+    "id": "co78",
+    "name": "Radio Guatapurí",
+    "streamUrl": "https://sonic.paulatina.co/7106/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz38",
-    "name": "MTRK Radio O'zbekiston",
-    "streamUrl": "https://mtrk.uz/uz/radio/uzbekiston/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz39",
-    "name": "MTRK Radio Toshkent",
-    "streamUrl": "https://mtrk.uz/uz/radio/toshkent/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz40",
-    "name": "MTRK Radio Mahalla",
-    "streamUrl": "https://mtrk.uz/uz/radio/mahalla/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz41",
-    "name": "MTRK O'zbekiston 24 Radio",
-    "streamUrl": "https://mtrk.uz/uz/radio/uzbekiston24/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_uzbekistan"
-  },
-  {
-    "id": "uz42",
-    "name": "Avtoradio Uzbekistan",
-    "streamUrl": "https://st2.mediabay.tv/Radio_AvtoradioUz/tracks-a1/mono.m3u8",
+    "id": "co79",
+    "name": "Sol Estéreo 99.1 FM",
+    "streamUrl": "https://radiohd.streaminghd.co:7120/live",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz43",
-    "name": "Uzbek FM",
-    "streamUrl": "http://yayin.turkhosted.com:7034/stream.nsv",
+    "id": "co80",
+    "name": "Dinámica Estéreo",
+    "streamUrl": "https://live.hbstreaming.com/dinamicastereo",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz44",
-    "name": "Radio Mumtoz FM",
-    "streamUrl": "http://81.19.85.200:80/megapolis128.mp3",
+    "id": "co81",
+    "name": "Super Clásica",
+    "streamUrl": "http://77.73.69.238:8000/stream",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz45",
-    "name": "Khalifa FM",
-    "streamUrl": "https://stream.zeno.fm/y8gdyaatxhhvv",
+    "id": "co82",
+    "name": "Ábaco Libros y Café Jazz Radio",
+    "streamUrl": "http://radio30.virtualtronics.com:8638/",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co83",
+    "name": "ALR Jazz Radio",
+    "streamUrl": "http://play14.tikast.com:8638/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co84",
+    "name": "Radio Ipuc",
+    "streamUrl": "https://virtualtronics.net/proxy/ipuc?mp=/stream/1/",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
   },
   {
-    "id": "uz46",
-    "name": "Timsol Online Radiosi (zeno)",
-    "streamUrl": "https://stream.zeno.fm/cqtrku1o8bbuv",
+    "id": "co85",
+    "name": "Su Presencia Radio",
+    "streamUrl": "https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "genre": "genre_religious",
+    "country": "country_colombia"
   },
   {
-    "id": "uz47",
-    "name": "Radio A'LO FM (sonic)",
-    "streamUrl": "https://sonicpanel.oficialserver.com:7004/",
+    "id": "co86",
+    "name": "Radio Bendición",
+    "streamUrl": "http://stream.labiblia.in:8000/radiobendicion.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "genre": "genre_religious",
+    "country": "country_colombia"
   },
   {
-    "id": "uz48",
-    "name": "Radio Yoshlar Ovozi (liveonline)",
-    "streamUrl": "https://liveonlineradio.net/fr/radio-yoshlar-ovozi",
+    "id": "co87",
+    "name": "Ejército Nacional de Colombia",
+    "streamUrl": "https://radiolatina.info/8154/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co88",
+    "name": "Música Llanera y sus Novedades",
+    "streamUrl": "http://192.99.203.81:8704/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co89",
+    "name": "Mi Vallenatísima",
+    "streamUrl": "https://streaming.radiosenlinea.com.ar:10865/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co90",
+    "name": "Pedazo de Acordeón",
+    "streamUrl": "http://62.210.38.137:8446/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co91",
+    "name": "Ecos del Combeima 790 AM Ibagué",
+    "streamUrl": "http://s2.viastreaming.net:8030/",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co92",
+    "name": "Radio Energía 102.5",
+    "streamUrl": "http://audio2.energia1025.com:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co93",
+    "name": "Romántica Estéreo 88.1 FM Pasto",
+    "streamUrl": "http://radiolatina.info:7096/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co94",
+    "name": "La Retro Radio",
+    "streamUrl": "http://audio.laretroradio.com:8000/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co95",
+    "name": "Mundo Retro Colombia",
+    "streamUrl": "http://radiolatina.info:9752",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co96",
+    "name": "Radio Auténtica Bogotá 540 AM",
+    "streamUrl": "https://radiolatina.info:10835/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_uzbekistan"
+    "country": "country_colombia"
+  },
+  {
+    "id": "co97",
+    "name": "Radio Auténtica Cali",
+    "streamUrl": "http://radio45.virtualtronics.com:8068/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co98",
+    "name": "Radio Auténtica Villavicencio 1080 AM",
+    "streamUrl": "http://radio35.virtualtronics.com:8285/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co99",
+    "name": "Emisora Atlántico 1070 AM",
+    "streamUrl": "https://master.letio.com/io/?gs=9104&type=live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co100",
+    "name": "Armonías Boyacenses 950 AM",
+    "streamUrl": "https://virtualtronics.net/proxy/armoniasboyacenses?mp=/",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co101",
+    "name": "Estrella Estéreo 104.3 FM Medellín",
+    "streamUrl": "http://68.233.236.92:8006/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co102",
+    "name": "Fuego 1160 AM",
+    "streamUrl": "https://radio35.virtualtronics.com:20017/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co103",
+    "name": "Fuego 101.9 FM",
+    "streamUrl": "http://real2.streaming-co.com:8747/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co104",
+    "name": "Barranquilla Estéreo",
+    "streamUrl": "http://radio.yaservers.com:8197/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co105",
+    "name": "La Pachanguera FM",
+    "streamUrl": "http://radiolatina.info:8772/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co106",
+    "name": "La Voz de Cali",
+    "streamUrl": "https://tupanel.info:2000/stream/2digitalradioHDsslLIVE046",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co107",
+    "name": "DiscoRumba 95.4 FM",
+    "streamUrl": "https://virtual1.emisorasvirtuales.com:8050/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co108",
+    "name": "Reggaetón Estéreo Online FM",
+    "streamUrl": "https://listen.openstream.co/3077/audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co109",
+    "name": "Versalles Estéreo 90.3 FM",
+    "streamUrl": "https://cloud8.vsgtech.co/8036/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co110",
+    "name": "Mágica 107.9 FM",
+    "streamUrl": "https://cloud8.vsgtech.co/8066/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co111",
+    "name": "La Salxisa 100.1 FM",
+    "streamUrl": "https://cloud8.vsgtech.co/8074/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co112",
+    "name": "Emisora Valle Estéreo",
+    "streamUrl": "https://cloud8.vsgtech.co/8080/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co113",
+    "name": "Cisneros Estéreo 105.4 FM",
+    "streamUrl": "https://server2.ejeserver.com:8430/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co114",
+    "name": "Apartadó Estéreo",
+    "streamUrl": "https://radiohd.streaminghd.co:7226/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co115",
+    "name": "Risaralda 100.2 TU Radio",
+    "streamUrl": "http://server2.ejeserver.com:8080/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co116",
+    "name": "Ecos del Catatumbo",
+    "streamUrl": "https://radiohd.streaminghd.co:7706/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co117",
+    "name": "Frecuencia Arena",
+    "streamUrl": "http://88.198.9.174:8854/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co118",
+    "name": "Radio Mahananda – Vallenato",
+    "streamUrl": "http://radiolatina.info:9832",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co119",
+    "name": "Radio Voces del Pacífico 106.6 FM",
+    "streamUrl": "http://radiolatina.info/9430/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co120",
+    "name": "Radio Isla 89.5 FM",
+    "streamUrl": "https://radiohd.streaminghd.co:7238/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co121",
+    "name": "Conexión Radio – 80s",
+    "streamUrl": "https://streamming.dobitsoluciones.com:7012/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co122",
+    "name": "MaximusRock FM",
+    "streamUrl": "http://maximusrockfm.stream.laut.fm/maximusrockfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co123",
+    "name": "Radio Más Rock n Pop",
+    "streamUrl": "https://streaming.masrocknpop.com/8188/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co124",
+    "name": "Azul Tricolrock",
+    "streamUrl": "https://cast.tricolrock.com/hls/azul_tricolrock/live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co125",
+    "name": "Legión del Metal",
+    "streamUrl": "http://163.172.77.142:8588/",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co126",
+    "name": "Punk En Las Venas Radio",
+    "streamUrl": "http://163.172.77.142:8657/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co127",
+    "name": "Vokaribe Radio",
+    "streamUrl": "http://51.15.160.78:9021/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co128",
+    "name": "Conexión Lasallista",
+    "streamUrl": "http://51.15.160.78:8430/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co129",
+    "name": "La Guajira Hoy Radio",
+    "streamUrl": "https://radio.laguajirahoy.com/radio/8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co130",
+    "name": "La Discoteca Radio",
+    "streamUrl": "https://streamingmediaradio.live:8002/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co131",
+    "name": "El Gran Lobo",
+    "streamUrl": "https://radio.elgranlobo.com/listen/el_gran_lobo/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co132",
+    "name": "La Juiciosa",
+    "streamUrl": "https://play12.tikast.com/proxy/lajuiciosa?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co133",
+    "name": "Metrópolis Estéreo",
+    "streamUrl": "https://streaming.radiosenlinea.com.ar:10898/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co134",
+    "name": "Cartago Estéreo 89.0 FM",
+    "streamUrl": "http://radio40.virtualtronics.com:8584/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co135",
+    "name": "Emisora Tropical de Oro",
+    "streamUrl": "https://sp.totalstreaming.net/8024/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co136",
+    "name": "Radio Vida en Familia",
+    "streamUrl": "https://servidor16.brlogic.com:7238/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co137",
+    "name": "Emisora Mariana 1400 AM",
+    "streamUrl": "https://servidor24.brlogic.com:7654/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co138",
+    "name": "Arauna Estéreo",
+    "streamUrl": "http://samuel.i-radio.co:8000/araunastereo",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co139",
+    "name": "Radio Manantial Estéreo",
+    "streamUrl": "https://samuel.i-radio.co:8000/manantialstereo",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co140",
+    "name": "Emisora Cultural de Pereira Antonio Cañarte",
+    "streamUrl": "http://167.114.153.222:8028/",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co141",
+    "name": "Brisa FM 93.1",
+    "streamUrl": "https://radio25.virtualtronics.com:20057/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co142",
+    "name": "Fiesta Estéreo 88.1 FM",
+    "streamUrl": "https://streaming.radiosenlinea.com.ar/8800/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co143",
+    "name": "Eco Estéreo",
+    "streamUrl": "http://149.56.22.27:8022/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co144",
+    "name": "La Radio Deportes",
+    "streamUrl": "https://samuel.i-radio.co:9000/radiodeportes",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co145",
+    "name": "Durisima Radio Online",
+    "streamUrl": "http://durisimaradio.stream.laut.fm/durisimaradio",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co146",
+    "name": "Radio Colombia Internacional",
+    "streamUrl": "https://cloudstream2032.conectarhosting.com/8308/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co147",
+    "name": "Impacto Radio",
+    "streamUrl": "https://radiolatina.info/8080/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co148",
+    "name": "Radio Sincelejo",
+    "streamUrl": "http://163.172.198.16:8190/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co149",
+    "name": "Bacatá Estéreo Bogotá",
+    "streamUrl": "http://radio25.virtualtronics.com:8356/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co150",
+    "name": "Radio Meridiano 70 1170 AM",
+    "streamUrl": "https://mediacp15.rootservers.co/stream/8018",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_colombia"
   }
 ]
