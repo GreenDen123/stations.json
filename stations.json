@@ -8034,7 +8034,7 @@
   {
     "id": "br1",
     "name": "Rádio Conexão Manaus Reggae",
-    "streamUrl": "https://stream03.pcradio.biz/conexao_manaus-hi",
+    "streamUrl": "https://s23.maxcast.com.br:8651/live",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/033/conexao-reggae.3512a2eb.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8050,23 +8050,23 @@
   {
     "id": "br4",
     "name": "JB FM 99.9",
-    "streamUrl": "https://stream03.pcradio.biz/jb_999_fm-hi",
+    "streamUrl": "https://24273.live.streamtheworld.com/JBFMAAC_SC?dist=mytuner",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/331/jb-fm-999.c1d0d2fb.jpg",
     "genre": "genre_pop",
     "country": "country_brazil"
   },
   {
     "id": "br5",
-    "name": "Radio Cidade 102.9 FM",
-    "streamUrl": "https://stream03.pcradio.biz/cidade_1029fm-hi",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/935/radio-cdl-1029-fm.96c15750.png",
+    "name": "Radio Cidade FM",
+    "streamUrl": "https://26483.live.streamtheworld.com/RADIOCIDADEAAC_SC?dist=mytuner-radio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/792/radio-cidade-1029-fm.f6aceaaa.jpg",
     "genre": "genre_rock",
     "country": "country_brazil"
   },
   {
     "id": "br6",
     "name": "Antena 1 Rio 103.7",
-    "streamUrl": "https://stream03.pcradio.biz/antena1_rio-hi",
+    "streamUrl": "https://antena1campanha.crossradio.com.br:29090/camp3",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/033/antena-1-rio.8f47183c.jpg",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8074,7 +8074,7 @@
   {
     "id": "br7",
     "name": "Radio Vida Nova FM",
-    "streamUrl": "https://stream03.pcradio.biz/rad_brfra-hi",
+    "streamUrl": "https://paineldj5.com.br:20007/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/451/radio-vida-nova-fm.289901b5.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8082,7 +8082,7 @@
   {
     "id": "br8",
     "name": "Bossa Nova Brazil",
-    "streamUrl": "https://stream03.pcradio.biz/bossanova_vip-hi",
+    "streamUrl": "https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/880/bossa-nova-brazil.6b0145eb.jpg",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8090,7 +8090,7 @@
   {
     "id": "br9",
     "name": "Love Times",
-    "streamUrl": "https://stream03.pcradio.biz/love_times-hi",
+    "streamUrl": "https://ice31.securenetsystems.net/TIMESFM?playSessionID=8421FD8F-29F7-4EF3-B93621CC123CC1DC",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/894/times-radio2.3d68ae1c.png",
     "genre": "genre_dance",
     "country": "country_brazil"
@@ -30854,5 +30854,909 @@
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/132069.v7.png",
     "genre": "genre_pop",
     "country": "country_uzbekistan"
+  },
+  {
+    "id": "co01",
+    "name": "Caracol Radio",
+    "streamUrl": "https://24493.live.streamtheworld.com/CARACOL_RADIOAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/303/caracol-radio.18b43470.jpg",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co02",
+    "name": "W Radio",
+    "streamUrl": "https://27343.live.streamtheworld.com/WRADIO.mp3?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/296/w-radio-mexico.06306eb0.jpg",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co03",
+    "name": "Blu Radio",
+    "streamUrl": "https://24483.live.streamtheworld.com/BLURADIO.mp3?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/283/blu-radio.d17783b0.jpg",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co07",
+    "name": "Radioacktiva 97.9 FM Bogotá",
+    "streamUrl": "https://24363.live.streamtheworld.com/RADIO_ACTIVAAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/859/radioacktiva.c5cdb359.png",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co08",
+    "name": "Radioacktiva 102.3 FM Medellín",
+    "streamUrl": "https://27423.live.streamtheworld.com/RADIOACKTIVA_MEDAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/666/radioacktiva-medellin.c5cdb359.png",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co09",
+    "name": "Los 40 Principales",
+    "streamUrl": "https://26673.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/290/los-40-principales-chile.b3eabffc.jpg",
+    "genre": "genre_hits",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co11",
+    "name": "Tropicana Bogotá 102.9 FM",
+    "streamUrl": "https://24413.live.streamtheworld.com/TROPICANAAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/873/tropicana-bogota.6cfcedd4.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co12",
+    "name": "Tropicana Villavicencio 99.3 FM",
+    "streamUrl": "https://24493.live.streamtheworld.com/TR_VILLAVICENCIOAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/984/tropicana-villavicencio-993-fm.5049912b.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co13",
+    "name": "Tropicana Popayán 106.1 FM",
+    "streamUrl": "https://27363.live.streamtheworld.com/TR_POPAYANAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/631/tropicana-popayan.b1bce25c.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co14",
+    "name": "Radio Oxígeno",
+    "streamUrl": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=4CpWW8hnjefGr32D2dFWzJLLzgJoVuvJ&sid=Lk2fsHNec3nRsSJq92mLpEapBvuOy9Fx&uid=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781263276778&ot=Tm6yuTzLLoNN_kErXftl6A&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Fwww.emisorascolombianas.co%2F&listenerId=QKlLXYhxvjfNPgsuiinuIo8FZ6I4GaEA",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/ns3bnMSxg9.jpeg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co15",
+    "name": "La Kalle FM",
+    "streamUrl": "https://27583.live.streamtheworld.com/LA_KALLE.mp3?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/860/la-kalle-969-fm.c8a228d5.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co16",
+    "name": "Vibra Bogotá 104.9 FM",
+    "streamUrl": "https://24443.live.streamtheworld.com/VIBRAAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/832/vibra-fm-1049.f9c0981a.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co17",
+    "name": "Candela Estéreo Bogotá 101.9 FM",
+    "streamUrl": "https://27403.live.streamtheworld.com/CANDELAESTEREOAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/833/candela-stereo.97aa41b3.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co18",
+    "name": "Candela Cali 102.5 FM",
+    "streamUrl": "https://14073.live.streamtheworld.com/CANDELA_CALIAAC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/696/energia-1025-fm.14d5befc.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co19",
+    "name": "Radio Nacional de Colombia – RTVC",
+    "streamUrl": "https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/936/rtvc-radio-nacional-de-colombia.ca96219d.jpg",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co20",
+    "name": "Radiónica RTVC 99.1 FM",
+    "streamUrl": "https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/935/rtvc-radionica.03a04ab8.jpg",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co21",
+    "name": "La FM Bogotá 94.9 FM",
+    "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9b23d1dcd7027f32f7fe",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/667/la-fm-bogota.a944bdf2.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co22",
+    "name": "Olímpica Stereo Cali",
+    "streamUrl": "https://27343.live.streamtheworld.com/OLP_CALIAAC.aac?dist=onlineradiobox",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/915/olimpica-stereo-cali-1045-fm.e7dfd862.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co23",
+    "name": "Olímpica Stereo Bogotá",
+    "streamUrl": "https://27353.live.streamtheworld.com/OLP_CALI.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/830/olimpica-stereo-bogota-1059-fm.d41b33af.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co24",
+    "name": "Olímpica Stereo Cartagena 90.5 FM",
+    "streamUrl": "https://27373.live.streamtheworld.com/OLP_CARTAGENAAAC_SC?dist=oro_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/916/olimpica-stereo-cartagena-905-fm.8479874c.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co25",
+    "name": "Olímpica Stereo Bucaramanga 97.7 FM",
+    "streamUrl": "https://26483.live.streamtheworld.com/OLP_BUCARAMANGAAAC_SC?dist=oro_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/914/olimpica-stereo-bucaramanga-977-fm.466040cc.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co27",
+    "name": "Olímpica Stereo Barranquilla 92.1 FM",
+    "streamUrl": "https://24383.live.streamtheworld.com/OLP_BARRANQUILLAAAC_SC?dist=oro_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/913/olimpica-stereo-barranquilla-921-fm.a7f8c4c5.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co28",
+    "name": "Bésame 99.4 FM Bogotá",
+    "streamUrl": "https://14553.live.streamtheworld.com/XHPSFMAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/150/besame-fm-bogota.ef4221dc.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co29",
+    "name": "Bésame 106.5 FM Cali",
+    "streamUrl": "https://26593.live.streamtheworld.com/BESAME_CALIAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/070/besame-fm-cali.0db959e9.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co30",
+    "name": "Bésame 100.7 FM Cúcuta",
+    "streamUrl": "https://26573.live.streamtheworld.com/BESAME_CUCUTAAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/075/besame-fm-cucuta.c46911e1.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co31",
+    "name": "Bésame 90.7 FM Armenia",
+    "streamUrl": "https://27363.live.streamtheworld.com/BESAME_ARMENIAAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/071/besame-fm-armenia.4acf7a72.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co32",
+    "name": "Bésame 104.7 FM Bucaramanga",
+    "streamUrl": "https://24223.live.streamtheworld.com/BESAME_BUCARAMANGAAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/074/besame-fm-bucaramanga.334ae88b.png",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co33",
+    "name": "Bésame 93.7 FM Pereira",
+    "streamUrl": "https://27353.live.streamtheworld.com/BESAME_PEREIRA_FMAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/077/besame-fm-pereira.67da3314.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co34",
+    "name": "Bésame 91.7 FM Manizales",
+    "streamUrl": "https://24423.live.streamtheworld.com/BESAME_MANIZALESAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/076/besame-fm-manizales.fccf849d.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co35",
+    "name": "Bésame 106.9 FM Popayán",
+    "streamUrl": "https://27413.live.streamtheworld.com/BESAME_POPAYAN_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/078/besame-fm-popayan.a98b8e7c.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co36",
+    "name": "Bésame FM Neiva",
+    "streamUrl": "https://radiohd.streaminghd.co:7052/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/150/besame-fm-bogota.ef4221dc.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co38",
+    "name": "Radio Tiempo Cali 89.5 FM",
+    "streamUrl": "https://26583.live.streamtheworld.com/RT_CALIAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/570/radio-tiempo-cali.a0a90ef5.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co39",
+    "name": "Radio Tiempo Medellín",
+    "streamUrl": "https://14073.live.streamtheworld.com/RT_MEDELLINAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/573/radio-tiempo-medellin.c63121dc.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co40",
+    "name": "Radio Tiempo Barranquilla 96.1 FM",
+    "streamUrl": "https://19473.live.streamtheworld.com/RT_BARRANQUILLAAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/567/radio-tiempo-barranquilla.ef676879.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co41",
+    "name": "La Reina Barranquilla",
+    "streamUrl": "https://24403.live.streamtheworld.com/RNA_BARRANQUILLA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/077/la-reina-986-fm-barranquilla.f4ddcaf3.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co43",
+    "name": "Acuario Estéreo 1010 AM",
+    "streamUrl": "https://27403.live.streamtheworld.com/ACUARIO_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/725/acuario-estereo.b318fe97.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co44",
+    "name": "CRV Radio Vida 890 AM Bogotá",
+    "streamUrl": "https://26283.live.streamtheworld.com/VIDA_BOGOTA.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/826/crv-radio-vida.3744979d.png",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co46",
+    "name": "La Mega Pereira 105.2 FM",
+    "streamUrl": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/797/la-mega-pereira.36fe2c68.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co47",
+    "name": "Radio Uno Pereira 94.7 FM",
+    "streamUrl": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/111/radio-uno-pereira.9835a3d5.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co51",
+    "name": "Caracol Radio Santa Marta 890 AM",
+    "streamUrl": "https://27603.live.streamtheworld.com/CARACOL_STAMARTAAAC_SC?csegid=10000&dist=caracol_co-web-playperm-live_str_play&pname=TDSdk&ttag=test-caracol-07052020",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/zxhq22kee2fp.png",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co52",
+    "name": "Radio María Colombia",
+    "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/098/radio-maria-colombia.caed66ee.png",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co53",
+    "name": "Radio Bolivariana FM 92.4 Medellín",
+    "streamUrl": "http://streaming.radiobolivarianavirtual.com:7630/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/784/radio-bolivariana.8b242cd6.jpg",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co55",
+    "name": "Colmundo Radio Bogotá",
+    "streamUrl": "http://master.shoutcast.com:8000/colmundo-radio-bogota",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/552/colmundo-radio-bucaramanga-1230-am-colombia.88381bee.jpg",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co56",
+    "name": "Uniminuto Radio 1430 AM Bogotá",
+    "streamUrl": "https://uniminutoradiobogota.out.airtime.pro//uniminutoradiobogota_a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/311/uniminuto-radio-colombia.5f33e177.png",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co58",
+    "name": "La X 96.5 FM",
+    "streamUrl": "https://tupanel.info/stream/2digitalradioHDsslLIVE040",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/379/la-x-965-fm.2bb0c750.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co59",
+    "name": "Colombia Crossover",
+    "streamUrl": "http://64.37.50.226:8006/stream.nsv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/880/colombia-crossover.bfb6c241.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co60",
+    "name": "La Poderosa Radio Online – Salsa",
+    "streamUrl": "https://radios.lapoderosacpanel.com/listen/salsa/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/478/la-poderosa-radio-online-salsa.e4f8bfba.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co61",
+    "name": "La Poderosa Radio Online – Salsa del Ayer",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8022/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/134/la-poderosa-radio-online-salsa-del-ayer.9275e228.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co62",
+    "name": "La Poderosa Radio Online – Vallenato",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8034/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/483/la-poderosa-radio-online-vallenato.f4933274.png",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co63",
+    "name": "La Poderosa Radio Online – Popular",
+    "streamUrl": "https://radios.lapoderosacpanel.com/listen/popular/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/484/la-poderosa-radio-online-popular.034af7d8.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co64",
+    "name": "La Poderosa Radio Online – Romántica",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8030/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/480/la-poderosa-radio-online-romantica.cb745db1.png",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co65",
+    "name": "La Poderosa Radio Online – 80s",
+    "streamUrl": "https://radios.lapoderosacpanel.com/listen/80sy90s/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/479/la-poderosa-radio-online-80s.839597c2.png",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co66",
+    "name": "La Poderosa Radio Online – 90s",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8026/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/479/la-poderosa-radio-online-80s.839597c2.png",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co67",
+    "name": "La Poderosa Radio Online – Boleros",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8028/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/135/la-poderosa-radio-online-boleros.7476f65b.png",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co68",
+    "name": "La Poderosa Radio Online – Crossover",
+    "streamUrl": "https://radios.lapoderosacpanel.com/listen/crossover/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/476/la-poderosa-radio-online-crossover.cb765851.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co69",
+    "name": "La Poderosa Radio Online – Viejoteca",
+    "streamUrl": "https://radios.lapoderosacpanel.com/listen/viejoteca/mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/477/la-poderosa-radio-online-viejoteca.d90c74be.jpg",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co70",
+    "name": "La Poderosa Radio Online – Mezclas",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8038/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/485/la-poderosa-radio-online-mezclas.9bc0aa57.png",
+    "genre": "genre_dance",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co71",
+    "name": "La Poderosa Radio Online – Instrumental",
+    "streamUrl": "https://sonicpanel.totalstreaming.net/8020/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/RcZDRaD5hm.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co72",
+    "name": "La Poderosa 104.1 FM",
+    "streamUrl": "https://samuel.i-radio.co:8001/araunastereo",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/xx3W8TgVUS.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co73",
+    "name": "ZonaSalsa",
+    "streamUrl": "http://s40.myradiostream.com:8520/listen.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/837/zonasalsa-salsa-de-verdad.9b3642f4.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co75",
+    "name": "Mix Radio 103.9",
+    "streamUrl": "https://17993.live.streamtheworld.com/MIX_BARRANQUILLAAAC_SC?dist=oro_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/577/mix-1039-fm.664b9586.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co76",
+    "name": "Melodía Estéreo",
+    "streamUrl": "https://c60.letio.com/ShoutcastProxy.ashx?ids=7000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/564/radio-melodia-colombia.0e9fd3a7.jpg",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co78",
+    "name": "Radio Guatapurí",
+    "streamUrl": "https://sonic.paulatina.co/7106/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/367/radio-guatapuri.206bf71e.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co81",
+    "name": "Super Clásica",
+    "streamUrl": "http://77.73.69.238:8000/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/z3hXGL4BUM.png",
+    "genre": "genre_clasic",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co83",
+    "name": "ALR Jazz Radio",
+    "streamUrl": "http://play14.tikast.com:8638/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/342/jazz-radio.f395517e.png",
+    "genre": "genre_jazz",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co84",
+    "name": "Radio Ipuc",
+    "streamUrl": "https://virtualtronics.net/proxy/ipuc?mp=/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/214/radio-ipuc.5cd25c6b.jpg",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co85",
+    "name": "Su Presencia Radio",
+    "streamUrl": "https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rcx5ura4m9v7.jpg",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co86",
+    "name": "Radio Bendición",
+    "streamUrl": "http://stream.labiblia.in:8000/radiobendicion.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/127/radio-bendicion.0f20b5ba.jpg",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co87",
+    "name": "Ejército Nacional de Colombia",
+    "streamUrl": "https://radiolatina.info/8154/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/936/rtvc-radio-nacional-de-colombia.ca96219d.jpg",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co88",
+    "name": "Música Llanera y sus Novedades",
+    "streamUrl": "http://192.99.203.81:8704/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/060/musica-y-folklor.bc1ed007.png",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co89",
+    "name": "Mi Vallenatísima",
+    "streamUrl": "https://streaming.radiosenlinea.com.ar:10865/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/114/mi-vallenatisima.acf96bed.png",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co93",
+    "name": "Romántica Estéreo 88.1 FM Pasto",
+    "streamUrl": "http://radiolatina.info:7096/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/209/romantica-estereo.ec297691.png",
+    "genre": "genre_relax",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co94",
+    "name": "La Retro Radio",
+    "streamUrl": "http://audio.laretroradio.com:8000/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/792/la-retro-radio.156ccd56.png",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co97",
+    "name": "Radio Auténtica Cali",
+    "streamUrl": "http://radio45.virtualtronics.com:8068/stream/1/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/409/radio-autentica-cali.e918c533.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co98",
+    "name": "Radio Auténtica Villavicencio 1080 AM",
+    "streamUrl": "https://radio35.virtualtronics.com/proxy/radioautenticavillavicencio?mp=/stream%E2%80%A8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/702/radio-autentica-villavicencio.867b7efd.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co100",
+    "name": "Armonías Boyacenses 950 AM",
+    "streamUrl": "https://virtualtronics.net/proxy/armoniasboyacenses?mp=/",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/979/armonias-boyacenses.f7328f0d.jpg",
+    "genre": "genre_folk",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co101",
+    "name": "Estrella Estéreo 104.3 FM Medellín",
+    "streamUrl": "https://securestreams3.autopo.st:1404/Estrella104.3FM",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/825/estrella-estereo.d1ff4458.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co102",
+    "name": "Fuego 1160 AM",
+    "streamUrl": "https://radio35.virtualtronics.com:20017/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/065/fuego-am.e6408c83.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co103",
+    "name": "Fuego 101.9 FM",
+    "streamUrl": "http://real2.streaming-co.com:8747/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/701/fuego-stereo.1c111e08.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co104",
+    "name": "Barranquilla Estéreo",
+    "streamUrl": "http://radio.yaservers.com:8197/stream.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/216/barranquilla-estereo.d49414f3.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co105",
+    "name": "La Pachanguera FM",
+    "streamUrl": "https://play14.tikast.com:20121/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/971/la-pachanguera-fm.791100d0.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co106",
+    "name": "La Voz de Cali",
+    "streamUrl": "https://tupanel.info:2000/stream/2digitalradioHDsslLIVE046",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/25360.v11.png",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co109",
+    "name": "Versalles Estéreo 90.3 FM",
+    "streamUrl": "https://cloud8.vsgtech.co/8036/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/064/versalles-stereo.9bc29779.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co110",
+    "name": "Mágica 107.9 FM",
+    "streamUrl": "https://cloud8.vsgtech.co/8066/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/683/magica-estereo.02bc1537.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co111",
+    "name": "La Salxisa 100.1 FM",
+    "streamUrl": "https://cloud8.vsgtech.co/8074/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/425/la-salxisa.61e152d2.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co112",
+    "name": "Emisora Valle Estéreo",
+    "streamUrl": "https://cloud8.vsgtech.co/8080/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/878/emisora-valle-stereo.e2bf9fe5.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co113",
+    "name": "Cisneros Estéreo 105.4 FM",
+    "streamUrl": "https://server2.ejeserver.com:8430/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/849/cisneros-stereo.9356b33d.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co114",
+    "name": "Apartadó Estéreo",
+    "streamUrl": "https://radiohd.streaminghd.co:7226/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/7ejhfjq7qbu7.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co115",
+    "name": "Risaralda 100.2 TU Radio",
+    "streamUrl": "http://server2.ejeserver.com:8080/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/408/risaralda-1002-fm.494c3a11.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co117",
+    "name": "Frecuencia Arena",
+    "streamUrl": "http://88.198.9.174:8854/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/334/frecuencia-arena-983-fm.6c9858d8.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co119",
+    "name": "Radio Voces del Pacífico 106.6 FM",
+    "streamUrl": "http://radiolatina.info/9430/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/59675.v12.png",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co120",
+    "name": "Radio Isla 89.5 FM",
+    "streamUrl": "https://radiohd.streaminghd.co:7238/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/149093.v2.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co121",
+    "name": "Conexión Radio – 80s",
+    "streamUrl": "https://streamming.dobitsoluciones.com:7012/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/643/radio-conexion-colombia.0e6b9035.jpg",
+    "genre": "genre_retro",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co122",
+    "name": "MaximusRock FM",
+    "streamUrl": "http://maximusrockfm.stream.laut.fm/maximusrockfm",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/795/maximusrockfm-colombia.9d561f25.png",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co123",
+    "name": "Radio Más Rock n Pop",
+    "streamUrl": "https://streaming.masrocknpop.com/8188/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/025/pop-rock.42add714.png",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co124",
+    "name": "Azul Tricolrock",
+    "streamUrl": "https://cast.tricolrock.com/hls/azul_tricolrock/live.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/429/azul-tricolrock.fff9288e.png",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co126",
+    "name": "Punk En Las Venas Radio",
+    "streamUrl": "http://163.172.77.142:8657/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/286/punk-en-las-venas-radio.5c4d4e07.png",
+    "genre": "genre_rock",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co127",
+    "name": "Vokaribe Radio",
+    "streamUrl": "http://51.15.160.78:9021/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/88196.v6.png",
+    "genre": "genre_info",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co129",
+    "name": "La Guajira Hoy Radio",
+    "streamUrl": "https://radio.laguajirahoy.com/radio/8000/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/96190.v10.png",
+    "genre": "genre_news",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co130",
+    "name": "La Discoteca Radio",
+    "streamUrl": "https://streamingmediaradio.live:8002/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/682/la-discoteca-radio.78c7574f.jpg",
+    "genre": "genre_dance",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co131",
+    "name": "El Gran Lobo",
+    "streamUrl": "https://radio.elgranlobo.com/listen/el_gran_lobo/radio.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/573/el-gran-lobo.c51fe1e2.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co134",
+    "name": "Cartago Estéreo 89.0 FM",
+    "streamUrl": "http://radio40.virtualtronics.com:8584/;",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/541/cartago-stereo.0e0e01ac.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co135",
+    "name": "Emisora Tropical de Oro",
+    "streamUrl": "https://stream-289.surfernetwork.com/h4nq9hqhnkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoNG5xOWhxaG5raHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIxakRhVFlvY1E1R0xwVXdDbkNfRlVBIiwiaWF0IjoxNzgxMjY4MTk3LCJleHAiOjE3ODEyNjgyNTd9.UReRmLl9IjqU0fbv8PlQeqHz3wfBRDZy_wzvxjxiS20",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/988/emisora-tropical-de-oro.75c31e3f.jpg",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co136",
+    "name": "Radio Vida en Familia",
+    "streamUrl": "https://servidor16.brlogic.com:7238/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/439/radio-vida-en-familia-online.d5933882.jpg",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co137",
+    "name": "Emisora Mariana 1400 AM",
+    "streamUrl": "https://servidor24.brlogic.com:7654/live",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/494/emisora-mariana.35049d3a.jpg",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co138",
+    "name": "Arauna Estéreo",
+    "streamUrl": "http://samuel.i-radio.co:8000/araunastereo",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2021/11/Arauna-Stereo.webp",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co139",
+    "name": "Radio Manantial Estéreo",
+    "streamUrl": "https://samuel.i-radio.co:8000/manantialstereo",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/686/radio-manantial.d3d1f2e9.jpg",
+    "genre": "genre_religious",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co142",
+    "name": "Fiesta Estéreo 88.1 FM",
+    "streamUrl": "https://streaming.radiosenlinea.com.ar/8800/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/408/fiesta-estereo.fae395f0.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co143",
+    "name": "Eco Estéreo",
+    "streamUrl": "http://149.56.22.27:8022/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/136/eco-stereo.84739c1c.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co144",
+    "name": "La Radio Deportes",
+    "streamUrl": "https://samuel.i-radio.co:9000/radiodeportes",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/385/radio-deportes-360.be887da5.jpg",
+    "genre": "genre_sport",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co145",
+    "name": "Durisima Radio Online",
+    "streamUrl": "http://durisimaradio.stream.laut.fm/durisimaradio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/102/durisima-radio-cali.25df7118.jpg",
+    "genre": "genre_dance",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co146",
+    "name": "Radio Colombia Internacional",
+    "streamUrl": "https://cloudstream2032.conectarhosting.com/8308/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/710/radio-colombia-internacional.91d7aba1.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
+  },
+  {
+    "id": "co147",
+    "name": "Impacto Radio",
+    "streamUrl": "https://radiolatina.info/8080/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/642/impacto-radio-sv.277cda0f.png",
+    "genre": "genre_pop",
+    "country": "country_colombia"
   }
 ]
