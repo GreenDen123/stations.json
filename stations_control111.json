@@ -139,7 +139,7 @@
     "id": "co22",
     "name": "Olímpica Stereo Cali",
     "streamUrl": "https://27343.live.streamtheworld.com/OLP_CALIAAC.aac?dist=onlineradiobox",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/915/olimpica-stereo-cali-1045-fm.e7dfd862.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
@@ -154,32 +154,24 @@
   {
     "id": "co24",
     "name": "Olímpica Stereo Cartagena 90.5 FM",
-    "streamUrl": "https://27343.live.streamtheworld.com/OLP_CARTAGENAAAC_SC",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27373.live.streamtheworld.com/OLP_CARTAGENAAAC_SC?dist=oro_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/916/olimpica-stereo-cartagena-905-fm.8479874c.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co25",
     "name": "Olímpica Stereo Bucaramanga 97.7 FM",
-    "streamUrl": "https://13693.live.streamtheworld.com/OLP_BUCARAMANGAAAC.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co26",
-    "name": "Olímpica Stereo Montería 90.5 FM",
-    "streamUrl": "https://26573.live.streamtheworld.com/OLP_MONTERIAAAC_SC",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://26483.live.streamtheworld.com/OLP_BUCARAMANGAAAC_SC?dist=oro_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/914/olimpica-stereo-bucaramanga-977-fm.466040cc.jpg",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co27",
     "name": "Olímpica Stereo Barranquilla 92.1 FM",
-    "streamUrl": "https://master.letio.com/io/?gs=9102&type=live.mp3",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://24383.live.streamtheworld.com/OLP_BARRANQUILLAAAC_SC?dist=oro_web",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/913/olimpica-stereo-barranquilla-921-fm.a7f8c4c5.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
@@ -187,7 +179,7 @@
     "id": "co28",
     "name": "Bésame 99.4 FM Bogotá",
     "streamUrl": "https://14553.live.streamtheworld.com/XHPSFMAAC.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/150/besame-fm-bogota.ef4221dc.jpg",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
@@ -195,15 +187,15 @@
     "id": "co29",
     "name": "Bésame 106.5 FM Cali",
     "streamUrl": "https://26593.live.streamtheworld.com/BESAME_CALIAAC.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/070/besame-fm-cali.0db959e9.jpg",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
   {
     "id": "co30",
     "name": "Bésame 100.7 FM Cúcuta",
-    "streamUrl": "https://27403.live.streamtheworld.com/BESAME_CUCUTAAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://26573.live.streamtheworld.com/BESAME_CUCUTAAAC_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/075/besame-fm-cucuta.c46911e1.jpg",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
@@ -211,39 +203,39 @@
     "id": "co31",
     "name": "Bésame 90.7 FM Armenia",
     "streamUrl": "https://27363.live.streamtheworld.com/BESAME_ARMENIAAAC.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/071/besame-fm-armenia.4acf7a72.jpg",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
   {
     "id": "co32",
     "name": "Bésame 104.7 FM Bucaramanga",
-    "streamUrl": "https://13693.live.streamtheworld.com/BESAME_BUCARAMANGAAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://24223.live.streamtheworld.com/BESAME_BUCARAMANGAAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/074/besame-fm-bucaramanga.334ae88b.png",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
   {
     "id": "co33",
     "name": "Bésame 93.7 FM Pereira",
-    "streamUrl": "https://27373.live.streamtheworld.com/BESAME_PEREIRA_FMAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27353.live.streamtheworld.com/BESAME_PEREIRA_FMAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/077/besame-fm-pereira.67da3314.jpg",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
   {
     "id": "co34",
     "name": "Bésame 91.7 FM Manizales",
-    "streamUrl": "https://18323.live.streamtheworld.com/BESAME_MANIZALESAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://24423.live.streamtheworld.com/BESAME_MANIZALESAAC_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/076/besame-fm-manizales.fccf849d.jpg",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
   {
     "id": "co35",
     "name": "Bésame 106.9 FM Popayán",
-    "streamUrl": "https://27603.live.streamtheworld.com/BESAME_POPAYANAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27413.live.streamtheworld.com/BESAME_POPAYAN_SC?csegid=2000",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/078/besame-fm-popayan.a98b8e7c.jpg",
     "genre": "genre_relax",
     "country": "country_colombia"
   },
@@ -251,23 +243,15 @@
     "id": "co36",
     "name": "Bésame FM Neiva",
     "streamUrl": "https://radiohd.streaminghd.co:7052/stream",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/150/besame-fm-bogota.ef4221dc.jpg",
     "genre": "genre_relax",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co37",
-    "name": "Radio Tiempo Bogotá",
-    "streamUrl": "https://master.letio.com/io/?gs=9100&type=master.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co38",
     "name": "Radio Tiempo Cali 89.5 FM",
     "streamUrl": "https://26583.live.streamtheworld.com/RT_CALIAAC_SC",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/570/radio-tiempo-cali.a0a90ef5.jpg",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
@@ -275,7 +259,7 @@
     "id": "co39",
     "name": "Radio Tiempo Medellín",
     "streamUrl": "https://14073.live.streamtheworld.com/RT_MEDELLINAAC.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/573/radio-tiempo-medellin.c63121dc.jpg",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
@@ -283,31 +267,23 @@
     "id": "co40",
     "name": "Radio Tiempo Barranquilla 96.1 FM",
     "streamUrl": "https://19473.live.streamtheworld.com/RT_BARRANQUILLAAAC.aac",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/567/radio-tiempo-barranquilla.ef676879.jpg",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co41",
     "name": "La Reina Barranquilla",
-    "streamUrl": "https://13693.live.streamtheworld.com/RNA_BARRANQUILLAAAC.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co42",
-    "name": "La Reina Cartagena 95.5 FM",
-    "streamUrl": "https://13693.live.streamtheworld.com/RNA_CARTAGENAAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://24403.live.streamtheworld.com/RNA_BARRANQUILLA_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/077/la-reina-986-fm-barranquilla.f4ddcaf3.jpg",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co43",
     "name": "Acuario Estéreo 1010 AM",
-    "streamUrl": "https://23033.live.streamtheworld.com/ACUARIOAAC.aac",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27403.live.streamtheworld.com/ACUARIO_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/725/acuario-estereo.b318fe97.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
@@ -315,23 +291,15 @@
     "id": "co44",
     "name": "CRV Radio Vida 890 AM Bogotá",
     "streamUrl": "https://26283.live.streamtheworld.com/VIDA_BOGOTA.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/826/crv-radio-vida.3744979d.png",
     "genre": "genre_religious",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co45",
-    "name": "Azúcar Estéreo 1041 AM",
-    "streamUrl": "https://26343.live.streamtheworld.com/SAM02AAC80.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
     "country": "country_colombia"
   },
   {
     "id": "co46",
     "name": "La Mega Pereira 105.2 FM",
     "streamUrl": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/797/la-mega-pereira.36fe2c68.png",
     "genre": "genre_pop",
     "country": "country_colombia"
   },
@@ -339,55 +307,31 @@
     "id": "co47",
     "name": "Radio Uno Pereira 94.7 FM",
     "streamUrl": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/111/radio-uno-pereira.9835a3d5.png",
     "genre": "genre_pop",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co48",
-    "name": "Radio Kronos Bogotá",
-    "streamUrl": "https://provisioning.streamtheworld.com/pls/KRONOSAAC.pls",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co49",
-    "name": "HJCK El Mundo en Bogotá",
-    "streamUrl": "http://playerservices.streamtheworld.com/m3u/RADIO_HJCK.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co50",
-    "name": "Q'Hubo Radio – La 1070 AM",
-    "streamUrl": "http://playerservices.streamtheworld.com/m3u/QHUBO_BOGOTAAAC.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
     "country": "country_colombia"
   },
   {
     "id": "co51",
     "name": "Caracol Radio Santa Marta 890 AM",
-    "streamUrl": "https://provisioning.streamtheworld.com/pls/CARACOL_STAMARTAAAC.pls",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://27603.live.streamtheworld.com/CARACOL_STAMARTAAAC_SC?csegid=10000&dist=caracol_co-web-playperm-live_str_play&pname=TDSdk&ttag=test-caracol-07052020",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/zxhq22kee2fp.png",
     "genre": "genre_news",
     "country": "country_colombia"
   },
   {
     "id": "co52",
     "name": "Radio María Colombia",
-    "streamUrl": "https://cdn.cloudrad.io/radiomariacolombia/listen.pls",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/098/radio-maria-colombia.caed66ee.png",
     "genre": "genre_religious",
     "country": "country_colombia"
   },
   {
     "id": "co53",
     "name": "Radio Bolivariana FM 92.4 Medellín",
-    "streamUrl": "http://streaming.radiobolivarianavirtual.com:7630/",
-    "imageUrl": "__________________________",
+    "streamUrl": "http://streaming.radiobolivarianavirtual.com:7630/;",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/784/radio-bolivariana.8b242cd6.jpg",
     "genre": "genre_info",
     "country": "country_colombia"
   },
