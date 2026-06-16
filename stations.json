@@ -31758,5 +31758,941 @@
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/642/impacto-radio-sv.277cda0f.png",
     "genre": "genre_pop",
     "country": "country_colombia"
+  },
+  {
+    "id": "am01",
+    "name": "Public Radio of Armenia (Հայաստանի Հանրային Ռադիո)",
+    "streamUrl": "https://eu1.stream4cast.com/proxy/publicra/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80122/logo_ZFwlQqs4Vs.png",
+    "genre": "genre_info",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am02",
+    "name": "Lratvakan Radio 106.5 FM",
+    "streamUrl": "http://212.34.233.78:8000/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/72211.v6.png",
+    "genre": "genre_news",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am06",
+    "name": "Radio Aurora 100.7 FM",
+    "streamUrl": "https://am.radioaurora.am/al.mp3",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/12790.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am07",
+    "name": "Lav Radio 106.9 FM",
+    "streamUrl": "https://eu.stream4cast.com/proxy/lavradio/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/42870.v13.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am08",
+    "name": "Lav Radio Mix",
+    "streamUrl": "http://live.lavradio.am:8006/stream2",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/42867.v11.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am09",
+    "name": "Radio Marshall 103.5 FM",
+    "streamUrl": "https://eu.stream4cast.com/proxy/marshallfm/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/99190.v2.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am11",
+    "name": "Radio Fama Armenia",
+    "streamUrl": "http://eu.stream4cast.com:8036/stream/;?",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/42961.v8.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am12",
+    "name": "Radio Jan 90.7 FM",
+    "streamUrl": "http://s7.voscast.com:10258/radiojan",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/72193.v8.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am13",
+    "name": "Vem Radio 91.1 FM",
+    "streamUrl": "https://eu1.stream4cast.com/proxy/vemradio/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/53447.v12.png",
+    "genre": "genre_clasic",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am14",
+    "name": "Radio XFM",
+    "streamUrl": "https://eu.stream4cast.com/proxy/xfmradio/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/91668.v7.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am15",
+    "name": "Kiss FM",
+    "streamUrl": "https://am.radioaurora.am/kiss",
+    "imageUrl": "https://radiospinner.com/media/logos/180/80147/logo_mXViaWthEW.png",
+    "genre": "genre_hits",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am16",
+    "name": "Radio Jazz FM",
+    "streamUrl": "https://am.radioaurora.am/jz",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/12798.png",
+    "genre": "genre_jazz",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am18",
+    "name": "Radio Energy",
+    "streamUrl": "https://eu.stream4cast.com/proxy/energyfm/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/91669.v7.png",
+    "genre": "genre_dance",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am19",
+    "name": "Radio Impuls",
+    "streamUrl": "https://a.liveonbd.com/?s=http://212.34.233.78:8000/live&station=IMPULS%20Radio",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/12793.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am20",
+    "name": "Radio Yeraz (Ռադիո Երազ)",
+    "streamUrl": "http://149.255.60.194:8008/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/42878.v7.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am21",
+    "name": "Yerevan Nights Radio",
+    "streamUrl": "http://icecast.yerevannights.com/YerevanNights",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/12795.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am22",
+    "name": "Radio YAN – Armenian",
+    "streamUrl": "https://237.185.153.160.host.secureserver.net/proxy/radioyan1/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/42879.v20.png",
+    "genre": "genre_folk",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am23",
+    "name": "Radio YAN – Patriotic",
+    "streamUrl": "https://237.185.153.160.host.secureserver.net/proxy/radioyan2/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/54237.v8.png",
+    "genre": "genre_folk",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am27",
+    "name": "AYP FM",
+    "streamUrl": "https://stric6.streamakaci.com/radioayp.mp3",
+    "imageUrl": "https://yzfwydwirfiyaapvbacl.supabase.co/storage/v1/object/public/rasa-assets/stations/5dd95cad-600e-4a22-b755-1927c7341a28/logo.webp?v=1775518718",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am37",
+    "name": "LavRadio FM 106.9 (stream4cast)",
+    "streamUrl": "http://eu.stream4cast.com:8000/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/42870.v13.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am40",
+    "name": "Radio AYK",
+    "streamUrl": "https://listen.streamaudio.co/proxy/radioayk/stream",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2014/05/radio-ayk.jpg",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am46",
+    "name": "Yeridasartutyan Tsayne FM",
+    "streamUrl": "https://cast5.asurahosting.com/proxy/jean/live",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/353/yeridasartoutian-tsayne.2a12ab64.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am47",
+    "name": "Nshkhar Radio",
+    "streamUrl": "https://cast5.my-control-panel.com/proxy/mher/stream",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/128758.v8.png",
+    "genre": "genre_religious",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am48",
+    "name": "Hairenik Armenian Radio",
+    "streamUrl": "https://streaming.radio.co/sb64369622/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/32907.v2.png",
+    "genre": "genre_folk",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am49",
+    "name": "Armenian Gospel Radio",
+    "streamUrl": "https://c7.radioboss.fm:8299/autodj",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/25154066.jpg",
+    "genre": "genre_religious",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am50",
+    "name": "Armenian Christian Radio – Bashde Radio",
+    "streamUrl": "https://streams.radio.co/sa0bf8ec29/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/43015.v3.png",
+    "genre": "genre_religious",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am51",
+    "name": "Radio Mariam Armenia (Radio Maria)",
+    "streamUrl": "http://dreamsiteradiocp.com:8056/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/43013.v9.png",
+    "genre": "genre_religious",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am52",
+    "name": "Vatican Radio Armenian",
+    "streamUrl": "https://radio.vaticannews.va/stream-hy",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_religious",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am57",
+    "name": "iMusic Classic AM",
+    "streamUrl": "https://hinstream.imusic.am/2441765578956582400/UVY3cmRYZlRnL0kxT3ZZUS81Qk0rdjVScnZsSjhxb21uMzdsaDFITGQzUT0=//ilyov_stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/42974.v6.png",
+    "genre": "genre_clasic",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am61",
+    "name": "Radio Armenia (Radioarmenie FR)",
+    "streamUrl": "http://direct.radioarmenie.com:9029/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/43118.v3.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am63",
+    "name": "Radio Jan",
+    "streamUrl": "https://s4.voscast.com:8865/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/72193.v8.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am64",
+    "name": "Libano – Հայազգի Ձայն",
+    "streamUrl": "https://c7.radioboss.fm:18299/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/76524.v8.png",
+    "genre": "genre_folk",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am69",
+    "name": "JourNews.am",
+    "streamUrl": "https://stream.zeno.fm/aryx05c3afhvv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/OclzyewSAUxJkZkrRCz-aYl-57DhN1lU4mekjficMm4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0luSmFPdGdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l6UHVDdVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc2OTYyOTUyNDAwMA.webp",
+    "genre": "genre_news",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am70",
+    "name": "Radio Surenavan",
+    "streamUrl": "https://stream-04.surfernetwork.com/uww17gzn8x8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1d3cxN2d6bjh4OHV2IiwiaG9zdCI6InN0cmVhbS0wNC5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6IjctT1UwX2x5UWFDWldoSUZValNCRUEiLCJpYXQiOjE3ODE1MTU4MjMsImV4cCI6MTc4MTUxNTg4M30.rPjJ_iweqhzQ4mQkA4EyhPOelA8KwpNP64y8ZRb3YT0",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/S3lETDb0FkpI3fxmghScS9TURo4gA4Y4OI-AKzED9pM/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c5b2E3a2dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dyb0c4OWdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTYzNTI3ODAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am74",
+    "name": "Радио Шансон",
+    "streamUrl": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/72213.v5.png",
+    "genre": "genre_chanson",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am75",
+    "name": "Радио России",
+    "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
+    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/12806.png",
+    "genre": "genre_info",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am76",
+    "name": "Радио Маяк",
+    "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2016/11/Radio-Mayak-Armenia.jpg",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am77",
+    "name": "Europa Plus",
+    "streamUrl": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/europa-plus.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am78",
+    "name": "101.ru Armenia",
+    "streamUrl": "https://pub0202.101.ru:8443/stream/pro/aac/64/60",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/03/c300.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "am79",
+    "name": "Kiss FM Armenia",
+    "streamUrl": "https://am.radioaurora.am/kiss",
+    "imageUrl": "https://onlineradiobox.me/thumb/media180_85/3f8cc9278236007f18c815342c902d3c.png",
+    "genre": "genre_pop",
+    "country": "country_armenia"
+  },
+  {
+    "id": "al01",
+    "name": "Top Albania Radio 100.0 FM",
+    "streamUrl": "https://live.top-media.al/tar",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/10755.v9.png",
+    "genre": "genre_hits",
+    "country": "country_albania"
+  },
+  {
+    "id": "al02",
+    "name": "Klan Radio",
+    "streamUrl": "https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35133/logo_TtSzmE93gl.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al04",
+    "name": "Radio 7 97.7 FM",
+    "streamUrl": "http://cp1.sednastream.com:8013/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/11242.v6.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al05",
+    "name": "Club FM",
+    "streamUrl": "https://cp1.sednastream.com/proxy/clubfm?mp=%2Fstream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/11229.v6.png",
+    "genre": "genre_dance",
+    "country": "country_albania"
+  },
+  {
+    "id": "al06",
+    "name": "Radio Shqip",
+    "streamUrl": "https://cp1.sednastream.com/proxy/radioshqip?mp=%2Fstream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/69873.v10.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al08",
+    "name": "Radio 1",
+    "streamUrl": "https://livestream.radio1.al/hls/radio.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/11321.v7.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al09",
+    "name": "RTSH Radio Tirana 1 99.5 FM",
+    "streamUrl": "http://79.106.48.2:8000/radiotirana1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/11292.v20.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al10",
+    "name": "RTSH Radio Tirana 2 95.8 FM",
+    "streamUrl": "http://79.106.48.2:8000/radiotirana2",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/11286.v16.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al11",
+    "name": "RTSH Radio Tirana Internacional",
+    "streamUrl": "http://79.106.48.2:8000/rti",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/72398.v9.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al12",
+    "name": "Radio Tirana Klasik",
+    "streamUrl": "http://79.106.48.2:8000/radiotiranaklasik1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/74078.v11.png",
+    "genre": "genre_clasic",
+    "country": "country_albania"
+  },
+  {
+    "id": "al13",
+    "name": "Radio Tirana 3",
+    "streamUrl": "http://79.106.48.2:8000/radiotirana3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/11300.v12.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al14",
+    "name": "Radio Tirana Femije",
+    "streamUrl": "http://79.106.48.2:8000/radiotiranafemije",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/89180.v12.png",
+    "genre": "genre_kids",
+    "country": "country_albania"
+  },
+  {
+    "id": "al16",
+    "name": "Play Radio 91.1 FM",
+    "streamUrl": "https://stream.radiojar.com/0zs50dbr274tv",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/45701.v12.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al17",
+    "name": "Play Mix Radio",
+    "streamUrl": "https://cloud.playradio.one:8555/mix128.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35116/logo_KtB45dZ10P.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al18",
+    "name": "Play Gold Radio",
+    "streamUrl": "https://stream.radiojar.com/431m8b6qcm5tv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35115/logo_DqUN8pcwgb.png",
+    "genre": "genre_retro",
+    "country": "country_albania"
+  },
+  {
+    "id": "al19",
+    "name": "Play Lounge Radio",
+    "streamUrl": "https://stream.radiojar.com/n6frf0ct274tv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35101/logo_m1GRaDysoY.png",
+    "genre": "genre_relax",
+    "country": "country_albania"
+  },
+  {
+    "id": "al20",
+    "name": "Play Folk Shqip",
+    "streamUrl": "https://business.playfm.al:8000/playfolk",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/69873.v10.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al21",
+    "name": "Play Afro",
+    "streamUrl": "https://business.playfm.al/radio/8030/radio.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lYbl04Rwh-zbrpBBe6vd1RgRKTRBmtkTwtRPjV6FJFw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTQ4OGM3ZmEtMjdjNC00MzAzLWIxYzktOGQzNjc4NzdmZWEzL2ltYWdlLz91PTE3MzYzMjAxOTIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al22",
+    "name": "Play Fitness",
+    "streamUrl": "https://business.playfm.al:8060/playfitness",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/yJ1UiufGxBRHslGiKf2z2WhK9ypPxGHZoSGxLLAQqHw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTcyN2M3YzUtN2Q4ZS00NzRmLTk0ZjEtYzZmZDQyMWZmZjg5L2ltYWdlLz91PTE3Njk2OTQ4NDEwMDA.webp",
+    "genre": "genre_dance",
+    "country": "country_albania"
+  },
+  {
+    "id": "al24",
+    "name": "Play The Oldies",
+    "streamUrl": "https://business.playfm.al:8010/playtheoldies",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/QIeYtnBpxTjYl7MfBjI3Bb9bIvvQeDAaT8YsaMXS4Ow/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTQ0YWQ3OGEtMDI2My00NTZmLWIxZWYtYTUyMjMwY2NjYzc4L2ltYWdlLz91PTE3Njk2OTQ4NDEwMDA.webp",
+    "genre": "genre_retro",
+    "country": "country_albania"
+  },
+  {
+    "id": "al25",
+    "name": "Play Vibes",
+    "streamUrl": "https://business.playfm.al:8050/playvibes",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/QIeYtnBpxTjYl7MfBjI3Bb9bIvvQeDAaT8YsaMXS4Ow/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTQ0YWQ3OGEtMDI2My00NTZmLWIxZWYtYTUyMjMwY2NjYzc4L2ltYWdlLz91PTE3Njk2OTQ4NDEwMDA.webp",
+    "genre": "genre_relax",
+    "country": "country_albania"
+  },
+  {
+    "id": "al26",
+    "name": "Play Saxy Beats (Smooth Jazz)",
+    "streamUrl": "https://business.playfm.al:8110/saxybeats",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/QIeYtnBpxTjYl7MfBjI3Bb9bIvvQeDAaT8YsaMXS4Ow/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTQ0YWQ3OGEtMDI2My00NTZmLWIxZWYtYTUyMjMwY2NjYzc4L2ltYWdlLz91PTE3Njk2OTQ4NDEwMDA.webp",
+    "genre": "genre_jazz",
+    "country": "country_albania"
+  },
+  {
+    "id": "al27",
+    "name": "Play Balkan Beats",
+    "streamUrl": "https://business.playfm.al:8120/balkans",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/QIeYtnBpxTjYl7MfBjI3Bb9bIvvQeDAaT8YsaMXS4Ow/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTQ0YWQ3OGEtMDI2My00NTZmLWIxZWYtYTUyMjMwY2NjYzc4L2ltYWdlLz91PTE3Njk2OTQ4NDEwMDA.webp",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al28",
+    "name": "Play Radio Club",
+    "streamUrl": "https://business.playfm.al:8020/radio.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/QIeYtnBpxTjYl7MfBjI3Bb9bIvvQeDAaT8YsaMXS4Ow/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYTQ0YWQ3OGEtMDI2My00NTZmLWIxZWYtYTUyMjMwY2NjYzc4L2ltYWdlLz91PTE3Njk2OTQ4NDEwMDA.webp",
+    "genre": "genre_dance",
+    "country": "country_albania"
+  },
+  {
+    "id": "al44",
+    "name": "Best Pro Radio",
+    "streamUrl": "https://az1.sednastream.com/radio/8000/Live",
+    "imageUrl": "https://bestproradio.com/wp-content/uploads/2024/04/LOGO-Best-pro-Radio-Header-White-Qenderzuar.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al45",
+    "name": "Best Pro Electronic",
+    "streamUrl": "https://az1.sednastream.com/radio/8150/Live",
+    "imageUrl": "https://bestproradio.com/wp-content/uploads/2024/04/LOGO-Best-pro-Radio-Header-White-Qenderzuar.png",
+    "genre": "genre_electronic",
+    "country": "country_albania"
+  },
+  {
+    "id": "al46",
+    "name": "Radio Sol",
+    "streamUrl": "https://az1.sednastream.com/radio/8160/radio.mp3",
+    "imageUrl": "https://cdn.radoxo.com/images/albania/radio-sol.webp?v=1781586001",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al47",
+    "name": "92.1 Capital FM",
+    "streamUrl": "https://cfm.albaservers.com:8012/live.m4a",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/fv34ysxfujae.png",
+    "genre": "genre_hits",
+    "country": "country_albania"
+  },
+  {
+    "id": "al48",
+    "name": "Tirana Jazz Radio",
+    "streamUrl": "https://live.tiranajazzradio.com:8443/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35094/logo_UfWMdhx3wa.png",
+    "genre": "genre_jazz",
+    "country": "country_albania"
+  },
+  {
+    "id": "al52",
+    "name": "Radio Nostalgjia",
+    "streamUrl": "https://radionos.radioca.st/radionostalgjia",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/72637.v5.png",
+    "genre": "genre_retro",
+    "country": "country_albania"
+  },
+  {
+    "id": "al54",
+    "name": "Radio Marimanga",
+    "streamUrl": "https://a9.asurahosting.com/listen/radio_marimanga/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35074/logo_yHqPAvT5od.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al57",
+    "name": "Radio Tradita",
+    "streamUrl": "https://onlineradio.cfd/listen/radiotradita/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35139/logo_kaKrbDdfKB.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al58",
+    "name": "Radio Shqip Folklor",
+    "streamUrl": "http://85.215.168.56:8010/folklor",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/69873.v10.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al59",
+    "name": "Radio Viciana Popullore",
+    "streamUrl": "http://radioviciana.org:8030/;",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35112/logo_hv2wf1jDPV.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al60",
+    "name": "Radio Viciana Folk",
+    "streamUrl": "http://radioviciana.org:8020/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/78033.v2.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al63",
+    "name": "Radio Dukagjini",
+    "streamUrl": "https://s2.voscast.com:8825/radiodukagjini",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/12255.v5.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al64",
+    "name": "Radio Mergimi",
+    "streamUrl": "https://radio.radiomergimi.com/8114/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35102/logo_wPsX3WnceZ.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al65",
+    "name": "Radio Pendimi Kanali 1",
+    "streamUrl": "https://www.rtvpendimi.com:8000/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35091/logo_HltOEF2gWT.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al66",
+    "name": "Radio Pendimi Kanali 2",
+    "streamUrl": "https://www.rtvpendimi.com:8020/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/78075.v4.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al69",
+    "name": "Radio Emanuel 95.7 FM",
+    "streamUrl": "https://cp1.sednastream.com/proxy/radioemanuel/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35077/logo_Ds9sXBs472.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al70",
+    "name": "Radio Maria 91.4 FM",
+    "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=%2Fstream.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35078/logo_EZC7iAFWAj.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al71",
+    "name": "Radio Maria Kosovë",
+    "streamUrl": "http://dreamsiteradiocp.com:8110/stream.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/11201.v5.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al72",
+    "name": "Alfa e Omega Radio 102.6 FM",
+    "streamUrl": "https://broadcast.shoutcheap.com/proxy/alban/streamI",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35095/logo_ggmF5zM6Od.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al73",
+    "name": "Radio Logos 94.2 FM Pogradec",
+    "streamUrl": "https://s2.stationplaylist.com:9280/listen.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/10828.v7.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al74",
+    "name": "Radio Ngjallja",
+    "streamUrl": "https://radio.ngjallja.org/radio_ngjallja",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/72405.v10.png",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al76",
+    "name": "Radio Ilahi Shqip",
+    "streamUrl": "https://stream-285.surfernetwork.com/r884kyk1ag8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyODg0a3lrMWFnOHV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJBbDNvZUFFV1NiZUpCenp1aHRreG5BIiwiaWF0IjoxNzgxNTIwNTM4LCJleHAiOjE3ODE1MjA1OTh9.PUjnNYjoOvHZraO_ACGu03vFh3EgMxaJ5CW-jZs1rl0",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2014/03/radio-ilahi-shqip.jpeg",
+    "genre": "genre_religious",
+    "country": "country_albania"
+  },
+  {
+    "id": "al79",
+    "name": "Radio Saranda 96.1 FM",
+    "streamUrl": "https://s64.radiolize.com/radio/8050/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35137/logo_SUCSwcvvdq.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al80",
+    "name": "Antenna Web Tirana Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebTirana",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35131/logo_ot6SVq8yE4.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al81",
+    "name": "Antenna Web Kroja Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebKroja",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35132/logo_iPF9H1dy6k.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al82",
+    "name": "Antenna Web Durazzo Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebDurazzo",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35130/logo_QafkF35JpT.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al83",
+    "name": "Antenna Web Berat Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebBerat",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35134/logo_hBM0LKguNc.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al84",
+    "name": "Antenna Web Valona Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebValona",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35135/logo_hWxL6JcMMO.png",
+    "genre": "genre_info",
+    "country": "country_albania"
+  },
+  {
+    "id": "al86",
+    "name": "Radio Hasi Thate",
+    "streamUrl": "https://listen.lspublic.com:8000/stream.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35107/logo_XRvCS8Rusl.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al87",
+    "name": "LS Radio",
+    "streamUrl": "http://live.lspublic.com:27022/stream.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/72497.v4.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al88",
+    "name": "Alpo Radio",
+    "streamUrl": "https://cp1.sednastream.com/proxy/alporadio/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35068/logo_FTqsTrDnSI.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al89",
+    "name": "Radio Rainca",
+    "streamUrl": "https://radiocast.ch:8000/;",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35070/logo_hUUYS3plju.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al91",
+    "name": "Sophie Caffe Radio",
+    "streamUrl": "https://sophie1.skylineserver.com/hls/stream.m3u8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35119/logo_pn5LhiJLfb.png",
+    "genre": "genre_relax",
+    "country": "country_albania"
+  },
+  {
+    "id": "al92",
+    "name": "Radio Qyteza Cerme Sektor",
+    "streamUrl": "https://stream.radiocast.cc/listen/radio_cerma/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35138/logo_nqamHKfGtZ.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al95",
+    "name": "Radio Lushnja 95.5 FM",
+    "streamUrl": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/11274.v6.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al96",
+    "name": "Radio Dardania",
+    "streamUrl": "http://94.23.52.95:4000/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/11234.v5.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al97",
+    "name": "Radio Dielli",
+    "streamUrl": "https://radiodielli.synology.me/radio/8000/radio.mp3/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/12265.v9.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al98",
+    "name": "Radio Koha",
+    "streamUrl": "https://radiokoha.radioca.st/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/11199.v10.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al99",
+    "name": "Klan Kosova FM",
+    "streamUrl": "http://s4.radio.co/sd1d1904dc/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/135680.v3.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al100",
+    "name": "Radio Zemra",
+    "streamUrl": "http://85.215.168.56:8000/zemra",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/150039.v1.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al101",
+    "name": "Radio Deqani",
+    "streamUrl": "https://mars.streamerr.co/8052/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/72502.v11.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al102",
+    "name": "Radio Deqani Muzikë Folk",
+    "streamUrl": "https://mars.streamerr.co/8104/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/72502.v11.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al103",
+    "name": "Radio Gjakova",
+    "streamUrl": "http://37.26.69.30:8080/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/72565.v6.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al106",
+    "name": "Radio Myzeqeja",
+    "streamUrl": "https://stream-178.surfernetwork.com/c7x08ebksg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjN3gwOGVia3NnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJXLVlrSFJFR1NLR3dwNThKUzE2b29RIiwiaWF0IjoxNzgxNTk2ODc0LCJleHAiOjE3ODE1OTY5MzR9.w6gaE69UQhAEZ8wiujrWUuK94a6wd2q3pUJFQ595zys",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/150585.v1.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al107",
+    "name": "Radio Plus 102.2 FM",
+    "streamUrl": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/74201.v6.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al108",
+    "name": "Club FM Kosova",
+    "streamUrl": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/11229.v6.png",
+    "genre": "genre_dance",
+    "country": "country_albania"
+  },
+  {
+    "id": "al109",
+    "name": "Chill Albania Radio",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/chillradio?mp=%2F1",
+    "imageUrl": "https://radiospinner.com/media/logos/180/35125/logo_LJgUjXTM6B.png",
+    "genre": "genre_relax",
+    "country": "country_albania"
+  },
+  {
+    "id": "al110",
+    "name": "Radio Marimanga (Tradita)",
+    "streamUrl": "https://a9.asurahosting.com/listen/radio_marimanga/radio.mp3",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/12338.v8.png",
+    "genre": "genre_folk",
+    "country": "country_albania"
+  },
+  {
+    "id": "al111",
+    "name": "Radio Klea",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:23300/;",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/74473.v24.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al112",
+    "name": "Radio Fontana 98.8 FM",
+    "streamUrl": "http://46.4.104.253:8010/stream.mp3",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2018/03/Radio-Fontana-98.8-FM.jpg",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al113",
+    "name": "Radio Eja",
+    "streamUrl": "http://perseus.shoutca.st:9504/stream",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2013/11/radio-eja.jpg",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al118",
+    "name": "Radio Divjaka",
+    "streamUrl": "https://node-18.zeno.fm/brc5btguqg8uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/150582.v1.png",
+    "genre": "genre_pop",
+    "country": "country_albania"
+  },
+  {
+    "id": "al119",
+    "name": "Radio Skrapari",
+    "streamUrl": "https://stream-46.zeno.fm/7vdpuvp57zhvv",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2022/09/Radio-Skrapari.webp",
+    "genre": "genre_pop",
+    "country": "country_albania"
   }
 ]
