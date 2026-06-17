@@ -32694,5 +32694,581 @@
     "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2022/09/Radio-Skrapari.webp",
     "genre": "genre_pop",
     "country": "country_albania"
+  },
+  {
+    "id": "mk01",
+    "name": "Kanal 103",
+    "streamUrl": "http://radiostream.neotel.mk:8000/kanal103",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/13717.v4.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk02",
+    "name": "Antenna 5 95.5 FM",
+    "streamUrl": "http://antenna5stream.neotel.mk:8000/live128",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/13646.v4.png",
+    "genre": "genre_hits",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk03",
+    "name": "Radio 5fm",
+    "streamUrl": "http://5fm.mk:8000/stream/1/?type=http/",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/13719.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk04",
+    "name": "Radio Vmro",
+    "streamUrl": "http://hyades.shoutca.st:8072/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/13718.v29.png",
+    "genre": "genre_info",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk05",
+    "name": "Radio TIM Bitola",
+    "streamUrl": "http://hydra.shoutca.st:8108/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/83090.v35.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk06",
+    "name": "Radio Bravo",
+    "streamUrl": "https://radiomk-portal.com/listen/bravo_radio_macedonia/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/146217.v1.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk09",
+    "name": "Super Radio Ohrid",
+    "streamUrl": "https://stream-284.surfernetwork.com/muzq097d2c9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdXpxMDk3ZDJjOXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJHR1ppOEJlalM3S1MxeEZiYmwtR0h3IiwiaWF0IjoxNzgxNjg0OTU4LCJleHAiOjE3ODE2ODUwMTh9.-ftqXqRSDc94hvWRohZ7ZVJUvs3XKImvyHlv8uHbiMk",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/13668.v7.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk10",
+    "name": "TE Radio Tetove",
+    "streamUrl": "https://stream-281.surfernetwork.com/smtkd03a7f8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbXRrZDAzYTdmOHV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ4S1pVclFaUlJXcXFrclZJUjY5X3JnIiwiaWF0IjoxNzgxNjg1MDIwLCJleHAiOjE3ODE2ODUwODB9.-ijhLK2rELKqvCognkO85jnlRik0FOX226tkZWCqvoc",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/92516.v9.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk12",
+    "name": "Sky Radio 102.5 FM",
+    "streamUrl": "http://s1.skyradio.com.mk:8002/;?1461419091351.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/13720.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk120",
+    "name": "Sky Radio Retro",
+    "streamUrl": "https://s1.skyradio.com.mk/retro.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/13720.v3.png",
+    "genre": "genre_retro",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk121",
+    "name": "Sky Radio Hits",
+    "streamUrl": "https://s1.skyradio.com.mk/hits.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/13720.v3.png",
+    "genre": "genre_retro",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk13",
+    "name": "Radio 105 Bombarder Bitola",
+    "streamUrl": "https://radio105bombarder.com:21010/;stream.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/13643.v8.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk14",
+    "name": "Mini Radio Folk",
+    "streamUrl": "https://stream-284.surfernetwork.com/tbadf7557reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0YmFkZjc1NTdyZXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJuMVNVelhkSFRtT1VfaGFYcXVDVGtnIiwiaWF0IjoxNzgxNjg1NDk1LCJleHAiOjE3ODE2ODU1NTV9._Ed0xEIVENmDEaJI3MOriByBXuh56oLi-EoIz2LhfLw",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/106800.v1.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk15",
+    "name": "Radio Bubamara 105.2 FM",
+    "streamUrl": "https://live.onlineradio.mk/listen/radio_bubamara_aac/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/13644.v7.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk16",
+    "name": "Radio Akord 96.5 FM",
+    "streamUrl": "http://radioakord.dyndns.org:8000/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/13812.v2.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk17",
+    "name": "Modea FM 97.7 Sveti Nikole",
+    "streamUrl": "https://live.modeafm.mk/proxy/modea",
+    "imageUrl": "https://modeafm.mk/wp-content/uploads/2025/02/Logo-Modea-FM.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk18",
+    "name": "Biser Radio Ohrid",
+    "streamUrl": "https://biserradioohrid.radioca.st/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/86231.v6.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk20",
+    "name": "Club FM 103.4",
+    "streamUrl": "http://176.9.117.123:9996/stream/",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/13681.v3.png",
+    "genre": "genre_dance",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk21",
+    "name": "City Radio 94.7",
+    "streamUrl": "http://176.9.117.123:9998/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/13645.v5.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk22",
+    "name": "Ekspres Radio 101.1 FM",
+    "streamUrl": "http://ekspresradio.dyndns.org:8000/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/13958.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk23",
+    "name": "Evergreen Radio Macedonia",
+    "streamUrl": "https://streamingV2.shoutcast.com/EVERGREENRadioMAK",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/78651.v9.png",
+    "genre": "genre_retro",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk25",
+    "name": "Kanal 77",
+    "streamUrl": "https://radiocnd.mms.mk/proxy/offnet/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/13962.v8.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk26",
+    "name": "Life Radio 89.1",
+    "streamUrl": "http://liferadio.ddns.net:8000/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/130408.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk27",
+    "name": "Metropolis Radio",
+    "streamUrl": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/13964.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk28",
+    "name": "Radio Aleksandar Makedonski",
+    "streamUrl": "https://s2.free-shoutcast.com/stream/18138;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/13967.v4.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk29",
+    "name": "Radio Bleta",
+    "streamUrl": "https://radio.arholding.mk/play.aspx?radioBleta",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/13969.v2.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk30",
+    "name": "Lider FM 107.4",
+    "streamUrl": "https://liderfm.ipradio.mk/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/96540.v5.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk31",
+    "name": "Radio Fortuna",
+    "streamUrl": "https://radiofortuna.ipradio.mk/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/13697.v4.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk32",
+    "name": "Just Music Radio",
+    "streamUrl": "http://radiostream.neotel.mk/justmusicradio",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/knps2pk8zkjc.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk33",
+    "name": "Play Radio 90.4 FM",
+    "streamUrl": "https://radio.shoutcast.mk:8046/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/13724.v10.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk34",
+    "name": "Radio Viva",
+    "streamUrl": "http://stream.sepia.sk:8000/viva64.aac",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/wsaqqhpxw67m.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk36",
+    "name": "Urban FM 90.8",
+    "streamUrl": "http://thassos.cdnstream.com:5219/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/111641.v4.png",
+    "genre": "genre_dance",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk37",
+    "name": "Plus Forte Radio",
+    "streamUrl": "http://chandra.shoutca.st:10362/stream",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/Z8MwNtHDuq.jpeg",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk38",
+    "name": "Plus Forte Junior",
+    "streamUrl": "http://radiostream.neotel.mk/plusforteradio",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/Z8MwNtHDuq.jpeg",
+    "genre": "genre_kids",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk42",
+    "name": "Star Radio Skopje",
+    "streamUrl": "https://eu11.fastcast4u.com/starmain",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/81465.v45.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk43",
+    "name": "Star Mk Narodna",
+    "streamUrl": "https://a2.asurahosting.com/listen/stil_radio/starmkfolk",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/130580.v18.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk44",
+    "name": "Star Boemi",
+    "streamUrl": "https://eu11.fastcast4u.com/starkafanska",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/94226.v40.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk45",
+    "name": "Star Ex Yu Retro",
+    "streamUrl": "https://eu11.fastcast4u.com/starexyuretro",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/106966.v34.png",
+    "genre": "genre_retro",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk46",
+    "name": "Star World Hits",
+    "streamUrl": "https://a2.asurahosting.com/listen/stil_radio/starworld",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/116942.v15.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk54",
+    "name": "Radio Jehona 97.6 FM Kumanovo",
+    "streamUrl": "http://s26.myradiostream.com:10030/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/13972.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk55",
+    "name": "Radio MEFF 98.7 FM",
+    "streamUrl": "https://s32.myradiostream.com:16040/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/13621.v15.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk56",
+    "name": "Radio 106 Veles",
+    "streamUrl": "http://stream.zemi.mk:8003/1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/13817.v4.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk60",
+    "name": "Radio Kavadarci",
+    "streamUrl": "https://stream.zeno.fm/p79t9wf7mg0uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/13991.v11.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk66",
+    "name": "Radio Diamond",
+    "streamUrl": "https://cast6.asurahosting.com/proxy/nikola/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/131013.v1.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk69",
+    "name": "Radio Sokolarci",
+    "streamUrl": "https://a.liveonbd.com/?s=http://s2.free-shoutcast.com:18148/;&station=Radio%20Sokolarci",
+    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2019/09/Radio-Sokolarci.webp",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk70",
+    "name": "Radio Lakosta",
+    "streamUrl": "https://cloud.mkdstream.com/p/7889/stream",
+    "imageUrl": "https://www.balkanradiostanice.com/radio-stanice-logo/radio-lakosta-869-makedonija-320.jpg",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk71",
+    "name": "Radio Lav",
+    "streamUrl": "https://cloud.mkdstream.com/p/7094/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/115571.v7.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk74",
+    "name": "Balkan Radio Macedonia",
+    "streamUrl": "https://media.radioexs.com/stream/radiobalkanmusic",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/128218.v1.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk75",
+    "name": "Radio Pro FM",
+    "streamUrl": "https://edge126.rcs-rds.ro/profm/profm.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/13977.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk76",
+    "name": "Sportsko Radio",
+    "streamUrl": "https://streaming.zemi.mk:8080/1;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/13984.v7.png",
+    "genre": "genre_sport",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk77",
+    "name": "Time FM Gevgelija",
+    "streamUrl": "https://s2.free-shoutcast.com/stream/18058",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/13818.v7.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk80",
+    "name": "Moonshine Radio",
+    "streamUrl": "http://stream.moonshinefm.org:8000/stream",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/361/moonshine-radio.881ffcc1.jpg",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk81",
+    "name": "Radio Ohrid 24",
+    "streamUrl": "http://stream.iradio.pro:8146/stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/9LIUf4hjiuBU5CbDGTRDOHk3ucFhGsuRZspXkLnHG2k/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEwWUhoMXdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFrZEdUMVFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY5NzYzNjM2NTAwMA.webp",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk82",
+    "name": "Radio Vink",
+    "streamUrl": "https://eu10.fastcast4u.com/vinkradio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/67220.v22.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk83",
+    "name": "Radio Pero",
+    "streamUrl": "https://eu10.fastcast4u.com/peroradio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/107803.v7.png",
+    "genre": "genre_retro",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk84",
+    "name": "Luna Radio",
+    "streamUrl": "https://eu10.fastcast4u.com:6110/stream/7/",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/108239.v2.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk90",
+    "name": "Mini Radio Prilep",
+    "streamUrl": "https://stream.zeno.fm/53qk63dhtkeuv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/106799.v2.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk91",
+    "name": "Mini Radio 80s",
+    "streamUrl": "https://stream.zeno.fm/18g6spdcwreuv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/N0thiv43aHkBCTQDPjMB5m6MRnzVKCqGnRRQIvoMVck/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREFfTUdUbFFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnS0Naa0FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4ODE1MTM0OTAwMA.webp",
+    "genre": "genre_retro",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk92",
+    "name": "Mini Radio 90s",
+    "streamUrl": "https://stream.zeno.fm/x3xf34hz6rquv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/106802.v2.png",
+    "genre": "genre_90s",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk93",
+    "name": "Mini Radio Jazz",
+    "streamUrl": "https://stream.zeno.fm/7ep9e8h15rquv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/106806.v1.png",
+    "genre": "genre_jazz",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk94",
+    "name": "Mini Radio Rock & Roll",
+    "streamUrl": "https://stream.zeno.fm/8bg3r5175rquv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/106815.v1.png",
+    "genre": "genre_rock",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk95",
+    "name": "Mini Radio Rock",
+    "streamUrl": "https://stream.zeno.fm/qhfhfrny6rquv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/106813.v1.png",
+    "genre": "genre_rock",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk96",
+    "name": "Mini Radio Fitness",
+    "streamUrl": "https://stream-289.surfernetwork.com/gc04ctnq8k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnYzA0Y3RucThrOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJyOWpkVWF4bFM5eXdqTGQyaFlyWVJ3IiwiaWF0IjoxNzgxNzAwMjg4LCJleHAiOjE3ODE3MDAzNDh9.xUdXb0kc54NrdGNHFuSCq-DaGlhwg-d3pGQ44UrkClM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/106811.v1.png",
+    "genre": "genre_dance",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk97",
+    "name": "Mini Radio Mix",
+    "streamUrl": "https://stream-283.surfernetwork.com/a5r22sr6wg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhNXIyMnNyNndnMHV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJodDFtRmg5UVN4LXFmbE52ZExFbWNRIiwiaWF0IjoxNzgxNzAwMzYyLCJleHAiOjE3ODE3MDA0MjJ9.O2_wqhT98EvJ6iUkbT87T4MCTWZ5KEDS28rJaeoFZck",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/106812.v1.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk98",
+    "name": "Mini Radio Meana",
+    "streamUrl": "https://stream.zeno.fm/stqprpr0b0quv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/106801.v1.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk99",
+    "name": "TE Power Tetovo",
+    "streamUrl": "https://stream.zeno.fm/7vuwzdprks8uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/102230.v1.png",
+    "genre": "genre_dance",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk100",
+    "name": "TE Radio Turke Tetovo",
+    "streamUrl": "https://stream.zeno.fm/zbh23ebqrp8uv",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/101508.v3.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk103",
+    "name": "Gora Radio",
+    "streamUrl": "https://a2.asurahosting.com/listen/stil_radio/goraradio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/113298.v8.png",
+    "genre": "genre_folk",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk106",
+    "name": "Radio Yu Kanal",
+    "streamUrl": "https://stream.zeno.fm/waf2myapyxquv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_retro",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk107",
+    "name": "Radio Lider",
+    "streamUrl": "http://liderfm.ipradio.mk:10002/stream.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/96540.v5.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk108",
+    "name": "Radio Vmro (stream)",
+    "streamUrl": "https://radiovmro.radioca.st/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/13718.v29.png",
+    "genre": "genre_info",
+    "country": "country_north_macedonia"
+  },
+  {
+    "id": "mk109",
+    "name": "Radio TIM Bitola AM",
+    "streamUrl": "http://hydra.shoutca.st:8108/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/83090.v35.png",
+    "genre": "genre_pop",
+    "country": "country_north_macedonia"
   }
 ]
