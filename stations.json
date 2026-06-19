@@ -8,12 +8,28 @@
     "country": "country_russia"
   },
   {
-    "id": "b11",
-    "name": "Сталiца FM",
-    "streamUrl": "https://media2.datacenter.by/stream/stalica/stream",
-    "imageUrl": "https://topradio.me/assets/image/radio/180/stalica-by.png",
+    "id": "ind101",
+    "name": "Vividh Bharti (विविध भारती)",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/238/vividh-bharti.92c90eb1.png",
     "genre": "genre_pop",
-    "country": "country_belarus"
+    "country": "country_india"
+  },
+  {
+    "id": "ng20",
+    "name": "Naija Hits FM radio",
+    "streamUrl": "https://stream.zeno.fm/thbqnu2wvmzuv",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cYA2qRgKw9.png",
+    "genre": "genre_hiphop",
+    "country": "country_nigeria"
+  },
+  {
+    "id": "gh1",
+    "name": "Joy FM",
+    "streamUrl": "https://mmg.streamguys1.com/JoyFM-mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/429/joy-fm-ghana.f6a39ae7.jpg",
+    "genre": "genre_news",
+    "country": "country_ghana"
   },
   {
     "id": "br2",
@@ -1100,6 +1116,14 @@
     "name": "Радио Гомель FM",
     "streamUrl": "https://stream2.datacenter.by/gomelfm",
     "imageUrl": "https://topradio.me/assets/image/radio/180/gomel-fm-bel.png",
+    "genre": "genre_pop",
+    "country": "country_belarus"
+  },
+  {
+    "id": "b11",
+    "name": "Сталiца FM",
+    "streamUrl": "https://media2.datacenter.by/stream/stalica/stream",
+    "imageUrl": "https://topradio.me/assets/image/radio/180/stalica-by.png",
     "genre": "genre_pop",
     "country": "country_belarus"
   },
@@ -12583,6 +12607,14 @@
     "genre": "genre_sport",
     "country": "country_cyprus"
   },
+    {
+    "id": "ind102",
+    "name": "Radio Mirchi 98.3 FM",
+    "streamUrl": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444?disc=theonestopradio.com",
+    "imageUrl": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_100859.jpg",
+    "genre": "genre_pop",
+    "country": "country_india"
+  },
   {
     "id": "ind2",
     "name": "Radio Baingan",
@@ -14813,14 +14845,6 @@
     "streamUrl": "https://stream.rcast.net/66702",
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/0D9oJ35bo2PUm1D2_ooGTqP9Os6L0nIL7L9_lCSG4o8/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0F4SkdkdkFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d6clc0aUFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU3NTQyNzAwMA.webp",
     "genre": "genre_folk",
-    "country": "country_nigeria"
-  },
-  {
-    "id": "ng20",
-    "name": "Naija Hits FM radio",
-    "streamUrl": "https://stream.zeno.fm/thbqnu2wvmzuv",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/cYA2qRgKw9.png",
-    "genre": "genre_hiphop",
     "country": "country_nigeria"
   },
   {
@@ -25110,14 +25134,6 @@
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/m-EMcuAzl1f3CiOque2BF2yEdjM4D7cylOhbuWNpgVY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDY1ZThjMjctMDM0MC00ZTJiLWEwNjctMzMxOWY1NWNkYmZmL2ltYWdlLz91PTE3NzAwNDUwMzUwMDA.webp",
     "genre": "genre_relax",
     "country": "country_kazakhstan"
-  },
-  {
-    "id": "gh1",
-    "name": "Joy FM",
-    "streamUrl": "https://mmg.streamguys1.com/JoyFM-mp3",
-    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/429/joy-fm-ghana.f6a39ae7.jpg",
-    "genre": "genre_news",
-    "country": "country_ghana"
   },
   {
     "id": "gh2",
