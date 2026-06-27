@@ -1330,7 +1330,7 @@
   {
     "id": "b38",
     "name": "UP FM",
-    "streamUrl": "https://5.restream.one/840_1",
+    "streamUrl": "http://listen.teploe.net:8100/upfm",
     "imageUrl": "https://topradio.me/assets/image/radio/180/up-fm.jpg",
     "genre": "genre_pop",
     "country": "country_belarus"
@@ -1666,7 +1666,7 @@
   {
     "id": "fr4",
     "name": "Radio RTL",
-    "streamUrl": "https://streamer-02.rtl.fr/rtl-1-44-128",
+    "streamUrl": "https://streaming-ice.audiomeans.fr/rtl/feed-rtl-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=rtl&aw_0_1st.program=rtl&listen=webDQcCCwwIBwMFBgUABAwDDg",
     "imageUrl": "https://topradio.me/assets/image/radio/180/rtl-france.jpg",
     "genre": "genre_pop",
     "country": "country_france"
@@ -1906,7 +1906,7 @@
   {
     "id": "fr34",
     "name": "ARL",
-    "streamUrl": "https://arlaquitaineradiolive.ice.infomaniak.ch/arlaquitaineradiolive-128.mp3",
+    "streamUrl": "https://n06-eu.rcs.revma.com/rxdsv41g88hvv?rj-ttl=5&rj-tok=AAABnwqj18MAXhGW7SsmXj0pcQ",
     "imageUrl": "https://topradio.me/assets/image/radio/180/arl-fr.jpg",
     "genre": "genre_pop",
     "country": "country_france"
@@ -5090,7 +5090,7 @@
   {
     "id": "ger37",
     "name": "BR24live",
-    "streamUrl": "https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid",
+    "streamUrl": "https://br-radio.ard-mcdn.de/br/radio/br24/hls/192/seglist.m3u8?",
     "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/germany-br/BR24live.png",
     "genre": "genre_pop",
     "country": "country_germany"
@@ -8122,7 +8122,7 @@
   {
     "id": "br10",
     "name": "Jovem Pan FM 100.9",
-    "streamUrl": "https://stream03.pcradio.biz/jovempan_1009-hi",
+    "streamUrl": "https://8046.brasilstream.com.br/stream?acu-uid=1438888898769&dyn-uid=4931213401204820528&an-uid=69987459409159035&eps-uid=AQAJFvgGnuyK4gEBAQEAAQEBAQEBAQEBAQEBAQEBAJ4LSGMC&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3A0da944ed-fcdc-42fa-9717-73985c337ae0&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=1f24c64be892016e2cd42ee6f1b5bcc4",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/197/jovem-pan-fm-florianopolis.04b4a7a0.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8130,7 +8130,7 @@
   {
     "id": "br11",
     "name": "Diário FM",
-    "streamUrl": "https://stream03.pcradio.biz/rad_diar-hi",
+    "streamUrl": "https://rrdns-megasistema.webnow.com.br/diario.aac?v=2324",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/GKzQ3Sv5KG.webp",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8138,7 +8138,7 @@
   {
     "id": "br12",
     "name": "Rádio Amigos do Flashback",
-    "streamUrl": "https://stream03.pcradio.biz/amigos_flash-hi",
+    "streamUrl": "https://stm4.voxhd.com.br:7086/;",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/029/radio-amigos-do-flashback.761302f7.jpg",
     "genre": "genre_retro",
     "country": "country_brazil"
@@ -8146,7 +8146,7 @@
   {
     "id": "br13",
     "name": "Classic Hits",
-    "streamUrl": "https://stream03.pcradio.biz/rad_clsschts-hi",
+    "streamUrl": "https://stream-284.surfernetwork.com/ak2b4bhaps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhazJiNGJoYXBzOHV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJacjY2QjlXc1RiYUdXNW1SVUZ3a1lRIiwiaWF0IjoxNzgyNTg0MzM5LCJleHAiOjE3ODI1ODQzOTl9.a_a4nL8RZLDXaPopr5nNuWxobUeH-jISyyG2ICcgjQc&acu-uid=1438888898769&dyn-uid=4931213401204820528&an-uid=69987459409159035&eps-uid=AQAJFvgGnuyK4gEBAQEAAQEBAQEBAQEBAQEBAQEBAJ4LSGMC&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3A0da944ed-fcdc-42fa-9717-73985c337ae0&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=1f24c64be892016e2cd42ee6f1b5bcc4",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/354/classic-hits-brasil.6274c810.jpg",
     "genre": "genre_retro",
     "country": "country_brazil"
@@ -8154,7 +8154,7 @@
   {
     "id": "br14",
     "name": "Rádio Amigos do Sertanejo",
-    "streamUrl": "https://stream03.pcradio.biz/amigos_sertan-hi",
+    "streamUrl": "https://stm10.voxhd.com.br:7846/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/030/radio-amigos-do-sertanejo.361d12ed.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8162,7 +8162,7 @@
   {
     "id": "br15",
     "name": "Rádio Grenal",
-    "streamUrl": "https://stream03.pcradio.biz/grenal_com_br-hi",
+    "streamUrl": "https://grenal.audiostream.com.br:20000/aac",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/628/radio-grenal.247370bb.jpg",
     "genre": "genre_sport",
     "country": "country_brazil"
@@ -8170,7 +8170,7 @@
   {
     "id": "br17",
     "name": "Positiva Mix",
-    "streamUrl": "https://stream03.pcradio.biz/positiva_mix-hi",
+    "streamUrl": "https://centova2.svdns.com.br:20036/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/381/positiva-mix.b40d3ead.jpg",
     "genre": "genre_dance",
     "country": "country_brazil"
@@ -8178,7 +8178,7 @@
   {
     "id": "br18",
     "name": "Jovem Pan News",
-    "streamUrl": "https://stream03.pcradio.biz/jpn_sao_paulo-hi",
+    "streamUrl": "https://r10.ciclano.io/proxy/rdobarretosam/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/702/jovem-pan-news.104bb09f.png",
     "genre": "genre_info",
     "country": "country_brazil"
@@ -8186,7 +8186,7 @@
   {
     "id": "br19",
     "name": "Paranoia Web",
-    "streamUrl": "https://stream03.pcradio.biz/paranoiaweb_com-hi",
+    "streamUrl": "https://s36.maxcast.com.br:8189/live",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/rxwxuh5wautg.png",
     "genre": "genre_rock",
     "country": "country_brazil"
@@ -8194,7 +8194,7 @@
   {
     "id": "br20",
     "name": "Radio Amigos do Rock",
-    "streamUrl": "https://stream03.pcradio.biz/amigosdo_rock-hi",
+    "streamUrl": "https://stm25.srvaudio.com.br:11358/;",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/031/radio-amigos-do-rock.7bd0425b.png",
     "genre": "genre_rock",
     "country": "country_brazil"
@@ -8202,7 +8202,7 @@
   {
     "id": "br21",
     "name": "Mix Music",
-    "streamUrl": "https://stream03.pcradio.biz/mixmusic_bra-hi",
+    "streamUrl": "https://servidor12-1.brlogic.com:8176/live",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/591/radio-planet-gospel.85741d5c.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8210,7 +8210,7 @@
   {
     "id": "br22",
     "name": "Good Times Revival",
-    "streamUrl": "https://stream03.pcradio.biz/good_times_revival-hi",
+    "streamUrl": "https://s33.maxcast.com.br:8110/live",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/306/radio-good-times.b23b632e.jpg",
     "genre": "genre_retro",
     "country": "country_brazil"
@@ -8218,47 +8218,47 @@
   {
     "id": "br23",
     "name": "Radio CBN",
-    "streamUrl": "https://stream03.pcradio.biz/cbnnoticias-hi",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/265/cbn-brasilia.c7db8ef5.png",
+    "streamUrl": "https://8350.brasilstream.com.br/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/67577.v10.png",
     "genre": "genre_info",
     "country": "country_brazil"
   },
   {
     "id": "br24",
-    "name": "Maria Rita",
-    "streamUrl": "https://stream03.pcradio.biz/Maria_Rita-hi",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Ea8bqzzTKa.png",
+    "name": "Radio Maria",
+    "streamUrl": "https://dreamsiteradiocp6.com/proxy/rmbrasile?mp=/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/54760.v17.png",
     "genre": "genre_religious",
     "country": "country_brazil"
   },
   {
     "id": "br25",
     "name": "Armazém",
-    "streamUrl": "https://stream03.pcradio.biz/armazem_br-hi",
+    "streamUrl": "https://s46.maxcast.com.br:8236/live",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/500/radio-armazem.68ed0fbf.png",
     "genre": "genre_pop",
     "country": "country_brazil"
   },
   {
     "id": "br26",
-    "name": "Vôo Livre FM",
-    "streamUrl": "https://stream03.pcradio.biz/voo_livre-hi",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/991/voo-livre-fm.7a806dbf.jpg",
+    "name": "Mundo Livre FM",
+    "streamUrl": "https://23243.live.streamtheworld.com/MUNDOLIVRE_CWBAAC_64.aac?dist=onlineradiobox",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/51291.v11.png",
     "genre": "genre_pop",
     "country": "country_brazil"
   },
   {
     "id": "br27",
-    "name": "Amigos do Rock Nacional",
-    "streamUrl": "https://stream03.pcradio.biz/rad_rdmgsdrckncnl-hi",
-    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/934/radio-amigos-do-rock-nacional.18160ccb.png",
+    "name": "Amigos do Rock",
+    "streamUrl": "https://stm25.srvaudio.com.br:11358/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/82644.v38.png",
     "genre": "genre_rock",
     "country": "country_brazil"
   },
   {
     "id": "br28",
-    "name": "Anchieta Web Rádio",
-    "streamUrl": "https://stream03.pcradio.biz/rad_nchtwbrdbr-hi",
+    "name": "Rádio Anchieta",
+    "streamUrl": "https://sonicpanel.oficialserver.com:7060/;live.mp3",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/244/anchieta-web-radio.ec3ab4a8.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8266,7 +8266,7 @@
   {
     "id": "br29",
     "name": "Rádio Trans Mundial",
-    "streamUrl": "https://stream03.pcradio.biz/transmundial_gospel-hi",
+    "streamUrl": "https://18533.live.streamtheworld.com/RADIOTRANSMUNDIALAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/lrnuzcvznsjd.jpeg",
     "genre": "genre_religious",
     "country": "country_brazil"
@@ -8274,7 +8274,7 @@
   {
     "id": "br30",
     "name": "Super Funk Melody",
-    "streamUrl": "https://stream03.pcradio.biz/super_funk_melody-hi",
+    "streamUrl": "https://ssl.xcast.com.br:8156/stream",
     "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/941/radio-super-funk-melody.0433b307.png",
     "genre": "genre_retro",
     "country": "country_brazil"
@@ -8282,7 +8282,7 @@
   {
     "id": "br31",
     "name": "Samba FM",
-    "streamUrl": "https://stream03.pcradio.biz/rad_brsmbfm-hi",
+    "streamUrl": "https://hts01.brascast.com:8428/live",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/107/samba-fm.d11ca7d9.png",
     "genre": "genre_dance",
     "country": "country_brazil"
@@ -8290,23 +8290,15 @@
   {
     "id": "br32",
     "name": "Rádio Mil Glorias",
-    "streamUrl": "https://stream03.pcradio.biz/rad_mlglrs-hi",
+    "streamUrl": "https://stm12.xcast.com.br:8226/;",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/513/radio-mil-glorias.d17088a7.jpg",
     "genre": "genre_religious",
     "country": "country_brazil"
   },
   {
-    "id": "br33",
-    "name": "RocK Metal Radio",
-    "streamUrl": "https://stream03.pcradio.biz/rad_rckmetlbr-hi",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/297/metal-rock-radio.e9059958.jpg",
-    "genre": "genre_rock",
-    "country": "country_brazil"
-  },
-  {
     "id": "br34",
     "name": "Metropolitana FM",
-    "streamUrl": "https://stream03.pcradio.biz/metropolitana-hi",
+    "streamUrl": "https://8624.brasilstream.com.br/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/baydw5wnqmru.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8314,7 +8306,7 @@
   {
     "id": "br35",
     "name": "Paul in Rio Radio",
-    "streamUrl": "https://stream03.pcradio.biz/paul_in_rio-hi",
+    "streamUrl": "https://usa10.fastcast4u.com/paulinrio",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/062/paul-in-rio-blue-bossa-nova.088c0493.jpg",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8322,7 +8314,7 @@
   {
     "id": "br36",
     "name": "Web Rádio Capital do Tomate",
-    "streamUrl": "https://stream03.pcradio.biz/rad_tomat-hi",
+    "streamUrl": "https://stm3.colossocast.com.br:7610/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/449/web-radio-capital-do-tomate.8666fb7e.png",
     "genre": "genre_religious",
     "country": "country_brazil"
@@ -8330,7 +8322,7 @@
   {
     "id": "br38",
     "name": "Rádio Ubatuba",
-    "streamUrl": "https://stream03.pcradio.biz/rad_rdbtb-hi",
+    "streamUrl": "https://stm24.xcast.com.br:8444/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/783/radio-ubatuba-surf.b1d4b114.jpg",
     "genre": "genre_retro",
     "country": "country_brazil"
@@ -8338,7 +8330,7 @@
   {
     "id": "br39",
     "name": "Radio Verdade",
-    "streamUrl": "https://stream03.pcradio.biz/rad_vrddbrsl-hi",
+    "streamUrl": "https://radio.stmsrv.com:8346/;",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/196/web-radio-verdade-gospel.f7bdd3fa.png",
     "genre": "genre_religious",
     "country": "country_brazil"
@@ -8346,7 +8338,7 @@
   {
     "id": "br41",
     "name": "Morena FM 98.7",
-    "streamUrl": "https://stream03.pcradio.biz/morenafm_com-hi",
+    "streamUrl": "https://ssl1.transmissaodigital.com:2692/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/285/morena-fm-brazil.4fec60e6.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8354,7 +8346,7 @@
   {
     "id": "br43",
     "name": "Super Mix Gospel",
-    "streamUrl": "https://stream03.pcradio.biz/supermix_gospel-hi",
+    "streamUrl": "https://stream-284.surfernetwork.com/3xge6g7hhbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeGdlNmc3aGhicnV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJOV2VJRTNGUVRDMk81SXhRUlVZM3R3IiwiaWF0IjoxNzgyNTg3MzY2LCJleHAiOjE3ODI1ODc0MjZ9.dXlHaj_1DkcaLp5XCmu-IHQFXP3J9DqyuX89R48rRUU",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/090/super-mix-gospel.cbccab44.png",
     "genre": "genre_religious",
     "country": "country_brazil"
@@ -8362,7 +8354,7 @@
   {
     "id": "br44",
     "name": "Radio Amigos do Pagode",
-    "streamUrl": "https://stream03.pcradio.biz/rad_rdamigosrgd-hi",
+    "streamUrl": "https://stm10.voxhd.com.br:7846/;",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/609/radio-amigos-universitario.19e65fa9.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8370,7 +8362,7 @@
   {
     "id": "br45",
     "name": "Gold Web Radio",
-    "streamUrl": "https://stream03.pcradio.biz/rad_rdgldwbrad-hi",
+    "streamUrl": "https://centova.svdns.com.br:19418/stream/1/",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/677/gold-web-radio.49eac1a1.png",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -8378,7 +8370,7 @@
   {
     "id": "br46",
     "name": "Radio Sertanejo Top",
-    "streamUrl": "https://stream03.pcradio.biz/rad_rdsrtnjtp-hi",
+    "streamUrl": "https://live3.livemus.com.br:27348/stream",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/125/radio-sertaneja-top.3698449f.jpg",
     "genre": "genre_pop",
     "country": "country_brazil"
@@ -25272,14 +25264,6 @@
     "country": "country_ghana"
   },
   {
-    "id": "gh19",
-    "name": "RADIO GOLD 90.5",
-    "streamUrl": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/752/radio-gold-905.54960e6f.png",
-    "genre": "genre_pop",
-    "country": "country_ghana"
-  },
-  {
     "id": "gh20",
     "name": "3FM",
     "streamUrl": "https://3fm-atunwadigital.streamguys1.com/3fm",
@@ -26568,14 +26552,6 @@
     "country": "country_indonesia"
   },
   {
-    "id": "id32",
-    "name": "C Radio Semarang",
-    "streamUrl": "http://mettaswara.com:8700/cradio",
-    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/108/c-radio-semarang.807110de.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
     "id": "id33",
     "name": "Prambors FM Makassar",
     "streamUrl": "https://s1.cloudmu.id/listen/prambors_makassar/radio.mp3",
@@ -26588,14 +26564,6 @@
     "name": "Gen 103.1 FM Surabaya",
     "streamUrl": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/595/1031-gen-fm-surabaya.7068d519.png",
-    "genre": "genre_pop",
-    "country": "country_indonesia"
-  },
-  {
-    "id": "id35",
-    "name": "FBI 91.8 FM Bali",
-    "streamUrl": "https://c1.siar.us:9180/fbibaliradio",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/310/fbi-918-fm.50334b98.png",
     "genre": "genre_pop",
     "country": "country_indonesia"
   },
@@ -27372,14 +27340,6 @@
     "name": "Radio Today FM 89.6",
     "streamUrl": "https://stream.zeno.fm/0zha3rfq02quv",
     "imageUrl": "https://radiospinner.com/media/logos/180/80324/logo_8syv4fxQcf.png",
-    "genre": "genre_pop",
-    "country": "country_bangladesh"
-  },
-  {
-    "id": "bd03",
-    "name": "Jago FM 94.4",
-    "streamUrl": "https://proxy.liveonbd.com/?s=http://139.59.86.99:12496/stream&station=Jago%20FM",
-    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2015/01/Jago-FM-1.jpg",
     "genre": "genre_pop",
     "country": "country_bangladesh"
   },
@@ -29608,14 +29568,6 @@
     "country": "country_bosnia"
   },
   {
-    "id": "ba99",
-    "name": "Kesten Radio",
-    "streamUrl": "http://95.216.209.21:8000/stream",
-    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/32509.png",
-    "genre": "genre_pop",
-    "country": "country_bosnia"
-  },
-  {
     "id": "ba101",
     "name": "Radio Kameleon FM",
     "streamUrl": "http://138.201.198.218:8075/;",
@@ -30984,22 +30936,6 @@
     "country": "country_colombia"
   },
   {
-    "id": "co19",
-    "name": "Radio Nacional de Colombia – RTVC",
-    "streamUrl": "https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/936/rtvc-radio-nacional-de-colombia.ca96219d.jpg",
-    "genre": "genre_info",
-    "country": "country_colombia"
-  },
-  {
-    "id": "co20",
-    "name": "Radiónica RTVC 99.1 FM",
-    "streamUrl": "https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8",
-    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/935/rtvc-radionica.03a04ab8.jpg",
-    "genre": "genre_rock",
-    "country": "country_colombia"
-  },
-  {
     "id": "co21",
     "name": "La FM Bogotá 94.9 FM",
     "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9b23d1dcd7027f32f7fe",
@@ -31018,7 +30954,7 @@
   {
     "id": "co23",
     "name": "Olímpica Stereo Bogotá",
-    "streamUrl": "https://27353.live.streamtheworld.com/OLP_CALI.mp3",
+    "streamUrl": "https://26643.live.streamtheworld.com/OLP_BOGOTAAAC.aac?dist=onlineradiobox",
     "imageUrl": "https://static.mytuner.mobi/media/radios-150px/830/olimpica-stereo-bogota-1059-fm.d41b33af.png",
     "genre": "genre_pop",
     "country": "country_colombia"
@@ -31877,14 +31813,6 @@
     "streamUrl": "https://eu.stream4cast.com/proxy/energyfm/stream",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/91669.v7.png",
     "genre": "genre_dance",
-    "country": "country_armenia"
-  },
-  {
-    "id": "am19",
-    "name": "Radio Impuls",
-    "streamUrl": "https://a.liveonbd.com/?s=http://212.34.233.78:8000/live&station=IMPULS%20Radio",
-    "imageUrl": "https://d371i8ihhgym7w.cloudfront.net/12793.png",
-    "genre": "genre_pop",
     "country": "country_armenia"
   },
   {
