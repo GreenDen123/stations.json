@@ -1,882 +1,4058 @@
 [
   {
-    "id": "mk01",
-    "name": "Kanal 103",
-    "streamUrl": "http://radiostream.neotel.mk:8000/kanal103",
-    "imageUrl": "https://radio.streamitter.com/images/logos/NTR6IU.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk02",
-    "name": "Antenna 5 95.5 FM",
-    "streamUrl": "http://antenna5stream.neotel.mk:8000/live128",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk03",
-    "name": "Radio 5fm",
-    "streamUrl": "http://5fm.mk:8000/stream/1/?type=http/",
-    "imageUrl": "https://radio.streamitter.com/images/logos/I2KD04.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk04",
-    "name": "Radio Vmro Makedonija",
-    "streamUrl": "http://hyades.shoutca.st:8072/stream",
-    "imageUrl": "https://radio.streamitter.com/images/logos/MM4HM.png",
-    "genre": "genre_info",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk05",
-    "name": "Radio TIM 24h Bitola",
-    "streamUrl": "http://hydra.shoutca.st:8108/stream",
-    "imageUrl": "https://radio.streamitter.com/images/logos/G3VOOA.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk06",
-    "name": "Radio Bravo Kumanovo",
-    "streamUrl": "http://80.77.157.10:8000/stream/2/",
-    "imageUrl": "https://radio.streamitter.com/images/logos/Q47Z5H.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk07",
-    "name": "Radio Joker",
-    "streamUrl": "https://cast.hostingstreams-sladi.com/proxy/dacko1?mp=/stream",
-    "imageUrl": "https://radio.streamitter.com/images/logos/XH8GZN.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk08",
-    "name": "Radio Miss Bucin",
-    "streamUrl": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/stream/7/",
-    "imageUrl": "https://radio.streamitter.com/images/logos/NTXOW.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk09",
-    "name": "Super Radio Ohrid",
-    "streamUrl": "http://178.32.107.151:6908/stream",
-    "imageUrl": "https://radio.streamitter.com/images/logos/WM647S.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk10",
-    "name": "TE Radio Tetove",
-    "streamUrl": "https://stream.zeno.fm/28sbm03a7f8uv",
-    "imageUrl": "https://radio.streamitter.com/images/logos/1F14N8.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk11",
-    "name": "Antoris Radio",
-    "streamUrl": "http://e12833.cloudrad.io:8000/",
-    "imageUrl": "https://radio.streamitter.com/images/logos/C5V87.png",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk12",
-    "name": "Sky Radio 102.5 FM",
-    "streamUrl": "http://89.205.123.70:8000/stream/1",
+    "id": "me1",
+    "name": "Radio Delfin",
+    "streamUrl": "https://virtualtronics.net/proxy/vcertain?mp=/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk13",
-    "name": "Radio 105 Bombarder Bitola",
-    "streamUrl": "http://radio105.makbots.com:21010/stream/1",
+    "id": "me2",
+    "name": "Radio Svetigora",
+    "streamUrl": "http://svetigoralive.com:8879/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me3",
+    "name": "Radio Antena M",
+    "streamUrl": "http://radioservis.me:8010/antenamlive",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk14",
-    "name": "Folk Radio 106.5 FM",
-    "streamUrl": "http://89.205.127.244:8002/stream/1",
+    "id": "me4",
+    "name": "Radio Titograd 2",
+    "streamUrl": "http://ca.rcast.net:8024/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me5",
+    "name": "Radio Titograd 3",
+    "streamUrl": "http://ca3.rcast.net:8054/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me6",
+    "name": "Radio Tivat",
+    "streamUrl": "https://radio.dukahosting.com/8008/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me7",
+    "name": "Skadar",
+    "streamUrl": "http://radioservis.me:8050/radioskadar",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me8",
+    "name": "Bum Radio Podgorica",
+    "streamUrl": "https://r.name.ba:7324/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me9",
+    "name": "City 93.3",
+    "streamUrl": "http://eu7.fastcast4u.com:6166/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me10",
+    "name": "Radio Renome",
+    "streamUrl": "https://r.name.ba:7316/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me11",
+    "name": "CITY RADIO 933",
+    "streamUrl": "http://178.32.146.187:6166/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me12",
+    "name": "Radio Balkansko Srce",
+    "streamUrl": "http://cmr-hosting.com:8445/",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk15",
-    "name": "Radio Bubamara 105.2 FM",
-    "streamUrl": "http://88.85.99.2/live-128.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk16",
-    "name": "Radio Akord 96.5 FM",
-    "streamUrl": "http://radioakord.dyndns.org:8000/stream/1",
+    "id": "me13",
+    "name": "Radio Monte Carlo",
+    "streamUrl": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk17",
-    "name": "Modea FM 97.7 Sveti Nikole",
-    "streamUrl": "https://stream.zemi.mk:8072/stream",
+    "id": "me14",
+    "name": "michijurkowski",
+    "streamUrl": "https://michijurkowski.stream.laut.fm/michijurkowski?ref=radiode&t302=2026-06-08_13-28-52&uuid=ed7d4e2e-1c62-45da-a543-b94a69216a9e",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk18",
-    "name": "Biser Radio Ohrid",
-    "streamUrl": "https://biserradioohrid.radioca.st/stream",
+    "id": "me15",
+    "name": "Светигора",
+    "streamUrl": "https://svetigoralive.com/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk19",
-    "name": "Capitol FM 96.5 FM Skopje",
-    "streamUrl": "http://89.205.127.244:8002/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk20",
-    "name": "Club FM 103.4",
-    "streamUrl": "http://176.9.117.123:9996/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk21",
-    "name": "City Radio 94.7",
-    "streamUrl": "http://176.9.117.123:9998/stream/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk22",
-    "name": "Ekspres Radio 101.1 FM",
-    "streamUrl": "https://s11.ssl-stream.com/ssl/radiomix?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk23",
-    "name": "Evergreen Radio Macedonia",
-    "streamUrl": "https://streamingV2.shoutcast.com/EVERGREENRadioMAK",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk24",
-    "name": "HIT Radio",
-    "streamUrl": "http://88.85.99.43:8000/hitportal",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk25",
-    "name": "Kanal 77",
-    "streamUrl": "http://kanal77.mk:8088/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk26",
-    "name": "Life Radio 89.1",
-    "streamUrl": "http://liferadio.ddns.net:8000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk27",
-    "name": "Metro Polis Radio",
-    "streamUrl": "http://94.23.62.189:6064/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk28",
-    "name": "Radio Aleksandar Makedonski",
-    "streamUrl": "https://radio.shoutcast.mk/8038/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk29",
-    "name": "Radio Bleta",
-    "streamUrl": "http://stream.tvkoha.tv:5000/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk30",
-    "name": "Lider FM 107.4",
-    "streamUrl": "https://liderfm.ipradio.mk/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk31",
-    "name": "Radio Fortuna",
-    "streamUrl": "https://radiofortuna.ipradio.mk/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk32",
-    "name": "Just Music Radio",
-    "streamUrl": "http://radiostream.neotel.mk/justmusicradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk33",
-    "name": "Play Radio 90.4 FM",
-    "streamUrl": "http://live.playfm.mk:8002/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk34",
-    "name": "Radio Viva",
-    "streamUrl": "http://stream.sepia.sk:8000/viva64.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk35",
-    "name": "Radio Rosa Skopje",
-    "streamUrl": "http://s3.free-shoutcast.com:18032/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk36",
-    "name": "Urban FM 90.8",
-    "streamUrl": "http://thassos.cdnstream.com:5219/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk37",
-    "name": "Plus Forte Radio",
-    "streamUrl": "http://chandra.shoutca.st:10362/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk38",
-    "name": "Plus Forte Junior",
-    "streamUrl": "http://radiostream.neotel.mk/plusforteradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_kids",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk39",
-    "name": "Radio MOST Gostivar",
-    "streamUrl": "https://radio.dukahosting.com/8024/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk40",
-    "name": "Gostivarpress.mk Online Radio",
-    "streamUrl": "https://radio.dukahosting.com/8004/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk41",
-    "name": "Planeta Mak Radio",
-    "streamUrl": "https://fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&port=8023&type=s1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk42",
-    "name": "Star Radio Skopje (Live)",
-    "streamUrl": "https://radiostar.com.mk/stream/starlive.php",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk43",
-    "name": "Star Mk Narodna",
-    "streamUrl": "https://radiostar.com.mk/stream/mknarodna.php",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk44",
-    "name": "Star Boemi",
-    "streamUrl": "https://radiostar.com.mk/stream/boemi.php",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk45",
-    "name": "Star Ex Yu Retro",
-    "streamUrl": "https://radiostar.com.mk/stream/exyuretro.php",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk46",
-    "name": "Star World Retro",
-    "streamUrl": "https://radiostar.com.mk/stream/worldretro.php",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk47",
-    "name": "Star Plus",
-    "streamUrl": "https://radiostar.com.mk/stream/starplus.php",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk48",
-    "name": "MR1 Radio Makedonija",
-    "streamUrl": "http://streamer54.interspace.mk:1935/mrt-radio/mr1/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk49",
-    "name": "MR2 Radio Makedonija",
-    "streamUrl": "http://streamer54.interspace.mk:1935/mrt-radio/mr2/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk50",
-    "name": "MR3 Radio Makedonija",
-    "streamUrl": "http://streamer54.interspace.mk:1935/mrt-radio/mr3/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk51",
-    "name": "MR Sat Radio",
-    "streamUrl": "http://streamer54.interspace.mk:1935/mrt-radio/mrsat/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk52",
-    "name": "Radio Slobodna Evropa Macedonian (RFE/RL)",
-    "streamUrl": "http://rfe-channel-14.akacast.akamaistream.net/7/368/229664/v1/ibb.akacast.akamaistream.net/rfe_channel_14.mp3",
+    "id": "me16",
+    "name": "Bokanews",
+    "streamUrl": "https://www.bokanews.me/live/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk53",
-    "name": "Radio Slobodna Makedonija",
-    "streamUrl": "http://95.128.184.26:8001/listen.pls?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk54",
-    "name": "Radio Jehona 97.6 FM Kumanovo",
-    "streamUrl": "http://5.39.82.219:10030",
+    "id": "me17",
+    "name": "Studentski radio KRŠ",
+    "streamUrl": "http://c8.radioboss.fm:8199/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk55",
-    "name": "Radio MEFF 98.7 FM",
-    "streamUrl": "http://s32.myradiostream.com:16040/",
+    "id": "me18",
+    "name": "Radio S3 CG",
+    "streamUrl": "http://stream.radios.rs:8018/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk56",
-    "name": "Radio 106 Veles",
-    "streamUrl": "http://stream.zemi.mk:8003/1",
+    "id": "me19",
+    "name": "Радио Светигора",
+    "streamUrl": "http://159.69.117.253:8879/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk57",
-    "name": "Radio Rabrovo FM",
-    "streamUrl": "http://de1.internet-radio.com:8183/live",
+    "id": "me20",
+    "name": "Radio Danilovgrad",
+    "streamUrl": "http://sirius.shoutca.st:8604/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk58",
-    "name": "StreetFM",
-    "streamUrl": "http://radiostream.neotel.mk/streetfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk59",
-    "name": "Radio Vati",
-    "streamUrl": "http://217.16.69.10:8020/",
+    "id": "me21",
+    "name": "Radio Bruškin",
+    "streamUrl": "http://centova.radiobruskin.me:8004/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk60",
-    "name": "Radio Kavadarci",
-    "streamUrl": "https://stream.zeno.fm/p79t9wf7mg0uv",
+    "id": "me22",
+    "name": "BUM RADIO",
+    "streamUrl": "https://stream.radios.rs:9018/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk61",
-    "name": "Radio Kumanovo Makedonija",
-    "streamUrl": "http://167.86.80.34:8888/live",
+    "id": "me23",
+    "name": "Antena M",
+    "streamUrl": "https://radioservis.me:8010/antenamlive.m3u",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk62",
-    "name": "Radio Grom Makedonija Kumanovo",
-    "streamUrl": "https://sc1.herocheap.com/proxy/grom/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk63",
-    "name": "Radio Bezisten",
-    "streamUrl": "https://s5.myradiostream.com/40310/listen.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk64",
-    "name": "Radio Zhelina",
-    "streamUrl": "http://live.radiozhelina.com:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk65",
+    "id": "me24",
     "name": "Radio Elita",
-    "streamUrl": "http://144.76.60.188:9410/",
+    "streamUrl": "http://136.243.134.202:8098/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk66",
-    "name": "Radio Diamond",
-    "streamUrl": "http://198.143.144.226:8152/live",
+    "id": "me25",
+    "name": "Radio Bijelo Polje",
+    "streamUrl": "http://213.239.205.210:8094/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk67",
-    "name": "Radio Planet Macedonia",
-    "streamUrl": "http://philae.shoutca.st:8479/",
+    "id": "me26",
+    "name": "Radio Kotor",
+    "streamUrl": "http://213.239.205.210:8082/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk68",
-    "name": "Radio Medeno Srce",
-    "streamUrl": "http://46.4.51.242:8000/",
+    "id": "me27",
+    "name": "Radio Renome radio",
+    "streamUrl": "https://r.name.ba:7316/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me28",
+    "name": "Radio Svetigora radio",
+    "streamUrl": "https://svetigoralive.com/Radio%20Svetigora",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me29",
+    "name": "Podgorica radio",
+    "streamUrl": "https://r.name.ba:7324/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me30",
+    "name": "Radio Zeta radio",
+    "streamUrl": "https://uk6freenew.listen2myradio.com/live.mp3?typeportmount=s2_16750_stream_947107816stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me31",
+    "name": "Radio Skadar radio",
+    "streamUrl": "https://radioservis.me:8050/radioskadar",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me32",
+    "name": "Radio Bar radio",
+    "streamUrl": "http://161.97.93.84:9000/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me33",
+    "name": "City Radio Podgorica",
+    "streamUrl": "http://eu7.fastcast4u.com:6166/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me34",
+    "name": "Radio Titograd",
+    "streamUrl": "https://stream4.rcast.net/64511",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me35",
+    "name": "Drugačija Radio Stanica",
+    "streamUrl": "http://178.33.135.245:3474/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me36",
+    "name": "Radio Renome FOLK - Podgorica",
+    "streamUrl": "https://r.name.ba:7316/stream",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk69",
-    "name": "Radio Sokolarci",
-    "streamUrl": "http://109.169.23.123:8896/",
+    "id": "me37",
+    "name": "Radio Balkan Music (CG)",
+    "streamUrl": "https://media.radioexs.com/stream/radiobalkanmusic",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk70",
-    "name": "Radio Lakosta",
-    "streamUrl": "http://ss1.mk.checast.com:21076/live",
+    "id": "me38",
+    "name": "Radio Ćirilica",
+    "streamUrl": "https://halo.streamerr.co/listen/cirilica/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk71",
-    "name": "Radio Lav",
-    "streamUrl": "https://icecast.ga/radio/8050/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk72",
-    "name": "Radio Yu Balkan Planet",
-    "streamUrl": "http://andromeda.shoutca.st:8520/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk73",
-    "name": "Balkanski Raj Radio",
-    "streamUrl": "https://freeuk29.listen2myradio.com/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk74",
-    "name": "Balkan Radio Macedonia",
-    "streamUrl": "https://eu4.fastcast4u.com/proxy/radiobalkanmkd?mp=/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk75",
-    "name": "Radio Pro FM",
-    "streamUrl": "http://204.12.238.138:8556/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk76",
-    "name": "Sportsko Radio",
-    "streamUrl": "http://ss1.mk.checast.com:21320/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk77",
-    "name": "Time FM Gevgelija",
-    "streamUrl": "http://163.172.210.242:8016/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk78",
-    "name": "Radio Index",
-    "streamUrl": "http://163.172.210.242:8003/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk79",
-    "name": "Radio Gazoza",
-    "streamUrl": "http://194.135.89.7:8024/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk80",
-    "name": "Moonshine Radio",
-    "streamUrl": "http://88.208.232.147:7002/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk81",
-    "name": "Radio Ohrid 24",
-    "streamUrl": "http://stream.iradio.pro:8146/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk82",
-    "name": "Radio Vink",
-    "streamUrl": "https://eu10.fastcast4u.com/vinkradio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk83",
-    "name": "Radio Pero (Retroradio FM)",
-    "streamUrl": "http://s1.skyradio.com.mk:8002/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk84",
-    "name": "Luna Radio",
-    "streamUrl": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/stream/6/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk85",
-    "name": "1Radio.mk Jazz Channel",
-    "streamUrl": "http://ams-2.1radio.mk/1647_128",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk86",
-    "name": "DeepVibe Radio",
-    "streamUrl": "http://deepvibe.net:8000/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_deephouse",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk87",
-    "name": "Dubplate FM – Dubstep",
-    "streamUrl": "https://sc2.dubplate.fm:5000/dubstep/64",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk88",
-    "name": "I Love Heavy Metal",
-    "streamUrl": "https://streamingv2.shoutcast.com/IloveHeavyMetal",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk89",
-    "name": "Bikers Garage Radio",
-    "streamUrl": "https://i9.streams.ovh/sc/bikersgarageradio/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk90",
-    "name": "Mini Radio Prilep",
-    "streamUrl": "https://stream.zeno.fm/53qk63dhtkeuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk91",
-    "name": "Mini Radio 80s",
-    "streamUrl": "https://stream.zeno.fm/18g6spdcwreuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk92",
-    "name": "Mini Radio 90s",
-    "streamUrl": "https://stream.zeno.fm/x3xf34hz6rquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_90s",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk93",
-    "name": "Mini Radio Jazz",
-    "streamUrl": "https://stream.zeno.fm/7ep9e8h15rquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk94",
-    "name": "Mini Radio Rock & Roll",
-    "streamUrl": "https://stream.zeno.fm/8bg3r5175rquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk95",
-    "name": "Mini Radio Rock",
-    "streamUrl": "https://stream.zeno.fm/qhfhfrny6rquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk96",
-    "name": "Mini Radio Fitness",
-    "streamUrl": "https://stream.zeno.fm/gc04ctnq8k8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk97",
-    "name": "Mini Radio Mix",
-    "streamUrl": "https://stream.zeno.fm/a5r22sr6wg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk98",
-    "name": "Mini Radio Meana",
-    "streamUrl": "https://stream.zeno.fm/stqprpr0b0quv",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk99",
-    "name": "TE Power Tetovo",
-    "streamUrl": "https://stream.zeno.fm/7vuwzdprks8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk100",
-    "name": "TE Radio Turke Tetovo",
-    "streamUrl": "https://stream.zeno.fm/zbh23ebqrp8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk101",
-    "name": "Radio Postol",
-    "streamUrl": "http://78.129.224.19:15527/.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk102",
-    "name": "Folk Radio Macedonia",
-    "streamUrl": "http://78.138.98.221:8081/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk103",
-    "name": "Gora Radio",
+    "id": "me39",
+    "name": "Radio Saraj",
     "streamUrl": "http://uzivo.radiogora.org:8117/",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_north_macedonia"
+    "genre": "genre_pop",
+    "country": "country_montenegro"
   },
   {
-    "id": "mk104",
-    "name": "Radio Joker Live",
-    "streamUrl": "https://audio.asuradns.com/radio/8020/stream.nsv",
+    "id": "me40",
+    "name": "Radio Zeta",
+    "streamUrl": "http://uk6freenew.listen2myradio.com:16750/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk105",
-    "name": "Radio Mt Studio",
-    "streamUrl": "http://88.150.157.23:9992/",
+    "id": "me41",
+    "name": "Radio S1 Crna Gora",
+    "streamUrl": "https://stream.radios.rs:9008/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk106",
-    "name": "Radio Yu Kanal",
-    "streamUrl": "https://stream.zeno.fm/waf2myapyxquv",
+    "id": "me42",
+    "name": "Radio S3 Crna Gora",
+    "streamUrl": "https://stream.radios.rs:9018/",
     "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_north_macedonia"
+    "genre": "genre_pop",
+    "country": "country_montenegro"
   },
   {
-    "id": "mk107",
-    "name": "Radio Lider – News",
-    "streamUrl": "http://liderfm.ipradio.mk:10002/stream.mp3",
+    "id": "me43",
+    "name": "Radio Budva",
+    "streamUrl": "https://c8.radioboss.fm:18199/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me44",
+    "name": "Radio S2 Crna Gora",
+    "streamUrl": "https://stream.radios.rs:9010/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me45",
+    "name": "Radio Fatih",
+    "streamUrl": "https://radioservis.me/radio/8070/radiofatih?1702660538716",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me46",
+    "name": "Radio D",
+    "streamUrl": "https://fmradiohub.in/radio?url=http://tachyon.shoutca.st:8289/xstream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me47",
+    "name": "PRVA Radio",
+    "streamUrl": "https://stream.playradio.me:8443/play-me.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me48",
+    "name": "Radio 083",
+    "streamUrl": "https://test-ice.brolio.dev/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me49",
+    "name": "Radio Crne Gore 1",
+    "streamUrl": "https://rtcg.ipradio.rs:9008/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me50",
+    "name": "City Radio",
+    "streamUrl": "https://prclive1.listenon.in/Hindi?listening-from-radio-garden=1664275344",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me51",
+    "name": "Radio IMPERATIV Nikšić",
+    "streamUrl": "https://stream.zeno.fm/4r3zk8qwnwzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me52",
+    "name": "Crazy Rap and Randomness",
+    "streamUrl": "https://stream.zeno.fm/kc1q1umpychvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me53",
+    "name": "GP radio",
+    "streamUrl": "https://stream.zeno.fm/9s5wc1276p8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me54",
+    "name": "radio kArANtiN",
+    "streamUrl": "https://stream.zeno.fm/5nwpwxsb0tzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me55",
+    "name": "Italia",
+    "streamUrl": "https://stream.zeno.fm/gcqrc0y14k0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me56",
+    "name": "Art 365",
+    "streamUrl": "https://stream.zeno.fm/tmn32t00d48uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me57",
+    "name": "Kotor Radio",
+    "streamUrl": "https://stream.zeno.fm/r4366hhf2c9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me58",
+    "name": "Radio Vrisak",
+    "streamUrl": "https://stream.zeno.fm/2wmy6tqf6a0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me59",
+    "name": "IdemoHIT",
+    "streamUrl": "https://stream.zeno.fm/27vc4mevbwzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me60",
+    "name": "TATAAaaa",
+    "streamUrl": "https://stream.zeno.fm/g0n9ypxd3k0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me61",
+    "name": "Touch Vibes FM",
+    "streamUrl": "https://stream.zeno.fm/876qxp5q7rhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me62",
+    "name": "Radio Akord",
+    "streamUrl": "https://stream.zeno.fm/2f84vbz86p8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me63",
+    "name": "Trance Radio MNE",
+    "streamUrl": "https://stream.zeno.fm/2zu6x9kbuwzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me64",
+    "name": "Radio Krajina",
+    "streamUrl": "https://stream.zeno.fm/cpbnxm9uhkhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me65",
+    "name": "Persys International",
+    "streamUrl": "https://stream.zeno.fm/bunwcqtgmkhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me66",
+    "name": "Balkan Transport",
+    "streamUrl": "https://stream.zeno.fm/shvnmnharrhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me67",
+    "name": "RADIJO",
+    "streamUrl": "https://stream.zeno.fm/qpx2x9e4dy8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me68",
+    "name": "klicevo",
+    "streamUrl": "https://stream.zeno.fm/ryyh56y76p8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me69",
+    "name": "CIGANSKI TOCAK",
+    "streamUrl": "https://stream.zeno.fm/ubpfpupwn18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me70",
+    "name": "JovkeFM",
+    "streamUrl": "https://stream.zeno.fm/pn563x40np8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me71",
+    "name": "Radio fieri",
+    "streamUrl": "https://stream.zeno.fm/wkyyfzfnr18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me72",
+    "name": "𝕾𝖙𝖚𝖉𝖎𝖔 𝕷𝖊𝖌𝖆𝖑𝖊",
+    "streamUrl": "https://stream.zeno.fm/x13e7u09ewzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me73",
+    "name": "NAXI radio",
+    "streamUrl": "https://stream.zeno.fm/79xg0r183c9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me74",
+    "name": "Sumrak",
+    "streamUrl": "https://stream.zeno.fm/8fzdg22wqp8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me75",
+    "name": "Saturday Night Fever",
+    "streamUrl": "https://stream.zeno.fm/db65vefyfy8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me76",
+    "name": "24 De Diciembre Radio",
+    "streamUrl": "https://stream.zeno.fm/cpfegusceq8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me77",
+    "name": "Party with Nelly",
+    "streamUrl": "https://stream.zeno.fm/456yd3q3np8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me78",
+    "name": "Big Umovi Production",
+    "streamUrl": "https://stream.zeno.fm/7s9vy1f9yf9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me79",
+    "name": "ALEX MEDINA FM",
+    "streamUrl": "https://stream.zeno.fm/8ydswysbkuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me80",
+    "name": "Haustor",
+    "streamUrl": "https://stream.zeno.fm/hs8eg2mn64zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me81",
+    "name": "Monte MP",
+    "streamUrl": "https://stream.zeno.fm/3v81e5x8v68uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me82",
+    "name": "Homdor",
+    "streamUrl": "https://stream.zeno.fm/09mgt2657zhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me83",
+    "name": "Radio Becici",
+    "streamUrl": "https://stream.zeno.fm/7dgde7rnvzzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me84",
+    "name": "aleeeksaaaaaa",
+    "streamUrl": "https://stream.zeno.fm/k5ghqkxyvchvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me85",
+    "name": "Kikiii6",
+    "streamUrl": "https://stream.zeno.fm/rpdd0s009p8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me86",
+    "name": "BRUTALIJA",
+    "streamUrl": "https://stream.zeno.fm/c04z8ezkks8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me87",
+    "name": "Radio Skobalj",
+    "streamUrl": "https://stream.zeno.fm/0ezzda4nyk8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me88",
+    "name": "Radio Polet",
+    "streamUrl": "https://stream.zeno.fm/hwqc3kfuz68uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me89",
+    "name": "Kajicaaa",
+    "streamUrl": "https://stream.zeno.fm/88x8x915xp8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me90",
+    "name": "Astronaut",
+    "streamUrl": "https://stream.zeno.fm/39ef1114hc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me91",
+    "name": "Radio Cmok",
+    "streamUrl": "https://stream.zeno.fm/7cmvq1zmnrhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me92",
+    "name": "ELV Journal 2003",
+    "streamUrl": "https://stream.zeno.fm/yfyrfgcivb5uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me93",
+    "name": "Radio Budva 98.7 FM",
+    "streamUrl": "https://listen.shoutcast.com/radiobudva.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me94",
+    "name": "Radio Bar",
+    "streamUrl": "http://161.97.93.84:9000/;stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me95",
+    "name": "Radio Televizija Budva",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me96",
+    "name": "Gradski radio",
+    "streamUrl": "http://centauri.shoutca.st:8325/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me97",
+    "name": "Kulturica",
+    "streamUrl": "http://freeuk23.listen2myradio.com:30643/;stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me98",
+    "name": "DRS",
+    "streamUrl": "https://eu2.fastcast4u.com/proxy/mic0?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me99",
+    "name": "TDI Crna Gora",
+    "streamUrl": "http://streaming.tdiradio.com:8000/crnagora.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me100",
+    "name": "Radio S1",
+    "streamUrl": "https://53a7ed211fc32.streamlock.net/asmediahttp:/adios1-cg/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me101",
+    "name": "Radio Herceg Novi",
+    "streamUrl": "http://s2.voscast.com:10354/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me102",
+    "name": "Radio D plus",
+    "streamUrl": "http://tachyon.shoutca.st:8303/xstream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me103",
+    "name": "Српски Радио",
+    "streamUrl": "http://188.166.30.166:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me104",
+    "name": "Elektroniq Radio - EQR",
+    "streamUrl": "http://109.169.76.155:25542/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me105",
+    "name": "Play Radio Montenegro",
+    "streamUrl": "https://stream.playradio.me:8443/play-me.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me106",
+    "name": "Radio Boka News",
+    "streamUrl": "http://bokanews.me:8000/source",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk108",
-    "name": "Radio Vmro (stream)",
-    "streamUrl": "https://radiovmro.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_north_macedonia"
-  },
-  {
-    "id": "mk109",
-    "name": "Radio TIM Bitola AM",
-    "streamUrl": "http://radio.shoutcast.mk:8026/stream.nsv",
+    "id": "me107",
+    "name": "Radio Jupok",
+    "streamUrl": "http://176.9.59.144:8062/;",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
   },
   {
-    "id": "mk110",
-    "name": "Radio Gazoza Skopje",
-    "streamUrl": "https://stream.zeno.fm/p79t9wf7mg0uv",
+    "id": "me108",
+    "name": "Radio Cetinje",
+    "streamUrl": "http://78.129.228.187:8007/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_north_macedonia"
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me109",
+    "name": "Radio Berane",
+    "streamUrl": "https://stream.iradio.pro/proxyhttp:/adioberane?mp=/stream;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me110",
+    "name": "Radio Imperativ",
+    "streamUrl": "https://stream-150.zeno.fm/x950r8qwnwzuv?zs=ZLWML5rERPSU28Yz41YNzA",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me111",
+    "name": "Radio Teuta",
+    "streamUrl": "http://109.72.96.132:5000/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me112",
+    "name": "Radio Dux",
+    "streamUrl": "http://www.radiodux.me:8000http:/adiodux",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me113",
+    "name": "Radio Mojkovac",
+    "streamUrl": "http://176.9.59.144:8038/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me114",
+    "name": "Play Party Montenegro",
+    "streamUrl": "https://stream.playradio.me:8443/party.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me115",
+    "name": "Play Rock Montenegro",
+    "streamUrl": "https://stream.playradio.me:8443http:/ock.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me116",
+    "name": "Football Fans Radio",
+    "streamUrl": "https://stream-058.zeno.fm/k4ryg0y14k0uv?zs=qy1BheHZT7Kdxr0ihUYpbA",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me117",
+    "name": "Play Soft Montenegro",
+    "streamUrl": "https://stream.playradio.me:8443/soft.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me118",
+    "name": "Radio Herceg Novi 90.0 &amp; 102.7",
+    "streamUrl": "http://s2.voscast.com:10354/;stream1490674747632/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me119",
+    "name": "Reggaeneracija Montenegro",
+    "streamUrl": "http://5.189.179.77:8000/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me120",
+    "name": "Radio Porto Montenegro",
+    "streamUrl": "https://malta1491.startdedicated.de:8443/main",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me121",
+    "name": "Play Urban Montenegro",
+    "streamUrl": "https://stream.playradio.me:8443/urban.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me122",
+    "name": "TDI All Hits",
+    "streamUrl": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me123",
+    "name": "Favor Radio (Montenegro)",
+    "streamUrl": "https://a10.asurahosting.com:7660/montenegro.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me124",
+    "name": "RCG2 Radio 98",
+    "streamUrl": "https://r98.ipradio.rs:10100/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me125",
+    "name": "Radio S1 (CG)",
+    "streamUrl": "https://53a7ed211fc32.streamlock.net/asmedia/radios1-cg/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me126",
+    "name": "Radio S2",
+    "streamUrl": "https://53a7ed211fc32.streamlock.net/asmedia/index/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me127",
+    "name": "Radio S3",
+    "streamUrl": "https://53a7ed211fc32.streamlock.net/asmedia/pingvin/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me128",
+    "name": "Radio S4",
+    "streamUrl": "https://53be5ef2d13aa.streamlock.net/asmedia/gradski/chunklist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me129",
+    "name": "Radio S3 (CG)",
+    "streamUrl": "https://5bc45691ca49f.streamlock.net/asmedia/radios3-cg%20/chunklist_w1740796029.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me130",
+    "name": "Laki Plus Radio FM 103 - Montenegro - Bijelo Polje",
+    "streamUrl": "https://radiostream.cyou:8030/lakiplus",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me131",
+    "name": "Laki Radio FM 91.4 - Montenegro - Bijelo Polje",
+    "streamUrl": "https://radiostream.cyou:8020/laki",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me132",
+    "name": "Radio 98 FM - Montenegro - Podgorica",
+    "streamUrl": "https://r98.ipradio.rs:10100/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me133",
+    "name": "Radio Crne Gore - Montenegro - Podgorica",
+    "streamUrl": "https://rtcg.ipradio.rs:9008/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me134",
+    "name": "Radio Titograd 3 - Montenegro - Podgorica",
+    "streamUrl": "https://stream1.rcast.net/62392",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me135",
+    "name": "RCG Classic - Montenegro - Podgorica",
+    "streamUrl": "https://rtcg1.ipradio.rs:9100/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me136",
+    "name": "RCG YUG - Montenegro - Podgorica",
+    "streamUrl": "https://rtcg1.ipradio.rs:9103/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me137",
+    "name": "Ne znam ti pojma",
+    "streamUrl": "https://livesets.com/jebigaradio/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me138",
+    "name": "The Thin Line Rock Station",
+    "streamUrl": "https://das-edge14-live365-dal02.cdnstream.com/a48322",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me139",
+    "name": "Heartsong Live",
+    "streamUrl": "https://streamer.radio.co/sa0f1967d5/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me140",
+    "name": "HOD Radio",
+    "streamUrl": "https://servidor21.brlogic.com:7766/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me141",
+    "name": "CBN Neuquén",
+    "streamUrl": "https://player.painelvox.com/player-ssl/9140/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me142",
+    "name": "265 Online",
+    "streamUrl": "https://studio23.radiolize.com/radio/8120/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me143",
+    "name": "Impuls Radio Africa",
+    "streamUrl": "https://listen.radioking.com/radio/201785/stream/244400",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me144",
+    "name": "Shining Bright Radio",
+    "streamUrl": "https://radio.ie/wp-content/uploads/2018/05/Madge3.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me145",
+    "name": "PRZ FM",
+    "streamUrl": "https://free.rcast.net/246609",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me146",
+    "name": "Vocaloid Radio",
+    "streamUrl": "https://free.rcast.net/234571",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me147",
+    "name": "Mogul Uplift Radio",
+    "streamUrl": "https://free.rcast.net/209215",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me148",
+    "name": "Radio Predication",
+    "streamUrl": "https://free.rcast.net/6188",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me149",
+    "name": "Radio_Titograd_2",
+    "streamUrl": "https://stream1.rcast.net/62390",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me150",
+    "name": "RCG_Classic",
+    "streamUrl": "https://rtcg1.ipradio.rs:9100/",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me151",
+    "name": "Hopeful Radio",
+    "streamUrl": "https://cheetah.streemlion.com:3820/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me152",
+    "name": "80s80s_In_The_Mix",
+    "streamUrl": "http://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713?sABC=68q40o2p%230%23nr4ssn77n9r4594o23orr1or892207r0%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1758726956",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me153",
+    "name": "Rise_FM",
+    "streamUrl": "http://onair.dancewave.online:8080/dance.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me154",
+    "name": "Rádio_Porto_Brasil_FM",
+    "streamUrl": "http://cast4.hoost.com.br:9112/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me155",
+    "name": "Radio Crne Gore",
+    "streamUrl": "https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me156",
+    "name": "Radio Skadar",
+    "streamUrl": "https://stream.appradiofm.com/stream?url=http://radioservis.me:8050/radioskadar",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me157",
+    "name": "Sadhguru Radio",
+    "streamUrl": "https://streaming.radio.co/s445d7b4c0/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "me158",
+    "name": "Lagoon Radio Nigeria",
+    "streamUrl": "https://streams.radio.co/s704a86cbe/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_montenegro"
+  },
+  {
+    "id": "az1",
+    "name": "Anti Radio",
+    "streamUrl": "https://stream.antiradio.net/radio/8000/mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az2",
+    "name": "Araz fm 103.3",
+    "streamUrl": "http://s39.myradiostream.com:5458/listen.mp3?nocache=1780916135",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az3",
+    "name": "AutoLife Radio Azerbaijan",
+    "streamUrl": "http://radio.autoliferadio.com:8090/radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az4",
+    "name": "I Republic",
+    "streamUrl": "https://www.intervalsignals.net/sounds/aze-z-azr1_261001.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az5",
+    "name": "Ferqli FM",
+    "streamUrl": "https://s39.myradiostream.com/:5458/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az6",
+    "name": "Balkan Rainbow",
+    "streamUrl": "https://s0.radioheart.ru:8000/RH20730",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az7",
+    "name": "Naxcivan Radiosu",
+    "streamUrl": "http://s33.myradiostream.com:12782/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az8",
+    "name": "90 FM Ictimai Radio",
+    "streamUrl": "https://stream.itv.az/rtmp:/radio/chunks.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az9",
+    "name": "AutoLife Azerbaijan",
+    "streamUrl": "https://radio.autoliferadio.com:8005/radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az10",
+    "name": "Europa Plus",
+    "streamUrl": "https://ep128.hostingradio.ru:8052/europaplus256.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az11",
+    "name": "ctimai Radio",
+    "streamUrl": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az12",
+    "name": "Radio Marshall",
+    "streamUrl": "http://eu.stream4cast.com:8030/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az13",
+    "name": "Rakevet",
+    "streamUrl": "https://s0.radioheart.ru:8000/RH20728",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az14",
+    "name": "WFFC - Radio IQ",
+    "streamUrl": "https://wvtf.streamguys1.com/wvtf-edge/radioiq-mp3-64/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az15",
+    "name": "Enigmatic Station",
+    "streamUrl": "https://listen2.myradio24.com/8226",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az16",
+    "name": "Flashmusic FM",
+    "streamUrl": "https://flashmusicfm.stream.laut.fm/flashmusicfm?t302=2026-06-08_11-38-18&uuid=28d442a0-bd6b-4fba-9b16-dd6661b29b22",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az17",
+    "name": "1000 Italohits",
+    "streamUrl": "https://1000italohits.stream.laut.fm/1000italohits?t302=2026-06-08_11-38-19&uuid=190b95c5-c1b9-476b-9060-01c8b5c4c276",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az18",
+    "name": "Gitarre fm",
+    "streamUrl": "https://gitarrefm.stream.laut.fm/gitarrefm?t302=2026-06-08_11-38-20&uuid=2f71f6b2-d594-4331-b563-a27c9e9f85c8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az19",
+    "name": "Azərbaycan Radiosu",
+    "streamUrl": "https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8?token=9e0b89c00b413b57a38f5c2618397fae08d9323d-06fbfa3027c5bfca89294ba638b12e12-1673186220-1673175420",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az20",
+    "name": "Xəzər FM",
+    "streamUrl": "https://s40.myradiostream.com:22546/listen.mp3?nocache=1780918700",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az21",
+    "name": "Radio Vətən",
+    "streamUrl": "http://stream.zeno.fm/0kgkkzanmueuv.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az22",
+    "name": "Европа Плюс Баку",
+    "streamUrl": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az23",
+    "name": "Stremaz",
+    "streamUrl": "http://s0.radioheart.ru:8000/RH20730",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az24",
+    "name": "Radio Space 104 FM",
+    "streamUrl": "http://94.20.88.200:8000/web",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az25",
+    "name": "Araz FM",
+    "streamUrl": "http://s14.myradiostream.com:30454/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az26",
+    "name": "Azərbaycan Radiosu 105FM",
+    "streamUrl": "https://str.yodacdn.net/radio_respublica/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az27",
+    "name": "Radio Respublika International",
+    "streamUrl": "https://str.yodacdn.net/radio_int/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az28",
+    "name": "ASAN Radio",
+    "streamUrl": "http://s33.myradiostream.com:12782/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az29",
+    "name": "Auto Life – Baku – AZ-BA",
+    "streamUrl": "http://radio.autoliferadio.com:8000/radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az30",
+    "name": "Europa Plus Baku – Top 40 – Baku – AZ-BA",
+    "streamUrl": "http://eptop128server.streamr.ru:8033/eptop128",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az31",
+    "name": "Radio Veten – Baku – AZ-BA",
+    "streamUrl": "https://node-29.zeno.fm/0kgkkzanmueuv.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az32",
+    "name": "Naxcivanradiosu – AZ",
+    "streamUrl": "http://37.59.40.90:12782/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az33",
+    "name": "AvropaAz Radio – Baku – AZ-BA",
+    "streamUrl": "https://mynews.az/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az34",
+    "name": "Anti Radio – Baku – AZ-BA",
+    "streamUrl": "https://stream.antiradio.net/radio/8000/web",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az35",
+    "name": "Rakevet radio",
+    "streamUrl": "https://a5.asurahosting.com:8040/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az36",
+    "name": "Naxçıvan Radiosu",
+    "streamUrl": "http://s33.myradiostream.com:12782/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az37",
+    "name": "Business Radio BOSS Azerbaijan",
+    "streamUrl": "https://listen3.myradio24.com/bosscomaz",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az38",
+    "name": "Baku Retro FM Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_bakrtrofm-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az39",
+    "name": "Yurd FM Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_yrdfmaz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az40",
+    "name": "Radio Veten (Vətən)",
+    "streamUrl": "https://stream02.pcradio.biz/radioveten_ml-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az41",
+    "name": "AutoLife Azerbaijan Radio",
+    "streamUrl": "https://stream02.pcradio.biz/autolife_azer-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az42",
+    "name": "Araz FM 103.3 (Baku) Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_rzfmz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az43",
+    "name": "90 FM (Baku) Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_bakfmazrbjn-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az44",
+    "name": "Media FM Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_medfmaz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az45",
+    "name": "Kaspiyskiy Gruz Radio",
+    "streamUrl": "https://stream02.pcradio.biz/kaspiyskiy_gruz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az46",
+    "name": "Naz Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_nazrdaz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az47",
+    "name": "Tunaz",
+    "streamUrl": "http://s0.radioheart.ru:8000/RH20728?DIST=tradio&TGT=tradio&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMTUwOTk0OCwiaXNzIjoidGlzcnYifQ.QHeBLTOcVcI9N_egHhmBowS5V2ChsE32JuBFHVR",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az48",
+    "name": "Araz",
+    "streamUrl": "https://s14.myradiostream.com/:30454/listen.mp3?",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az49",
+    "name": "Radio TMB",
+    "streamUrl": "http://s39.myradiostream.com:5458/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az50",
+    "name": "Xezer 103 FM",
+    "streamUrl": "https://s40.myradiostream.com/:22546/listen.mp3?",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az51",
+    "name": "Radio Shoutaz",
+    "streamUrl": "https://s0.radioheart.ru:9000/RH20730",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az52",
+    "name": "Radio Sharg",
+    "streamUrl": "https://stream.antiradio.net/listen/anti_radio/web",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az53",
+    "name": "Radiocto",
+    "streamUrl": "https://yayin5.radyohizmeti.com/8196/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az54",
+    "name": "Ferqli FM - Folk Tunes from Azerbaijan",
+    "streamUrl": "https://s39.myradiostream.com:5458/listen.mp3?nocache=1780916165",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az55",
+    "name": "Radio Antenn - Folk Tunes from Azerbaijan",
+    "streamUrl": "https://worldradio.online/proxy/?q=http9://85.132.71.10:8000/antenn-mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az56",
+    "name": "Sən Günəşsən",
+    "streamUrl": "https://a5.asurahosting.com:6560/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az57",
+    "name": "Ağdam radio",
+    "streamUrl": "https://a2.asurahosting.com:6650/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az58",
+    "name": "LOF Radio",
+    "streamUrl": "https://server4.streamserver24.com:43509/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az59",
+    "name": "Uşaqlar radio",
+    "streamUrl": "https://a2.asurahosting.com:7660/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az60",
+    "name": "Vintage Radio Azerbaijan",
+    "streamUrl": "https://trucker.autoliferadio.com:1045/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az61",
+    "name": "Araz 103.3 FM Radio",
+    "streamUrl": "https://s14.myradiostream.com:30454/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az62",
+    "name": "NAZ RADIO",
+    "streamUrl": "https://s2.myradiostream.com:5286/listen.mp3?nocache=1780918724",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az63",
+    "name": "Sağlam radio",
+    "streamUrl": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az64",
+    "name": "Naxçıvan Radiosu",
+    "streamUrl": "https://s33.myradiostream.com:12782/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az65",
+    "name": "Azərbaycan Beynəlxalq Radiosu",
+    "streamUrl": "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az66",
+    "name": "TMB 100.5",
+    "streamUrl": "http://s39.myradiostream.com:5458/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az67",
+    "name": "Azerbaycan Radiosu",
+    "streamUrl": "http://str.yodacdn.net/radio_respublica/video.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az68",
+    "name": "Jesus Coming FM - Azerbaijani",
+    "streamUrl": "http://live.jesuscomingfm.com:8392/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az69",
+    "name": "Naxçıvan Radiosu",
+    "streamUrl": "http://s33.myradiostream.com:12782/;stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az70",
+    "name": "7 FM",
+    "streamUrl": "https://stm01.virtualcast.com.br:8090/ondapocos",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az71",
+    "name": "AVTO FM 107.7",
+    "streamUrl": "https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az72",
+    "name": "Naxçıvan Radiosu",
+    "streamUrl": "https://s33.myradiostream.com:12782/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az73",
+    "name": "Radio Marneuli",
+    "streamUrl": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az74",
+    "name": "Lider FM",
+    "streamUrl": "https://mytuner-radio.com/radio/country/azerbaijan-stations",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az75",
+    "name": "_106.1 DAMARIN MERKEZİ FM",
+    "streamUrl": "https://canli.arabeskinmerkezi.com/9180/stream?n=ca07c84bc0de4856444e",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az76",
+    "name": "CodeRadio from FreeCodeCamp",
+    "streamUrl": "https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3?n=4e53e3a465125cdc0367",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az77",
+    "name": "BAKU JUKEBOX",
+    "streamUrl": "http://78.109.52.73:8000/bkjbox",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az78",
+    "name": "Radio Veten",
+    "streamUrl": "http://stream.zeno.fm/p1hx0c3y14zuv.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az79",
+    "name": "DMR1",
+    "streamUrl": "https://streamingp.shoutcast.com/JamendoLounge?lang=*",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az80",
+    "name": "DFM Azerbaijan Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_ondffm-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az81",
+    "name": "Anti Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_ntrdnt-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az82",
+    "name": "Asan Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_asnrdaz-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az83",
+    "name": "Anti Radio",
+    "streamUrl": "https://stream.antiradio.net/listen/anti_radio/mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az84",
+    "name": "106 FM",
+    "streamUrl": "https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_720p1500kbps.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az85",
+    "name": "Jesus Coming FM - Azerbaijani",
+    "streamUrl": "http://live.jesuscomingfm.com:8392/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az86",
+    "name": "Azərbaycan Radiosu",
+    "streamUrl": "https://aztv.az/az",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az87",
+    "name": "Business Radio BOSS Azerbaijan",
+    "streamUrl": "https://listen5.myradio24.com/bosscomaz",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az88",
+    "name": "I Republic",
+    "streamUrl": "http://www.intervalsignals.net/sounds/aze-z-azr1_261001.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az89",
+    "name": "Business Radio BOSS",
+    "streamUrl": "https://myradio24.org/bosscomaz",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az90",
+    "name": "Radio Vətən",
+    "streamUrl": "https://node-29.zeno.fm/0kgkkzanmueuv.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az91",
+    "name": "Positively Plants",
+    "streamUrl": "https://streaming.positivity.radio/pr/posiplants/icecast.audio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az92",
+    "name": ".100 Hip Hop and RNB FM",
+    "streamUrl": "https://ice64.securenetsystems.net/LFTM",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az93",
+    "name": "Anti Radio",
+    "streamUrl": "http://stream.antiradio.net/radio/8000/mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az94",
+    "name": "Caspian Business Radio BOSS",
+    "streamUrl": "https://listen6.myradio24.com/bosscomaz",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az95",
+    "name": "Soothing jazz",
+    "streamUrl": "http://193.111.125.15:8020/soothingjazz",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az96",
+    "name": "Iradio Azerbaijan - Folk Tunes from Azerbaijan",
+    "streamUrl": "https://stream.radiojar.com/a80hx0asnzwtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az97",
+    "name": "BakiRadio - Pop Hits from Azerbaijan",
+    "streamUrl": "https://broadcast.bakiradio.az/radio/8000/bakiradio",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az98",
+    "name": "VIVA FM Azerbaijan - Pop Hits from Azerbaijan",
+    "streamUrl": "https://stream.zeno.fm/tbfu8vxb84zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az99",
+    "name": "Ferqli FM - Folk Tunes from Azerbaijan",
+    "streamUrl": "https://s39.myradiostream.com/5458/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az100",
+    "name": "Radio Tune Azerbaijan - Pop Hits from Azerbaijan",
+    "streamUrl": "https://tune.az:8015/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az101",
+    "name": "106.3 FM - Pop Hits from Azerbaijan",
+    "streamUrl": "https://audiostr.atv.az/106.3fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az102",
+    "name": "Media FM - Pop Hits from Azerbaijan",
+    "streamUrl": "https://icecast.livetv.az/mediafm",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az103",
+    "name": "Araz 103.3 FM - Folk Tunes from Azerbaijan",
+    "streamUrl": "https://s14.myradiostream.com/30454/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az104",
+    "name": "Azadliq Radiosu - Talk Radio from Azerbaijan",
+    "streamUrl": "https://n0a.radiojar.com/s90a46bpn3quv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az105",
+    "name": "Rakevet radio - Folk Tunes from Azerbaijan",
+    "streamUrl": "https://9s0.radioheart.ru:8000/RH20728",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az106",
+    "name": "YSF Radio - Folk Tunes from Azerbaijan",
+    "streamUrl": "https://icecast.livetv.az/yusif",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az107",
+    "name": "Veten Radio - Pop Hits from Azerbaijan",
+    "streamUrl": "https://stream.zeno.fm/0kgkkzanmueuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "az108",
+    "name": "Xezer FM - Urban Rap from Azerbaijan",
+    "streamUrl": "https://s40.myradiostream.com/22546/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_azerbaijan"
+  },
+  {
+    "id": "ge1",
+    "name": "Fortuna",
+    "streamUrl": "http://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge2",
+    "name": "Georgia Radio 1",
+    "streamUrl": "https://gpb-stream.cdn.xsg.ge/gpb-radio1/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge3",
+    "name": "Georgia Radio 2",
+    "streamUrl": "https://gpb-stream.cdn.xsg.ge/gpb-radio2/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge4",
+    "name": "GPB Classical",
+    "streamUrl": "https://gpb.streamguys1.com/oom/gpb-classical-mp3-website",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge5",
+    "name": "GPB Radio",
+    "streamUrl": "https://gpb.streamguys1.com/gpb-atlanta-aac-website",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge6",
+    "name": "Ardaidardo",
+    "streamUrl": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge7",
+    "name": "Autoradio",
+    "streamUrl": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge8",
+    "name": "Dardimandi / რადიო დარდიმანდი",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge9",
+    "name": "Georgia One TV",
+    "streamUrl": "http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge10",
+    "name": "GT Radio",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-georgiantimes-92.3/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge11",
+    "name": "IMEDI.FM",
+    "streamUrl": "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge12",
+    "name": "Marneuli FM",
+    "streamUrl": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge13",
+    "name": "NRJ Energy Georgia",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-radiofortuna-106.9/tracks-a1/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge14",
+    "name": "Radio 1",
+    "streamUrl": "http://gpb-stream.cdn.xsg.ge/gpb-radio1/tracks-a1/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge15",
+    "name": "Radio 2 FM 100.9",
+    "streamUrl": "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge16",
+    "name": "Radio Amra",
+    "streamUrl": "http://streamer.radio.co:80/s34b5469e0/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge17",
+    "name": "Radio Amra International",
+    "streamUrl": "https://streamer.radio.co/s34b5469e0/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge18",
+    "name": "Radio Atinati მთავარი – 105.9 FM – Batumi",
+    "streamUrl": "http://stream.it-solutions.ge:8000/mp3-radioatinatifm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge19",
+    "name": "Radio Batumi",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge20",
+    "name": "Radio Chveneburi - Pop Hits from Georgia",
+    "streamUrl": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge21",
+    "name": "Radio Chveneburi 95.9 FM - Georgia - Tbilisi",
+    "streamUrl": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/shoutcast",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge22",
+    "name": "Radio Comersant",
+    "streamUrl": "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge23",
+    "name": "Radio_Nürburgring_@_RPR1.",
+    "streamUrl": "https://tunein.cdnstream1.com/4609_64.mp3?aw_0_1st.skey=1729808679&lat=36.6676&lon=-78.3875&aw_0_1st.abtest=&aw_0_1st.stationId=s34928&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a33016%2ca40075&aw_0_1st.bandId=2",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge24",
+    "name": "Star FM 93.9",
+    "streamUrl": "http://stream.it-solutions.ge:8000/mp3-starfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge25",
+    "name": "Радио AGFM (101.5 FM Грузия - Марнеули)",
+    "streamUrl": "http://nue01-edge01.itdc.ge/fm-ag-101.5/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge26",
+    "name": "მაესტრო",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-maestro-94.7/index.m3u8?n=b7efa0f0a75c1dda09ca",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge27",
+    "name": "პირველი არხი",
+    "streamUrl": "https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge28",
+    "name": "პირველი არხი მუსიკა fm",
+    "streamUrl": "http://tv.cdn.xsg.ge/gpb-radio2/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge29",
+    "name": "რადიო მაესტრო / Maestro",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-maestro-94.7/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge30",
+    "name": "რადიო მუსიკა FM - Pop Hits from Georgia",
+    "streamUrl": "https://tv.cdn.xsg.ge/gpb-radio2/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge31",
+    "name": "რადიო ობიექტივი / Obieqtivi",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge32",
+    "name": "რადიო უცნობი / Unchobi FM",
+    "streamUrl": "https://nue01-edge01.itdc.ge/fm-ucnobi-98.1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge33",
+    "name": "რადიო ჩევნებური (Radio Chveneburi)",
+    "streamUrl": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge34",
+    "name": "რადიო ”არ დაიდარდო”",
+    "streamUrl": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge35",
+    "name": "რადიო „ჩვენებური“",
+    "streamUrl": "http://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge36",
+    "name": "საქართველოს რადიო მუსიკა",
+    "streamUrl": "http://gpb-stream.cdn.xsg.ge/gpb-radio2/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge37",
+    "name": "1 XL Radio",
+    "streamUrl": "http://das-edge11-live365-dal03.cdnstream.com/a13844",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge38",
+    "name": "101.9 The Rocket",
+    "streamUrl": "http://ice24.securenetsystems.net/WPNG",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge39",
+    "name": "102.5_The_Lake",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc2101?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImxhdCI6IjQxLjg4NzQiLCJsb25nIjoiLTg3LjYzMTgiLCJpYXQiOjE3Mjk3OTY0NTksImlzcyI6InRpc3J2In0.o9yfZD-3s391wxF5Qj2cLnwIhCyu8Im2Z9Zv4hxT0q8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge40",
+    "name": "102.6 The Situation",
+    "streamUrl": "http://cheetah.streemlion.com/1026thesituation",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge41",
+    "name": "103.7 Chuck FM",
+    "streamUrl": "http://ad-oom-cmg.streamguys1.com/ath1037/ath1037-sgplayer-mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge42",
+    "name": "103.7 Lite fm",
+    "streamUrl": "http://ice42.securenetsystems.net/WLTCFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge43",
+    "name": "104.9 PURE Country",
+    "streamUrl": "http://ice64.securenetsystems.net/WMCG",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge44",
+    "name": "104.9 The Rebel",
+    "streamUrl": "http://ais-sa1.streamon.fm/7047_48k.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge45",
+    "name": "105.3 The Beat",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc3209",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge46",
+    "name": "105.5 FM The King",
+    "streamUrl": "http://cast5.servcast.net:4299/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge47",
+    "name": "105.7thephaze",
+    "streamUrl": "https://s7.citrus3.com:8164/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge48",
+    "name": "107.7 The Truth",
+    "streamUrl": "http://ice42.securenetsystems.net/WLTCHD3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge49",
+    "name": "107.9 JAMZ FM",
+    "streamUrl": "http://ice64.securenetsystems.net/WDBN",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge50",
+    "name": "1340 The Fan 3",
+    "streamUrl": "http://15723.live.streamtheworld.com/WIFNAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge51",
+    "name": "3ABN Radio 94.5 Morganton",
+    "streamUrl": "http://war.str3am.com:7180/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge52",
+    "name": "590 Faith Talk",
+    "streamUrl": "http://18533.live.streamtheworld.com/WDWDAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge53",
+    "name": "9 FM Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rad_fortnge-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge54",
+    "name": "92 Moose",
+    "streamUrl": "https://92moose.fm/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge55",
+    "name": "92.3 Thunder Country",
+    "streamUrl": "http://ice64.securenetsystems.net/WSGAFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge56",
+    "name": "94.7 The Link",
+    "streamUrl": "https://das-edge16-live365-dal02.cdnstream.com/a98661",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge57",
+    "name": "94.9 The Bull",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc2829",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge58",
+    "name": "96.1 The Eagle",
+    "streamUrl": "https://961theeagle.com/listen-live/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge59",
+    "name": "96.5_the_Wolf",
+    "streamUrl": "https://streamdb4web.securenetsystems.net/v5/index.cfm?stationCallSign=WLWF",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge60",
+    "name": "960 The Ref",
+    "streamUrl": "https://ad-oom-cmg.streamguys1.com/ath960/ath960-sgplayer-aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge61",
+    "name": "97.1 The River",
+    "streamUrl": "https://ad-oom-cmg.streamguys1.com/atl971/atl971-sgplayer-aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge62",
+    "name": "97.7 Max FM",
+    "streamUrl": "https://bayshore-ais.leanstream.co/CHGBFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge63",
+    "name": "98.7FM &amp; AM1340 Fox News",
+    "streamUrl": "https://ad-oom-cmg.streamguys1.com/ath1340/ath1340-sgplayer-aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge64",
+    "name": "99.5 The Jock 1360 ESPN",
+    "streamUrl": "http://ais-sa1.streamon.fm/7051_24k.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge65",
+    "name": "99X",
+    "streamUrl": "https://27153.live.streamtheworld.com/WNNXFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge66",
+    "name": "_ 101.1 RADİO TURKEY FM",
+    "streamUrl": "https://canli.arabeskinmerkezi.com/9180/stream?n=5de3c56d2c716a0206f3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge67",
+    "name": "Africa No. 1",
+    "streamUrl": "http://african1libreville.ice.infomaniak.ch/african1libreville-128.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge68",
+    "name": "Album 88",
+    "streamUrl": "https://26223.live.streamtheworld.com/WRASFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge69",
+    "name": "All in 1",
+    "streamUrl": "https://all-in-1.stream.laut.fm/all-in-1?ref=radiode&t302=2026-06-08_21-58-11&uuid=03fbdbbe-5e39-4eba-91ad-d5ff701eb367",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge70",
+    "name": "AM 920 The Answer",
+    "streamUrl": "https://18243.live.streamtheworld.com/WGKAAMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge71",
+    "name": "Ambientesque",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge72",
+    "name": "American Family Radio Talk 88.3 Dublin",
+    "streamUrl": "http://mediaserver3.afa.net:8000/talk.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge73",
+    "name": "AmericaOne Radio",
+    "streamUrl": "https://ais-sa2.cdnstream1.com/2454_128.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge74",
+    "name": "AO-2.0 Digital Music Radio",
+    "streamUrl": "http://ribotech.net:8002/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge75",
+    "name": "ATL Praise House",
+    "streamUrl": "https://auds1.intacs.com/atlpraisehouse",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge76",
+    "name": "ATL Radio X",
+    "streamUrl": "https://das-edge17-live365-dal02.cdnstream.com/a15683",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge77",
+    "name": "B97 - The Big Hoss",
+    "streamUrl": "http://das-edge14-live365-dal02.cdnstream.com/a34813",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge78",
+    "name": "B98.5",
+    "streamUrl": "https://ad-oom-cmg.streamguys1.com/atl985/atl985-sgplayer-aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge79",
+    "name": "Bayshore Radio",
+    "streamUrl": "https://ais-sa2.cdnstream1.com/1700_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge80",
+    "name": "BBG Network",
+    "streamUrl": "https://streamdb8web.securenetsystems.net/cirrusencore/WBBG",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge81",
+    "name": "Big Shot Radio",
+    "streamUrl": "https://ais-sa2.cdnstream1.com/1699_128",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge82",
+    "name": "Blazin'",
+    "streamUrl": "http://27153.live.streamtheworld.com/WLZNFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge83",
+    "name": "Bob FM 93.9",
+    "streamUrl": "http://26143.live.streamtheworld.com/WDRRFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge84",
+    "name": "Boomer 102.5",
+    "streamUrl": "http://ice66.securenetsystems.net/WBOJAM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge85",
+    "name": "Channel 27",
+    "streamUrl": "http://cast1.torontocast.com:3200/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge86",
+    "name": "Choice Classic Rock",
+    "streamUrl": "https://streamer.radio.co/s66f2626b4/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge87",
+    "name": "Cladrite Radio",
+    "streamUrl": "http://das-edge17-live365-dal02.cdnstream.com/a43564",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge88",
+    "name": "Classic Hits 100.9",
+    "streamUrl": "https://streamdb9web.securenetsystems.net/cirrusencore/WXJZ",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge89",
+    "name": "Classic Joy",
+    "streamUrl": "https://rtn.cdnstream1.com/2583_96.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge90",
+    "name": "Classic Long Island Radio",
+    "streamUrl": "http://das-edge13-live365-dal02.cdnstream.com/a02256",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge91",
+    "name": "Classix 102.9",
+    "streamUrl": "https://14553.live.streamtheworld.com/WAMJHD2AAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge92",
+    "name": "CNN International",
+    "streamUrl": "https://rastamusic.streamguys1.com/rastamusic",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge93",
+    "name": "College Underground Radio",
+    "streamUrl": "http://streamer.radio.co/sbc698b4e9/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge94",
+    "name": "Conyers Old Time radio",
+    "streamUrl": "https://s2.yesstreaming.net:17161/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge95",
+    "name": "Cougar Radio 88.5",
+    "streamUrl": "http://ice66.securenetsystems.net/WCUGFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge96",
+    "name": "Country Rap Tunes Radio",
+    "streamUrl": "https://s4.radio.co/s9f7497ee0/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge97",
+    "name": "Crazy-Partybude",
+    "streamUrl": "https://hardcorebase.stream.laut.fm/hardcorebase",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge98",
+    "name": "Dancehall Link Radio",
+    "streamUrl": "http://streamer.radio.co/s30d82be5e/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge99",
+    "name": "Deep Nuggets Radio",
+    "streamUrl": "https://das-edge17-live365-dal02.cdnstream.com/a73363",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge100",
+    "name": "Downtown Hott Radio",
+    "streamUrl": "http://usa11.fastcast4u.com:5528/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge101",
+    "name": "Dwc Radio",
+    "streamUrl": "https://streams.radio.co/s477fa6bb4/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge102",
+    "name": "E 93 FM",
+    "streamUrl": "http://27153.live.streamtheworld.com/WEASFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge103",
+    "name": "Edge FM",
+    "streamUrl": "https://das-edge11-live365-dal03.cdnstream.com/a54182",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge104",
+    "name": "El Patron 96.7",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc9205",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge105",
+    "name": "ENERGY_92.1",
+    "streamUrl": "https://dbc.streamguys1.com/wmyb-fm.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTcyOTc5NjcwMSwiaXNzIjoidGlzcnYifQ.-XN7fR_aMrC60FMT74FaZauJgX6Ca8N2ebwa6ilTTwM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge106",
+    "name": "FadeFM Radio - 2K10 Decades Hits",
+    "streamUrl": "https://ec3.yesstreaming.net:1845/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge107",
+    "name": "FadeFM Radio - Breaking News Now",
+    "streamUrl": "https://ec1.yesstreaming.net:2925/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge108",
+    "name": "FadeFM Radio - Christian Talk",
+    "streamUrl": "https://nwm.streamguys1.com/ktis-am-3?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge109",
+    "name": "FadeFM Radio - Classic Alternative X",
+    "streamUrl": "https://ec4.yesstreaming.net:1465/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge110",
+    "name": "FadeFM Radio - Classical",
+    "streamUrl": "https://ec2.yesstreaming.net:1575/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge111",
+    "name": "FadeFM Radio - Day Spa",
+    "streamUrl": "https://ec3.yesstreaming.net:1955/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge112",
+    "name": "FadeFM Radio - HitList",
+    "streamUrl": "https://ec4.yesstreaming.net:2695/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge113",
+    "name": "FadeFM Radio - Rockin’ Blues",
+    "streamUrl": "https://ec3.yesstreaming.net:1985/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge114",
+    "name": "FadeFM Radio - Smooth Jazz",
+    "streamUrl": "https://ec3.yesstreaming.net:1535/stream?Icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge115",
+    "name": "FadeFM Radio - Southern Gospel",
+    "streamUrl": "https://ec4.yesstreaming.net:1755/stream?icecast",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge116",
+    "name": "FaithTalk 590",
+    "streamUrl": "https://18533.live.streamtheworld.com/WDWDAMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge117",
+    "name": "Feierfreund_90s_Dance_Party",
+    "streamUrl": "http://regiocast.streamabc.net/regc-feierfreunddance4258096-mp3-192-2302618?sABC=68q402qs%230%23nr4ssn77n9r4594o23orr1or892207r0%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1758724831",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge118",
+    "name": "Fleet Dj Radio",
+    "streamUrl": "http://149.56.157.81:8551",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge119",
+    "name": "Florida_Man_Radio_103.1",
+    "streamUrl": "https://ice42.securenetsystems.net/WZLB",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge120",
+    "name": "FM_TRANQUERAS",
+    "streamUrl": "https://srv2.radiostreamuy.com/8002/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge121",
+    "name": "Fox Sports 1400",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc5234",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge122",
+    "name": "FOX-FM",
+    "streamUrl": "https://playoutonestreaming.com/proxy/wfdr?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge123",
+    "name": "Foxie 103.1 Jamz",
+    "streamUrl": "http://crystalout.surfernetwork.com:8001/WFXA_MP3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge124",
+    "name": "FroEyes Radio",
+    "streamUrl": "https://s10.citrus3.com:8032/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge125",
+    "name": "G100.1",
+    "streamUrl": "https://dbc.streamguys1.com/wxyy-fm.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge126",
+    "name": "Gangstaville Radio",
+    "streamUrl": "http://stream.radio.co/s1cffd7347/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge127",
+    "name": "Georgia_104.5",
+    "streamUrl": "https://18703.live.streamtheworld.com/WKAKFMAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImxhdCI6IjM2LjY2NzYiLCJsb25nIjoiLTc4LjM4NzUiLCJpYXQiOjE3Mjk4MDgxMDMsImlzcyI6InRpc3J2In0.nyixbP1ac9D5YXTBV6TNkM-qP6Xl_Gc2ygZs0rwY-1w",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge128",
+    "name": "Glory 1330",
+    "streamUrl": "http://ice24.securenetsystems.net/WGTJ",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge129",
+    "name": "GPB_Radio",
+    "streamUrl": "https://gpb.streamguys1.com/oom/gpb-radio-mp3-tunein",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge130",
+    "name": "Ground Up Radio",
+    "streamUrl": "http://das-edge16-live365-dal02.cdnstream.com/a94699",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge131",
+    "name": "HD 98.3",
+    "streamUrl": "https://hd983.com/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge132",
+    "name": "Hindsight Media Radio",
+    "streamUrl": "http://das-edge15-live365-dal02.cdnstream.com/a04749",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge133",
+    "name": "Hip Hop 106.5",
+    "streamUrl": "http://ice42.securenetsystems.net/WKCNHD3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge134",
+    "name": "HIS_Radio",
+    "streamUrl": "https://rtn.cdnstream1.com/2566_96.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge135",
+    "name": "HOH Mix",
+    "streamUrl": "http://das-edge16-live365-dal02.cdnstream.com/a41252",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge136",
+    "name": "HOH Radio",
+    "streamUrl": "https://das-edge17-live365-dal02.cdnstream.com/a32745",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge137",
+    "name": "Hometown Radio 1220 AM",
+    "streamUrl": "http://ice64.securenetsystems.net/WZOT",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge138",
+    "name": "Horror Theater",
+    "streamUrl": "http://ec4.yesstreaming.net:1230/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge139",
+    "name": "Hot",
+    "streamUrl": "http://29324.live.streamtheworld.com/WHTAFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge140",
+    "name": "Hot 107.9 ATL",
+    "streamUrl": "https://27063.live.streamtheworld.com/WHTAFMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge141",
+    "name": "Hustle Streetz music group",
+    "streamUrl": "https://s6.citrus3.com:8170/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge142",
+    "name": "IAMC TV Radio",
+    "streamUrl": "http://amccast.com/8054/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge143",
+    "name": "J947 - America&#039;s #1 National Hit Music Station",
+    "streamUrl": "https://fast.citrus3.com:8496/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge144",
+    "name": "JazzBeatsRadio",
+    "streamUrl": "https://ice3.securenetsystems.net/JAZZBEAT",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge145",
+    "name": "Jazzspirations",
+    "streamUrl": "http://streaming.radio.co:80/s2fabc9a78/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge146",
+    "name": "JazzWaves Radio",
+    "streamUrl": "http://listen.radionomy.com/jazzwavesradio.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge147",
+    "name": "K-BAY",
+    "streamUrl": "http://kbay1063.com/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge148",
+    "name": "Kicks 101.5",
+    "streamUrl": "http://18153.live.streamtheworld.com/WKHXFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge149",
+    "name": "King Country 1060 AM",
+    "streamUrl": "http://ice42.securenetsystems.net/WKNGAM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge150",
+    "name": "Kiss 102.7",
+    "streamUrl": "http://ice66.securenetsystems.net/WCKS",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge151",
+    "name": "Kissin",
+    "streamUrl": "http://ice66.securenetsystems.net/WKCNFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge152",
+    "name": "L Town Radio",
+    "streamUrl": "https://streamdb8web.securenetsystems.net/v5/WZTN",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge153",
+    "name": "La Xona Mix Radio",
+    "streamUrl": "https://stream.radio.co/sdd2e15ca3/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge154",
+    "name": "La_Raza_102.3/107.1_FM",
+    "streamUrl": "http://crystalout.surfernetwork.com:8001/WLKQ-FM_MP3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge155",
+    "name": "Legal Crime Radio",
+    "streamUrl": "https://s44.myradiostream.com:8240/listen.mp3?nocache=1682445751",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge156",
+    "name": "LF Radio",
+    "streamUrl": "https://rtn.cdnstream1.com/2582_96.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge157",
+    "name": "Love 860",
+    "streamUrl": "https://playatampa.com/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge158",
+    "name": "Low Country Radio",
+    "streamUrl": "http://c17.radioboss.fm:8096/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge159",
+    "name": "Magic",
+    "streamUrl": "http://ad-oom-cmg.streamguys1.com/ath1021/ath1021-sgplayer-mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge160",
+    "name": "Magic_101",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc3548?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImxhdCI6IjQxLjg4NzQiLCJsb25nIjoiLTg3LjYzMTgiLCJpYXQiOjE3Mjk3OTY2MzMsImlzcyI6InRpc3J2In0.uvzl40XYkWwVTLdCdcLLwvcVcdXN84K1Ui9-qvDBFiE",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge161",
+    "name": "Majic 107.5",
+    "streamUrl": "http://14223.live.streamtheworld.com/WAMJFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge162",
+    "name": "Metal Devastation Radio",
+    "streamUrl": "https://c13.radioboss.fm:18099/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge163",
+    "name": "Ministerio Internacional El Centinela​",
+    "streamUrl": "https://stream2.305stream.com/proxy/client062?mp=/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge164",
+    "name": "Misfits Radio",
+    "streamUrl": "https://das-edge14-live365-dal02.cdnstream.com/a94544",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge165",
+    "name": "Mix_103.3",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc1445?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImxhdCI6IjQxLjg4NzQiLCJsb25nIjoiLTg3LjYzMTgiLCJpYXQiOjE3Mjk3OTY3NDksImlzcyI6InRpc3J2In0.eLRwNHvvagMHd4Wy-0QtAcNkovtTpCGzWNMdp28EzYc",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge166",
+    "name": "MSBN FM 99.1",
+    "streamUrl": "https://streaming.radio.co/scd401eba1/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge167",
+    "name": "Mutant Radio",
+    "streamUrl": "https://listen.radioking.com/radio/282820/stream/328621",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge168",
+    "name": "My Country 99.3",
+    "streamUrl": "http://ice10.securenetsystems.net/WCON",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge169",
+    "name": "My K Country",
+    "streamUrl": "https://ais-sa1.streamon.fm/7051_24k.aac/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge170",
+    "name": "NASH 104.5",
+    "streamUrl": "http://27153.live.streamtheworld.com/WKAKFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge171",
+    "name": "New Country 101 FIVE",
+    "streamUrl": "https://18003.live.streamtheworld.com/WKHXFMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge172",
+    "name": "New Journey Radio",
+    "streamUrl": "http://das-edge13-live365-dal02.cdnstream.com/a03775",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge173",
+    "name": "New_Country_101_FIVE",
+    "streamUrl": "http://playerservices.streamtheworld.com/pls/WKHXFM.pls?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNzI5Nzk2MzU3LCJ0ZC1yZWciOmZhbHNlfQ.b8-NjybzihEAyNLw2cO716_zTB6jx6vX6VgAhJGepOI&DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImxhdCI6IjQxLjg4NzQiLCJsb25nIjoiLTg3LjYzMTgiLCJpYXQiOjE3Mjk3OTYzNTcsImlzcyI6InRpc3J2In0.CKpkmPYICcepO6lk1wwyLQ8ULxRF8K9BaWAL_-wTaMw",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge174",
+    "name": "Newstalk 1330",
+    "streamUrl": "http://ice42.securenetsystems.net/WLBB",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge175",
+    "name": "NIDO Radio",
+    "streamUrl": "http://amccast.com/8052/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge176",
+    "name": "OG 97.9",
+    "streamUrl": "https://26443.live.streamtheworld.com/WWWQH3AAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge177",
+    "name": "Out Your League Radio",
+    "streamUrl": "https://streams.radio.co/s915de9239/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge178",
+    "name": "Platinum Hitz Radio",
+    "streamUrl": "http://s4.radio.co/s6b4042f3e/listen.m3u",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge179",
+    "name": "Power 96.1",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc741",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge180",
+    "name": "Praise 102.5",
+    "streamUrl": "https://27263.live.streamtheworld.com/WPZEFMAAC.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge181",
+    "name": "Pretoria Fields Radio",
+    "streamUrl": "http://playoutonestreaming.com/proxy/pretoria?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge182",
+    "name": "Pro Business Channel",
+    "streamUrl": "https://mixlr.com/pro-business-channel/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge183",
+    "name": "Pure Hustle Radio",
+    "streamUrl": "https://live.itech.host:1920/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge184",
+    "name": "Q100",
+    "streamUrl": "http://18303.live.streamtheworld.com/WWWQFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge185",
+    "name": "R&amp;B 94.1",
+    "streamUrl": "https://streamdb9web.securenetsystems.net/cirruscontent/RNB941",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge186",
+    "name": "Radio Ar Daidardo",
+    "streamUrl": "https://stream02.pcradio.biz/rad_arddardgr-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge187",
+    "name": "Radio Argo",
+    "streamUrl": "http://45.143.109.51:8000/;",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge188",
+    "name": "Radio Cielo",
+    "streamUrl": "http://radios.sonicp.com/8038/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge189",
+    "name": "Radio Dzveli Kalaki",
+    "streamUrl": "https://free.rcast.net/62170",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge190",
+    "name": "Radio Esperans",
+    "streamUrl": "http://66.70.249.70:5351/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge191",
+    "name": "Radio Free Georgia",
+    "streamUrl": "http://s2.radio.co/s2133c4bad/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge192",
+    "name": "Radio Grace FM",
+    "streamUrl": "https://s4.radio.co/s846dce999/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge193",
+    "name": "Radio Nueva Vida Network 90.5 Nashville",
+    "streamUrl": "http://ice10.securenetsystems.net/KMRO",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge194",
+    "name": "Radio One 102.4",
+    "streamUrl": "https://radioone.ice.infomaniak.ch/radioone-96.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge195",
+    "name": "Radio Sputnik Хуссар Ирыстон",
+    "streamUrl": "https://icecast-rian.cdnvideo.ru/voicetsk",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge196",
+    "name": "Radio Tbilisi FM",
+    "streamUrl": "https://stream02.pcradio.biz/rad_tbilsfm-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge197",
+    "name": "Radio Vida",
+    "streamUrl": "https://s2.mexside.net:7104/;stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge198",
+    "name": "Radioactive Beach Music",
+    "streamUrl": "http://streamingp.shoutcast.com/JamendoLounge?lang=*",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge199",
+    "name": "RadioAjara რადიო აჭარა",
+    "streamUrl": "https://edge.mixlr.com/channel/bzorq",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge200",
+    "name": "Radyo Genc Arabesk FM",
+    "streamUrl": "http://yayin.radyohostu.net:8050/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge201",
+    "name": "Red Wine Radio",
+    "streamUrl": "https://stream02.pcradio.biz/rwradio_ml-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge202",
+    "name": "ReggieGay",
+    "streamUrl": "http://s2.yesstreaming.net:7019/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge203",
+    "name": "Rock 100.5",
+    "streamUrl": "http://18153.live.streamtheworld.com/WNNXFM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge204",
+    "name": "Rockin WAVES 11294",
+    "streamUrl": "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1429480",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge205",
+    "name": "RockLan One Radio",
+    "streamUrl": "https://s2.radio.co/sb1dbca814/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge206",
+    "name": "Salsa Music with Raul Rosales",
+    "streamUrl": "https://cloudstream2032.conectarhosting.com/9472/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge207",
+    "name": "Salsa Y Rumba",
+    "streamUrl": "http://167.114.131.90:5266",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge208",
+    "name": "Serenityradio.me",
+    "streamUrl": "http://das-edge62-live365-dal03.cdnstream.com/a24931",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge209",
+    "name": "Sir Classic's Comedy Zone",
+    "streamUrl": "https://station.voscast.com/5f75cf9117287/",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge210",
+    "name": "Soothing jazz",
+    "streamUrl": "http://193.111.125.15:8020/soothingjazz",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge211",
+    "name": "Soothing radio",
+    "streamUrl": "http://193.111.125.15:8010/soothingradio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge212",
+    "name": "Southern 93.5",
+    "streamUrl": "http://ais-sa1.streamon.fm/7081_24k.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge213",
+    "name": "Sports Radio 93.1",
+    "streamUrl": "https://s48.myradiostream.com/:11304/listen.mp3?nocache=1641475480",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge214",
+    "name": "SportsRadio 960 The Ref",
+    "streamUrl": "http://ad-oom-cmg.streamguys1.com/ath960/ath960-sgplayer-aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge215",
+    "name": "station 2000",
+    "streamUrl": "http://a5.radioheart.io:8015/RH33343",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge216",
+    "name": "SXM Flavor Radio",
+    "streamUrl": "http://sonic01.instainternet.com/8330/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge217",
+    "name": "The Beach",
+    "streamUrl": "https://bayshore.leanstream.co/CFPSFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge218",
+    "name": "The Joy FM 102.1 Bolingbroke",
+    "streamUrl": "http://rtn.cdnstream1.com/2579_96.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge219",
+    "name": "The Joy FM 88.9 Athens",
+    "streamUrl": "http://rtn.cdnstream1.com/2576_96.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge220",
+    "name": "The JOY FM Georgia",
+    "streamUrl": "https://rtn.cdnstream1.com/2576_96.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge221",
+    "name": "The Other Side of The River",
+    "streamUrl": "https://ad-oom-cmg.streamguys1.com/atl971hd2/atl971hd2-sgplayer-aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge222",
+    "name": "The Peak",
+    "streamUrl": "https://live.leanstream.co/CKCBFM-MP3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge223",
+    "name": "The Sir Classic Show",
+    "streamUrl": "https://station.voscast.com/60e3bf68f128e/",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge224",
+    "name": "The Sports X",
+    "streamUrl": "http://26433.live.streamtheworld.com/WFOMAM_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge225",
+    "name": "Thunder",
+    "streamUrl": "https://streamdb3web.securenetsystems.net/v5/index.cfm?stationCallSign=WZTR",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge226",
+    "name": "Troy University Public Radio 91.7 Columbus",
+    "streamUrl": "http://live.str3am.com:2380/troy1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge227",
+    "name": "Truth For The World",
+    "streamUrl": "https://das-edge17-live365-dal02.cdnstream.com/a21389",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge228",
+    "name": "Tvistomi Radio",
+    "streamUrl": "https://s2.radio.co/sa04dce859/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge229",
+    "name": "Urban Gumbo Radio",
+    "streamUrl": "https://live365.com/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge230",
+    "name": "USA Dance Mix",
+    "streamUrl": "https://das-edge11-live365-dal03.cdnstream.com/a70692",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge231",
+    "name": "Vakhtang Kikabidze Radio",
+    "streamUrl": "https://stream02.pcradio.biz/Vahtang_Kikabidze-med",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge232",
+    "name": "Victory",
+    "streamUrl": "https://5e5ec7a8b11e5.streamlock.net/victory/victory_he_aac_v2_112k/playlist.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge233",
+    "name": "Village Radio - Classic Alternative",
+    "streamUrl": "https://das-edge16-live365-dal02.cdnstream.com/a73319",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge234",
+    "name": "Vine 101 Fm",
+    "streamUrl": "https://s5.myradiostream.com/:42628/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge235",
+    "name": "WERUradio",
+    "streamUrl": "http://ice42.securenetsystems.net/WERUDB",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge236",
+    "name": "WJCT_News_89.9",
+    "streamUrl": "https://18373.live.streamtheworld.com/WJCTFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTcyOTc5NjU0MSwiaXNzIjoidGlzcnYifQ.iK04l2TLz5yNqx815pUqmvTuYEPgqNENj_iBQjLfQsg",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge237",
+    "name": "Y96 Hot Country 95.9",
+    "streamUrl": "http://ice64.securenetsystems.net/WQZY",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge238",
+    "name": "Z105.7",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc749",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge239",
+    "name": "Монте Карло",
+    "streamUrl": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge240",
+    "name": "России",
+    "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
+  },
+  {
+    "id": "ge241",
+    "name": "რადიო თავისუფლება",
+    "streamUrl": "https://rfe-audio.rferl.org/GE/2020/06/16/20200616-060000-GE067-program.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_georgia_c"
   }
 ]
