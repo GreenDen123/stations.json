@@ -3,7 +3,7 @@
     "id": "ge01",
     "name": "Fortuna Radio",
     "streamUrl": "http://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/43396.v10.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-fortuna.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -11,7 +11,7 @@
     "id": "ge02",
     "name": "Georgia Radio 1 (პირველი არხი)",
     "streamUrl": "https://gpb-stream.cdn.xsg.ge/gpb-radio1/index.m3u8",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/43922.v5.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio1ge.jpg",
     "genre": "genre_info",
     "country": "country_georgia_c"
   },
@@ -35,7 +35,7 @@
     "id": "ge05",
     "name": "GPB Radio",
     "streamUrl": "https://gpb.streamguys1.com/gpb-atlanta-aac-website",
-    "imageUrl": "https://radio.streamitter.com/images/logos/9JC3ZE.png",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/EPqaNKJkQ6.png",
     "genre": "genre_news",
     "country": "country_georgia_c"
   },
@@ -43,7 +43,7 @@
     "id": "ge06",
     "name": "Ardaidardo (არ დაიდარდო)",
     "streamUrl": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/43879.v7.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/ardaidardo.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -59,7 +59,7 @@
     "id": "ge08",
     "name": "Dardimandi 97.1 FM (რადიო დარდიმანდი)",
     "streamUrl": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/mono.m3u8",
-    "imageUrl": "https://liveonlineradio.net/wp-content/uploads/2015/06/Radio-DardiMandi.jpg",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-dardimandi.png",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -75,7 +75,7 @@
     "id": "ge10",
     "name": "Radio Imedi FM",
     "streamUrl": "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/43398.v4.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-imedi.jpg",
     "genre": "genre_news",
     "country": "country_georgia_c"
   },
@@ -91,7 +91,7 @@
     "id": "ge12",
     "name": "NRJ Energy Georgia 106.9 FM",
     "streamUrl": "https://nue01-edge01.itdc.ge/fm-radiofortuna-106.9/tracks-a1/playlist.m3u8",
-    "imageUrl": "https://top-radio.ru/assets/image/radio/180/nrjge.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/nrjge.png",
     "genre": "genre_dance",
     "country": "country_georgia_c"
   },
@@ -115,7 +115,7 @@
     "id": "ge15",
     "name": "Radio Batumi 93.7 FM",
     "streamUrl": "https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/playlist.m3u8",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/126673.v3.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-batumi.png",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -131,7 +131,7 @@
     "id": "ge17",
     "name": "Radio Comersant 95.5 FM",
     "streamUrl": "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8",
-    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-commersant-955.jpg",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-commersant-955.jpg",
     "genre": "genre_news",
     "country": "country_georgia_c"
   },
@@ -139,7 +139,7 @@
     "id": "ge18",
     "name": "Star FM 93.9",
     "streamUrl": "https://streams.it1.ge/mp3-starfm",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/43465.v7.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/starfm.png",
     "genre": "genre_hits",
     "country": "country_georgia_c"
   },
@@ -155,7 +155,7 @@
     "id": "ge20",
     "name": "Maestro Radio 94.7 FM (მაესტრო)",
     "streamUrl": "https://nue01-edge01.itdc.ge/fm-maestro-94.7/mono.m3u8",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/43913.v6.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-maestro-ge.jpg",
     "genre": "genre_news",
     "country": "country_georgia_c"
   },
@@ -171,7 +171,7 @@
     "id": "ge22",
     "name": "Ucnobi FM 98.1 (უცნობი)",
     "streamUrl": "https://nue01-edge01.itdc.ge/fm-ucnobi-98.1/mono.m3u8",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/43919.v7.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-ucnobi-fm.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -179,15 +179,15 @@
     "id": "ge23",
     "name": "Fortuna Plus 103.4 FM",
     "streamUrl": "https://nue01-edge01.itdc.ge/fm-radiofortunaplus-103.4/tracks-a1/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/81157/logo_XJAKBFvOvI.png",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/fortuna-plus.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
   {
     "id": "ge24",
     "name": "Positive FM 104.3 (პოზიტივი)",
-    "streamUrl": "https://ample-05.radiojar.com/sr4vzamzfnruv",
-    "imageUrl": "https://radio.streamitter.com/images/logos/L549XC.png",
+    "streamUrl": "https://n09.radiojar.com/sr4vzamzfnruv?rj-ttl=5&rj-tok=AAABnx1HnBAACYRDWugIdpuVfg",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-positive.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -227,7 +227,7 @@
     "id": "ge29",
     "name": "Radio Palitra",
     "streamUrl": "https://radiostream.palitra.ge/stream.mp3",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-palitra.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -266,16 +266,16 @@
   {
     "id": "ge34",
     "name": "Radio Dzveli Kalaki (ძველი ქალაქი)",
-    "streamUrl": "https://stream.iis.ge:8443/radiodk.mp3",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://free.rcast.net/62170",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-dzveli-kalaki.jpg",
     "genre": "genre_retro",
     "country": "country_georgia_c"
   },
   {
     "id": "ge35",
     "name": "Radio Citrus FM",
-    "streamUrl": "https://stream.iis.ge:8443/CitrusFm.mp3",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://new.vobook.ru/http://iis.ge:8000/CitrusFm.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-citrus.png",
     "genre": "genre_dance",
     "country": "country_georgia_c"
   },
@@ -338,8 +338,8 @@
   {
     "id": "ge43",
     "name": "Radio Rioni",
-    "streamUrl": "http://silk.rionitv.com:8000/;stream.nsv",
-    "imageUrl": "__________________________",
+    "streamUrl": "https://video.rionitv.com/s;stream",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-rioni.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
@@ -347,7 +347,7 @@
     "id": "ge44",
     "name": "Radio Vinyl",
     "streamUrl": "http://62.212.34.4:9000/live",
-    "imageUrl": "__________________________",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radiovinilge.jpg",
     "genre": "genre_retro",
     "country": "country_georgia_c"
   },
@@ -408,14 +408,6 @@
     "country": "country_georgia_c"
   },
   {
-    "id": "ge52",
-    "name": "Radio Tbilisi FM",
-    "streamUrl": "https://stream.pcradio.ru/rad_tblsfm-med",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_georgia_c"
-  },
-  {
     "id": "ge53",
     "name": "Fortuna 106.9 FM (pcradio)",
     "streamUrl": "https://stream.pcradio.ru/rad_fortnge-med",
@@ -426,16 +418,8 @@
   {
     "id": "ge54",
     "name": "Radio Tbilisi 93.5 FM",
-    "streamUrl": "https://stream.iis.ge:8443/radiotbilisi.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_georgia_c"
-  },
-  {
-    "id": "ge55",
-    "name": "Radio Pirveli",
-    "streamUrl": "http://178.134.47.58:88/broadwave.mp3",
-    "imageUrl": "__________________________",
+    "streamUrl": "http://iis.ge:8000/radiotbilisi.mp3",
+    "imageUrl": "https://top-radio.ru/assets/image/radio/100/radio-tbilisi.jpg",
     "genre": "genre_pop",
     "country": "country_georgia_c"
   },
