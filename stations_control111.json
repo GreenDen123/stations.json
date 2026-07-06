@@ -1,1202 +1,474 @@
 [
   {
-    "id": "ar01",
-    "name": "La 100 FM 99.9 Buenos Aires",
-    "streamUrl": "https://24233.live.streamtheworld.com/FM999_56.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar02",
-    "name": "Radio Rivadavia AM 630",
-    "streamUrl": "https://26653.live.streamtheworld.com/RIVADAVIAAAC.aac",
-    "imageUrl": "__________________________",
+    "id": "est01",
+    "name": "Vikerraadio",
+    "streamUrl": "http://icecast.err.ee/vikerraadio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/29078.v4.png",
     "genre": "genre_info",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar03",
-    "name": "CNN Radio Argentina AM 950",
-    "streamUrl": "https://unlimited5-us.dps.live/cnn-ar/aac/icecast.audio",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar04",
-    "name": "Radio La Red AM 910",
-    "streamUrl": "https://27363.live.streamtheworld.com/LA_RED_AM910AAC.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar05",
-    "name": "Radio 10 AM 710",
-    "streamUrl": "https://d2.stweb.tv/radio10/live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar06",
-    "name": "Radio Con Vos 89.9 FM",
-    "streamUrl": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar07",
-    "name": "Metro FM 95.1 Buenos Aires",
-    "streamUrl": "https://27603.live.streamtheworld.com/METROAAC.aac",
-    "imageUrl": "__________________________",
+    "id": "est02",
+    "name": "Raadio 2",
+    "streamUrl": "http://icecast.err.ee/raadio2.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/29099.v4.png",
     "genre": "genre_pop",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar08",
-    "name": "Blue FM 100.7 Buenos Aires",
-    "streamUrl": "https://24483.live.streamtheworld.com/BLUE_FM_100_7AAC.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
+    "id": "est03",
+    "name": "Klassikaraadio",
+    "streamUrl": "http://icecast.err.ee/klassikaraadio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/29084.v5.png",
+    "genre": "genre_clasic",
+    "country": "country_estonia"
   },
   {
-    "id": "ar09",
-    "name": "Los 40 Principales Argentina",
-    "streamUrl": "https://provisioning.streamtheworld.com/pls/LOS40_ARGENTINA.pls",
-    "imageUrl": "__________________________",
+    "id": "est04",
+    "name": "Raadio 4",
+    "streamUrl": "https://sb.err.ee/live/raadio4.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/29244.v11.png",
+    "genre": "genre_info",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est05",
+    "name": "MyHits",
+    "streamUrl": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/estonia/MyHits.png",
     "genre": "genre_hits",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar10",
-    "name": "Cadena Heat",
-    "streamUrl": "https://24283.live.streamtheworld.com/CADENAHEAT.mp3",
+    "id": "est06",
+    "name": "Power Hit Radio",
+    "streamUrl": "https://ice.leviracloud.eu/phr96-aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/29036.v6.png",
+    "genre": "genre_hits",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est07",
+    "name": "Raadio Elmar",
+    "streamUrl": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/29041.v8.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est08",
+    "name": "Raadio Kuku",
+    "streamUrl": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/102970.v8.png",
+    "genre": "genre_info",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est09",
+    "name": "Relax FM",
+    "streamUrl": "https://stream.relaxfm.ee/relax",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/82993.v26.png",
+    "genre": "genre_relax",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est10",
+    "name": "Retro FM",
+    "streamUrl": "https://stream.skymedia.ee/live/RETRO",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/29085.v7.png",
+    "genre": "genre_retro",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est11",
+    "name": "Russkoe Radio",
+    "streamUrl": "https://stream.skymedia.ee/live/RR",
+    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/EVxXHLAYRV.jpg",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est12",
+    "name": "Sky Plus",
+    "streamUrl": "https://stream.skymedia.ee/live/SKYPLUS",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/29037.v10.png",
+    "genre": "genre_dance",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est13",
+    "name": "Star FM",
+    "streamUrl": "https://ice.leviracloud.eu/star96-aac",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/73249.v8.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est14",
+    "name": "NRJ FM Estonia",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=8018a2b1",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar11",
-    "name": "d-Sports Radio",
-    "streamUrl": "https://27443.live.streamtheworld.com/DSPORTSRADIOAAC.aac",
+    "id": "est15",
+    "name": "Rock FM Eesti",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/rck?_i=8018a2b1",
     "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_argentina"
+    "genre": "genre_rock",
+    "country": "country_estonia"
   },
   {
-    "id": "ar12",
-    "name": "Radio Disney Argentina 94.3 FM",
-    "streamUrl": "https://23033.live.streamtheworld.com/DISNEY_ARG_BA.mp3",
+    "id": "est16",
+    "name": "Sky Radio",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/SKY?_i=8018a2b1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est17",
+    "name": "Raadio Kadi",
+    "streamUrl": "https://edge06.cdn.bitflip.ee:8888/kadi",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est18",
+    "name": "Sky Plus DNB",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/NRJdnb?_i=8018a2b1",
+    "imageUrl": "__________________________",
+    "genre": "genre_electronic",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est19",
+    "name": "Retro FM Love",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/RetroJ6ulud?_i=8018a2b1",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est20",
+    "name": "Retro FM Eestikas",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/retro2.mp3?_i=8018a2b1",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est21",
+    "name": "Raadio 7",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/R7?_i=8018a2b1",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est22",
+    "name": "FinEst Radio",
+    "streamUrl": "https://shoutcast.finestfm.fi/stream/1/:80/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est23",
+    "name": "Raadio Relax FM",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/relax?_i=8018a2b1",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est24",
+    "name": "Raadio Relax International",
+    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/international?_i=8018a2b1",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est25",
+    "name": "Sooviraadio",
+    "streamUrl": "http://media.uunox.net:8888/listen.pls",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est26",
+    "name": "Kuma Raadio (Tre Raadio)",
+    "streamUrl": "http://sc2.treraadio.ee:8004/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est27",
+    "name": "Chat Raadio",
+    "streamUrl": "http://puma.streemlion.com:1810/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est28",
+    "name": "Narodnoye Radio 100.0 FM",
+    "streamUrl": "https://le08.euddn.net/d508624a2c2c0b585b36c46493cbce9c6b7079e08f96b6641ab3a0bcfd982f5c2ea7aabf9f42fc3ddb9395512e8ee453e2d222eedf17a9b13ac4ef00f7a1ebf6df94c319a5406839a9ab2a055105104ed6752bf4c3995f361e6ccb4d1d0238c790d8d1d6ce0e0ad54484b838483722a972ea8625309088747c535f464cfd6bb3675f91123495c3f89473b91130878647c3857d8e294280c6b0c5bb34e2abc3ac704d58979b01ea402d98eac21c5688b0/narodnoe.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est29",
+    "name": "Юмор FM",
+    "streamUrl": "https://ic6.101.ru:8000/stream/air/aac/64/102",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est30",
+    "name": "Raadio Duo",
+    "streamUrl": "https://le06.euddn.net/9e84ceb559418320dcd60bb99f8d31afa19f2c94a119eac530dad8afc7a02a6edf1f64278b0b4807896862847f730e367d2c890043632858e7ba62a79142929727347caf05fd2afc9690f48cc0d80d58cad14e84c278097be1fa9f7f4f31e58c06aeb4ebc711620e4bef2528d550bd84cee52ad46984b518a42994a01c9be36ccdcd61e485e8a6cb302d98a24b5181b66d20d2fe4d523db354f068ee50c7638fc7aae6fab159fefe49ea804fae2f50b3/radioduo.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est31",
+    "name": "Raadio Uuno",
+    "streamUrl": "https://le11.euddn.net/23681c69a044ae26b816b206d1f69625ac00349276191fbbaeefe70af0b99356cc7306cb88878a80d0263fe697fa98369b63cdc138334b541002e61a14a2e10a72f89bb17d81de881920102412016a2c6a09f52856ae9245938a27e1e1176f6061686c64b0ad3f996275047291ed864f65b5c4ab3928b2c5f95b05fa5f3ac0a95a9624a8c9065c4276d5e6996ab7c078c311bd07e22b19095d853701bf7c61ced2b9c1c3c7a0b32240e7ef74f86934f7/myhits.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est32",
+    "name": "Raadio Tallinn",
+    "streamUrl": "http://icecast.err.ee/raadiotallinn.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est33",
+    "name": "R2 Eesti",
+    "streamUrl": "https://icecast.err.ee/r2eestikorge.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/44321/logo_xzCJD2MU4X.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est34",
+    "name": "Kiss FM Estonia",
+    "streamUrl": "https://edge02.cdn.bitflip.ee:8888/KISS",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est35",
+    "name": "Tre Raadio Ring FM",
+    "streamUrl": "https://cdn.treraadio.ee/ringfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est36",
+    "name": "Tre Raadio Pärnu",
+    "streamUrl": "http://cdn.treraadio.ee/parnu-tre",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est37",
+    "name": "Tre Raadio Kesk-Eesti",
+    "streamUrl": "http://cdn.treraadio.ee/kesk-eesti-tre",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est38",
+    "name": "Tre Raadio Põhja-Eesti",
+    "streamUrl": "http://cdn.treraadio.ee/pohja-tre",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est39",
+    "name": "Tre Raadio Rapla",
+    "streamUrl": "https://cdn.treraadio.ee/rapla-tre",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est40",
+    "name": "Tre Raadio Virumaa",
+    "streamUrl": "http://sc2.treraadio.ee/viru-tre",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est41",
+    "name": "Duo Party",
+    "streamUrl": "https://le06.euddn.net/279bb1630f135084caa1ff583ca3033a5af28635cd98c5054a0fa7c91d1158b29ddd2089f845c9a2cbffc0490e8dd2fc22e20f561ca25b616e663652a55374ce5dc45b1a5aede252bf5e3df5574a261d1657c8f31cd2492f484ee70a1ccfd63c5f5a77195682bf1efcafdd9ff711aa0c243bdfdeedcc8d2a9c1a3a8721597acaa1313ac70837a5a0d415257abb29501f1253b9b029063a9ba2ef175e8c8f26935285961fd373a829ad4ab2607c39b7b9/duodance.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est42",
+    "name": "Duo Country",
+    "streamUrl": "http://le09.euddn.net/65895ff446f29baa300ade8193108aba74bb58b20e601f6b2ee7c69e00c05c4d71571b9c9ea55367e98560428822c3980c0faabd92a4814bd275d4db32c303ca851c6587f68911c558f37da588cbaf7d85036ef69835aa238f7fd2f6501a11e917587a91b84d7e6aed47a24f2f4b5762498333850d66807634761a659b4255694b560f43726fef9e155211b637abe18ae73621a8c4b1bf88bfb8ceddff5db8f5a4548c4e1236665f0075344977f89821beb81151b1586a41f801c8cf4f377b0d/dc_duocountry.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est43",
+    "name": "Duo Rock",
+    "streamUrl": "http://le08.euddn.net/fe9f39555c5d7604eca568a5fe3171dd3b7cb629b4f775dcf08dde1307ae0e542131378493063be6a955dd5275dbc92e4553156600ae5fa51b6fbdffd0e130399765e13e32b6a1a1a8608bc737b15c47bd148a08010ca5fc522d80c578de4f64b4b80232c090247732ba0a2926ac10c71900ee104c5f984743b159774528f4c077d822d54f7486295a454209c864a7467325995c339a8e02231c3232af47d7906f4e11415b32123cbcebdc2e6ea2d76e/rokk.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est44",
+    "name": "Duo Gold",
+    "streamUrl": "https://le03.euddn.net/4df6a80de9754b0e96ad4f84e1c81111811f7aba47d2379509ac3cbf474a04b02b5cc342cbe85748a652849ef6b557dda027a1725d936e8d1f25fd0e841b894709b70f0f525144b33433c8b11a853594c38c2f95f06d924d1909db25332562e9198fa4958617b73f0901c7b4bdee50e54299aed5b34df299926ffc79562e4040987dd1987c98e6f11b4b79430ce2294e9d29e186016d517792d06519c9185df1/kuld.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est45",
+    "name": "Duo Greatest Hits",
+    "streamUrl": "http://le05.euddn.net/7645bcdfabdc43b61734d3ee52ccd371dca16916ba069981f225cda718e1af94108f0f5193eb727fb5b60c12fb5b27a1ddacaf27ff4da84559347b7f1b888bc79362fb99619ff449190cf9c34fb67afa158fa59d8456788050f76821853d1529ea8abbb616ad55ab63f49cda88ec1e626836880b6e5a3b33924c43a11e873ea0c662c85cab4afce94edf474c1e66819b777fd588cd8ed718ab2954c3688e31a19a082c050b71e902958b4134ddc5fe93/hitmix.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est46",
+    "name": "Elmari tantsuõhtu 24/7",
+    "streamUrl": "http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est47",
+    "name": "Klara Klassika",
+    "streamUrl": "http://icecast.err.ee/klaraklassika.opus",
+    "imageUrl": "__________________________",
+    "genre": "genre_clasic",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est48",
+    "name": "Klara Jazz",
+    "streamUrl": "http://icecast.err.ee/klarajazz.opus",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est49",
+    "name": "Klara Nostalgia",
+    "streamUrl": "http://icecast.err.ee/klaranostalgia.opus",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est50",
+    "name": "Raadio Kidzone",
+    "streamUrl": "https://le01.euddn.net/d3234a63af1bebda7d8bf0638f93824f6667da6c452d3a510c06997367525934f604f84c3e966dfa65e330d3b40a4bb1a0ee63ae0f23e6a0203776e0a42bb03365cf559300967b9a4c739e5e9ab4f3f9fb8b5755ab42aaad4507cf3e35c5f5a23cd197d1b435a8c66c22298f65e41ec8a0e8818d86273bd1713706c829829d0e80a749ca4f59004ff5d62b3573eccf55420c548828e0157c66d487a91ab0c488e680b84ac7ae25af76ef1494f6032a9c/kidzone.aac",
     "imageUrl": "__________________________",
     "genre": "genre_kids",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar13",
-    "name": "FM del Lago 92.1",
-    "streamUrl": "https://27343.live.streamtheworld.com/FM921_56.mp3",
+    "id": "est51",
+    "name": "Taifuun FM",
+    "streamUrl": "https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream",
     "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est52",
+    "name": "Legendaarne Raadio",
+    "streamUrl": "https://stream.skymedia.ee/live/Legendaarne",
+    "imageUrl": "https://radiospinner.com/media/logos/180/44342/logo_rq4n5W3MCi.png",
+    "genre": "genre_retro",
+    "country": "country_estonia"
+  },
+  {
+    "id": "est53",
+    "name": "Jumor FM Estonia",
+    "streamUrl": "https://a10.asurahosting.com:7640/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/44343/logo_bjo0zBMmZR.png",
     "genre": "genre_pop",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar14",
-    "name": "Radio Ciudad AM 1110",
-    "streamUrl": "https://tus.radios.ar/1110/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
+    "id": "est54",
+    "name": "IDA Radio",
+    "streamUrl": "https://broadcast.idaidaida.net:8000/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/44344/logo_EfCaBA0xCJ.png",
+    "genre": "genre_pop",
+    "country": "country_estonia"
   },
   {
-    "id": "ar15",
-    "name": "La 2x4 FM 92.7 (Tango)",
-    "streamUrl": "https://tus.radios.ar/9270/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar16",
-    "name": "Radio Provincia AM 1270",
-    "streamUrl": "https://streaming.provinciaradio.com.ar:7008/am",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar17",
-    "name": "Radio El Mundo AM 1070",
-    "streamUrl": "https://streaming.escuchanosonline.com:7118//stream?type=http&nocache=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar18",
-    "name": "FutuRock",
-    "streamUrl": "https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio/5942a3a05fa68cca2efb4264/5d9d019112cbbb45d6a50960/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar19",
-    "name": "Atomika FM",
-    "streamUrl": "https://streaming.radiosenlinea.com.ar/8652/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar20",
-    "name": "Radio Cultura",
-    "streamUrl": "https://streaming.escuchanosonline.com:7035/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar21",
-    "name": "Radio María Argentina",
-    "streamUrl": "http://dreamsiteradiocp.com:8004/stream",
-    "imageUrl": "__________________________",
+    "id": "est55",
+    "name": "Pereraadio Tallinn",
+    "streamUrl": "https://icecast.pereraadio.ee:9000/Tallinn",
+    "imageUrl": "https://radiospinner.com/media/logos/180/44277/logo_lWNJtWuAOF.png",
     "genre": "genre_religious",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar22",
-    "name": "Radio Salta AM 840",
-    "streamUrl": "https://01.solumedia.com.ar:8348/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
+    "id": "est56",
+    "name": "Estonian Party Radio",
+    "streamUrl": "https://maggie.torontocast.com:8110/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/44305/logo_p5WiaTOZkz.png",
+    "genre": "genre_dance",
+    "country": "country_estonia"
   },
   {
-    "id": "ar23",
-    "name": "LT8 AM 830 Rosario",
-    "streamUrl": "http://stream.lt8.com.ar:8080/lt8radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar24",
-    "name": "AM 530 Somos Radio",
-    "streamUrl": "https://ipanel.instream.audio:7000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar25",
-    "name": "El Destape Radio",
-    "streamUrl": "https://ipanel.instream.audio/8004/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar26",
-    "name": "Delta FM 90.3",
-    "streamUrl": "https://cdn.instream.audio//:9069//stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar27",
-    "name": "FM Millenium 106.7",
-    "streamUrl": "https://player.questreaming.com/?pl=vlc&c=fmmilenium",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar28",
-    "name": "Concepto FM 95.5",
-    "streamUrl": "http://radios.solumedia.com:6002/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar29",
-    "name": "Concierto FM 94.7",
-    "streamUrl": "https://01.solumedia.com.ar:8112/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar30",
-    "name": "Dinamo FM 100.9",
-    "streamUrl": "http://01.solumedia.com.ar:8144/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar31",
-    "name": "La Hit Córdoba",
-    "streamUrl": "http://stm23.veemesoft.com.ar:24308/",
+    "id": "est57",
+    "name": "All The Best Radio",
+    "streamUrl": "https://c4.radioboss.fm/stream/537",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar32",
-    "name": "Radio Cantilo",
-    "streamUrl": "http://radio.solumedia.com.ar:7231/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar33",
-    "name": "La Rocka RcK FM 107.3",
-    "streamUrl": "http://cdn.instream.audio:8137/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar34",
-    "name": "Pontiac Rock",
-    "streamUrl": "https://radios.solumedia.com/6268/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar35",
-    "name": "Radio Monk",
-    "streamUrl": "http://streaming01.shockmedia.com.ar:9858/",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar36",
-    "name": "Con Alma de Blues",
-    "streamUrl": "http://listen.radionomy.com/con-alma-de-blues.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar37",
-    "name": "Classique – Una radio de clásicos",
-    "streamUrl": "http://01.solumedia.com.ar:8562/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar38",
-    "name": "Radio Shopping Classics",
-    "streamUrl": "https://stream4.suenas.net/shoppingclassics",
-    "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar39",
-    "name": "Radio Folklore 90",
-    "streamUrl": "https://ssl.xcast.com.br:12502/index.html?sid=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar40",
-    "name": "La Cacharpaya (Folklore)",
-    "streamUrl": "http://streaming01.shockmedia.com.ar:9360/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar41",
-    "name": "Radiactiva 100.7",
-    "streamUrl": "http://sh4.radioonlinehd.com:8533/stream",
+    "id": "est58",
+    "name": "Doubleclap Radio",
+    "streamUrl": "https://s3.radio.co/scfd7273b2/listen",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_argentina"
+    "country": "country_estonia"
   },
   {
-    "id": "ar42",
-    "name": "FM Plus 93.1 Rosario",
-    "streamUrl": "http://fmplus.radio.rosario3.com:8006/fmplus",
+    "id": "est59",
+    "name": "Hits Show Radio",
+    "streamUrl": "https://stream.zeno.fm/7sreyeyustkuv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar43",
-    "name": "Radio Dos 1230 AM Rosario",
-    "streamUrl": "http://radio2.radio.rosario3.com:8000/prueba2",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar44",
-    "name": "Radio Noticias 91.9 FM",
-    "streamUrl": "http://centova.radiosnethosting.com:8065/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar45",
-    "name": "Radio Latina FM 101.1",
-    "streamUrl": "http://streaming.latina101.com.ar:9000/Repetidoras",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar46",
-    "name": "FM Latina 92.5 Salta",
-    "streamUrl": "http://streaming.radiosenlinea.com.ar:9640/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar47",
-    "name": "Radio Rep. FM 99 / Republica",
-    "streamUrl": "http://streamlky.alsolnet.com:443/republica99",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar48",
-    "name": "NQP Radio Neuquén",
-    "streamUrl": "http://cdn.instream.audio:8111/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar49",
-    "name": "Radio 7 Neuquén",
-    "streamUrl": "https://stream.arcast.net:4443/radio7neuquen/ngrp:radio7neuquen_all/playlist.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar50",
-    "name": "LU6 Radio Atlántica",
-    "streamUrl": "http://173.255.205.241:9090/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar51",
-    "name": "Power Paraná",
-    "streamUrl": "https://player.xcast.com.br/proxy/7232/",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar52",
-    "name": "Antena Uno 92.3 FM Posadas",
-    "streamUrl": "https://radios.solumedia.com:10818/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar53",
-    "name": "LV16 (Mendoza)",
-    "streamUrl": "https://server6.hostradios.com/8552/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar54",
-    "name": "FM Universidad 98.7 – Misiones",
-    "streamUrl": "https://fm.unam.edu.ar/fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar55",
-    "name": "Radio Cadena Sol 106.5 FM",
-    "streamUrl": "http://www.genexservicios.com:8294/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar56",
-    "name": "Radio El Chubut FM",
-    "streamUrl": "https://radios.streamingdha.com.ar:9382/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar57",
-    "name": "Elevate FM 102.1 Rosario",
-    "streamUrl": "https://sonic.host-live.com/8120/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar58",
-    "name": "FMSUR",
-    "streamUrl": "https://stream.fmsur.pro:8125/mobile.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar59",
-    "name": "Revuelto Radio",
-    "streamUrl": "https://cdn.instream.audio:9097/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar60",
-    "name": "Radio del Puerto 92.1 – Chaco",
-    "streamUrl": "https://streaming.escuchanosonline.com:7106/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar61",
-    "name": "Radio REA",
-    "streamUrl": "https://cast.dant.com/radio/8000/rea.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar62",
-    "name": "Radio María Joven",
-    "streamUrl": "https://01.solumedia.com.ar:8114/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar63",
-    "name": "Radio Manantial de Vida",
-    "streamUrl": "https://genexservicios.com:8300/?1733409881282",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar64",
-    "name": "Radio Buen Samaritano 101.7 FM",
-    "streamUrl": "https://radios.solumedia.com:10903/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar65",
-    "name": "Radio Cadena Vida 95.3 FM",
-    "streamUrl": "https://host.serviceinfinito.com.ar:7006/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar66",
-    "name": "FM Esperanza 107.1",
-    "streamUrl": "https://streaming01.shockmedia.com.ar:10404/stream?icy=http",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar67",
-    "name": "Red Wine Radio (Argentina)",
-    "streamUrl": "https://stream.zeno.fm/pcbduafehg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar68",
-    "name": "Vinilo Mix",
-    "streamUrl": "https://audiopanel.com.ar:8010/radio.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar69",
-    "name": "Net80 Radio",
-    "streamUrl": "https://streaming.escuchanosonline.com/8274/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar70",
-    "name": "Estación Latidos",
-    "streamUrl": "http://streaming01.shockmedia.com.ar:8162/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar71",
-    "name": "Radio Onda – Tigre",
-    "streamUrl": "http://149.202.235.235:8011/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar72",
-    "name": "Radio Sur FM 88.3",
-    "streamUrl": "https://stream.fmsur.pro:8125/mobile.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar73",
-    "name": "FM del Mar 100.1",
-    "streamUrl": "https://streaming.escuchanosonline.com/8514/",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar74",
-    "name": "Eclipse FM 101.5",
-    "streamUrl": "https://01.solumedia.com.ar:8746/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar75",
-    "name": "FM del Sol 91.1",
-    "streamUrl": "https://streaming.gostreaming.com.ar:10877/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar76",
-    "name": "Radio Colmena",
-    "streamUrl": "https://radios.solumedia.com:10935/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar77",
-    "name": "Radio Estación Sur",
-    "streamUrl": "http://88.198.9.174:8196/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar78",
-    "name": "La Colectiva Radio",
-    "streamUrl": "https://radios.solumedia.com/6198/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar79",
-    "name": "Radio Grafica",
-    "streamUrl": "http://radio13.servidorderadio.net:8110/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar80",
-    "name": "FM La Redonda",
-    "streamUrl": "http://radio.solumedia.com.ar:8290/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar81",
-    "name": "FM La Uni 91.7",
-    "streamUrl": "http://cdn.instream.audio:9275/stream.m3u",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar82",
-    "name": "FM Pocahullo",
-    "streamUrl": "https://server.radiostreaming.com.ar/8454/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar83",
-    "name": "FM Profesional 89.9",
-    "streamUrl": "http://centova.ilive.com.ar:10006/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar84",
-    "name": "Radio Activa FM 96.9 – Ing. Maschwitz",
-    "streamUrl": "http://streaming01.shockmedia.com.ar:9332/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar85",
-    "name": "Radio Orión",
-    "streamUrl": "http://01.solumedia.com.ar:7834/stream?icy=http",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar86",
-    "name": "Radio Caput",
-    "streamUrl": "http://69.64.46.123:8132/stream?type=.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar87",
-    "name": "Radio Norte Bahía",
-    "streamUrl": "http://icecast.hostingbahia.com.ar:8002/live?1475282235673",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar88",
-    "name": "Radio Dos Corrientes FM 99.3",
-    "streamUrl": "https://radios.solumedia.com/6396/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar89",
-    "name": "FM Onda Horizonte 94.1",
-    "streamUrl": "http://s1.radiosnethosting.com:9816/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar90",
-    "name": "FM Dale 96.1",
-    "streamUrl": "http://01.solumedia.com.ar:8238/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar91",
-    "name": "Play FM Argentina",
-    "streamUrl": "http://audio.questreaming.com:25157/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar92",
-    "name": "PLAY 94.3 FM",
-    "streamUrl": "https://sonic.host-live.com/8026/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar93",
-    "name": "Radio Digital San Luis 101.1 FM",
-    "streamUrl": "https://streamconex.com:8062/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar94",
-    "name": "Meridiano FM 98.5",
-    "streamUrl": "https://streaming.escuchanosonline.com:7346/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar95",
-    "name": "Frecuencia Digital 99.1 FM",
-    "streamUrl": "https://radios.streamingdha.com.ar/8022/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar96",
-    "name": "Boreal FM 92.5",
-    "streamUrl": "https://stream2.statsradio.com:8060/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar97",
-    "name": "Radio Cool FM 103.7",
-    "streamUrl": "https://radios.solumedia.com:10805/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar98",
-    "name": "UNRC Radio",
-    "streamUrl": "https://server6.hostradios.com:7280/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar99",
-    "name": "Evolution FM 101.9",
-    "streamUrl": "https://radios.solumedia.com:6140/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar100",
-    "name": "Radio Influencia",
-    "streamUrl": "http://genexservicios.com:8134/?1713795357814",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar101",
-    "name": "Radio Britannia",
-    "streamUrl": "http://01.solumedia.com.ar:8472/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar102",
-    "name": "Radio Impacto",
-    "streamUrl": "https://server.streamcasthd.com/8022/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar103",
-    "name": "Diamante FM 95.7",
-    "streamUrl": "https://proxy01.servidorenlinea.net/streaming1/8014/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar104",
-    "name": "FM Armonía 105.1",
-    "streamUrl": "https://radiosar.com:9346/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar105",
-    "name": "Tiempo FM 97.5",
-    "streamUrl": "https://sc.host-live.com/8166/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar106",
-    "name": "FM Laser 98.5 – General Pico",
-    "streamUrl": "https://streamconex.com:8076/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar107",
-    "name": "Fresh Radio FM 102.9",
-    "streamUrl": "https://streaming.escuchanosonline.com:7011/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar108",
-    "name": "FM Concepto 98.1",
-    "streamUrl": "https://radio.fmconcepto.com.ar/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar109",
-    "name": "FM Alpha 91.5",
-    "streamUrl": "http://radio.solumedia.com.ar:8984/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar110",
-    "name": "FM Emoción 98.1",
-    "streamUrl": "https://streaming.escuchanosonline.com:7229/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar111",
-    "name": "Radio Totall 89.5",
-    "streamUrl": "http://radio01.ferozo.com:9408/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar112",
-    "name": "VIP Radio Argentina",
-    "streamUrl": "https://server6.hostradios.com:7232/?",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar113",
-    "name": "FM del Viento 97.7",
-    "streamUrl": "https://cdn.instream.audio:9125/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar114",
-    "name": "FM Centenario 99.3",
-    "streamUrl": "https://streaming.radiosenlinea.com.ar/9694/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar115",
-    "name": "FM Carolina 102.9",
-    "streamUrl": "http://server1.veemesoft.com.ar:26629/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar116",
-    "name": "Ecos de mis Cerros",
-    "streamUrl": "https://masservidor.net:7163/",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar117",
-    "name": "FM Arroyos 103.3",
-    "streamUrl": "https://stream.radioservice.org:7014/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar118",
-    "name": "ON Radio Argentina",
-    "streamUrl": "https://streaming.radiosenlinea.com.ar/9020/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar119",
-    "name": "Achala Radio Córdoba",
-    "streamUrl": "https://streaming2.mundoradio.com.ar/9134/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar120",
-    "name": "Radio Impacto Argentina",
-    "streamUrl": "https://server.streamcasthd.com/8272/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar121",
-    "name": "El Café del Mundo",
-    "streamUrl": "https://cloudstream2030.conectarhosting.com/8184/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar122",
-    "name": "Radio ZEN FM",
-    "streamUrl": "https://server.streamcasthd.com/8008/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar123",
-    "name": "Radio Semilla FM 106.5 – IMPA",
-    "streamUrl": "https://sslstream.online:7091/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar124",
-    "name": "Gravity Radio",
-    "streamUrl": "https://stream.xweb.ar/8024/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar125",
-    "name": "RBD Radio Multimedia",
-    "streamUrl": "https://streaming.radiosenlinea.com.ar:10637/live?_=1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar126",
-    "name": "Larz Radio",
-    "streamUrl": "https://streamlky.alsolnet.com/larz",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar127",
-    "name": "FM Del Valle 99.9",
-    "streamUrl": "https://01.solumedia.com.ar:8764/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar128",
-    "name": "Radio Blu Argentina",
-    "streamUrl": "https://radios.solumedia.com/6346/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar129",
-    "name": "Radio Vos 88.7",
-    "streamUrl": "http://centova1.veemesoft.com.ar:12378/",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar130",
-    "name": "KLA Radio 97.1",
-    "streamUrl": "https://streamconex.com:8104/stream?1722096115054",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar131",
-    "name": "Radio Del Paraná Ramallo 99.3",
-    "streamUrl": "https://streaming.radiosenlinea.com.ar:10934/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar132",
-    "name": "Infinity Radio Argentina",
-    "streamUrl": "https://serverssl.deradios.stream/8204/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar133",
-    "name": "Guajira Radio",
-    "streamUrl": "http://01.solumedia.com.ar:8252/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar134",
-    "name": "FM Cielo 88.7",
-    "streamUrl": "https://server6.hostradios.com:7108/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar135",
-    "name": "FM Santa María 106.1",
-    "streamUrl": "https://radios.solumedia.com:6464/stream?icy=http",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar136",
-    "name": "Cosmos FM",
-    "streamUrl": "http://s28.myradiostream.com:28240/listen.m4a",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar137",
-    "name": "Campeones Radio",
-    "streamUrl": "https://01.solumedia.com.ar:7193/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar138",
-    "name": "Radio Con Aguante",
-    "streamUrl": "https://streaming01.shockmedia.com.ar/9536/?1718973618118",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar139",
-    "name": "Radio FM Sur 103.7",
-    "streamUrl": "http://streaming.radiosenlinea.com.ar:8450/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar140",
-    "name": "Doble A Radio",
-    "streamUrl": "https://sonic.host-live.com/8268/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar141",
-    "name": "Pobre Johnny Radio",
-    "streamUrl": "https://stream4.suenas.net/pobrejohnny",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar142",
-    "name": "FM Laser 53 – Buenos Aires",
-    "streamUrl": "http://streaming3.locucionar.com:16223/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar143",
-    "name": "FM Barrancas 98.7",
-    "streamUrl": "https://server.radiostreaming.com.ar/8152/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar144",
-    "name": "La Estación FM 107.9 Salta",
-    "streamUrl": "http://radio.solumedia.com.ar:8462/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar145",
-    "name": "Radio Saint Germain (Jazz)",
-    "streamUrl": "http://173.255.205.241:8200/",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar146",
-    "name": "FM Atlantic 105.9",
-    "streamUrl": "http://server1.veemesoft.com.ar:26511/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar147",
-    "name": "Radio Alto Alegre 105.5 FM",
-    "streamUrl": "http://sonicpanel.hostradios.com:8174/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar148",
-    "name": "Radio Vitalista",
-    "streamUrl": "http://01.solumedia.com.ar:7169/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar149",
-    "name": "Estación San Pedro 88.7 FM",
-    "streamUrl": "http://streaming.escuchanosonline.com/8780/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
-  },
-  {
-    "id": "ar150",
-    "name": "FM Constelación 98.1",
-    "streamUrl": "http://streaming.radiosenlinea.com.ar:8412/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_argentina"
+    "genre": "genre_hits",
+    "country": "country_estonia"
   }
 ]
