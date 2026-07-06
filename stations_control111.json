@@ -1,474 +1,1202 @@
 [
   {
-    "id": "est01",
-    "name": "Vikerraadio",
-    "streamUrl": "http://icecast.err.ee/vikerraadio.mp3",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/29078.v4.png",
-    "genre": "genre_info",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est02",
-    "name": "Raadio 2",
-    "streamUrl": "http://icecast.err.ee/raadio2.mp3",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/29099.v4.png",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est03",
-    "name": "Klassikaraadio",
-    "streamUrl": "http://icecast.err.ee/klassikaraadio.mp3",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/29084.v5.png",
-    "genre": "genre_clasic",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est04",
-    "name": "Raadio 4",
-    "streamUrl": "https://sb.err.ee/live/raadio4.m3u8",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/29244.v11.png",
-    "genre": "genre_info",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est05",
-    "name": "MyHits",
-    "streamUrl": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
-    "imageUrl": "https://raw.githubusercontent.com/GreenDen123/stations.json/refs/heads/main/images-europe/estonia/MyHits.png",
-    "genre": "genre_hits",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est06",
-    "name": "Power Hit Radio",
-    "streamUrl": "https://ice.leviracloud.eu/phr96-aac",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/29036.v6.png",
-    "genre": "genre_hits",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est07",
-    "name": "Raadio Elmar",
-    "streamUrl": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/29041.v8.png",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est08",
-    "name": "Raadio Kuku",
-    "streamUrl": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/102970.v8.png",
-    "genre": "genre_info",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est09",
-    "name": "Relax FM",
-    "streamUrl": "https://stream.relaxfm.ee/relax",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/82993.v26.png",
-    "genre": "genre_relax",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est10",
-    "name": "Retro FM",
-    "streamUrl": "https://stream.skymedia.ee/live/RETRO",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/29085.v7.png",
-    "genre": "genre_retro",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est11",
-    "name": "Russkoe Radio",
-    "streamUrl": "https://stream.skymedia.ee/live/RR",
-    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/EVxXHLAYRV.jpg",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est12",
-    "name": "Sky Plus",
-    "streamUrl": "https://stream.skymedia.ee/live/SKYPLUS",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/29037.v10.png",
-    "genre": "genre_dance",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est13",
-    "name": "Star FM",
-    "streamUrl": "https://ice.leviracloud.eu/star96-aac",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/73249.v8.png",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est14",
-    "name": "NRJ FM Estonia",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=8018a2b1",
+    "id": "ph01",
+    "name": "AXR Manila (Asia Expat Radio)",
+    "streamUrl": "https://22253.live.streamtheworld.com/AXR_MANILAAAC.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_estonia"
+    "genre": "genre_pop",
+    "country": "country_philippines"
   },
   {
-    "id": "est15",
-    "name": "Rock FM Eesti",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/rck?_i=8018a2b1",
+    "id": "ph02",
+    "name": "Barangay LS 97.1 Manila - DWLS",
+    "streamUrl": "https://magic.radioca.st/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph03",
+    "name": "DZRH News AM 666",
+    "streamUrl": "https://dzrh-azura.mmg.com.ph/listen/dzrh_manila/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph04",
+    "name": "90.7 Love Radio Manila",
+    "streamUrl": "https://loveradio.live24.gr/loveradio-1000",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph05",
+    "name": "Easy Rock Manila",
+    "streamUrl": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est16",
-    "name": "Sky Radio",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/SKY?_i=8018a2b1",
+    "id": "ph06",
+    "name": "101.1 Yes FM Manila",
+    "streamUrl": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
+    "genre": "genre_hits",
+    "country": "country_philippines"
   },
   {
-    "id": "est17",
-    "name": "Raadio Kadi",
-    "streamUrl": "https://edge06.cdn.bitflip.ee:8888/kadi",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est18",
-    "name": "Sky Plus DNB",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/NRJdnb?_i=8018a2b1",
-    "imageUrl": "__________________________",
-    "genre": "genre_electronic",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est19",
-    "name": "Retro FM Love",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/RetroJ6ulud?_i=8018a2b1",
+    "id": "ph07",
+    "name": "Bliss Radio",
+    "streamUrl": "https://stream.blissradio.net/radio/8000//radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_relax",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est20",
-    "name": "Retro FM Eestikas",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/retro2.mp3?_i=8018a2b1",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est21",
-    "name": "Raadio 7",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/R7?_i=8018a2b1",
+    "id": "ph08",
+    "name": "Radio Maria Philippines",
+    "streamUrl": "http://dreamsiteradiocp2.com:8052/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est22",
-    "name": "FinEst Radio",
-    "streamUrl": "https://shoutcast.finestfm.fi/stream/1/:80/stream",
+    "id": "ph09",
+    "name": "DZBR Bible Radio Cathedral of Praise 531",
+    "streamUrl": "https://stream.radio.co/se9de95c10/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph10",
+    "name": "JAKXFM",
+    "streamUrl": "https://de3.amfmph.com:8150/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est23",
-    "name": "Raadio Relax FM",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/relax?_i=8018a2b1",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est24",
-    "name": "Raadio Relax International",
-    "streamUrl": "https://edge01.cdn.bitflip.ee:8888/international?_i=8018a2b1",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est25",
-    "name": "Sooviraadio",
-    "streamUrl": "http://media.uunox.net:8888/listen.pls",
+    "id": "ph11",
+    "name": "MOR Cebu 97.1 - DYLS-FM",
+    "streamUrl": "http://magic.radioca.st/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est26",
-    "name": "Kuma Raadio (Tre Raadio)",
-    "streamUrl": "http://sc2.treraadio.ee:8004/",
+    "id": "ph12",
+    "name": "RMN Cebu - DYHP",
+    "streamUrl": "http://62.138.18.102:8257/stream/",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
+    "genre": "genre_news",
+    "country": "country_philippines"
   },
   {
-    "id": "est27",
-    "name": "Chat Raadio",
-    "streamUrl": "http://puma.streemlion.com:1810/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est28",
-    "name": "Narodnoye Radio 100.0 FM",
-    "streamUrl": "https://le08.euddn.net/d508624a2c2c0b585b36c46493cbce9c6b7079e08f96b6641ab3a0bcfd982f5c2ea7aabf9f42fc3ddb9395512e8ee453e2d222eedf17a9b13ac4ef00f7a1ebf6df94c319a5406839a9ab2a055105104ed6752bf4c3995f361e6ccb4d1d0238c790d8d1d6ce0e0ad54484b838483722a972ea8625309088747c535f464cfd6bb3675f91123495c3f89473b91130878647c3857d8e294280c6b0c5bb34e2abc3ac704d58979b01ea402d98eac21c5688b0/narodnoe.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est29",
-    "name": "Юмор FM",
-    "streamUrl": "https://ic6.101.ru:8000/stream/air/aac/64/102",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est30",
-    "name": "Raadio Duo",
-    "streamUrl": "https://le06.euddn.net/9e84ceb559418320dcd60bb99f8d31afa19f2c94a119eac530dad8afc7a02a6edf1f64278b0b4807896862847f730e367d2c890043632858e7ba62a79142929727347caf05fd2afc9690f48cc0d80d58cad14e84c278097be1fa9f7f4f31e58c06aeb4ebc711620e4bef2528d550bd84cee52ad46984b518a42994a01c9be36ccdcd61e485e8a6cb302d98a24b5181b66d20d2fe4d523db354f068ee50c7638fc7aae6fab159fefe49ea804fae2f50b3/radioduo.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est31",
-    "name": "Raadio Uuno",
-    "streamUrl": "https://le11.euddn.net/23681c69a044ae26b816b206d1f69625ac00349276191fbbaeefe70af0b99356cc7306cb88878a80d0263fe697fa98369b63cdc138334b541002e61a14a2e10a72f89bb17d81de881920102412016a2c6a09f52856ae9245938a27e1e1176f6061686c64b0ad3f996275047291ed864f65b5c4ab3928b2c5f95b05fa5f3ac0a95a9624a8c9065c4276d5e6996ab7c078c311bd07e22b19095d853701bf7c61ced2b9c1c3c7a0b32240e7ef74f86934f7/myhits.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est32",
-    "name": "Raadio Tallinn",
-    "streamUrl": "http://icecast.err.ee/raadiotallinn.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est33",
-    "name": "R2 Eesti",
-    "streamUrl": "https://icecast.err.ee/r2eestikorge.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/44321/logo_xzCJD2MU4X.png",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est34",
-    "name": "Kiss FM Estonia",
-    "streamUrl": "https://edge02.cdn.bitflip.ee:8888/KISS",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est35",
-    "name": "Tre Raadio Ring FM",
-    "streamUrl": "https://cdn.treraadio.ee/ringfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est36",
-    "name": "Tre Raadio Pärnu",
-    "streamUrl": "http://cdn.treraadio.ee/parnu-tre",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est37",
-    "name": "Tre Raadio Kesk-Eesti",
-    "streamUrl": "http://cdn.treraadio.ee/kesk-eesti-tre",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est38",
-    "name": "Tre Raadio Põhja-Eesti",
-    "streamUrl": "http://cdn.treraadio.ee/pohja-tre",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est39",
-    "name": "Tre Raadio Rapla",
-    "streamUrl": "https://cdn.treraadio.ee/rapla-tre",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est40",
-    "name": "Tre Raadio Virumaa",
-    "streamUrl": "http://sc2.treraadio.ee/viru-tre",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est41",
-    "name": "Duo Party",
-    "streamUrl": "https://le06.euddn.net/279bb1630f135084caa1ff583ca3033a5af28635cd98c5054a0fa7c91d1158b29ddd2089f845c9a2cbffc0490e8dd2fc22e20f561ca25b616e663652a55374ce5dc45b1a5aede252bf5e3df5574a261d1657c8f31cd2492f484ee70a1ccfd63c5f5a77195682bf1efcafdd9ff711aa0c243bdfdeedcc8d2a9c1a3a8721597acaa1313ac70837a5a0d415257abb29501f1253b9b029063a9ba2ef175e8c8f26935285961fd373a829ad4ab2607c39b7b9/duodance.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est42",
-    "name": "Duo Country",
-    "streamUrl": "http://le09.euddn.net/65895ff446f29baa300ade8193108aba74bb58b20e601f6b2ee7c69e00c05c4d71571b9c9ea55367e98560428822c3980c0faabd92a4814bd275d4db32c303ca851c6587f68911c558f37da588cbaf7d85036ef69835aa238f7fd2f6501a11e917587a91b84d7e6aed47a24f2f4b5762498333850d66807634761a659b4255694b560f43726fef9e155211b637abe18ae73621a8c4b1bf88bfb8ceddff5db8f5a4548c4e1236665f0075344977f89821beb81151b1586a41f801c8cf4f377b0d/dc_duocountry.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est43",
-    "name": "Duo Rock",
-    "streamUrl": "http://le08.euddn.net/fe9f39555c5d7604eca568a5fe3171dd3b7cb629b4f775dcf08dde1307ae0e542131378493063be6a955dd5275dbc92e4553156600ae5fa51b6fbdffd0e130399765e13e32b6a1a1a8608bc737b15c47bd148a08010ca5fc522d80c578de4f64b4b80232c090247732ba0a2926ac10c71900ee104c5f984743b159774528f4c077d822d54f7486295a454209c864a7467325995c339a8e02231c3232af47d7906f4e11415b32123cbcebdc2e6ea2d76e/rokk.aac",
+    "id": "ph13",
+    "name": "105.1 Easy Rock Davao - DXYS",
+    "streamUrl": "http://easyrockdavao.radioca.st:8285/stream",
     "imageUrl": "__________________________",
     "genre": "genre_rock",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est44",
-    "name": "Duo Gold",
-    "streamUrl": "https://le03.euddn.net/4df6a80de9754b0e96ad4f84e1c81111811f7aba47d2379509ac3cbf474a04b02b5cc342cbe85748a652849ef6b557dda027a1725d936e8d1f25fd0e841b894709b70f0f525144b33433c8b11a853594c38c2f95f06d924d1909db25332562e9198fa4958617b73f0901c7b4bdee50e54299aed5b34df299926ffc79562e4040987dd1987c98e6f11b4b79430ce2294e9d29e186016d517792d06519c9185df1/kuld.aac",
+    "id": "ph14",
+    "name": "96.9 Easy Rock Cagayan de Oro - DXKS",
+    "streamUrl": "http://easyrockcagayan.radioca.st:9720/stream/",
     "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_estonia"
+    "genre": "genre_rock",
+    "country": "country_philippines"
   },
   {
-    "id": "est45",
-    "name": "Duo Greatest Hits",
-    "streamUrl": "http://le05.euddn.net/7645bcdfabdc43b61734d3ee52ccd371dca16916ba069981f225cda718e1af94108f0f5193eb727fb5b60c12fb5b27a1ddacaf27ff4da84559347b7f1b888bc79362fb99619ff449190cf9c34fb67afa158fa59d8456788050f76821853d1529ea8abbb616ad55ab63f49cda88ec1e626836880b6e5a3b33924c43a11e873ea0c662c85cab4afce94edf474c1e66819b777fd588cd8ed718ab2954c3688e31a19a082c050b71e902958b4134ddc5fe93/hitmix.aac",
+    "id": "ph15",
+    "name": "104.7 Yes The Best - DXYR Cagayan de Oro",
+    "streamUrl": "http://yesfmcdo.radioca.st:8040/stream",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est46",
-    "name": "Elmari tantsuõhtu 24/7",
-    "streamUrl": "http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac",
+    "id": "ph16",
+    "name": "Yes! The Best Dumaguete - DYYD",
+    "streamUrl": "http://yesfmdumaguete.radioca.st:8406/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_estonia"
+    "genre": "genre_hits",
+    "country": "country_philippines"
   },
   {
-    "id": "est47",
-    "name": "Klara Klassika",
-    "streamUrl": "http://icecast.err.ee/klaraklassika.opus",
+    "id": "ph17",
+    "name": "Yes The Best Dagupan - DWHR",
+    "streamUrl": "http://yesfmdagupan.radioca.st:10300/stream/",
     "imageUrl": "__________________________",
-    "genre": "genre_clasic",
-    "country": "country_estonia"
+    "genre": "genre_hits",
+    "country": "country_philippines"
   },
   {
-    "id": "est48",
-    "name": "Klara Jazz",
-    "streamUrl": "http://icecast.err.ee/klarajazz.opus",
+    "id": "ph18",
+    "name": "Yes! The Best Valencia - DXAT",
+    "streamUrl": "http://yesfmvalencia.radioca.st:8231/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_estonia"
+    "genre": "genre_hits",
+    "country": "country_philippines"
   },
   {
-    "id": "est49",
-    "name": "Klara Nostalgia",
-    "streamUrl": "http://icecast.err.ee/klaranostalgia.opus",
+    "id": "ph19",
+    "name": "Yes The Best Urdaneta - DZVM",
+    "streamUrl": "http://yesfmurdaneta.radioca.st:8258/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_estonia"
+    "genre": "genre_hits",
+    "country": "country_philippines"
   },
   {
-    "id": "est50",
-    "name": "Raadio Kidzone",
-    "streamUrl": "https://le01.euddn.net/d3234a63af1bebda7d8bf0638f93824f6667da6c452d3a510c06997367525934f604f84c3e966dfa65e330d3b40a4bb1a0ee63ae0f23e6a0203776e0a42bb03365cf559300967b9a4c739e5e9ab4f3f9fb8b5755ab42aaad4507cf3e35c5f5a23cd197d1b435a8c66c22298f65e41ec8a0e8818d86273bd1713706c829829d0e80a749ca4f59004ff5d62b3573eccf55420c548828e0157c66d487a91ab0c488e680b84ac7ae25af76ef1494f6032a9c/kidzone.aac",
+    "id": "ph20",
+    "name": "99.3 Yes The Best - DXFE-FM Iligan",
+    "streamUrl": "http://yesfmiligan.radioca.st:8181/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph21",
+    "name": "Love Radio Cebu",
+    "streamUrl": "http://loveradiocebu.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph22",
+    "name": "Love Radio Iloilo",
+    "streamUrl": "http://loveradioiloilo.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph23",
+    "name": "Love Radio Baguio - DWMB",
+    "streamUrl": "https://loveradiobaguio.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph24",
+    "name": "Love Radio Naga - DWYN",
+    "streamUrl": "http://loveradionaga.radioca.st:8070/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph25",
+    "name": "Love Radio Butuan - DXMB",
+    "streamUrl": "https://loveradiobutuan.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph26",
+    "name": "Love Radio Zamboanga",
+    "streamUrl": "http://lovezamboanga.radioca.st:8157/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph27",
+    "name": "Love Radio Bacolod",
+    "streamUrl": "http://loveradiobacolod.radioca.st:8088/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph28",
+    "name": "Love Radio Roxas",
+    "streamUrl": "http://loveradioroxas.radioca.st:8216/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph29",
+    "name": "Love Radio Kalibo",
+    "streamUrl": "http://loveradiokalibo.radioca.st:8511/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph30",
+    "name": "Love Radio Tacloban",
+    "streamUrl": "http://lovetacloban.radioca.st:8113/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph31",
+    "name": "Love Radio Dagupan",
+    "streamUrl": "http://loveradiodagupan.radioca.st:8195/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph32",
+    "name": "Love Radio Tuguegarao",
+    "streamUrl": "http://hubble.shoutca.st:8209/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph33",
+    "name": "Love Radio Gensan",
+    "streamUrl": "http://148.251.43.231:8101/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph34",
+    "name": "Love Radio La Union",
+    "streamUrl": "http://loveradiolaunion.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph35",
+    "name": "Love Radio Legaspi",
+    "streamUrl": "http://loveradiolegaspi.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph36",
+    "name": "Love Radio Tarlac",
+    "streamUrl": "http://loveradiotarlac.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph37",
+    "name": "Love Radyo Laoag",
+    "streamUrl": "http://loveradiolaoag.radioca.st/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph38",
+    "name": "Love Radio Daet",
+    "streamUrl": "http://148.251.43.149:8804/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph39",
+    "name": "Love Radio Malaybalay",
+    "streamUrl": "http://lovemalaybalay.radioca.st:8828/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph40",
+    "name": "Love Radio Santiago",
+    "streamUrl": "http://lovesantiago.radioca.st:8832/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph41",
+    "name": "Love Radio Catarman",
+    "streamUrl": "http://lovecatarman.radioca.st:8796/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph42",
+    "name": "Star FM Davao",
+    "streamUrl": "https://stream.zeno.fm/sdtv271nz9duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph43",
+    "name": "Star FM Cebu",
+    "streamUrl": "https://stream.zeno.fm/60cb36c29heuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph44",
+    "name": "Star FM Bacolod",
+    "streamUrl": "https://stream.zeno.fm/kg6tx8w4t9duv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph45",
+    "name": "Star FM Dagupan",
+    "streamUrl": "https://stream.zeno.fm/kw40qqc29heuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph46",
+    "name": "Star FM Cotabato",
+    "streamUrl": "https://stream.zeno.fm/hf1yubc29heuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph47",
+    "name": "Star FM Roxas",
+    "streamUrl": "https://stream.zeno.fm/6qehcpd29heuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph48",
+    "name": "Star FM Dipolog",
+    "streamUrl": "https://stream.zeno.fm/qd45x88q0y5tv.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph49",
+    "name": "Brigada News FM Cagayan de Oro",
+    "streamUrl": "https://cagayanstream.brigadanews.ph/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph50",
+    "name": "Brigada News FM Koronadal",
+    "streamUrl": "https://koronadalstream.brigadanews.ph/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph51",
+    "name": "Brigada News FM Butuan",
+    "streamUrl": "https://butuanstream.brigadanews.ph/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph52",
+    "name": "Brigada News FM Lucena",
+    "streamUrl": "https://lucenastream.brigadanews.ph/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph53",
+    "name": "89.5 Brigada News FM - DXYM",
+    "streamUrl": "http://18.141.67.248:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph54",
+    "name": "Brigada News FM Cauayan",
+    "streamUrl": "http://18.141.67.248:8044/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph55",
+    "name": "Radyo Natin Santiago",
+    "streamUrl": "https://pinas.radyonatinfm.com:8020/santiago",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph56",
+    "name": "Radyo Natin Cotabato",
+    "streamUrl": "https://amp.radyonatinfm.com:8000/cotabato",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph57",
+    "name": "Radyo Natin Naval",
+    "streamUrl": "https://dj.radyonatinfm.com:8010/naval",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph58",
+    "name": "Radyo Natin Margosatubig",
+    "streamUrl": "https://pinas.radyonatinfm.com:8030/margosatubig",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph59",
+    "name": "Radyo Natin Coron",
+    "streamUrl": "https://xcite.radyonatinfm.com:8000/coron",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph60",
+    "name": "Radyo Natin Malita",
+    "streamUrl": "https://link.radyonatinfm.com:8020/malita",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph61",
+    "name": "Radyo Natin Iba",
+    "streamUrl": "https://phils.radyonatinfm.com:8000/iba",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph62",
+    "name": "Radyo Natin Baao",
+    "streamUrl": "https://xcite.radyonatinfm.com:8030/baao",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph63",
+    "name": "Radyo Natin Kiamba",
+    "streamUrl": "https://hifi.radyonatinfm.com:8030/kiamba",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph64",
+    "name": "Radyo Natin Looc",
+    "streamUrl": "https://audio.radyonatinfm.com:8030/looc",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph65",
+    "name": "Radyo Natin Madridejos",
+    "streamUrl": "https://tx.radyonatinfm.com:8010/madridejos",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph66",
+    "name": "Radyo Natin Daanbantayan",
+    "streamUrl": "https://ph.radyonatinfm.com:8020/daanbantayan",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph67",
+    "name": "Radyo Ni Sano",
+    "streamUrl": "https://cd.radyoph.com:8000/rns128",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph68",
+    "name": "Radyo Bandera Iloilo - DYKU",
+    "streamUrl": "http://209.126.124.126:8647/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph69",
+    "name": "Aksyon Radyo Davao",
+    "streamUrl": "http://5.9.13.39:8140/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph70",
+    "name": "Aksyon Radyo Laoag",
+    "streamUrl": "http://5.9.13.39:8136/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph71",
+    "name": "DZAS 702 AM",
+    "streamUrl": "https://stream.radio.co/s14821250a/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph72",
+    "name": "DXBH Hope Radio 103.7 FM",
+    "streamUrl": "https://stream.dxbh.net/main_mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph73",
+    "name": "True Life In God Radio Filipino",
+    "streamUrl": "https://stream.tligradio.org/listen/filipino/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph74",
+    "name": "IBCD Online Radio Dumaguete City",
+    "streamUrl": "https://icecast.theanchor.app/ibcd",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph75",
+    "name": "Radio Wesleyan 89.7 DWUP FM",
+    "streamUrl": "https://usa2.server2028.com/listen/radio_wesleyan_89.7_dwup_fm/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph76",
+    "name": "Wild FM Cagayan de Oro",
+    "streamUrl": "http://62.138.18.102:8129/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph77",
+    "name": "Wild FM Valencia",
+    "streamUrl": "http://62.138.18.102:8137/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph78",
+    "name": "94.3 Wild Zee - DXWZ",
+    "streamUrl": "http://fr1.amfmph.com:8129/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph79",
+    "name": "Energy FM Dipolog",
+    "streamUrl": "https://stream.zeno.fm/xjtlneetbu0tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph80",
+    "name": "MYX P-POP Radio",
+    "streamUrl": "http://das-edge11-live365-dal03.cdnstream.com/a63316",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph81",
+    "name": "YeY FM",
+    "streamUrl": "https://stream-174.zeno.fm/pnjlccj6jd2uv",
     "imageUrl": "__________________________",
     "genre": "genre_kids",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est51",
-    "name": "Taifuun FM",
-    "streamUrl": "https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream",
+    "id": "ph82",
+    "name": "Memories FM 89.9",
+    "streamUrl": "http://s5.reliastream.com:7134/stream",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_estonia"
-  },
-  {
-    "id": "est52",
-    "name": "Legendaarne Raadio",
-    "streamUrl": "https://stream.skymedia.ee/live/Legendaarne",
-    "imageUrl": "https://radiospinner.com/media/logos/180/44342/logo_rq4n5W3MCi.png",
     "genre": "genre_retro",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est53",
-    "name": "Jumor FM Estonia",
-    "streamUrl": "https://a10.asurahosting.com:7640/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/44343/logo_bjo0zBMmZR.png",
+    "id": "ph83",
+    "name": "Lite Rock Manila",
+    "streamUrl": "http://us1.streamingpulse.com:7544/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph84",
+    "name": "PH Lite",
+    "streamUrl": "https://xcite.radyoph.com:8000/phlite",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph85",
+    "name": "Tambayan 103.9",
+    "streamUrl": "https://tambayan1039.alwaysdata.net/stream.php?t=1769259796149",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est54",
-    "name": "IDA Radio",
-    "streamUrl": "https://broadcast.idaidaida.net:8000/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/44344/logo_EfCaBA0xCJ.png",
+    "id": "ph86",
+    "name": "Pinoy Rap Radio",
+    "streamUrl": "http://sp2.streams.ovh/8004/stream/stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph87",
+    "name": "Magnum Radyo 99.9 Cagayan de Oro",
+    "streamUrl": "http://www.magnum999.com/radio/live.mp3",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est55",
-    "name": "Pereraadio Tallinn",
-    "streamUrl": "https://icecast.pereraadio.ee:9000/Tallinn",
-    "imageUrl": "https://radiospinner.com/media/logos/180/44277/logo_lWNJtWuAOF.png",
+    "id": "ph88",
+    "name": "FMR Tacloban 100.7 - DYDR",
+    "streamUrl": "http://de3.amfmph.com:8676/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph89",
+    "name": "FMR Tagum",
+    "streamUrl": "http://de3.amfmph.com:8679/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph90",
+    "name": "DWBL 91.9 Bright FM Manila",
+    "streamUrl": "https://stream.zeno.fm/wx5hopniqfvtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph91",
+    "name": "Vibe 105.5 FM Bohol",
+    "streamUrl": "http://music.vibe1055live.com:8001/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph92",
+    "name": "Bee 927 Bohol",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/victorjr/bee927fmbohol",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph93",
+    "name": "Radyo Bol-anon Network - DYMA FM",
+    "streamUrl": "https://ssl.radyoph.com:8000/dyma_fm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph94",
+    "name": "XFM 99.5 Mega Manila",
+    "streamUrl": "http://62.138.18.102:8753/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph95",
+    "name": "XFM 96.7 Bacolod",
+    "streamUrl": "http://209.126.124.126:8684/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph96",
+    "name": "XFM 99.5 Zamboanga",
+    "streamUrl": "http://209.126.124.126:8832/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph97",
+    "name": "XFM 106.5 Roxas City",
+    "streamUrl": "https://ssl.radyoph.com:8000/xfmroxascapiz",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph98",
+    "name": "Boracay FM",
+    "streamUrl": "https://boracayfm.stream.laut.fm/boracayfm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph99",
+    "name": "DWIZ News FM Western Visayas Iloilo",
+    "streamUrl": "http://142.44.212.114:9345/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph100",
+    "name": "DWIZ News FM Northern Luzon Dagupan",
+    "streamUrl": "http://142.44.212.114:9377/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph101",
+    "name": "DWIZ News FM Central Palawan",
+    "streamUrl": "http://142.44.212.114:9381/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph102",
+    "name": "RPN DXKT Davao Radyo Ronda",
+    "streamUrl": "http://dxkt-rpnradio.radioca.st:9056/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph103",
+    "name": "RPN DXKD Dipolog Radyo Ronda",
+    "streamUrl": "http://dxkd-rpnradio.radioca.st:8481/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph104",
+    "name": "RPN DXKS Surigao Radyo Ronda",
+    "streamUrl": "http://dxks-rpnradio.radioca.st:8448/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph105",
+    "name": "Bombo Radyo Cauayan",
+    "streamUrl": "https://stream.zenolive.com/0psak3m29heuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph106",
+    "name": "Bombo Radyo Tacloban",
+    "streamUrl": "https://stream.zeno.fm/e8zw1dg0xy5tv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph107",
+    "name": "K5 News FM Sagay",
+    "streamUrl": "http://209.126.124.126:8587/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph108",
+    "name": "K5 News FM San Carlos",
+    "streamUrl": "http://209.126.124.126:8590/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph109",
+    "name": "One Radio News FM Daet",
+    "streamUrl": "http://165.154.210.116:9907/oneradiodaet",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph110",
+    "name": "R6 News FM",
+    "streamUrl": "https://stream.zeno.fm/adqlxubrtshvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph111",
+    "name": "iFM Iloilo",
+    "streamUrl": "http://62.138.18.102:8288/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph112",
+    "name": "WXB Loud 102.3 FM Pampanga",
+    "streamUrl": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph113",
+    "name": "AllHitz24",
+    "streamUrl": "https://stream.allhitz24.com/64",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph114",
+    "name": "FReSH FM PH",
+    "streamUrl": "https://s36.radiolize.com/radio/8170/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph115",
+    "name": "Manila Bay Beach Radio",
+    "streamUrl": "https://s4.radio.co/sd319ba2a4/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph116",
+    "name": "Mangagoy Radio",
+    "streamUrl": "http://s3.free-shoutcast.com:18114/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph117",
+    "name": "Anime Alliance Online Radio",
+    "streamUrl": "https://s3.citrus3.com:8010/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph118",
+    "name": "Pinoy Seoul Radio",
+    "streamUrl": "https://radio.pinoyseoul.com/radio/8000/live.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph119",
+    "name": "103.3 DXJL The New J Cagayan de Oro",
+    "streamUrl": "https://s3.radio.co/s3e33745fb/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph120",
+    "name": "Spirit FM Masbate",
+    "streamUrl": "http://us5new.listen2myradio.com:2199/proxy/ekidthig/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est56",
-    "name": "Estonian Party Radio",
-    "streamUrl": "https://maggie.torontocast.com:8110/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/44305/logo_p5WiaTOZkz.png",
-    "genre": "genre_dance",
-    "country": "country_estonia"
+    "id": "ph121",
+    "name": "Win Radio 97.7 FM Valencia Bukidnon - DXSR",
+    "streamUrl": "http://mercury.reliastream.com:8002/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
   },
   {
-    "id": "est57",
-    "name": "All The Best Radio",
-    "streamUrl": "https://c4.radioboss.fm/stream/537",
+    "id": "ph122",
+    "name": "Radyo Sincero GenSan",
+    "streamUrl": "http://mercury.reliastream.com:8013/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph123",
+    "name": "Sky Radio Gamay",
+    "streamUrl": "https://ssl.radyoph.com:8000/skyradio_gamay",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph124",
+    "name": "FM Radio 96.7 Davao De Oro",
+    "streamUrl": "http://209.126.124.126:8614/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph125",
+    "name": "BELL FM 106.3",
+    "streamUrl": "http://209.126.124.126:8904/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph126",
+    "name": "FM Radio Surigao",
+    "streamUrl": "http://209.126.124.126:8785/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph127",
+    "name": "RADYO BAGTING 756 AM",
+    "streamUrl": "http://209.126.124.126:8901/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph128",
+    "name": "DWDM-FM 95.5",
+    "streamUrl": "http://n09.radiojar.com/yus0r2bghd3vv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph129",
+    "name": "Radyo Todo 88.5 FM",
+    "streamUrl": "http://rmstream.todostreamcast.com/radyotodoaklan",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph130",
+    "name": "Barangay FM 101.5 Naga",
+    "streamUrl": "http://uk16freenew.listen2myradio.com:15952/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph131",
+    "name": "AFN 360 Global Gravity 89.1 FM",
+    "streamUrl": "http://17793.live.streamtheworld.com/AFN_GRV_SC",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est58",
-    "name": "Doubleclap Radio",
-    "streamUrl": "https://s3.radio.co/scfd7273b2/listen",
+    "id": "ph132",
+    "name": "Shakeys Radio",
+    "streamUrl": "https://play.radioking.io/shakeys-radio1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph133",
+    "name": "Extreme Radio",
+    "streamUrl": "https://razzrdfx.com/listen/extreme_radio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph134",
+    "name": "Last Days Radio",
+    "streamUrl": "http://de3.amfmph.com:8570/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph135",
+    "name": "RainbowFM",
+    "streamUrl": "https://rainbowfm2020.radioca.st/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph136",
+    "name": "997 My Friends FM",
+    "streamUrl": "http://trappist.shoutca.st:8171/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph137",
+    "name": "Taps Radio Roxas",
+    "streamUrl": "http://209.126.124.126:8599/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph138",
+    "name": "XFM San Francisco Surigao",
+    "streamUrl": "http://209.126.124.126:8794/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph139",
+    "name": "Exotica Radio",
+    "streamUrl": "https://solid67.streamupsolutions.com/proxy/repadnom/stream",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_estonia"
+    "country": "country_philippines"
   },
   {
-    "id": "est59",
-    "name": "Hits Show Radio",
-    "streamUrl": "https://stream.zeno.fm/7sreyeyustkuv",
+    "id": "ph140",
+    "name": "OPM Christmas",
+    "streamUrl": "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph141",
+    "name": "CyberPinoy Radio",
+    "streamUrl": "https://securestreams.autopo.st:1215/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph142",
+    "name": "POP Radio Philippines",
+    "streamUrl": "http://ssl.geckohost.nz:9267/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph143",
+    "name": "V81 Radio",
+    "streamUrl": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph144",
+    "name": "Bestfriend FM",
+    "streamUrl": "http://stream.zeno.fm/aqjyy8xcampuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph145",
+    "name": "Bliss 74.7 Cebu",
+    "streamUrl": "https://stream.blissradio.net/radio/8000/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph146",
+    "name": "Star FM Zamboanga",
+    "streamUrl": "https://stream.zeno.fm/r5m3pfd29heuv",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_estonia"
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph147",
+    "name": "DXKI Strong Radio 90.3",
+    "streamUrl": "http://67.212.238.178:7007/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph148",
+    "name": "Troy FM",
+    "streamUrl": "https://live.streamguys1.com:2385/troy1",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph149",
+    "name": "Atlantis Radio PH",
+    "streamUrl": "https://us2.amfmph.com:8080/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
+  },
+  {
+    "id": "ph150",
+    "name": "V Hive Radio",
+    "streamUrl": "http://192.99.8.192:3154/vhiveradiostream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_philippines"
   }
 ]
