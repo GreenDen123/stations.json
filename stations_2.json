@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ken1",
+    "name": "Radio Citizen",
+    "streamUrl": "ttps://radiocitizen-atunwadigital.streamguys1.com/radiocitizen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/125622.v4.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ken2",
+    "name": "Radio Jambo",
+    "streamUrl": "https://radiojambo-atunwadigital.streamguys1.com/radiojambo",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7195.v11.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ken3",
+    "name": "Classic 105",
+    "streamUrl": "https://classic105-atunwadigital.streamguys1.com/classic105",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/7188.v9.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ken4",
+    "name": "Kiss 100",
+    "streamUrl": "https://kiss100fm-atunwadigital.streamguys1.com/kiss100fm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7175.v9.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ken5",
+    "name": "Jesus is Lord Radio",
+    "streamUrl": "https://s3.radio.co/s97f38db97/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/77895.v3.png",
+    "genre": "genre_religious",
+    "country": "country_kenya"
+  }
+]
