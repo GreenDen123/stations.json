@@ -1,0 +1,42 @@
+[
+  {
+    "id": "alg1",
+    "name": "JIL FM",
+    "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/20480.v12.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
+    "id": "alg2",
+    "name": "Radio Algerienne - Chaine 3",
+    "streamUrl": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/20470.v11.png",
+    "genre": "genre_news",
+    "country": "country_algeria"
+  },
+  {
+    "id": "alg3",
+    "name": "Radio Algerienne - El Bahdja",
+    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/20373.v6.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
+    "id": "alg4",
+    "name": "Radio Algerienne - Chaine 1",
+    "streamUrl": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/20389.v10.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
+    "id": "alg4",
+    "name": "Skyrock Alger",
+    "streamUrl": "https://icecast.skyrock.net/s/alger_aac_64k",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/73951.v4.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  }
+]
