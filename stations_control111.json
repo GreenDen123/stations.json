@@ -1,1042 +1,802 @@
 [
   {
-    "id": "za01",
-    "name": "947 (Highveld Stereo)",
-    "streamUrl": "http://23543.live.streamtheworld.com/FM947_SC",
+    "id": "zm1",
+    "name": "5fm Radio Zambia",
+    "streamUrl": "http://ca9.rcast.net:8014/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za02",
-    "name": "Talk Radio 702",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
+    "id": "zm2",
+    "name": "Afm Radio Zambia",
+    "streamUrl": "https://stream.zeno.fm/uh7y38ssks8uv",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
+    "genre": "genre_pop",
+    "country": "country_zambia"
   },
   {
-    "id": "za03",
-    "name": "KFM 94.5",
-    "streamUrl": "https://25683.live.streamtheworld.com/KFM.mp3",
+    "id": "zm3",
+    "name": "BEATS FM ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/uhat27zvszzuv",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za04",
-    "name": "Jacaranda FM",
-    "streamUrl": "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
+    "id": "zm4",
+    "name": "Breeze FM Zambia",
+    "streamUrl": "http://178.netromedia.com:8000/BreezeFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm5",
+    "name": "CBfm",
+    "streamUrl": "https://stream.zeno.fm/z8py10uubuhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za05",
-    "name": "East Coast Radio",
-    "streamUrl": "https://live.ecr.co.za/ecrhigh.mp3",
+    "id": "zm6",
+    "name": "CHOICE RADIO ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/tsyzte4av0hvv",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
+    "genre": "genre_hits",
+    "country": "country_zambia"
   },
   {
-    "id": "za06",
-    "name": "CapeTalk 567",
-    "streamUrl": "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za07",
-    "name": "Radio Sonder Grense (RSG)",
-    "streamUrl": "http://25343.live.streamtheworld.com/RSG.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za08",
-    "name": "Metro FM",
-    "streamUrl": "https://25283.live.streamtheworld.com/METROFMAAC.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za09",
-    "name": "Ukhozi FM",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za10",
-    "name": "Umhlobo Wenene FM",
-    "streamUrl": "http://29003.live.streamtheworld.com/UMHLOBOWENENE.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za11",
-    "name": "Lesedi FM",
-    "streamUrl": "http://25293.live.streamtheworld.com/LESEDI.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za12",
-    "name": "Motsweding FM",
-    "streamUrl": "http://25603.live.streamtheworld.com/MOTSWEDING.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za13",
-    "name": "Ligwalagwala FM",
-    "streamUrl": "http://28993.live.streamtheworld.com/LIGWALAGWALA.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za14",
-    "name": "Radio 2000",
-    "streamUrl": "http://25583.live.streamtheworld.com/RADIO2000.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za15",
-    "name": "Classic FM 102.7",
-    "streamUrl": "https://edge.iono.fm/xice/49_high.aac",
+    "id": "zm7",
+    "name": "CLASSIC FM ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/simt7hi589ouv",
     "imageUrl": "__________________________",
     "genre": "genre_clasic",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za16",
-    "name": "Power FM 98.7",
-    "streamUrl": "https://edge.iono.fm/xice/65_medium.aac",
+    "id": "zm8",
+    "name": "Culture Radio 105.7FM",
+    "streamUrl": "https://ec4.yesstreaming.net:1555/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za17",
-    "name": "Hot 102.7 FM",
-    "streamUrl": "https://edge.iono.fm/xice/57_high.aac",
+    "id": "zm9",
+    "name": "DC Talk Radio",
+    "streamUrl": "http://dctalkradio.co.zm:3000/dctalkradiomainstream.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_south_africa"
+    "genre": "genre_news",
+    "country": "country_zambia"
   },
   {
-    "id": "za18",
-    "name": "Hot 102.7 FM Club",
-    "streamUrl": "https://edge.iono.fm/xice/306_high.aac",
+    "id": "zm10",
+    "name": "Hot 87,7 FM",
+    "streamUrl": "https://28573.live.streamtheworld.com/RADIO_PHOENIXAAC_SC",
+    "imageUrl": "https://cdn.radoxo.com/images/zambia/hot-fm.webp?v=1783497601",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm11",
+    "name": "Oblate Radio Liseli",
+    "streamUrl": "https://node.stream-africa.com:8443/OblateRadioLiseli",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_south_africa"
+    "genre": "genre_religious",
+    "country": "country_zambia"
   },
   {
-    "id": "za19",
-    "name": "OFM",
-    "streamUrl": "https://edge.iono.fm/xice/ofm_live_high.aac",
+    "id": "zm12",
+    "name": "Phoenix FM",
+    "streamUrl": "http://29083.live.streamtheworld.com/RADIO_PHOENIXAAC.aac",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za20",
-    "name": "Algoa FM",
-    "streamUrl": "http://edge.iono.fm/xice/54_high.mp3",
+    "id": "zm13",
+    "name": "Power FM Zambia",
+    "streamUrl": "http://41.60.195.11:8000/stream.ogg",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm14",
+    "name": "Q FM Lusaka",
+    "streamUrl": "http://s3.myradiostream.com:7620/listen.m4a",
+    "imageUrl": "https://cdn.radoxo.com/images/zambia/q-fm-zambia.webp?v=1783497601",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm15",
+    "name": "Radio Christian Voice radio",
+    "streamUrl": "https://streaming.shoutcast.com/rcv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm16",
+    "name": "Radio Icengelo",
+    "streamUrl": "http://108.59.9.147:8440/stream?type=http&ampnocache=47",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm17",
+    "name": "Radio Mano 89.3fm",
+    "streamUrl": "https://stream.zeno.fm/ykxzsne4zkvuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za21",
-    "name": "YFM",
-    "streamUrl": "http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8",
+    "id": "zm18",
+    "name": "Radio Maria Zambia",
+    "streamUrl": "http://dreamsiteradiocp5.com:8008/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm19",
+    "name": "Spice FM 91.1 Zambia",
+    "streamUrl": "http://live.rcast.net:8768/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm20",
+    "name": "Sun FM Zambia",
+    "streamUrl": "http://11233.cloudrad.io:9102/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm21",
+    "name": "ZNBC - Radio 4",
+    "streamUrl": "http://178.32.146.186:5183/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/zambia/znbc-radio-4.webp?v=1783497601",
+    "genre": "genre_news",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm22",
+    "name": "ZNBC R1 - ZNBC One",
+    "streamUrl": "http://eu6.fastcast4u.com:5046/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/zambia/znbc-radio-1.webp?v=1783497601",
+    "genre": "genre_news",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm23",
+    "name": "Antenna Web Lusaka Radio",
+    "streamUrl": "https://halo.streamerr.co/listen/italiavera/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm24",
+    "name": "BreezeFM Chipata",
+    "streamUrl": "http://breezefmchipata.com/wp-content/uploads/2016/09/Chitute-ndi-Ana-Ake.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm25",
+    "name": "Dj C Money Zambian Music",
+    "streamUrl": "https://stream.zeno.fm/gcrgt7k361zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm26",
+    "name": "Family life radio Zambia",
+    "streamUrl": "https://stream.zeno.fm/vygfqsny34buv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm27",
+    "name": "Fox FM Zambia",
+    "streamUrl": "https://stream.zeno.fm/u3x9qmv6bzzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm28",
+    "name": "Girls Pride Zambia",
+    "streamUrl": "https://stream.zeno.fm/qq1gu9gpxrhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm29",
+    "name": "GRACE FM ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/h7wegcuk698uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm30",
+    "name": "Harmony FM Zambia Radio",
+    "streamUrl": "https://stream.zeno.fm/efrqan8mpqcuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm31",
+    "name": "Hero Radio (Zambia)",
+    "streamUrl": "https://a2.asurahosting.com:6790/zambia.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm32",
+    "name": "High Energy FM ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/p9ylgm6aiiovv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm33",
+    "name": "HITS FM RADIO ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/hzb6nx1c2d0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm34",
+    "name": "Hope FM Zambia",
+    "streamUrl": "http://carina.streamerr.co:8078/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm35",
+    "name": "I am Catholic Zambia",
+    "streamUrl": "http://ec4.yesstreaming.net:2010/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm36",
+    "name": "Islamic radio Zambia",
+    "streamUrl": "https://stream.zeno.fm/fsqzyobkykvtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm37",
+    "name": "JACOBS FM ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/psk4viw3f7itv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm38",
+    "name": "JET FM ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/44b97qv2q98uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm39",
+    "name": "JET FM ZAMBIA – Monze",
+    "streamUrl": "http://stream.zeno.fm/85xzbrv2q98uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm40",
+    "name": "Joy FM Zambia radio",
+    "streamUrl": "https://s40.myradiostream.com/22890/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm41",
+    "name": "Kasama Radio",
+    "streamUrl": "https://stream-152.zeno.fm/n1p3a2urh98uv?zs=h6b4tL8lRF-mHN0T1vnlGQ",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm42",
+    "name": "Kasama radio limited",
+    "streamUrl": "https://stream.zeno.fm/n1p3a2urh98uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm43",
+    "name": "LIFE BOAT GOSPEL ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/5vyvmv0rw2xvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm44",
+    "name": "Life Boat Radio Zambia",
+    "streamUrl": "https://stream.zeno.fm/qphk6yugfg8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm45",
+    "name": "Lil Vee Zambia Music",
+    "streamUrl": "https://stream.zeno.fm/yc6sb5pk9hhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm46",
+    "name": "Lusaka Music Radio",
+    "streamUrl": "https://stream.zeno.fm/sy4zkumfs7zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm47",
+    "name": "Lusaka radio",
+    "streamUrl": "https://stream.zeno.fm/poon7aazretuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm48",
+    "name": "MakeWay Radio Zambia",
+    "streamUrl": "https://stream.zeno.fm/ugvspg93198uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm49",
+    "name": "Miracle FM Zambia",
+    "streamUrl": "https://stream.zeno.fm/ppbat9dw3e2uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm50",
+    "name": "Nzelu FM – Luanshya",
+    "streamUrl": "http://stream.zeno.fm/rr2feh2ud5zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm51",
+    "name": "Parliament Radio 92.6",
+    "streamUrl": "http://streamer.parliament.gov.zm:8063/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm52",
+    "name": "Peopos Radio Zambia",
+    "streamUrl": "https://stream.zeno.fm/ds42v3ktp0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm53",
+    "name": "Radio Maranatha Zambia",
+    "streamUrl": "https://stream.zeno.fm/53rwctt3vrquv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm54",
+    "name": "RISE FM ZAMBIA",
+    "streamUrl": "https://stream.zeno.fm/k1nw38b9u0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm55",
+    "name": "Rock FM Zambia",
+    "streamUrl": "http://99.198.118.250:8238/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_rock",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm56",
+    "name": "Roots FM Zambia",
+    "streamUrl": "https://stream.zeno.fm/s7d1prkfbxhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm57",
+    "name": "S - Light FM  Zambia",
+    "streamUrl": "https://stream.zeno.fm/01vd8ypmsuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm58",
+    "name": "Smooth FM Zambia",
+    "streamUrl": "https://s25.myradiostream.com/:15172/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_relax",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm59",
+    "name": "TIMEZ FM RADIO-LUANSHYA",
+    "streamUrl": "https://stream.zeno.fm/uywqymspdg8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm60",
+    "name": "Tiya Zambia Online",
+    "streamUrl": "https://stream.zeno.fm/713rsd7n6s8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm61",
+    "name": "Tzgospel zambia",
+    "streamUrl": "https://stream.zeno.fm/fsq2tn95schvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm62",
+    "name": "Urban Fm Zambia",
+    "streamUrl": "http://node-09.zeno.fm/eevbnhqc1k8uv",
     "imageUrl": "__________________________",
     "genre": "genre_hiphop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za22",
-    "name": "KAYA FM 95.9",
-    "streamUrl": "http://edge.iono.fm/xhls/82_high.m3u8",
+    "id": "zm63",
+    "name": "Wave FM Zambia",
+    "streamUrl": "http://s23.myradiostream.com:17458/listen.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za23",
-    "name": "Capricorn FM",
-    "streamUrl": "https://edge.iono.fm/xice/67_medium.aac",
+    "id": "zm64",
+    "name": "ZambianHits Radio",
+    "streamUrl": "https://stream.zeno.fm/nkcp8g2ud5zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm65",
+    "name": "3 FM 97.3 Radio",
+    "streamUrl": "https://stream.zeno.fm/ptcaabvnp62tv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za24",
-    "name": "Smile 90.4 FM",
-    "streamUrl": "https://edge.iono.fm/xice/212_medium.aac",
+    "id": "zm66",
+    "name": "360 mbk",
+    "streamUrl": "https://stream.zeno.fm/m577k1drwxhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za25",
-    "name": "Fine Music Radio 101.3 FM",
-    "streamUrl": "https://edge.iono.fm/xice/fmr_live_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za26",
-    "name": "CliffCentral",
-    "streamUrl": "https://edge.iono.fm/xice/cliffcentral_live_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za27",
-    "name": "Jozi FM",
-    "streamUrl": "https://edge.iono.fm/xice/51_medium.aac",
+    "id": "zm67",
+    "name": "3DTitanX",
+    "streamUrl": "https://stream.zeno.fm/wsd38y4bxnhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za28",
-    "name": "Vuma FM",
-    "streamUrl": "https://edge.iono.fm/xice/77_medium.aac",
+    "id": "zm68",
+    "name": "3Gies Radio",
+    "streamUrl": "https://stream.zeno.fm/jvwirqsvb8puv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za29",
-    "name": "MFM 92.6",
-    "streamUrl": "https://edge.iono.fm/xice/46_medium.aac",
+    "id": "zm69",
+    "name": "4KAS FM",
+    "streamUrl": "https://stream.zeno.fm/h7gldrixgdbvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za30",
-    "name": "RISE FM",
-    "streamUrl": "https://edge.iono.fm/xice/73_medium.aac",
+    "id": "zm70",
+    "name": "AbrahamrevolutionaryFM",
+    "streamUrl": "https://stream.zeno.fm/g806f4gk638uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm71",
+    "name": "AcaFest Radio",
+    "streamUrl": "https://stream.zeno.fm/qu61ms62h0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm72",
+    "name": "adsadsa",
+    "streamUrl": "https://stream.zeno.fm/pu5nwk03kuhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm73",
+    "name": "Adu News – Zambezi",
+    "streamUrl": "http://stream.zeno.fm/s1af1zqg7e9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm74",
+    "name": "AFRICAN MEDIA",
+    "streamUrl": "https://stream.zeno.fm/v5hstkakha0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm75",
+    "name": "africanmusichits radio",
+    "streamUrl": "https://stream.zeno.fm/6qrnay9yng8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm76",
+    "name": "Afrivibe",
+    "streamUrl": "https://stream.zeno.fm/5f92pxypxrhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm77",
+    "name": "Afrozam Radio",
+    "streamUrl": "https://s3.radio.co/sf56cb21bf/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm78",
+    "name": "Aidler",
+    "streamUrl": "https://stream.zeno.fm/kq06ms4kq2zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm79",
+    "name": "AINET fm",
+    "streamUrl": "https://stream.zeno.fm/ggpn1gbj3pguv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm80",
+    "name": "AIR PRIME RADIO THE POWER OF MIND",
+    "streamUrl": "https://stream.zeno.fm/uz6q1b6c2hhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm81",
+    "name": "Alvahfm",
+    "streamUrl": "https://stream.zeno.fm/rpvhc62k9hhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm82",
+    "name": "Anointed Voice FM Radio",
+    "streamUrl": "https://stream.zeno.fm/xiih9uyj16jvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm83",
+    "name": "AYAMUSICHITZ RADIO",
+    "streamUrl": "https://stream.zeno.fm/r43payw5pf9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm84",
+    "name": "Bantu FM Live",
+    "streamUrl": "https://cheetah.streemlion.com:2595/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm85",
+    "name": "BATOKA RADIO",
+    "streamUrl": "https://stream.zeno.fm/c3iwlzqqeofvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm86",
+    "name": "BFM Automation",
+    "streamUrl": "https://stream.zeno.fm/ty22fpfe838uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm87",
+    "name": "Blitz FM",
+    "streamUrl": "https://stream.zeno.fm/fk0403puqfhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm88",
+    "name": "Bread of Life Church International Radio",
+    "streamUrl": "http://192.99.20.78:9026/stream",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za31",
-    "name": "Radio Pulpit",
-    "streamUrl": "https://edge.iono.fm/xice/189_medium.aac",
+    "id": "zm89",
+    "name": "BwoyTvlk_Whats Koocin",
+    "streamUrl": "https://stream.zeno.fm/5f0bmpk6a48uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm90",
+    "name": "Byta FM Radio 90.3",
+    "streamUrl": "https://s13.myradiostream.com/:38946/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm91",
+    "name": "Cafe Del Mar Радио - RadioSpinner",
+    "streamUrl": "https://live.radiospinner.com/cdmr-64",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm92",
+    "name": "CALABASH FM",
+    "streamUrl": "https://stream.zeno.fm/nmapzsatfzzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm93",
+    "name": "Camilovillaa",
+    "streamUrl": "https://stream.zeno.fm/c39ibavqmwrvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm94",
+    "name": "Campus  FM",
+    "streamUrl": "https://stream.zeno.fm/vohkbyfwbpivv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm95",
+    "name": "Campus Nkhani Radio",
+    "streamUrl": "https://stream.zeno.fm/avxpcz6fbkhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_zambia"
+  },
+  {
+    "id": "zm96",
+    "name": "Cams Gospel Radio",
+    "streamUrl": "https://stream.zeno.fm/t8wcp5axpv8uv",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za32",
-    "name": "Radio Cape Pulpit",
-    "streamUrl": "https://edge.iono.fm/xice/110_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za33",
-    "name": "Hindvani Radio",
-    "streamUrl": "https://edge.iono.fm/xice/129_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za34",
-    "name": "VOW FM",
-    "streamUrl": "https://edge.iono.fm/xice/101_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za35",
-    "name": "UJFM",
-    "streamUrl": "https://edge.iono.fm/xice/85_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za36",
-    "name": "CCFM",
-    "streamUrl": "https://edge.iono.fm/xice/69_medium.aac",
+    "id": "zm97",
+    "name": "Capital FM 99.7",
+    "streamUrl": "https://stream.zeno.fm/a29c6wcv6hhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za37",
-    "name": "Zibonele FM",
-    "streamUrl": "https://edge.iono.fm/xice/74_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za38",
-    "name": "Impact Radio",
-    "streamUrl": "https://edge.iono.fm/xice/204_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za39",
-    "name": "Feelgood FM",
-    "streamUrl": "https://edge.iono.fm/xice/feelgood_live_medium.aac",
+    "id": "zm98",
+    "name": "Care FM",
+    "streamUrl": "https://stream.zeno.fm/q9yb9e4x4yzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za40",
-    "name": "PUK FM",
-    "streamUrl": "https://edge.iono.fm/xice/pukfm_live_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za41",
-    "name": "TUKS FM",
-    "streamUrl": "https://edge.iono.fm/xice/tuksfm_live_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za42",
-    "name": "UCT Radio",
-    "streamUrl": "https://edge.iono.fm/xice/uctradio_live_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za43",
-    "name": "Rhodes Music Radio",
-    "streamUrl": "https://edge.iono.fm/xice/70_medium.aac",
+    "id": "zm99",
+    "name": "Chaiwa Media",
+    "streamUrl": "https://stream.zeno.fm/66r0mb9b998uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   },
   {
-    "id": "za44",
-    "name": "Radio Atlantis 107.9 FM",
-    "streamUrl": "https://edge.iono.fm/xice/127_medium.aac",
+    "id": "zm100",
+    "name": "Chama FM",
+    "streamUrl": "http://chamafm.ddns.net:8080/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za45",
-    "name": "OFM Stasie2",
-    "streamUrl": "https://edge.iono.fm/xice/47_medium.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za46",
-    "name": "Mix 93.8",
-    "streamUrl": "http://edge.iono.fm/xice/113_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za47",
-    "name": "Mahikeng FM 96.7",
-    "streamUrl": "http://edge.iono.fm/xice/178_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za48",
-    "name": "Izwi Lomzanzi FM",
-    "streamUrl": "http://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za49",
-    "name": "uMgungundlovu FM 107.6",
-    "streamUrl": "https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za50",
-    "name": "Inanda FM",
-    "streamUrl": "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za51",
-    "name": "Aganang FM",
-    "streamUrl": "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za52",
-    "name": "Radio 786",
-    "streamUrl": "http://stream.krypton.co.za:8040/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za53",
-    "name": "Radio Alansaar",
-    "streamUrl": "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za54",
-    "name": "Salaamedia",
-    "streamUrl": "https://iceant.antfarm.co.za/Salaam",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za55",
-    "name": "Chai FM",
-    "streamUrl": "https://zas1.ndx.co.za:8008/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za56",
-    "name": "Voice of the Cape",
-    "streamUrl": "https://zas7.ndx.co.za:8038/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za57",
-    "name": "Radio NFM",
-    "streamUrl": "https://zas7.ndx.co.za:8024/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za58",
-    "name": "Lekoa FM",
-    "streamUrl": "https://zas1-2-3-6.ndx.co.za/stream/lekoafm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za59",
-    "name": "Perron FM",
-    "streamUrl": "https://zas7.ndx.co.za:8044/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za60",
-    "name": "Radio Veritas",
-    "streamUrl": "https://zas5.ndx.co.za:9618/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za61",
-    "name": "Radio Laeveld",
-    "streamUrl": "https://zas2.ndx.co.za:8046/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za62",
-    "name": "Radio Teemaneng",
-    "streamUrl": "http://zas2.ndx.co.za:8006/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za63",
-    "name": "MC 90.3 FM",
-    "streamUrl": "http://zas4.ndx.co.za:9066/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za64",
-    "name": "Groot FM 90.5",
-    "streamUrl": "http://grootfm.highquality.radiostream.co.za:80",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za65",
-    "name": "Radio Tygerberg 104.3 FM",
-    "streamUrl": "http://radiotygerberg.highquality.radiostream.co.za:80",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za66",
-    "name": "Bokradio",
-    "streamUrl": "http://bokradio.highquality.radiostream.co.za/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za67",
-    "name": "SFM Streek Radio",
-    "streamUrl": "http://capeant.antfarm.co.za:8000/SFM",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za68",
-    "name": "Bosveld Stereo",
-    "streamUrl": "https://iceant.antfarm.co.za/Bosveld",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za69",
-    "name": "Hellenic Radio",
-    "streamUrl": "http://iceant.eclipse-streaming.co.za/Hellenic",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za70",
-    "name": "Eden FM",
-    "streamUrl": "https://iceant.antfarm.co.za/EdenFM",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za71",
-    "name": "90.6 FM Stereo (VCR)",
-    "streamUrl": "https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za72",
-    "name": "Waterberg Stereo",
-    "streamUrl": "http://116.202.241.212:8048/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za73",
-    "name": "Wild Coast FM",
-    "streamUrl": "http://116.202.241.212:8090/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za74",
-    "name": "Energy FM",
-    "streamUrl": "https://sv2.famcast.co.za/proxy/energyfm?mp=%2Fstream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78979/logo_zoXWwRr3yi.png",
-    "genre": "genre_dance",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za75",
-    "name": "Madibeng FM",
-    "streamUrl": "http://sv2.famcast.co.za:8000/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za76",
-    "name": "Magic 828",
-    "streamUrl": "http://cast.fabrik.fm:8106/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za77",
-    "name": "LM Radio South Africa",
-    "streamUrl": "http://cast.fabrik.fm:8008/",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za78",
-    "name": "Springbok Radio",
-    "streamUrl": "https://springbokradio.xyz:8443/main",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za79",
-    "name": "Pan African Space Station",
-    "streamUrl": "https://pass.out.airtime.pro/pass_a",
-    "imageUrl": "__________________________",
-    "genre": "genre_jazz",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za80",
-    "name": "Capital Radio 604",
-    "streamUrl": "https://stream.galaxywebsolutions.com/proxy/capitalradio604?mp=%2Fstream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za81",
-    "name": "IFM 102.2",
-    "streamUrl": "http://s7.voscast.com:9538/stream1700094931336/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za82",
-    "name": "Express FM Digital",
-    "streamUrl": "http://198.7.59.28:34235/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za83",
-    "name": "Kasie FM",
-    "streamUrl": "https://s44.myradiostream.com/9128/listen.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za84",
-    "name": "Luister FM",
-    "streamUrl": "http://stream2.luisterfm.co.za:8000/LuisterFM",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za85",
-    "name": "Radio Fynbos - Stilbaai",
-    "streamUrl": "https://stream-152.zeno.fm/w0cyqt4cyy8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za86",
-    "name": "JouRadio",
-    "streamUrl": "https://audio-edge-qse4n.yyz.g.radiomast.io/a425e29b-a485-4b55-9e77-a501be8d1ee7",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za87",
-    "name": "Loca FM",
-    "streamUrl": "https://s3.we4stream.com:2020/stream/locafm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za88",
-    "name": "African Praise Radio",
-    "streamUrl": "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za89",
-    "name": "Rainbow Gospel Radio",
-    "streamUrl": "http://102.130.114.184:8000/Stream/1",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za90",
-    "name": "GospelBlues Radio",
-    "streamUrl": "https://gospelblues365.com/listen/gospelbluesradio/radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_blues",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za91",
-    "name": "TruLight Radio XM",
-    "streamUrl": "http://46.105.122.141:9438/listen.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za92",
-    "name": "Afrobeat N1 FM",
-    "streamUrl": "https://streamer.radio.co/s919e54210/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za93",
-    "name": "Heaven FM",
-    "streamUrl": "https://stream.zeno.fm/eequgfw72hhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za94",
-    "name": "TAMBO FM",
-    "streamUrl": "https://listen.radioking.com/radio/326599/stream/374668",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za95",
-    "name": "Maluti FM",
-    "streamUrl": "https://cast3.my-control-panel.com/proxy/malutifm/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za96",
-    "name": "Mdantsane FM 89.5",
-    "streamUrl": "http://148.251.43.149:8134/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za97",
-    "name": "BOX Chillwave",
-    "streamUrl": "https://boxradio-edge-00.streamafrica.net/chillwave",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za98",
-    "name": "BOX Dreamscapes",
-    "streamUrl": "https://boxradio-edge-00.streamafrica.net/dreamscapes",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za99",
-    "name": "Megazone Bollywood",
-    "streamUrl": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za100",
-    "name": "Radio Namaste",
-    "streamUrl": "https://vm65162.streamerr.co/listen/radio_namaste/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za101",
-    "name": "Radio Yaadein",
-    "streamUrl": "https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za102",
-    "name": "Radio Vilakku",
-    "streamUrl": "https://vm65162.streamerr.co/listen/radio_vilakku/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za103",
-    "name": "Mirumba Ya Nwali FM",
-    "streamUrl": "https://stream.zeno.fm/1j5vimjy9vptv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78875/logo_rzOeLnXXAB.png",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za104",
-    "name": "RockyBay Radio",
-    "streamUrl": "https://a1.asurahosting.com:9050/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78894/logo_V7hAeAUXK6.png",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za105",
-    "name": "Latest Makompo Radio",
-    "streamUrl": "https://stream.zeno.fm/aqmv0yuox7duv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78915/logo_n8ZjotWHfY.png",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za106",
-    "name": "Wingerd FM",
-    "streamUrl": "https://cast5.asurahosting.com/proxy/wingerdf/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78919/logo_OZMKznFkD5.png",
-    "genre": "genre_folk",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za107",
-    "name": "Sunset Stereo Radio",
-    "streamUrl": "https://c18.radioboss.fm:8697/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78846/logo_UcxGsk3eHP.png",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za108",
-    "name": "True Love Radio Sneh",
-    "streamUrl": "https://stream.zeno.fm/5qi3nzgg871tv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78913/logo_GQnh3M4Iy4.png",
-    "genre": "genre_relax",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za109",
-    "name": "Rusty FM 99.4",
-    "streamUrl": "https://stream.zeno.fm/z0e9ftkgyulvv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78922/logo_Al7T0j6Q2n.png",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za110",
-    "name": "Agape Radio",
-    "streamUrl": "https://stream.zeno.fm/rlrdkgnkuzctv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78781/logo_0Q5M8Fq60W.png",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za111",
-    "name": "Hero Radio South Africa",
-    "streamUrl": "https://a2.asurahosting.com:6790/southafrica.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78899/logo_wDElQAqfm3.png",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za112",
-    "name": "Bojanala FM",
-    "streamUrl": "https://stream.zeno.fm/7mllw1kuruptv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78920/logo_SoPWYWQbFd.png",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za113",
-    "name": "Bay Community Radio",
-    "streamUrl": "https://eu1.fastcast4u.com/proxy/vpradioglobal?mp=%2F1",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78895/logo_TCsmYy3EVa.png",
-    "genre": "genre_info",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za114",
-    "name": "011 Radio",
-    "streamUrl": "https://sv2.famcast.co.za/stream/011_radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za115",
-    "name": "Die Waarheid Radio",
-    "streamUrl": "http://eu10.fastcast4u.com:12340/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za116",
-    "name": "TransWorldRadio Music",
-    "streamUrl": "https://radio.eclipse-streaming.co.za/listen/the_better_dot_fm/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za117",
-    "name": "Plaas Radio",
-    "streamUrl": "https://radio.eclipse-streaming.co.za/hls/plaas_radio/live.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za118",
-    "name": "Radio Hallelujah",
-    "streamUrl": "https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za119",
-    "name": "RadioCross",
-    "streamUrl": "https://gospelblues365.com/listen/radiocross/radiocross.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za120",
-    "name": "Merafong 360 Online Radio",
-    "streamUrl": "https://sv2.famcast.co.za/stream/merafong",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za121",
-    "name": "Urban Fusion Radio",
-    "streamUrl": "http://stream.zeno.fm/wcy3kh4pqv8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za122",
-    "name": "Radio Turf",
-    "streamUrl": "https://iceant.eclipse-streaming.co.za/radio-turf.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za123",
-    "name": "Diamond Radio",
-    "streamUrl": "https://vm65162.streamerr.co/listen/diamond_fm/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za124",
-    "name": "EVR",
-    "streamUrl": "https://radio.eclipse-streaming.co.za/listen/evr/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za125",
-    "name": "The Grind Radio",
-    "streamUrl": "https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za126",
-    "name": "Melkies Radio",
-    "streamUrl": "https://radio2.eclipse-streaming.co.za/listen/melkies/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za127",
-    "name": "Pitch Radio",
-    "streamUrl": "http://stream.zeno.fm/etw8vx9knm0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_sport",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za128",
-    "name": "Viva Nation Radio",
-    "streamUrl": "https://servidor34-3.brlogic.com:7056/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za129",
-    "name": "Gaan Groot Radio",
-    "streamUrl": "https://14223.live.streamtheworld.com/SP_R2982692_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_kids",
-    "country": "country_south_africa"
-  },
-  {
-    "id": "za130",
-    "name": "Jou Stasie",
-    "streamUrl": "http://uslradio.net:8010/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_south_africa"
+    "country": "country_zambia"
   }
 ]
