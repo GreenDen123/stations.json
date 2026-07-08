@@ -1,1202 +1,1042 @@
 [
   {
-    "id": "ph01",
-    "name": "AXR Manila (Asia Expat Radio)",
-    "streamUrl": "https://22253.live.streamtheworld.com/AXR_MANILAAAC.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph02",
-    "name": "Barangay LS 97.1 Manila - DWLS",
-    "streamUrl": "https://magic.radioca.st/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph03",
-    "name": "DZRH News AM 666",
-    "streamUrl": "https://dzrh-azura.mmg.com.ph/listen/dzrh_manila/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph04",
-    "name": "90.7 Love Radio Manila",
-    "streamUrl": "https://loveradio.live24.gr/loveradio-1000",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph05",
-    "name": "Easy Rock Manila",
-    "streamUrl": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph06",
-    "name": "101.1 Yes FM Manila",
-    "streamUrl": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+    "id": "za01",
+    "name": "947 (Highveld Stereo)",
+    "streamUrl": "http://23543.live.streamtheworld.com/FM947_SC",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph07",
-    "name": "Bliss Radio",
-    "streamUrl": "https://stream.blissradio.net/radio/8000//radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph08",
-    "name": "Radio Maria Philippines",
-    "streamUrl": "http://dreamsiteradiocp2.com:8052/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph09",
-    "name": "DZBR Bible Radio Cathedral of Praise 531",
-    "streamUrl": "https://stream.radio.co/se9de95c10/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph10",
-    "name": "JAKXFM",
-    "streamUrl": "https://de3.amfmph.com:8150/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph11",
-    "name": "MOR Cebu 97.1 - DYLS-FM",
-    "streamUrl": "http://magic.radioca.st/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph12",
-    "name": "RMN Cebu - DYHP",
-    "streamUrl": "http://62.138.18.102:8257/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph13",
-    "name": "105.1 Easy Rock Davao - DXYS",
-    "streamUrl": "http://easyrockdavao.radioca.st:8285/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph14",
-    "name": "96.9 Easy Rock Cagayan de Oro - DXKS",
-    "streamUrl": "http://easyrockcagayan.radioca.st:9720/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph15",
-    "name": "104.7 Yes The Best - DXYR Cagayan de Oro",
-    "streamUrl": "http://yesfmcdo.radioca.st:8040/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph16",
-    "name": "Yes! The Best Dumaguete - DYYD",
-    "streamUrl": "http://yesfmdumaguete.radioca.st:8406/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph17",
-    "name": "Yes The Best Dagupan - DWHR",
-    "streamUrl": "http://yesfmdagupan.radioca.st:10300/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph18",
-    "name": "Yes! The Best Valencia - DXAT",
-    "streamUrl": "http://yesfmvalencia.radioca.st:8231/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph19",
-    "name": "Yes The Best Urdaneta - DZVM",
-    "streamUrl": "http://yesfmurdaneta.radioca.st:8258/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph20",
-    "name": "99.3 Yes The Best - DXFE-FM Iligan",
-    "streamUrl": "http://yesfmiligan.radioca.st:8181/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph21",
-    "name": "Love Radio Cebu",
-    "streamUrl": "http://loveradiocebu.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph22",
-    "name": "Love Radio Iloilo",
-    "streamUrl": "http://loveradioiloilo.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph23",
-    "name": "Love Radio Baguio - DWMB",
-    "streamUrl": "https://loveradiobaguio.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph24",
-    "name": "Love Radio Naga - DWYN",
-    "streamUrl": "http://loveradionaga.radioca.st:8070/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph25",
-    "name": "Love Radio Butuan - DXMB",
-    "streamUrl": "https://loveradiobutuan.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph26",
-    "name": "Love Radio Zamboanga",
-    "streamUrl": "http://lovezamboanga.radioca.st:8157/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph27",
-    "name": "Love Radio Bacolod",
-    "streamUrl": "http://loveradiobacolod.radioca.st:8088/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph28",
-    "name": "Love Radio Roxas",
-    "streamUrl": "http://loveradioroxas.radioca.st:8216/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph29",
-    "name": "Love Radio Kalibo",
-    "streamUrl": "http://loveradiokalibo.radioca.st:8511/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph30",
-    "name": "Love Radio Tacloban",
-    "streamUrl": "http://lovetacloban.radioca.st:8113/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph31",
-    "name": "Love Radio Dagupan",
-    "streamUrl": "http://loveradiodagupan.radioca.st:8195/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph32",
-    "name": "Love Radio Tuguegarao",
-    "streamUrl": "http://hubble.shoutca.st:8209/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph33",
-    "name": "Love Radio Gensan",
-    "streamUrl": "http://148.251.43.231:8101/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph34",
-    "name": "Love Radio La Union",
-    "streamUrl": "http://loveradiolaunion.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph35",
-    "name": "Love Radio Legaspi",
-    "streamUrl": "http://loveradiolegaspi.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph36",
-    "name": "Love Radio Tarlac",
-    "streamUrl": "http://loveradiotarlac.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph37",
-    "name": "Love Radyo Laoag",
-    "streamUrl": "http://loveradiolaoag.radioca.st/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph38",
-    "name": "Love Radio Daet",
-    "streamUrl": "http://148.251.43.149:8804/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph39",
-    "name": "Love Radio Malaybalay",
-    "streamUrl": "http://lovemalaybalay.radioca.st:8828/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph40",
-    "name": "Love Radio Santiago",
-    "streamUrl": "http://lovesantiago.radioca.st:8832/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph41",
-    "name": "Love Radio Catarman",
-    "streamUrl": "http://lovecatarman.radioca.st:8796/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph42",
-    "name": "Star FM Davao",
-    "streamUrl": "https://stream.zeno.fm/sdtv271nz9duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph43",
-    "name": "Star FM Cebu",
-    "streamUrl": "https://stream.zeno.fm/60cb36c29heuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph44",
-    "name": "Star FM Bacolod",
-    "streamUrl": "https://stream.zeno.fm/kg6tx8w4t9duv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph45",
-    "name": "Star FM Dagupan",
-    "streamUrl": "https://stream.zeno.fm/kw40qqc29heuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph46",
-    "name": "Star FM Cotabato",
-    "streamUrl": "https://stream.zeno.fm/hf1yubc29heuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph47",
-    "name": "Star FM Roxas",
-    "streamUrl": "https://stream.zeno.fm/6qehcpd29heuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph48",
-    "name": "Star FM Dipolog",
-    "streamUrl": "https://stream.zeno.fm/qd45x88q0y5tv.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph49",
-    "name": "Brigada News FM Cagayan de Oro",
-    "streamUrl": "https://cagayanstream.brigadanews.ph/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph50",
-    "name": "Brigada News FM Koronadal",
-    "streamUrl": "https://koronadalstream.brigadanews.ph/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph51",
-    "name": "Brigada News FM Butuan",
-    "streamUrl": "https://butuanstream.brigadanews.ph/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph52",
-    "name": "Brigada News FM Lucena",
-    "streamUrl": "https://lucenastream.brigadanews.ph/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph53",
-    "name": "89.5 Brigada News FM - DXYM",
-    "streamUrl": "http://18.141.67.248:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph54",
-    "name": "Brigada News FM Cauayan",
-    "streamUrl": "http://18.141.67.248:8044/stream/1/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph55",
-    "name": "Radyo Natin Santiago",
-    "streamUrl": "https://pinas.radyonatinfm.com:8020/santiago",
+    "id": "za02",
+    "name": "Talk Radio 702",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph56",
-    "name": "Radyo Natin Cotabato",
-    "streamUrl": "https://amp.radyonatinfm.com:8000/cotabato",
+    "id": "za03",
+    "name": "KFM 94.5",
+    "streamUrl": "https://25683.live.streamtheworld.com/KFM.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za04",
+    "name": "Jacaranda FM",
+    "streamUrl": "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za05",
+    "name": "East Coast Radio",
+    "streamUrl": "https://live.ecr.co.za/ecrhigh.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za06",
+    "name": "CapeTalk 567",
+    "streamUrl": "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph57",
-    "name": "Radyo Natin Naval",
-    "streamUrl": "https://dj.radyonatinfm.com:8010/naval",
+    "id": "za07",
+    "name": "Radio Sonder Grense (RSG)",
+    "streamUrl": "http://25343.live.streamtheworld.com/RSG.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph58",
-    "name": "Radyo Natin Margosatubig",
-    "streamUrl": "https://pinas.radyonatinfm.com:8030/margosatubig",
+    "id": "za08",
+    "name": "Metro FM",
+    "streamUrl": "https://25283.live.streamtheworld.com/METROFMAAC.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph59",
-    "name": "Radyo Natin Coron",
-    "streamUrl": "https://xcite.radyonatinfm.com:8000/coron",
+    "id": "za09",
+    "name": "Ukhozi FM",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph60",
-    "name": "Radyo Natin Malita",
-    "streamUrl": "https://link.radyonatinfm.com:8020/malita",
+    "id": "za10",
+    "name": "Umhlobo Wenene FM",
+    "streamUrl": "http://29003.live.streamtheworld.com/UMHLOBOWENENE.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph61",
-    "name": "Radyo Natin Iba",
-    "streamUrl": "https://phils.radyonatinfm.com:8000/iba",
+    "id": "za11",
+    "name": "Lesedi FM",
+    "streamUrl": "http://25293.live.streamtheworld.com/LESEDI.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph62",
-    "name": "Radyo Natin Baao",
-    "streamUrl": "https://xcite.radyonatinfm.com:8030/baao",
+    "id": "za12",
+    "name": "Motsweding FM",
+    "streamUrl": "http://25603.live.streamtheworld.com/MOTSWEDING.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph63",
-    "name": "Radyo Natin Kiamba",
-    "streamUrl": "https://hifi.radyonatinfm.com:8030/kiamba",
+    "id": "za13",
+    "name": "Ligwalagwala FM",
+    "streamUrl": "http://28993.live.streamtheworld.com/LIGWALAGWALA.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph64",
-    "name": "Radyo Natin Looc",
-    "streamUrl": "https://audio.radyonatinfm.com:8030/looc",
+    "id": "za14",
+    "name": "Radio 2000",
+    "streamUrl": "http://25583.live.streamtheworld.com/RADIO2000.mp3",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph65",
-    "name": "Radyo Natin Madridejos",
-    "streamUrl": "https://tx.radyonatinfm.com:8010/madridejos",
+    "id": "za15",
+    "name": "Classic FM 102.7",
+    "streamUrl": "https://edge.iono.fm/xice/49_high.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_clasic",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph66",
-    "name": "Radyo Natin Daanbantayan",
-    "streamUrl": "https://ph.radyonatinfm.com:8020/daanbantayan",
+    "id": "za16",
+    "name": "Power FM 98.7",
+    "streamUrl": "https://edge.iono.fm/xice/65_medium.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph67",
-    "name": "Radyo Ni Sano",
-    "streamUrl": "https://cd.radyoph.com:8000/rns128",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph68",
-    "name": "Radyo Bandera Iloilo - DYKU",
-    "streamUrl": "http://209.126.124.126:8647/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph69",
-    "name": "Aksyon Radyo Davao",
-    "streamUrl": "http://5.9.13.39:8140/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph70",
-    "name": "Aksyon Radyo Laoag",
-    "streamUrl": "http://5.9.13.39:8136/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph71",
-    "name": "DZAS 702 AM",
-    "streamUrl": "https://stream.radio.co/s14821250a/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph72",
-    "name": "DXBH Hope Radio 103.7 FM",
-    "streamUrl": "https://stream.dxbh.net/main_mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph73",
-    "name": "True Life In God Radio Filipino",
-    "streamUrl": "https://stream.tligradio.org/listen/filipino/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph74",
-    "name": "IBCD Online Radio Dumaguete City",
-    "streamUrl": "https://icecast.theanchor.app/ibcd",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph75",
-    "name": "Radio Wesleyan 89.7 DWUP FM",
-    "streamUrl": "https://usa2.server2028.com/listen/radio_wesleyan_89.7_dwup_fm/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph76",
-    "name": "Wild FM Cagayan de Oro",
-    "streamUrl": "http://62.138.18.102:8129/stream",
+    "id": "za17",
+    "name": "Hot 102.7 FM",
+    "streamUrl": "https://edge.iono.fm/xice/57_high.aac",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph77",
-    "name": "Wild FM Valencia",
-    "streamUrl": "http://62.138.18.102:8137/stream",
+    "id": "za18",
+    "name": "Hot 102.7 FM Club",
+    "streamUrl": "https://edge.iono.fm/xice/306_high.aac",
     "imageUrl": "__________________________",
     "genre": "genre_dance",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph78",
-    "name": "94.3 Wild Zee - DXWZ",
-    "streamUrl": "http://fr1.amfmph.com:8129/stream",
+    "id": "za19",
+    "name": "OFM",
+    "streamUrl": "https://edge.iono.fm/xice/ofm_live_high.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_philippines"
+    "genre": "genre_hits",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph79",
-    "name": "Energy FM Dipolog",
-    "streamUrl": "https://stream.zeno.fm/xjtlneetbu0tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph80",
-    "name": "MYX P-POP Radio",
-    "streamUrl": "http://das-edge11-live365-dal03.cdnstream.com/a63316",
+    "id": "za20",
+    "name": "Algoa FM",
+    "streamUrl": "http://edge.iono.fm/xice/54_high.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph81",
-    "name": "YeY FM",
-    "streamUrl": "https://stream-174.zeno.fm/pnjlccj6jd2uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_kids",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph82",
-    "name": "Memories FM 89.9",
-    "streamUrl": "http://s5.reliastream.com:7134/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_retro",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph83",
-    "name": "Lite Rock Manila",
-    "streamUrl": "http://us1.streamingpulse.com:7544/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph84",
-    "name": "PH Lite",
-    "streamUrl": "https://xcite.radyoph.com:8000/phlite",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph85",
-    "name": "Tambayan 103.9",
-    "streamUrl": "https://tambayan1039.alwaysdata.net/stream.php?t=1769259796149",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph86",
-    "name": "Pinoy Rap Radio",
-    "streamUrl": "http://sp2.streams.ovh/8004/stream/stream/1",
+    "id": "za21",
+    "name": "YFM",
+    "streamUrl": "http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_hiphop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph87",
-    "name": "Magnum Radyo 99.9 Cagayan de Oro",
-    "streamUrl": "http://www.magnum999.com/radio/live.mp3",
+    "id": "za22",
+    "name": "KAYA FM 95.9",
+    "streamUrl": "http://edge.iono.fm/xhls/82_high.m3u8",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph88",
-    "name": "FMR Tacloban 100.7 - DYDR",
-    "streamUrl": "http://de3.amfmph.com:8676/live",
+    "id": "za23",
+    "name": "Capricorn FM",
+    "streamUrl": "https://edge.iono.fm/xice/67_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph89",
-    "name": "FMR Tagum",
-    "streamUrl": "http://de3.amfmph.com:8679/live",
+    "id": "za24",
+    "name": "Smile 90.4 FM",
+    "streamUrl": "https://edge.iono.fm/xice/212_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph90",
-    "name": "DWBL 91.9 Bright FM Manila",
-    "streamUrl": "https://stream.zeno.fm/wx5hopniqfvtv",
+    "id": "za25",
+    "name": "Fine Music Radio 101.3 FM",
+    "streamUrl": "https://edge.iono.fm/xice/fmr_live_medium.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
+    "genre": "genre_jazz",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph91",
-    "name": "Vibe 105.5 FM Bohol",
-    "streamUrl": "http://music.vibe1055live.com:8001/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph92",
-    "name": "Bee 927 Bohol",
-    "streamUrl": "https://cast3.asurahosting.com/proxy/victorjr/bee927fmbohol",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph93",
-    "name": "Radyo Bol-anon Network - DYMA FM",
-    "streamUrl": "https://ssl.radyoph.com:8000/dyma_fm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph94",
-    "name": "XFM 99.5 Mega Manila",
-    "streamUrl": "http://62.138.18.102:8753/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph95",
-    "name": "XFM 96.7 Bacolod",
-    "streamUrl": "http://209.126.124.126:8684/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph96",
-    "name": "XFM 99.5 Zamboanga",
-    "streamUrl": "http://209.126.124.126:8832/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph97",
-    "name": "XFM 106.5 Roxas City",
-    "streamUrl": "https://ssl.radyoph.com:8000/xfmroxascapiz",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph98",
-    "name": "Boracay FM",
-    "streamUrl": "https://boracayfm.stream.laut.fm/boracayfm",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph99",
-    "name": "DWIZ News FM Western Visayas Iloilo",
-    "streamUrl": "http://142.44.212.114:9345/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph100",
-    "name": "DWIZ News FM Northern Luzon Dagupan",
-    "streamUrl": "http://142.44.212.114:9377/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph101",
-    "name": "DWIZ News FM Central Palawan",
-    "streamUrl": "http://142.44.212.114:9381/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph102",
-    "name": "RPN DXKT Davao Radyo Ronda",
-    "streamUrl": "http://dxkt-rpnradio.radioca.st:9056/stream",
+    "id": "za26",
+    "name": "CliffCentral",
+    "streamUrl": "https://edge.iono.fm/xice/cliffcentral_live_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_info",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph103",
-    "name": "RPN DXKD Dipolog Radyo Ronda",
-    "streamUrl": "http://dxkd-rpnradio.radioca.st:8481/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph104",
-    "name": "RPN DXKS Surigao Radyo Ronda",
-    "streamUrl": "http://dxks-rpnradio.radioca.st:8448/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph105",
-    "name": "Bombo Radyo Cauayan",
-    "streamUrl": "https://stream.zenolive.com/0psak3m29heuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph106",
-    "name": "Bombo Radyo Tacloban",
-    "streamUrl": "https://stream.zeno.fm/e8zw1dg0xy5tv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph107",
-    "name": "K5 News FM Sagay",
-    "streamUrl": "http://209.126.124.126:8587/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph108",
-    "name": "K5 News FM San Carlos",
-    "streamUrl": "http://209.126.124.126:8590/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph109",
-    "name": "One Radio News FM Daet",
-    "streamUrl": "http://165.154.210.116:9907/oneradiodaet",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph110",
-    "name": "R6 News FM",
-    "streamUrl": "https://stream.zeno.fm/adqlxubrtshvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph111",
-    "name": "iFM Iloilo",
-    "streamUrl": "http://62.138.18.102:8288/stream",
+    "id": "za27",
+    "name": "Jozi FM",
+    "streamUrl": "https://edge.iono.fm/xice/51_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph112",
-    "name": "WXB Loud 102.3 FM Pampanga",
-    "streamUrl": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_dance",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph113",
-    "name": "AllHitz24",
-    "streamUrl": "https://stream.allhitz24.com/64",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph114",
-    "name": "FReSH FM PH",
-    "streamUrl": "https://s36.radiolize.com/radio/8170/radio.mp3",
+    "id": "za28",
+    "name": "Vuma FM",
+    "streamUrl": "https://edge.iono.fm/xice/77_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph115",
-    "name": "Manila Bay Beach Radio",
-    "streamUrl": "https://s4.radio.co/sd319ba2a4/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph116",
-    "name": "Mangagoy Radio",
-    "streamUrl": "http://s3.free-shoutcast.com:18114/stream.mp3",
+    "id": "za29",
+    "name": "MFM 92.6",
+    "streamUrl": "https://edge.iono.fm/xice/46_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph117",
-    "name": "Anime Alliance Online Radio",
-    "streamUrl": "https://s3.citrus3.com:8010/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph118",
-    "name": "Pinoy Seoul Radio",
-    "streamUrl": "https://radio.pinoyseoul.com/radio/8000/live.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph119",
-    "name": "103.3 DXJL The New J Cagayan de Oro",
-    "streamUrl": "https://s3.radio.co/s3e33745fb/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph120",
-    "name": "Spirit FM Masbate",
-    "streamUrl": "http://us5new.listen2myradio.com:2199/proxy/ekidthig/stream",
+    "id": "za30",
+    "name": "RISE FM",
+    "streamUrl": "https://edge.iono.fm/xice/73_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph121",
-    "name": "Win Radio 97.7 FM Valencia Bukidnon - DXSR",
-    "streamUrl": "http://mercury.reliastream.com:8002/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph122",
-    "name": "Radyo Sincero GenSan",
-    "streamUrl": "http://mercury.reliastream.com:8013/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph123",
-    "name": "Sky Radio Gamay",
-    "streamUrl": "https://ssl.radyoph.com:8000/skyradio_gamay",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph124",
-    "name": "FM Radio 96.7 Davao De Oro",
-    "streamUrl": "http://209.126.124.126:8614/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph125",
-    "name": "BELL FM 106.3",
-    "streamUrl": "http://209.126.124.126:8904/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph126",
-    "name": "FM Radio Surigao",
-    "streamUrl": "http://209.126.124.126:8785/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph127",
-    "name": "RADYO BAGTING 756 AM",
-    "streamUrl": "http://209.126.124.126:8901/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_info",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph128",
-    "name": "DWDM-FM 95.5",
-    "streamUrl": "http://n09.radiojar.com/yus0r2bghd3vv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph129",
-    "name": "Radyo Todo 88.5 FM",
-    "streamUrl": "http://rmstream.todostreamcast.com/radyotodoaklan",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph130",
-    "name": "Barangay FM 101.5 Naga",
-    "streamUrl": "http://uk16freenew.listen2myradio.com:15952/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph131",
-    "name": "AFN 360 Global Gravity 89.1 FM",
-    "streamUrl": "http://17793.live.streamtheworld.com/AFN_GRV_SC",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph132",
-    "name": "Shakeys Radio",
-    "streamUrl": "https://play.radioking.io/shakeys-radio1",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph133",
-    "name": "Extreme Radio",
-    "streamUrl": "https://razzrdfx.com/listen/extreme_radio/radio.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph134",
-    "name": "Last Days Radio",
-    "streamUrl": "http://de3.amfmph.com:8570/live",
+    "id": "za31",
+    "name": "Radio Pulpit",
+    "streamUrl": "https://edge.iono.fm/xice/189_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph135",
-    "name": "RainbowFM",
-    "streamUrl": "https://rainbowfm2020.radioca.st/stream",
+    "id": "za32",
+    "name": "Radio Cape Pulpit",
+    "streamUrl": "https://edge.iono.fm/xice/110_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za33",
+    "name": "Hindvani Radio",
+    "streamUrl": "https://edge.iono.fm/xice/129_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za34",
+    "name": "VOW FM",
+    "streamUrl": "https://edge.iono.fm/xice/101_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za35",
+    "name": "UJFM",
+    "streamUrl": "https://edge.iono.fm/xice/85_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za36",
+    "name": "CCFM",
+    "streamUrl": "https://edge.iono.fm/xice/69_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph136",
-    "name": "997 My Friends FM",
-    "streamUrl": "http://trappist.shoutca.st:8171/live",
+    "id": "za37",
+    "name": "Zibonele FM",
+    "streamUrl": "https://edge.iono.fm/xice/74_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za38",
+    "name": "Impact Radio",
+    "streamUrl": "https://edge.iono.fm/xice/204_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za39",
+    "name": "Feelgood FM",
+    "streamUrl": "https://edge.iono.fm/xice/feelgood_live_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph137",
-    "name": "Taps Radio Roxas",
-    "streamUrl": "http://209.126.124.126:8599/stream",
+    "id": "za40",
+    "name": "PUK FM",
+    "streamUrl": "https://edge.iono.fm/xice/pukfm_live_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za41",
+    "name": "TUKS FM",
+    "streamUrl": "https://edge.iono.fm/xice/tuksfm_live_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za42",
+    "name": "UCT Radio",
+    "streamUrl": "https://edge.iono.fm/xice/uctradio_live_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za43",
+    "name": "Rhodes Music Radio",
+    "streamUrl": "https://edge.iono.fm/xice/70_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph138",
-    "name": "XFM San Francisco Surigao",
-    "streamUrl": "http://209.126.124.126:8794/stream",
+    "id": "za44",
+    "name": "Radio Atlantis 107.9 FM",
+    "streamUrl": "https://edge.iono.fm/xice/127_medium.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph139",
-    "name": "Exotica Radio",
-    "streamUrl": "https://solid67.streamupsolutions.com/proxy/repadnom/stream",
+    "id": "za45",
+    "name": "OFM Stasie2",
+    "streamUrl": "https://edge.iono.fm/xice/47_medium.mp3",
     "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za46",
+    "name": "Mix 93.8",
+    "streamUrl": "http://edge.iono.fm/xice/113_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za47",
+    "name": "Mahikeng FM 96.7",
+    "streamUrl": "http://edge.iono.fm/xice/178_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za48",
+    "name": "Izwi Lomzanzi FM",
+    "streamUrl": "http://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za49",
+    "name": "uMgungundlovu FM 107.6",
+    "streamUrl": "https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za50",
+    "name": "Inanda FM",
+    "streamUrl": "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za51",
+    "name": "Aganang FM",
+    "streamUrl": "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za52",
+    "name": "Radio 786",
+    "streamUrl": "http://stream.krypton.co.za:8040/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za53",
+    "name": "Radio Alansaar",
+    "streamUrl": "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za54",
+    "name": "Salaamedia",
+    "streamUrl": "https://iceant.antfarm.co.za/Salaam",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za55",
+    "name": "Chai FM",
+    "streamUrl": "https://zas1.ndx.co.za:8008/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za56",
+    "name": "Voice of the Cape",
+    "streamUrl": "https://zas7.ndx.co.za:8038/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za57",
+    "name": "Radio NFM",
+    "streamUrl": "https://zas7.ndx.co.za:8024/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za58",
+    "name": "Lekoa FM",
+    "streamUrl": "https://zas1-2-3-6.ndx.co.za/stream/lekoafm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za59",
+    "name": "Perron FM",
+    "streamUrl": "https://zas7.ndx.co.za:8044/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za60",
+    "name": "Radio Veritas",
+    "streamUrl": "https://zas5.ndx.co.za:9618/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za61",
+    "name": "Radio Laeveld",
+    "streamUrl": "https://zas2.ndx.co.za:8046/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za62",
+    "name": "Radio Teemaneng",
+    "streamUrl": "http://zas2.ndx.co.za:8006/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za63",
+    "name": "MC 90.3 FM",
+    "streamUrl": "http://zas4.ndx.co.za:9066/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za64",
+    "name": "Groot FM 90.5",
+    "streamUrl": "http://grootfm.highquality.radiostream.co.za:80",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za65",
+    "name": "Radio Tygerberg 104.3 FM",
+    "streamUrl": "http://radiotygerberg.highquality.radiostream.co.za:80",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za66",
+    "name": "Bokradio",
+    "streamUrl": "http://bokradio.highquality.radiostream.co.za/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za67",
+    "name": "SFM Streek Radio",
+    "streamUrl": "http://capeant.antfarm.co.za:8000/SFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za68",
+    "name": "Bosveld Stereo",
+    "streamUrl": "https://iceant.antfarm.co.za/Bosveld",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za69",
+    "name": "Hellenic Radio",
+    "streamUrl": "http://iceant.eclipse-streaming.co.za/Hellenic",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za70",
+    "name": "Eden FM",
+    "streamUrl": "https://iceant.antfarm.co.za/EdenFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za71",
+    "name": "90.6 FM Stereo (VCR)",
+    "streamUrl": "https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za72",
+    "name": "Waterberg Stereo",
+    "streamUrl": "http://116.202.241.212:8048/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za73",
+    "name": "Wild Coast FM",
+    "streamUrl": "http://116.202.241.212:8090/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za74",
+    "name": "Energy FM",
+    "streamUrl": "https://sv2.famcast.co.za/proxy/energyfm?mp=%2Fstream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78979/logo_zoXWwRr3yi.png",
     "genre": "genre_dance",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph140",
-    "name": "OPM Christmas",
-    "streamUrl": "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas",
+    "id": "za75",
+    "name": "Madibeng FM",
+    "streamUrl": "http://sv2.famcast.co.za:8000/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph141",
-    "name": "CyberPinoy Radio",
-    "streamUrl": "https://securestreams.autopo.st:1215/stream",
+    "id": "za76",
+    "name": "Magic 828",
+    "streamUrl": "http://cast.fabrik.fm:8106/",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za77",
+    "name": "LM Radio South Africa",
+    "streamUrl": "http://cast.fabrik.fm:8008/",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za78",
+    "name": "Springbok Radio",
+    "streamUrl": "https://springbokradio.xyz:8443/main",
+    "imageUrl": "__________________________",
+    "genre": "genre_retro",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za79",
+    "name": "Pan African Space Station",
+    "streamUrl": "https://pass.out.airtime.pro/pass_a",
+    "imageUrl": "__________________________",
+    "genre": "genre_jazz",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za80",
+    "name": "Capital Radio 604",
+    "streamUrl": "https://stream.galaxywebsolutions.com/proxy/capitalradio604?mp=%2Fstream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph142",
-    "name": "POP Radio Philippines",
-    "streamUrl": "http://ssl.geckohost.nz:9267/stream",
+    "id": "za81",
+    "name": "IFM 102.2",
+    "streamUrl": "http://s7.voscast.com:9538/stream1700094931336/1",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph143",
-    "name": "V81 Radio",
-    "streamUrl": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
+    "id": "za82",
+    "name": "Express FM Digital",
+    "streamUrl": "http://198.7.59.28:34235/stream",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph144",
-    "name": "Bestfriend FM",
-    "streamUrl": "http://stream.zeno.fm/aqjyy8xcampuv",
+    "id": "za83",
+    "name": "Kasie FM",
+    "streamUrl": "https://s44.myradiostream.com/9128/listen.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph145",
-    "name": "Bliss 74.7 Cebu",
-    "streamUrl": "https://stream.blissradio.net/radio/8000/radio.mp3",
+    "id": "za84",
+    "name": "Luister FM",
+    "streamUrl": "http://stream2.luisterfm.co.za:8000/LuisterFM",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za85",
+    "name": "Radio Fynbos - Stilbaai",
+    "streamUrl": "https://stream-152.zeno.fm/w0cyqt4cyy8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za86",
+    "name": "JouRadio",
+    "streamUrl": "https://audio-edge-qse4n.yyz.g.radiomast.io/a425e29b-a485-4b55-9e77-a501be8d1ee7",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za87",
+    "name": "Loca FM",
+    "streamUrl": "https://s3.we4stream.com:2020/stream/locafm",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za88",
+    "name": "African Praise Radio",
+    "streamUrl": "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za89",
+    "name": "Rainbow Gospel Radio",
+    "streamUrl": "http://102.130.114.184:8000/Stream/1",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za90",
+    "name": "GospelBlues Radio",
+    "streamUrl": "https://gospelblues365.com/listen/gospelbluesradio/radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_blues",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za91",
+    "name": "TruLight Radio XM",
+    "streamUrl": "http://46.105.122.141:9438/listen.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za92",
+    "name": "Afrobeat N1 FM",
+    "streamUrl": "https://streamer.radio.co/s919e54210/listen",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za93",
+    "name": "Heaven FM",
+    "streamUrl": "https://stream.zeno.fm/eequgfw72hhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za94",
+    "name": "TAMBO FM",
+    "streamUrl": "https://listen.radioking.com/radio/326599/stream/374668",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za95",
+    "name": "Maluti FM",
+    "streamUrl": "https://cast3.my-control-panel.com/proxy/malutifm/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za96",
+    "name": "Mdantsane FM 89.5",
+    "streamUrl": "http://148.251.43.149:8134/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za97",
+    "name": "BOX Chillwave",
+    "streamUrl": "https://boxradio-edge-00.streamafrica.net/chillwave",
     "imageUrl": "__________________________",
     "genre": "genre_relax",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph146",
-    "name": "Star FM Zamboanga",
-    "streamUrl": "https://stream.zeno.fm/r5m3pfd29heuv",
+    "id": "za98",
+    "name": "BOX Dreamscapes",
+    "streamUrl": "https://boxradio-edge-00.streamafrica.net/dreamscapes",
     "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_philippines"
+    "genre": "genre_relax",
+    "country": "country_south_africa"
   },
   {
-    "id": "ph147",
-    "name": "DXKI Strong Radio 90.3",
-    "streamUrl": "http://67.212.238.178:7007/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_philippines"
-  },
-  {
-    "id": "ph148",
-    "name": "Troy FM",
-    "streamUrl": "https://live.streamguys1.com:2385/troy1",
+    "id": "za99",
+    "name": "Megazone Bollywood",
+    "streamUrl": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph149",
-    "name": "Atlantis Radio PH",
-    "streamUrl": "https://us2.amfmph.com:8080/stream",
+    "id": "za100",
+    "name": "Radio Namaste",
+    "streamUrl": "https://vm65162.streamerr.co/listen/radio_namaste/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
   },
   {
-    "id": "ph150",
-    "name": "V Hive Radio",
-    "streamUrl": "http://192.99.8.192:3154/vhiveradiostream",
+    "id": "za101",
+    "name": "Radio Yaadein",
+    "streamUrl": "https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_philippines"
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za102",
+    "name": "Radio Vilakku",
+    "streamUrl": "https://vm65162.streamerr.co/listen/radio_vilakku/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za103",
+    "name": "Mirumba Ya Nwali FM",
+    "streamUrl": "https://stream.zeno.fm/1j5vimjy9vptv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78875/logo_rzOeLnXXAB.png",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za104",
+    "name": "RockyBay Radio",
+    "streamUrl": "https://a1.asurahosting.com:9050/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78894/logo_V7hAeAUXK6.png",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za105",
+    "name": "Latest Makompo Radio",
+    "streamUrl": "https://stream.zeno.fm/aqmv0yuox7duv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78915/logo_n8ZjotWHfY.png",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za106",
+    "name": "Wingerd FM",
+    "streamUrl": "https://cast5.asurahosting.com/proxy/wingerdf/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78919/logo_OZMKznFkD5.png",
+    "genre": "genre_folk",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za107",
+    "name": "Sunset Stereo Radio",
+    "streamUrl": "https://c18.radioboss.fm:8697/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78846/logo_UcxGsk3eHP.png",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za108",
+    "name": "True Love Radio Sneh",
+    "streamUrl": "https://stream.zeno.fm/5qi3nzgg871tv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78913/logo_GQnh3M4Iy4.png",
+    "genre": "genre_relax",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za109",
+    "name": "Rusty FM 99.4",
+    "streamUrl": "https://stream.zeno.fm/z0e9ftkgyulvv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78922/logo_Al7T0j6Q2n.png",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za110",
+    "name": "Agape Radio",
+    "streamUrl": "https://stream.zeno.fm/rlrdkgnkuzctv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78781/logo_0Q5M8Fq60W.png",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za111",
+    "name": "Hero Radio South Africa",
+    "streamUrl": "https://a2.asurahosting.com:6790/southafrica.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78899/logo_wDElQAqfm3.png",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za112",
+    "name": "Bojanala FM",
+    "streamUrl": "https://stream.zeno.fm/7mllw1kuruptv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78920/logo_SoPWYWQbFd.png",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za113",
+    "name": "Bay Community Radio",
+    "streamUrl": "https://eu1.fastcast4u.com/proxy/vpradioglobal?mp=%2F1",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78895/logo_TCsmYy3EVa.png",
+    "genre": "genre_info",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za114",
+    "name": "011 Radio",
+    "streamUrl": "https://sv2.famcast.co.za/stream/011_radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za115",
+    "name": "Die Waarheid Radio",
+    "streamUrl": "http://eu10.fastcast4u.com:12340/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za116",
+    "name": "TransWorldRadio Music",
+    "streamUrl": "https://radio.eclipse-streaming.co.za/listen/the_better_dot_fm/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za117",
+    "name": "Plaas Radio",
+    "streamUrl": "https://radio.eclipse-streaming.co.za/hls/plaas_radio/live.m3u8",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za118",
+    "name": "Radio Hallelujah",
+    "streamUrl": "https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za119",
+    "name": "RadioCross",
+    "streamUrl": "https://gospelblues365.com/listen/radiocross/radiocross.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za120",
+    "name": "Merafong 360 Online Radio",
+    "streamUrl": "https://sv2.famcast.co.za/stream/merafong",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za121",
+    "name": "Urban Fusion Radio",
+    "streamUrl": "http://stream.zeno.fm/wcy3kh4pqv8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za122",
+    "name": "Radio Turf",
+    "streamUrl": "https://iceant.eclipse-streaming.co.za/radio-turf.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za123",
+    "name": "Diamond Radio",
+    "streamUrl": "https://vm65162.streamerr.co/listen/diamond_fm/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za124",
+    "name": "EVR",
+    "streamUrl": "https://radio.eclipse-streaming.co.za/listen/evr/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za125",
+    "name": "The Grind Radio",
+    "streamUrl": "https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hiphop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za126",
+    "name": "Melkies Radio",
+    "streamUrl": "https://radio2.eclipse-streaming.co.za/listen/melkies/radio.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za127",
+    "name": "Pitch Radio",
+    "streamUrl": "http://stream.zeno.fm/etw8vx9knm0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_sport",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za128",
+    "name": "Viva Nation Radio",
+    "streamUrl": "https://servidor34-3.brlogic.com:7056/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_dance",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za129",
+    "name": "Gaan Groot Radio",
+    "streamUrl": "https://14223.live.streamtheworld.com/SP_R2982692_SC",
+    "imageUrl": "__________________________",
+    "genre": "genre_kids",
+    "country": "country_south_africa"
+  },
+  {
+    "id": "za130",
+    "name": "Jou Stasie",
+    "streamUrl": "http://uslradio.net:8010/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_south_africa"
   }
 ]
