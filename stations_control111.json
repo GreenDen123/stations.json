@@ -1,730 +1,802 @@
 [
   {
-    "id": "zm1",
-    "name": "5fm Radio Zambia",
-    "streamUrl": "http://ca9.rcast.net:8014/stream.mp3",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/radio-5fm.webp?v=1783497601",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm4",
-    "name": "Breeze FM Zambia",
-    "streamUrl": "http://178.netromedia.com:8000/BreezeFM",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/breeze-fm-zambia.webp?v=1783497601",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm6",
-    "name": "Choice FM Zambia",
-    "streamUrl": "https://stream-178.surfernetwork.com/gnnxkchct0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnbm54a2NoY3QwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJWcWxQV180R1N4aXh6Ml9aR1l1WWxRIiwiaWF0IjoxNzgzNTAwNjAwLCJleHAiOjE3ODM1MDA2NjB9.lVZAlnYNALMr2HWnJwVKywTSsZM3wIZMjqLVZx6G-9k&acu-uid=1438888898769&dyn-uid=4931213401204820528&an-uid=69987459409159035&eps-uid=AQAJFvgGnuyK4gEBAQEAAQEBAQEBAQEBAQEBAQEBAJ4LSGMC&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3Ace7d183c-65f1-427c-ac44-216cae8c399b&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=82535655ab890de792415c40770a009b",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/OI5axP6DtZTP_arx5TWr0RupzJZ1HQAqAcKUVKCr6zI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEtOVB0cXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREk5WnZKM1FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2Mjc5MDcxMzAwMA.webp",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm7",
-    "name": "Classic Woods 98.9 FM",
-    "streamUrl": "https://stream-179.surfernetwork.com/hkg9a439g0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoa2c5YTQzOWcwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJVVDd0bXJIeFJOR1B0RHBXVm5iTThRIiwiaWF0IjoxNzgzNTAwNjk3LCJleHAiOjE3ODM1MDA3NTd9.rmUjbPDK405kc7TP8MfwFobFt9CV82POhv3Z7FxHRd4",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/classic-woods-989-fm.webp?v=1783497601",
-    "genre": "genre_clasic",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm8",
-    "name": "Culture Radio 105.7FM",
-    "streamUrl": "https://ec4.yesstreaming.net:1555/stream",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/culture-radio-1057-fm.webp?v=1783497601",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm10",
-    "name": "Hot 87,7 FM",
-    "streamUrl": "https://28573.live.streamtheworld.com/RADIO_PHOENIXAAC_SC",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/hot-fm.webp?v=1783497601",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm11",
-    "name": "Oblate Radio Liseli",
-    "streamUrl": "https://node.stream-africa.com:8443/OblateRadioLiseli",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/OStX0NKAuSvv2UN2CFe_YzUmyN_PntdyinHtjrC4oMk/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZWRjY2Q3ZDMtMTMwNS00Y2MwLWE5MjktOTBiNGE1NWQwZDFmL2ltYWdlLz91PTE2ODkzMDc2NTkwMDA.webp",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm12",
-    "name": "Phoenix FM",
-    "streamUrl": "http://29083.live.streamtheworld.com/RADIO_PHOENIXAAC.aac",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/radio-phoenix.webp?v=1783497601",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm13",
-    "name": "Power FM Zambia",
-    "streamUrl": "http://41.60.195.11:8000/stream.ogg",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/power-fm.webp?v=1783497601",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm14",
-    "name": "Q FM Lusaka",
-    "streamUrl": "http://s3.myradiostream.com:7620/listen.m4a",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/q-fm-zambia.webp?v=1783497601",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm15",
-    "name": "Radio Christian Voice radio",
-    "streamUrl": "https://streaming.shoutcast.com/rcv",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/radio-christian-voice.webp?v=1783497601",
+    "id": "cg1",
+    "name": "2S GOSPEL",
+    "streamUrl": "https://stream.zeno.fm/vhh78wntrnhvv",
+    "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm16",
-    "name": "Radio Icengelo",
-    "streamUrl": "http://108.59.9.147:8440/stream?type=http&ampnocache=47",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/nB3QvqA054kwY16N4kMKHWT_Sh4Vm-LVGHykfQdstoU/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOWFlZGIyMzktM2RmMi00YzU3LWEyNjAtNTYxMmUwMWFhYzdiL2ltYWdlLz91PTE3MzQ1OTQ0MTQwMDA.webp",
-    "genre": "genre_religious",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm17",
-    "name": "Radio Mano 89.3 FM",
-    "streamUrl": "https://stream-175.surfernetwork.com/ykxzsne4zkvuv",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/radio-mano-893fm.webp?v=1783497601",
+    "id": "cg2",
+    "name": "Antenna Web Kinshasa",
+    "streamUrl": "https://italiavera.radioca.st/stream",
+    "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm18",
-    "name": "Radio Maria Zambia",
-    "streamUrl": "http://dreamsiteradiocp5.com:8008/stream/",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/radio-maria.webp?v=1783497601",
+    "id": "cg3",
+    "name": "B ONE RADIO",
+    "streamUrl": "http://188.165.202.221:8296",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg4",
+    "name": "BB Média",
+    "streamUrl": "https://stream.zeno.fm/3xkd6t2acshvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg5",
+    "name": "BLESSING FM 89.3 MHz",
+    "streamUrl": "https://stream.zeno.fm/qgfsavtqhm8uv",
+    "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm19",
-    "name": "Spice FM 91.1 Zambia",
-    "streamUrl": "https://tune.tunzilla.com/http://live.rcast.net:8768/;stream.mp3",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/spice-fm-zambia.webp?v=1783497601",
+    "id": "cg6",
+    "name": "Buzz FM 97.4",
+    "streamUrl": "https://edge.iono.fm/xhls/254_medium.m3u8",
+    "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm20",
-    "name": "Sun FM Zambia",
-    "streamUrl": "http://11233.cloudrad.io:9102/live",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/sun-fm-zambia.webp?v=1783497601",
-    "genre": "genre_hits",
-    "country": "country_zambia"
+    "id": "cg7",
+    "name": "Church of God",
+    "streamUrl": "https://stream.zeno.fm/x6rh7zuqcphvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
   },
   {
-    "id": "zm21",
-    "name": "ZNBC - Radio 4",
-    "streamUrl": "http://178.32.146.186:5183/stream",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/znbc-radio-4.webp?v=1783497601",
+    "id": "cg8",
+    "name": "Congo Planet Radio",
+    "streamUrl": "https://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3?ID=76zqey582k",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg9",
+    "name": "Congo Planete",
+    "streamUrl": "http://radio.congoplanet.com/Congo_Planet_Radio",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg10",
+    "name": "Congonet Radio",
+    "streamUrl": "http://199.195.194.94:8007/",
+    "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm22",
-    "name": "ZNBC R1 - ZNBC One",
-    "streamUrl": "http://eu6.fastcast4u.com:5046/stream",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/znbc-radio-1.webp?v=1783497601",
+    "id": "cg11",
+    "name": "Dream FM",
+    "streamUrl": "https://stream-47.zeno.fm/fggeivo12mruv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg12",
+    "name": "Ekosimba FM",
+    "streamUrl": "https://stream.zeno.fm/kvqbhgn0m18uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg13",
+    "name": "Elim FM",
+    "streamUrl": "http://www.radioking.com/play/elimfm/451498",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg14",
+    "name": "Fnrc",
+    "streamUrl": "https://stream.zeno.fm/5sfvi5kdzghtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg15",
+    "name": "Geant Radio",
+    "streamUrl": "https://servidor31.brlogic.com:7070/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg16",
+    "name": "Goma Webradio",
+    "streamUrl": "http://node-30.zeno.fm/4d61wprrp7zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg17",
+    "name": "Great gospel Radio",
+    "streamUrl": "https://stream.zeno.fm/322yq852tk8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg18",
+    "name": "Hero Radio (Congo)",
+    "streamUrl": "https://a2.asurahosting.com:6790/congo.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg19",
+    "name": "Interkinois Gospel",
+    "streamUrl": "https://cast4.asurahosting.com/proxy/deograt2/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg20",
+    "name": "Interkinois Radio",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/deograt1/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg21",
+    "name": "Jua RDC FM",
+    "streamUrl": "https://stream.zeno.fm/8hss37ecmlnuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg22",
+    "name": "Kaïros FM",
+    "streamUrl": "https://stream.zeno.fm/r8mecgrg2k0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg23",
+    "name": "Kongo FM",
+    "streamUrl": "https://stream.zeno.fm/eqpgqu4h1c9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg24",
+    "name": "Kultura FM",
+    "streamUrl": "https://yohanfm.ice.infomaniak.ch/yohanfm-128.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg25",
+    "name": "Light FM Kinshasa",
+    "streamUrl": "https://listen.radioking.com/radio/485195/stream/541826",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg26",
+    "name": "Limeta FM",
+    "streamUrl": "https://stream.zeno.fm/i6ekufmm9potv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg27",
+    "name": "Millenium Radio",
+    "streamUrl": "http://stream.zeno.fm/471pmgfd5f8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg28",
+    "name": "OCEAN FM",
+    "streamUrl": "https://stream.zeno.fm/wnawq794tk8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg29",
+    "name": "Ouragan FM",
+    "streamUrl": "http://radio.ouraganfm.cd/radio/8010/ouraganfm.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg30",
+    "name": "Pana Radio",
+    "streamUrl": "https://node-04.zeno.fm/dnw3x5tqpc9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg31",
+    "name": "Pole FM",
+    "streamUrl": "http://hostheberge.net:3000/stream.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg32",
+    "name": "R2C.FM Radio Congo Culture",
+    "streamUrl": "https://listen.radioking.com/radio/254017/stream/402964",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg33",
+    "name": "Radio Africa Online",
+    "streamUrl": "http://136.0.17.26:8000/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg34",
+    "name": "RADIO BERCAIL",
+    "streamUrl": "https://stream.zeno.fm/hw57y9btnd0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg35",
+    "name": "Radio Bosembo",
+    "streamUrl": "http://37.59.42.207:8016/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg36",
+    "name": "Radio Digital Congo Net",
+    "streamUrl": "http://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg37",
+    "name": "RADIO DON BOSCO LUBUMBASHI",
+    "streamUrl": "https://stream.zeno.fm/akwz64cfjpfuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg38",
+    "name": "Radio ECC",
+    "streamUrl": "http://nr8.newradio.it:9038/live",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg39",
+    "name": "RADIO ETENDARD DU MIDI",
+    "streamUrl": "https://stream.zeno.fm/34oimqiepygtv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg40",
+    "name": "Radio FAC FM",
+    "streamUrl": "https://stream.zeno.fm/ztk2vgszurhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg41",
+    "name": "Radio Gospel Time 242",
+    "streamUrl": "https://stream.zeno.fm/nvnd7h8sef9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg42",
+    "name": "Radio Ibufuliiru",
+    "streamUrl": "https://stream.zeno.fm/12wy8g96ed0uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg43",
+    "name": "RADIO KASAI 24",
+    "streamUrl": "https://stream.zeno.fm/3tmacnspxhhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg44",
+    "name": "Radio KIn One",
+    "streamUrl": "https://stream.zeno.fm/9bxukee2pnhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg45",
+    "name": "Radio Kivu 1",
+    "streamUrl": "http://serveur2.wanastream.com:25000/stream/1/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg46",
+    "name": "Radio Lisolo",
+    "streamUrl": "https://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg47",
+    "name": "Radio Mandeleo",
+    "streamUrl": "https://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg48",
+    "name": "Radio Maniema Libertes",
+    "streamUrl": "https://stream.zeno.fm/qzr1hds7rs8uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg49",
+    "name": "Radio Maria 88.7 FM radio",
+    "streamUrl": "http://dreamsiteradiocp.com:8120/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg50",
+    "name": "Radio Maria Congo Centrale",
+    "streamUrl": "http://dreamsiteradiocp2.com:8114/stream/",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg51",
+    "name": "Radio Maria DRC Bukavu",
+    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmcongrdcbuk?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg52",
+    "name": "Radio Maria DRC Goma",
+    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmcongogoma?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg53",
+    "name": "Radio Maria DRC Lubumbashi",
+    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmlubumbashirdc?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg54",
+    "name": "Radio Maria DRC Matadi",
+    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmcongomatadi?mp=/stream",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg55",
+    "name": "Radio Mix Congolaise",
+    "streamUrl": "http://37.59.42.207:8080/",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg56",
+    "name": "Radio Moto",
+    "streamUrl": "http://radio4.pro-fhi.net/live/RadioMotoButemboBeni",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg57",
+    "name": "Radio Mucodec",
+    "streamUrl": "http://cdnradio.streamakaci.com/radiomucodec.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg58",
+    "name": "Radio Ngoma",
+    "streamUrl": "http://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_folk",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg59",
+    "name": "Radio Oasis",
+    "streamUrl": "https://listen.radioking.com/radio/486935/stream/543647",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg60",
+    "name": "Radio Okapi",
+    "streamUrl": "http://rs1.radiostreamer.com:8000/",
+    "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm23",
-    "name": "Antenna Web Lusaka Radio",
-    "streamUrl": "https://halo.streamerr.co/listen/italiavera/stream.mp3",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/134855.v1.png",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm24",
-    "name": "Breeze FM Chipata",
-    "streamUrl": "http://breezefmchipata.com/wp-content/uploads/2016/09/Chitute-ndi-Ana-Ake.mp3",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/breeze-fm-zambia.webp?v=1783501201",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm25",
-    "name": "Dj C Money Zambian Music",
-    "streamUrl": "https://stream-175.surfernetwork.com/gcrgt7k361zuv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/u9AAWzcaHHHyZsGly5iZ9RzCofATfJf2TQLpWlAuXNA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FvWjZRaXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1E0ZWFJdXdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0OTE0NjAwMA.webp",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm30",
-    "name": "Harmony FM Zambia Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/efrqan8mpqcuv",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/harmony-fm-zambia.webp?v=1783501201",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm31",
-    "name": "Hero Radio (Zambia)",
-    "streamUrl": "https://a2.asurahosting.com:6790/zambia.mp3",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/139076.v1.png",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm32",
-    "name": "High Energy FM ZAMBIA",
-    "streamUrl": "https://stream-177.surfernetwork.com/p9ylgm6aiiovv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/dgGJ3Eoync0VhNqtC1vx7O1nCkXqmly-056JNzcsbKM/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZWZkNDA2NDQtMDNmYy00M2U0LWI2NGQtMDUzZjkyZDkxNjk1L2ltYWdlLz91PTE2NjMzMDM1NjMwMDA.webp",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm34",
-    "name": "Hope FM Zambia",
-    "streamUrl": "http://carina.streamerr.co:8078/stream",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/hope-fm-zambia.webp?v=1783501201",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm35",
-    "name": "I am Catholic Zambia",
-    "streamUrl": "http://ec4.yesstreaming.net:2010/stream",
-    "imageUrl": "https://cdn.radoxo.com/images/zambia/i-am-catholic-zambia-online-radio.webp?v=1783501201",
-    "genre": "genre_religious",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm36",
-    "name": "Islamic radio Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/fsqzyobkykvtv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/LSTcTbc8SzQbV_AUMMCIPXiB_miGoRAcnBPbbvACJbY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWE5ODIxMmQtMDJjOC00NTgwLTk3YWItN2ViOTUyYWMyMWY5L2ltYWdlLz91PTE3NzQ0NjM3OTkwMDA.webp",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm37",
-    "name": "JACOBS FM ZAMBIA",
-    "streamUrl": "https://stream-175.surfernetwork.com/psk4viw3f7itv",
-    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/I_8ob4ELzL-fLZ6vI2O-TfLYthg7B8t7w3HXYZfwfpY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzE4M2ViN2UtMzUyNC00NWI3LTkyNWQtMjkxMDA3YTI4OGZlL2ltYWdlLz91PTE2Nzk1NTUzNzgwMDA.webp",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm38",
-    "name": "JET FM ZAMBIA",
-    "streamUrl": "https://stream-175.surfernetwork.com/44b97qv2q98uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm39",
-    "name": "JET FM ZAMBIA – Monze",
-    "streamUrl": "http://stream.zeno.fm/85xzbrv2q98uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm40",
-    "name": "Joy FM Zambia radio",
-    "streamUrl": "https://s40.myradiostream.com/22890/listen.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm41",
-    "name": "Kasama Radio",
-    "streamUrl": "https://stream-152.zeno.fm/n1p3a2urh98uv?zs=h6b4tL8lRF-mHN0T1vnlGQ",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm42",
-    "name": "Kasama radio limited",
-    "streamUrl": "https://stream-175.surfernetwork.com/n1p3a2urh98uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm43",
-    "name": "LIFE BOAT GOSPEL ZAMBIA",
-    "streamUrl": "https://stream-175.surfernetwork.com/5vyvmv0rw2xvv",
+    "id": "cg61",
+    "name": "Radio Pourim",
+    "streamUrl": "https://zoka.radioca.st",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm44",
-    "name": "Life Boat Radio Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/qphk6yugfg8uv",
+    "id": "cg62",
+    "name": "Radio Renaissance Africaine",
+    "streamUrl": "https://stream.zeno.fm/gan20g44vv8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm45",
-    "name": "Lil Vee Zambia Music",
-    "streamUrl": "https://stream-175.surfernetwork.com/yc6sb5pk9hhvv",
+    "id": "cg63",
+    "name": "Radio Salut du Peuple",
+    "streamUrl": "https://stream.zeno.fm/hghk6pfghg0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm46",
-    "name": "Lusaka Music Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/sy4zkumfs7zuv",
+    "id": "cg64",
+    "name": "Radio Sans Effet",
+    "streamUrl": "http://usa1.coollabel-productions.com:8032/",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
+    "genre": "genre_news",
+    "country": "country_congo"
   },
   {
-    "id": "zm47",
-    "name": "Lusaka radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/poon7aazretuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm48",
-    "name": "MakeWay Radio Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/ugvspg93198uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm49",
-    "name": "Miracle FM Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/ppbat9dw3e2uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm50",
-    "name": "Nzelu FM – Luanshya",
-    "streamUrl": "http://stream.zeno.fm/rr2feh2ud5zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm51",
-    "name": "Parliament Radio 92.6",
-    "streamUrl": "http://streamer.parliament.gov.zm:8063/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm52",
-    "name": "Peopos Radio Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/ds42v3ktp0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm53",
-    "name": "Radio Maranatha Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/53rwctt3vrquv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm54",
-    "name": "RISE FM ZAMBIA",
-    "streamUrl": "https://stream-175.surfernetwork.com/k1nw38b9u0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm55",
-    "name": "Rock FM Zambia",
-    "streamUrl": "http://99.198.118.250:8238/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_rock",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm56",
-    "name": "Roots FM Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/s7d1prkfbxhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm57",
-    "name": "S - Light FM  Zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/01vd8ypmsuhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm58",
-    "name": "Smooth FM Zambia",
-    "streamUrl": "https://s25.myradiostream.com/:15172/listen.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_relax",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm59",
-    "name": "TIMEZ FM RADIO-LUANSHYA",
-    "streamUrl": "https://stream-175.surfernetwork.com/uywqymspdg8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm60",
-    "name": "Tiya Zambia Online",
-    "streamUrl": "https://stream-175.surfernetwork.com/713rsd7n6s8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm61",
-    "name": "Tzgospel zambia",
-    "streamUrl": "https://stream-175.surfernetwork.com/fsq2tn95schvv",
+    "id": "cg65",
+    "name": "Radio Sauti ya Matumaini",
+    "streamUrl": "https://stream.zeno.fm/ku43fx9vhm0uv",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm62",
-    "name": "Urban Fm Zambia",
-    "streamUrl": "http://node-09.zeno.fm/eevbnhqc1k8uv",
+    "id": "cg66",
+    "name": "Radio Tayna",
+    "streamUrl": "http://stream-50.zeno.fm/ide8zzvajbcvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg67",
+    "name": "RADIO TCL",
+    "streamUrl": "https://stream.zeno.fm/6caxeutwqyzuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg68",
+    "name": "RADIO TELEVISION ARMEE DU SALUT",
+    "streamUrl": "https://stream.zeno.fm/ap26344pmkhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg69",
+    "name": "RADIO TELEVISION ARMEE DU SALUT - RTAS CONGO",
+    "streamUrl": "https://stream.zeno.fm/k7fy7ha5u0hvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg70",
+    "name": "Radio TV Bendele",
+    "streamUrl": "http://s6.voscast.com:8144/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg71",
+    "name": "Radio TV Bosomi Net",
+    "streamUrl": "http://94.23.209.107:8018/",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg72",
+    "name": "RADIO UNIVERSITAIRE PROTESTANTE (RUP)",
+    "streamUrl": "https://stream.zeno.fm/xy2vrpyrsnhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg73",
+    "name": "Radio Yetu",
+    "streamUrl": "https://stream.zeno.fm/he0cphef5zhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg74",
+    "name": "Radiokatiopa",
+    "streamUrl": "http://37.59.42.207:8182/stream.nsv",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg75",
+    "name": "Ratelki",
+    "streamUrl": "http://www.ratelki.net/version/ep_player/mp3/welcome.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg76",
+    "name": "RMCA",
+    "streamUrl": "http://edge.iono.fm/xice/142_medium.aac",
+    "imageUrl": "__________________________",
+    "genre": "genre_pop",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg77",
+    "name": "RTNC RD Congo - Radio Télé Nationale du Congo RD",
+    "streamUrl": "https://stream.zeno.fm/ef7xsb7gkf9uv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg78",
+    "name": "Shuga Radio",
+    "streamUrl": "http://radio.ready2play.fr:1280/stream",
     "imageUrl": "__________________________",
     "genre": "genre_hiphop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm63",
-    "name": "Wave FM Zambia",
-    "streamUrl": "http://s23.myradiostream.com:17458/listen.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm64",
-    "name": "ZambianHits Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/nkcp8g2ud5zuv",
+    "id": "cg79",
+    "name": "Simba FM",
+    "streamUrl": "https://stream-44.zeno.fm/99sw3kybt7zuv",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm65",
-    "name": "3 FM 97.3 Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/ptcaabvnp62tv",
+    "id": "cg80",
+    "name": "SN RADIO",
+    "streamUrl": "https://stream.zeno.fm/99sw3kybt7zuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm66",
-    "name": "360 mbk",
-    "streamUrl": "https://stream-175.surfernetwork.com/m577k1drwxhvv",
+    "id": "cg81",
+    "name": "Studio RTB",
+    "streamUrl": "http://198.178.123.23:7156/stream.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm67",
-    "name": "3DTitanX",
-    "streamUrl": "https://stream-175.surfernetwork.com/wsd38y4bxnhvv",
+    "id": "cg82",
+    "name": "Tempo Radio Congo",
+    "streamUrl": "http://www.radioking.com/play/tempo-radio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm68",
-    "name": "3Gies Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/jvwirqsvb8puv",
+    "id": "cg83",
+    "name": "Top Congo FM",
+    "streamUrl": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg84",
+    "name": "Trace FM",
+    "streamUrl": "https://stream.rcs.revma.com/u98b8f5q54zuv",
+    "imageUrl": "__________________________",
+    "genre": "genre_hits",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg85",
+    "name": "Tshopo Kwetu FM",
+    "streamUrl": "https://stream.zeno.fm/y70zxn4xra0uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm69",
-    "name": "4KAS FM",
-    "streamUrl": "https://stream-175.surfernetwork.com/h7gldrixgdbvv",
+    "id": "cg86",
+    "name": "TZGOSPEL congo",
+    "streamUrl": "https://stream.zeno.fm/1ebvk6e9cchvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_religious",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg87",
+    "name": "UB-FM",
+    "streamUrl": "http://s2.voscast.com:11280/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm70",
-    "name": "AbrahamrevolutionaryFM",
-    "streamUrl": "https://stream-175.surfernetwork.com/g806f4gk638uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm71",
-    "name": "AcaFest Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/qu61ms62h0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm72",
-    "name": "adsadsa",
-    "streamUrl": "https://stream-175.surfernetwork.com/pu5nwk03kuhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm73",
-    "name": "Adu News – Zambezi",
-    "streamUrl": "http://stream.zeno.fm/s1af1zqg7e9uv",
+    "id": "cg88",
+    "name": "UDPS RADIO",
+    "streamUrl": "http://37.59.42.207:9194/",
     "imageUrl": "__________________________",
     "genre": "genre_news",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm74",
-    "name": "AFRICAN MEDIA",
-    "streamUrl": "https://stream-175.surfernetwork.com/v5hstkakha0uv",
+    "id": "cg89",
+    "name": "Urban FM",
+    "streamUrl": "https://urbanfm.ice.infomaniak.ch/urbanfm-128.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
+    "genre": "genre_hiphop",
+    "country": "country_congo"
   },
   {
-    "id": "zm75",
-    "name": "africanmusichits radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/6qrnay9yng8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm76",
-    "name": "Afrivibe",
-    "streamUrl": "https://stream-175.surfernetwork.com/5f92pxypxrhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm77",
-    "name": "Afrozam Radio",
-    "streamUrl": "https://s3.radio.co/sf56cb21bf/listen",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm78",
-    "name": "Aidler",
-    "streamUrl": "https://stream-175.surfernetwork.com/kq06ms4kq2zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm79",
-    "name": "AINET fm",
-    "streamUrl": "https://stream-175.surfernetwork.com/ggpn1gbj3pguv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm80",
-    "name": "AIR PRIME RADIO THE POWER OF MIND",
-    "streamUrl": "https://stream-175.surfernetwork.com/uz6q1b6c2hhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm81",
-    "name": "Alvahfm",
-    "streamUrl": "https://stream-175.surfernetwork.com/rpvhc62k9hhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm82",
-    "name": "Anointed Voice FM Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/xiih9uyj16jvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm83",
-    "name": "AYAMUSICHITZ RADIO",
-    "streamUrl": "https://stream-175.surfernetwork.com/r43payw5pf9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm84",
-    "name": "Bantu FM Live",
-    "streamUrl": "https://cheetah.streemlion.com:2595/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm85",
-    "name": "BATOKA RADIO",
-    "streamUrl": "https://stream-175.surfernetwork.com/c3iwlzqqeofvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm86",
-    "name": "BFM Automation",
-    "streamUrl": "https://stream-175.surfernetwork.com/ty22fpfe838uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm87",
-    "name": "Blitz FM",
-    "streamUrl": "https://stream-175.surfernetwork.com/fk0403puqfhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm88",
-    "name": "Bread of Life Church International Radio",
-    "streamUrl": "http://192.99.20.78:9026/stream",
+    "id": "cg90",
+    "name": "WATOTO RADIO",
+    "streamUrl": "https://stream.zeno.fm/xwx18us91k8uv",
     "imageUrl": "__________________________",
     "genre": "genre_religious",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm89",
-    "name": "BwoyTvlk_Whats Koocin",
-    "streamUrl": "https://stream-175.surfernetwork.com/5f0bmpk6a48uv",
+    "id": "cg91",
+    "name": "Congo Planète Radio",
+    "streamUrl": "https://radio.congoplanet.com/Congo_Planet_Radio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm90",
-    "name": "Byta FM Radio 90.3",
-    "streamUrl": "https://s13.myradiostream.com/:38946/listen.mp3",
+    "id": "cg92",
+    "name": "11 Industry Radio",
+    "streamUrl": "https://stream.zeno.fm/59su8g49prhvv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm91",
-    "name": "Cafe Del Mar Радио - RadioSpinner",
-    "streamUrl": "https://live.radiospinner.com/cdmr-64",
+    "id": "cg93",
+    "name": "A LA UNE RADIO",
+    "streamUrl": "https://stream.zeno.fm/7hgmwwq3ynhvv",
+    "imageUrl": "__________________________",
+    "genre": "genre_news",
+    "country": "country_congo"
+  },
+  {
+    "id": "cg94",
+    "name": "Africanet Radio",
+    "streamUrl": "http://199.195.194.94:8005/",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm92",
-    "name": "CALABASH FM",
-    "streamUrl": "https://stream-175.surfernetwork.com/nmapzsatfzzuv",
+    "id": "cg95",
+    "name": "Afrique 2 Radio",
+    "streamUrl": "https://stream.zeno.fm/631enq80mwzuv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm93",
-    "name": "Camilovillaa",
-    "streamUrl": "https://stream-175.surfernetwork.com/c39ibavqmwrvv",
+    "id": "cg96",
+    "name": "Alutins FM",
+    "streamUrl": "https://stream.zeno.fm/gk60mukx008uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm94",
-    "name": "Campus  FM",
-    "streamUrl": "https://stream-175.surfernetwork.com/vohkbyfwbpivv",
+    "id": "cg97",
+    "name": "Am radio",
+    "streamUrl": "https://stream.zeno.fm/rehut13esc9uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm95",
-    "name": "Campus Nkhani Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/avxpcz6fbkhvv",
+    "id": "cg98",
+    "name": "ASSOCIATION GNOSE CHRISTIQUE",
+    "streamUrl": "https://stream.zeno.fm/runkcn60zf8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm96",
-    "name": "Cams Gospel Radio",
-    "streamUrl": "https://stream-175.surfernetwork.com/t8wcp5axpv8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm97",
-    "name": "Capital FM 99.7",
-    "streamUrl": "https://stream-175.surfernetwork.com/a29c6wcv6hhvv",
+    "id": "cg99",
+    "name": "becofmtv",
+    "streamUrl": "https://stream.zeno.fm/3ituyl9czfotv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   },
   {
-    "id": "zm98",
-    "name": "Care FM",
-    "streamUrl": "https://stream-175.surfernetwork.com/q9yb9e4x4yzuv",
+    "id": "cg100",
+    "name": "BEROYA FM",
+    "streamUrl": "https://node-23.zeno.fm/2k63h8q4tk8uv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm99",
-    "name": "Chaiwa Media",
-    "streamUrl": "https://stream-175.surfernetwork.com/66r0mb9b998uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
-  },
-  {
-    "id": "zm100",
-    "name": "Chama FM",
-    "streamUrl": "http://chamafm.ddns.net:8080/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_zambia"
+    "country": "country_congo"
   }
 ]
