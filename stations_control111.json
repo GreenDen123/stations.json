@@ -1,802 +1,530 @@
 [
   {
-    "id": "cg1",
-    "name": "2S GOSPEL",
-    "streamUrl": "https://stream.zeno.fm/vhh78wntrnhvv",
+    "id": "dz01",
+    "name": "Radio Algérienne Chaine 1 (القناة الأولى)",
+    "streamUrl": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76988/logo_qtop1VsIoL.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz02",
+    "name": "Radio Algérienne Chaine 2 (البربرية)",
+    "streamUrl": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77010/logo_fnSGpR4ybp.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz03",
+    "name": "Radio Algérienne Chaine 3",
+    "streamUrl": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76990/logo_dN9jrdCQj9.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz04",
+    "name": "Radio Algérienne Internationale",
+    "streamUrl": "https://rai.ice.infomaniak.ch/rai-64.aac",
     "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz05",
+    "name": "Radio Coran (القرآن الكريم)",
+    "streamUrl": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76998/logo_35BPp6jn0j.png",
     "genre": "genre_religious",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg2",
-    "name": "Antenna Web Kinshasa",
-    "streamUrl": "https://italiavera.radioca.st/stream",
+    "id": "dz06",
+    "name": "Radio El Bahdja FM",
+    "streamUrl": "https://elbahdja.ice.infomaniak.ch/elbahdja-64.aac",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg3",
-    "name": "B ONE RADIO",
-    "streamUrl": "http://188.165.202.221:8296",
-    "imageUrl": "__________________________",
+    "id": "dz07",
+    "name": "JIL FM (راديو الشباب)",
+    "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76994/logo_aoyqRn3Nuw.png",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg4",
-    "name": "BB Média",
-    "streamUrl": "https://stream.zeno.fm/3xkd6t2acshvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg5",
-    "name": "BLESSING FM 89.3 MHz",
-    "streamUrl": "https://stream.zeno.fm/qgfsavtqhm8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg6",
-    "name": "Buzz FM 97.4",
-    "streamUrl": "https://edge.iono.fm/xhls/254_medium.m3u8",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg7",
-    "name": "Church of God",
-    "streamUrl": "https://stream.zeno.fm/x6rh7zuqcphvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg8",
-    "name": "Congo Planet Radio",
-    "streamUrl": "https://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3?ID=76zqey582k",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg9",
-    "name": "Congo Planete",
-    "streamUrl": "http://radio.congoplanet.com/Congo_Planet_Radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg10",
-    "name": "Congonet Radio",
-    "streamUrl": "http://199.195.194.94:8007/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg11",
-    "name": "Dream FM",
-    "streamUrl": "https://stream-47.zeno.fm/fggeivo12mruv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg12",
-    "name": "Ekosimba FM",
-    "streamUrl": "https://stream.zeno.fm/kvqbhgn0m18uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg13",
-    "name": "Elim FM",
-    "streamUrl": "http://www.radioking.com/play/elimfm/451498",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg14",
-    "name": "Fnrc",
-    "streamUrl": "https://stream.zeno.fm/5sfvi5kdzghtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg15",
-    "name": "Geant Radio",
-    "streamUrl": "https://servidor31.brlogic.com:7070/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg16",
-    "name": "Goma Webradio",
-    "streamUrl": "http://node-30.zeno.fm/4d61wprrp7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg17",
-    "name": "Great gospel Radio",
-    "streamUrl": "https://stream.zeno.fm/322yq852tk8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg18",
-    "name": "Hero Radio (Congo)",
-    "streamUrl": "https://a2.asurahosting.com:6790/congo.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg19",
-    "name": "Interkinois Gospel",
-    "streamUrl": "https://cast4.asurahosting.com/proxy/deograt2/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg20",
-    "name": "Interkinois Radio",
-    "streamUrl": "https://cast3.asurahosting.com/proxy/deograt1/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg21",
-    "name": "Jua RDC FM",
-    "streamUrl": "https://stream.zeno.fm/8hss37ecmlnuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg22",
-    "name": "Kaïros FM",
-    "streamUrl": "https://stream.zeno.fm/r8mecgrg2k0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg23",
-    "name": "Kongo FM",
-    "streamUrl": "https://stream.zeno.fm/eqpgqu4h1c9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg24",
-    "name": "Kultura FM",
-    "streamUrl": "https://yohanfm.ice.infomaniak.ch/yohanfm-128.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg25",
-    "name": "Light FM Kinshasa",
-    "streamUrl": "https://listen.radioking.com/radio/485195/stream/541826",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg26",
-    "name": "Limeta FM",
-    "streamUrl": "https://stream.zeno.fm/i6ekufmm9potv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg27",
-    "name": "Millenium Radio",
-    "streamUrl": "http://stream.zeno.fm/471pmgfd5f8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg28",
-    "name": "OCEAN FM",
-    "streamUrl": "https://stream.zeno.fm/wnawq794tk8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg29",
-    "name": "Ouragan FM",
-    "streamUrl": "http://radio.ouraganfm.cd/radio/8010/ouraganfm.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg30",
-    "name": "Pana Radio",
-    "streamUrl": "https://node-04.zeno.fm/dnw3x5tqpc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg31",
-    "name": "Pole FM",
-    "streamUrl": "http://hostheberge.net:3000/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg32",
-    "name": "R2C.FM Radio Congo Culture",
-    "streamUrl": "https://listen.radioking.com/radio/254017/stream/402964",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg33",
-    "name": "Radio Africa Online",
-    "streamUrl": "http://136.0.17.26:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg34",
-    "name": "RADIO BERCAIL",
-    "streamUrl": "https://stream.zeno.fm/hw57y9btnd0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg35",
-    "name": "Radio Bosembo",
-    "streamUrl": "http://37.59.42.207:8016/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg36",
-    "name": "Radio Digital Congo Net",
-    "streamUrl": "http://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg37",
-    "name": "RADIO DON BOSCO LUBUMBASHI",
-    "streamUrl": "https://stream.zeno.fm/akwz64cfjpfuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg38",
-    "name": "Radio ECC",
-    "streamUrl": "http://nr8.newradio.it:9038/live",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg39",
-    "name": "RADIO ETENDARD DU MIDI",
-    "streamUrl": "https://stream.zeno.fm/34oimqiepygtv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg40",
-    "name": "Radio FAC FM",
-    "streamUrl": "https://stream.zeno.fm/ztk2vgszurhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg41",
-    "name": "Radio Gospel Time 242",
-    "streamUrl": "https://stream.zeno.fm/nvnd7h8sef9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg42",
-    "name": "Radio Ibufuliiru",
-    "streamUrl": "https://stream.zeno.fm/12wy8g96ed0uv",
+    "id": "dz08",
+    "name": "Radio Chaabia (الشعبية)",
+    "streamUrl": "https://radio-dzair.net/proxy/chaabia?mp=/stream",
     "imageUrl": "__________________________",
     "genre": "genre_folk",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg43",
-    "name": "RADIO KASAI 24",
-    "streamUrl": "https://stream.zeno.fm/3tmacnspxhhvv",
+    "id": "dz09",
+    "name": "Radio France Maghreb 2",
+    "streamUrl": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+    "imageUrl": "__________________________",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz10",
+    "name": "Radio Tizi Ouzou",
+    "streamUrl": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77027/logo_BkiuPEVoeo.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz11",
+    "name": "Antinea Radio",
+    "streamUrl": "https://listen.radioking.com/radio/6640/stream/347",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg44",
-    "name": "Radio KIn One",
-    "streamUrl": "https://stream.zeno.fm/9bxukee2pnhvv",
+    "id": "dz12",
+    "name": "Medradio",
+    "streamUrl": "https://streamer.eagrpservices.com/audio/medradio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg45",
-    "name": "Radio Kivu 1",
-    "streamUrl": "http://serveur2.wanastream.com:25000/stream/1/",
+    "id": "dz13",
+    "name": "MFM Radio",
+    "streamUrl": "https://streamer.eagrpservices.com/audio/mfmradio.ogg",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg46",
-    "name": "Radio Lisolo",
-    "streamUrl": "https://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg47",
-    "name": "Radio Mandeleo",
-    "streamUrl": "https://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg48",
-    "name": "Radio Maniema Libertes",
-    "streamUrl": "https://stream.zeno.fm/qzr1hds7rs8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg49",
-    "name": "Radio Maria 88.7 FM radio",
-    "streamUrl": "http://dreamsiteradiocp.com:8120/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg50",
-    "name": "Radio Maria Congo Centrale",
-    "streamUrl": "http://dreamsiteradiocp2.com:8114/stream/",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg51",
-    "name": "Radio Maria DRC Bukavu",
-    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmcongrdcbuk?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg52",
-    "name": "Radio Maria DRC Goma",
-    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmcongogoma?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg53",
-    "name": "Radio Maria DRC Lubumbashi",
-    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmlubumbashirdc?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg54",
-    "name": "Radio Maria DRC Matadi",
-    "streamUrl": "https://dreamsiteradiocp5.com/proxy/rmcongomatadi?mp=/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg55",
-    "name": "Radio Mix Congolaise",
-    "streamUrl": "http://37.59.42.207:8080/",
+    "id": "dz14",
+    "name": "Hits 1 Algérie",
+    "streamUrl": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
     "imageUrl": "__________________________",
     "genre": "genre_hits",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg56",
-    "name": "Radio Moto",
-    "streamUrl": "http://radio4.pro-fhi.net/live/RadioMotoButemboBeni",
+    "id": "dz15",
+    "name": "LVA Radio",
+    "streamUrl": "https://s32.radiolize.com/radio/8030/radio.mp3",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg57",
-    "name": "Radio Mucodec",
-    "streamUrl": "http://cdnradio.streamakaci.com/radiomucodec.mp3",
+    "id": "dz16",
+    "name": "JOW Radio",
+    "streamUrl": "https://str0.creacast.com/jowradio",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg58",
-    "name": "Radio Ngoma",
-    "streamUrl": "http://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_folk",
-    "country": "country_congo"
+    "id": "dz17",
+    "name": "Hero Radio Algeria",
+    "streamUrl": "https://a2.asurahosting.com:6790/algeria.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77065/logo_CU69iqWWn.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
   },
   {
-    "id": "cg59",
-    "name": "Radio Oasis",
-    "streamUrl": "https://listen.radioking.com/radio/486935/stream/543647",
+    "id": "dz18",
+    "name": "Antenna Web Algeri Radio",
+    "streamUrl": "https://tinyurl.com/AntennaWebAlgeri",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77064/logo_WdP5aXFBwU.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz19",
+    "name": "radio joussour2 Algerie",
+    "streamUrl": "https://stream.zeno.fm/emqjxlmcq1avv",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77062/logo_8uxdfuNsw8.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz20",
+    "name": "GhorbaDz",
+    "streamUrl": "https://stream.zeno.fm/y9rchc1djgavv",
     "imageUrl": "__________________________",
     "genre": "genre_pop",
-    "country": "country_congo"
+    "country": "country_algeria"
   },
   {
-    "id": "cg60",
-    "name": "Radio Okapi",
-    "streamUrl": "http://rs1.radiostreamer.com:8000/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_congo"
+    "id": "dz21",
+    "name": "Radio Adrar - إذاعة أدرار",
+    "streamUrl": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77011/logo_ayq6J0tHVV.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg61",
-    "name": "Radio Pourim",
-    "streamUrl": "https://zoka.radioca.st",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
+    "id": "dz22",
+    "name": "Radio Laghouat - الأغواط",
+    "streamUrl": "https://radiolaghouat.ice.infomaniak.ch/laghouat.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77032/logo_5qhg0jKd3G.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg62",
-    "name": "Radio Renaissance Africaine",
-    "streamUrl": "https://stream.zeno.fm/gan20g44vv8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz23",
+    "name": "Radio Batna - باتنة",
+    "streamUrl": "https://radiobatna.ice.infomaniak.ch/batna.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77005/logo_dJdm1J0G1j.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg63",
-    "name": "Radio Salut du Peuple",
-    "streamUrl": "https://stream.zeno.fm/hghk6pfghg0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz24",
+    "name": "Radio Bejaia - بجاية",
+    "streamUrl": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77026/logo_NnqnQ0lkTv.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg64",
-    "name": "Radio Sans Effet",
-    "streamUrl": "http://usa1.coollabel-productions.com:8032/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_congo"
+    "id": "dz25",
+    "name": "Radio Biskra - بسكرة",
+    "streamUrl": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77048/logo_FCXbwAp5tx.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg65",
-    "name": "Radio Sauti ya Matumaini",
-    "streamUrl": "https://stream.zeno.fm/ku43fx9vhm0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
+    "id": "dz26",
+    "name": "Radio Bechar - بشار",
+    "streamUrl": "https://radiobechar.ice.infomaniak.ch/bechar.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77003/logo_HJWe9gx8pW.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg66",
-    "name": "Radio Tayna",
-    "streamUrl": "http://stream-50.zeno.fm/ide8zzvajbcvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz27",
+    "name": "Radio Blida - البليدة",
+    "streamUrl": "https://radioblida.ice.infomaniak.ch/blida.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77053/logo_o552PDwv2D.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg67",
-    "name": "RADIO TCL",
-    "streamUrl": "https://stream.zeno.fm/6caxeutwqyzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz28",
+    "name": "Radio Bouira - البويرة",
+    "streamUrl": "https://radiobouira.ice.infomaniak.ch/bouira.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77022/logo_Hj1B0cEFsp.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg68",
-    "name": "RADIO TELEVISION ARMEE DU SALUT",
-    "streamUrl": "https://stream.zeno.fm/ap26344pmkhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
+    "id": "dz29",
+    "name": "Radio Tamanrasset - تمنراست",
+    "streamUrl": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77014/logo_GhUHfIpobY.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg69",
-    "name": "RADIO TELEVISION ARMEE DU SALUT - RTAS CONGO",
-    "streamUrl": "https://stream.zeno.fm/k7fy7ha5u0hvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
+    "id": "dz30",
+    "name": "Radio Tebessa - تبسة",
+    "streamUrl": "https://radiotebessa-1.ice.infomaniak.ch/tebessa.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77037/logo_DCu6nsNtZ3.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg70",
-    "name": "Radio TV Bendele",
-    "streamUrl": "http://s6.voscast.com:8144/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz31",
+    "name": "Radio Tlemcen - تلمسان",
+    "streamUrl": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77024/logo_Hhy7IEXvCb.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg71",
-    "name": "Radio TV Bosomi Net",
-    "streamUrl": "http://94.23.209.107:8018/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz32",
+    "name": "Radio Tiaret - تيارت",
+    "streamUrl": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77023/logo_eadoNapswF.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg72",
-    "name": "RADIO UNIVERSITAIRE PROTESTANTE (RUP)",
-    "streamUrl": "https://stream.zeno.fm/xy2vrpyrsnhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
+    "id": "dz33",
+    "name": "Radio Djelfa - الجلفة",
+    "streamUrl": "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77039/logo_1rZNFt1zjJ.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg73",
-    "name": "Radio Yetu",
-    "streamUrl": "https://stream.zeno.fm/he0cphef5zhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz34",
+    "name": "Radio Jijel - جيجل",
+    "streamUrl": "https://radiojijel.ice.infomaniak.ch/jijel.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77046/logo_hTIR3940mJ.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg74",
-    "name": "Radiokatiopa",
-    "streamUrl": "http://37.59.42.207:8182/stream.nsv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz35",
+    "name": "Radio Setif - سطيف",
+    "streamUrl": "https://radiosetif.ice.infomaniak.ch/setif.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77020/logo_jsN5sRI8cH.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg75",
-    "name": "Ratelki",
-    "streamUrl": "http://www.ratelki.net/version/ep_player/mp3/welcome.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz36",
+    "name": "Radio Saida - سعيدة",
+    "streamUrl": "https://radiosaida.ice.infomaniak.ch/saida.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76987/logo_UQcFPZVacu.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg76",
-    "name": "RMCA",
-    "streamUrl": "http://edge.iono.fm/xice/142_medium.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz37",
+    "name": "Radio Skikda - سكيكدة",
+    "streamUrl": "https://radioskikda.ice.infomaniak.ch/skikda.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77044/logo_9EdpizmwNN.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg77",
-    "name": "RTNC RD Congo - Radio Télé Nationale du Congo RD",
-    "streamUrl": "https://stream.zeno.fm/ef7xsb7gkf9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_congo"
+    "id": "dz38",
+    "name": "Radio Sidi Bel Abbes - سيدي بلعباس",
+    "streamUrl": "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77031/logo_ZmE1dYt3Gu.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg78",
-    "name": "Shuga Radio",
-    "streamUrl": "http://radio.ready2play.fr:1280/stream",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_congo"
+    "id": "dz39",
+    "name": "Radio Annaba - عنابة",
+    "streamUrl": "https://radioannaba.ice.infomaniak.ch/annaba.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77009/logo_Pp2sSWLMBK.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg79",
-    "name": "Simba FM",
-    "streamUrl": "https://stream-44.zeno.fm/99sw3kybt7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
+    "id": "dz40",
+    "name": "Radio Guelma - قالمة",
+    "streamUrl": "https://radioguelma.ice.infomaniak.ch/guelma.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76991/logo_H9ajFpsarn.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg80",
-    "name": "SN RADIO",
-    "streamUrl": "https://stream.zeno.fm/99sw3kybt7zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz41",
+    "name": "Radio Constantine - قسنطينة",
+    "streamUrl": "https://radioconstantine.ice.infomaniak.ch/constantine.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77041/logo_0xFoECMUDC.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg81",
-    "name": "Studio RTB",
-    "streamUrl": "http://198.178.123.23:7156/stream.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz42",
+    "name": "Radio Medea - المدية",
+    "streamUrl": "https://radiomedea.ice.infomaniak.ch/medea.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77043/logo_9EdpizmwNN.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg82",
-    "name": "Tempo Radio Congo",
-    "streamUrl": "http://www.radioking.com/play/tempo-radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz43",
+    "name": "Radio Mostaganem - مستغانم",
+    "streamUrl": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77019/logo_ZoiKlkS82v.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg83",
-    "name": "Top Congo FM",
-    "streamUrl": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
+    "id": "dz44",
+    "name": "Radio M'sila - المسيلة",
+    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77049/logo_DTiDcaLQi4.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg84",
-    "name": "Trace FM",
-    "streamUrl": "https://stream.rcs.revma.com/u98b8f5q54zuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_hits",
-    "country": "country_congo"
+    "id": "dz45",
+    "name": "Radio Mascara - معسكر",
+    "streamUrl": "https://radiomascara.ice.infomaniak.ch/mascara.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77016/logo_Iq0Dfa3095.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg85",
-    "name": "Tshopo Kwetu FM",
-    "streamUrl": "https://stream.zeno.fm/y70zxn4xra0uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz46",
+    "name": "Radio Ouargla - ورقلة",
+    "streamUrl": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77035/logo_abB46cHXh1.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg86",
-    "name": "TZGOSPEL congo",
-    "streamUrl": "https://stream.zeno.fm/1ebvk6e9cchvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
+    "id": "dz47",
+    "name": "Radio Oran - وهران",
+    "streamUrl": "https://radiooran.ice.infomaniak.ch/oran.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76989/logo_Au1MukqWo2.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg87",
-    "name": "UB-FM",
-    "streamUrl": "http://s2.voscast.com:11280/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz48",
+    "name": "Radio El Bayadh - البيض",
+    "streamUrl": "https://radioelbayedh.ice.infomaniak.ch/radioelbayedh.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77034/logo_SWeNM8KsHV.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg88",
-    "name": "UDPS RADIO",
-    "streamUrl": "http://37.59.42.207:9194/",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_congo"
+    "id": "dz49",
+    "name": "Radio Illizi - إليزي",
+    "streamUrl": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77047/logo_trsjFBHqQA.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg89",
-    "name": "Urban FM",
-    "streamUrl": "https://urbanfm.ice.infomaniak.ch/urbanfm-128.aac",
-    "imageUrl": "__________________________",
-    "genre": "genre_hiphop",
-    "country": "country_congo"
+    "id": "dz50",
+    "name": "Radio Bordj Bou Arreridj - برج بوعريريج",
+    "streamUrl": "https://radiobordjboubrreridj.ice.infomaniak.ch/bordjboubrreridj.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77017/logo_Uh8iYhtBeb.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg90",
-    "name": "WATOTO RADIO",
-    "streamUrl": "https://stream.zeno.fm/xwx18us91k8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_religious",
-    "country": "country_congo"
+    "id": "dz51",
+    "name": "Radio Boumerdes - بومرداس",
+    "streamUrl": "https://radioboumerdes.ice.infomaniak.ch/boumerdes.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77040/logo_0zFl2JEpz7.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg91",
-    "name": "Congo Planète Radio",
-    "streamUrl": "https://radio.congoplanet.com/Congo_Planet_Radio",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz52",
+    "name": "Radio El Tarf - الطارف",
+    "streamUrl": "https://radiotaref.ice.infomaniak.ch/taref.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77015/logo_zdfxkBtZfh.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg92",
-    "name": "11 Industry Radio",
-    "streamUrl": "https://stream.zeno.fm/59su8g49prhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz53",
+    "name": "Radio Tindouf - تندوف",
+    "streamUrl": "https://radiotindouf.ice.infomaniak.ch/tindouf.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77028/logo_lxSn5Qg2HP.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg93",
-    "name": "A LA UNE RADIO",
-    "streamUrl": "https://stream.zeno.fm/7hgmwwq3ynhvv",
-    "imageUrl": "__________________________",
-    "genre": "genre_news",
-    "country": "country_congo"
+    "id": "dz54",
+    "name": "Radio Tissemsilt - تسمسيلت",
+    "streamUrl": "https://radiotissemssilt.ice.infomaniak.ch/tissemssilt.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77025/logo_crN9IoEfuw.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg94",
-    "name": "Africanet Radio",
-    "streamUrl": "http://199.195.194.94:8005/",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz55",
+    "name": "Radio El Oued - الوادي",
+    "streamUrl": "https://radioouedsouf.ice.infomaniak.ch/ouedsouf.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77030/logo_t4s9gH2whD.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg95",
-    "name": "Afrique 2 Radio",
-    "streamUrl": "https://stream.zeno.fm/631enq80mwzuv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz56",
+    "name": "Radio Khenchela - خنشلة",
+    "streamUrl": "https://radiokhenchela.ice.infomaniak.ch/khenchela.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77033/logo_sCvmDzWy9A.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg96",
-    "name": "Alutins FM",
-    "streamUrl": "https://stream.zeno.fm/gk60mukx008uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz57",
+    "name": "Radio Souk Ahras - سوق أهراس",
+    "streamUrl": "https://radiosoukahras.ice.infomaniak.ch/soukahras.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77036/logo_dUFRe8S2IM.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg97",
-    "name": "Am radio",
-    "streamUrl": "https://stream.zeno.fm/rehut13esc9uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz58",
+    "name": "Radio Tipaza - تيبازة",
+    "streamUrl": "https://radiotipaza.ice.infomaniak.ch/tipaza.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77029/logo_T6YjclREK8.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg98",
-    "name": "ASSOCIATION GNOSE CHRISTIQUE",
-    "streamUrl": "https://stream.zeno.fm/runkcn60zf8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz59",
+    "name": "Radio Mila - ميلة",
+    "streamUrl": "https://radiomila.ice.infomaniak.ch/mila.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77006/logo_atQqleFkEU.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg99",
-    "name": "becofmtv",
-    "streamUrl": "https://stream.zeno.fm/3ituyl9czfotv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz60",
+    "name": "Radio Ain Defla - عين الدفلى",
+    "streamUrl": "https://radioaindefla.ice.infomaniak.ch/aindefla.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77021/logo_EXpRfFSnmB.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   },
   {
-    "id": "cg100",
-    "name": "BEROYA FM",
-    "streamUrl": "https://node-23.zeno.fm/2k63h8q4tk8uv",
-    "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_congo"
+    "id": "dz61",
+    "name": "Radio Naama - النعامة",
+    "streamUrl": "https://radionaama.ice.infomaniak.ch/naama.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76993/logo_OWW4z3GISH.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz62",
+    "name": "Radio Ain Temouchent - عين تموشنت",
+    "streamUrl": "https://radioaintimouchent.ice.infomaniak.ch/aintimouchent.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77042/logo_gidhwv3MrL.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz63",
+    "name": "Radio Ghardaia - غرداية",
+    "streamUrl": "https://radioghardaia.ice.infomaniak.ch/ghardaia.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77018/logo_NnqnQ0lkTv.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz64",
+    "name": "Radio Relizane - غليزان",
+    "streamUrl": "https://radiorelizan.ice.infomaniak.ch/relizan.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/76992/logo_nUIXcG4xvK.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz65",
+    "name": "Radio Oum El-Bouaghi - أم البواقي",
+    "streamUrl": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77038/logo_A4CvAGolX2.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz66",
+    "name": "Radio Chlef - الشلف",
+    "streamUrl": "https://radiochlef.ice.infomaniak.ch/chlef.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/77012/logo_h8Esd3IkIF.png",
+    "genre": "genre_info",
+    "country": "country_algeria"
   }
 ]
