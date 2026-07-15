@@ -1,9 +1,33 @@
 [
   {
+    "id": "dz07",
+    "name": "JIL FM",
+    "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/20480.v12.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz44",
+    "name": "Radio Algerienne - El Bahdja",
+    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/20373.v6.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
+    "id": "dz67",
+    "name": "Skyrock Alger",
+    "streamUrl": "https://icecast.skyrock.net/s/alger_aac_64k",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/73951.v4.png",
+    "genre": "genre_pop",
+    "country": "country_algeria"
+  },
+  {
     "id": "dz01",
     "name": "Radio Algérienne Chaine 1 (القناة الأولى)",
     "streamUrl": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/76988/logo_qtop1VsIoL.png",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/20389.v10.png",
     "genre": "genre_info",
     "country": "country_algeria"
   },
@@ -19,7 +43,7 @@
     "id": "dz03",
     "name": "Radio Algérienne Chaine 3",
     "streamUrl": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/76990/logo_dN9jrdCQj9.png",
+    "imageUrl": ""https://cdn.onlineradiobox.com/img/l/0/20470.v11.png",
     "genre": "genre_pop",
     "country": "country_algeria"
   },
@@ -44,14 +68,6 @@
     "name": "Radio El Bahdja FM",
     "streamUrl": "https://elbahdja.ice.infomaniak.ch/elbahdja-64.aac",
     "imageUrl": "__________________________",
-    "genre": "genre_pop",
-    "country": "country_algeria"
-  },
-  {
-    "id": "dz07",
-    "name": "JIL FM (راديو الشباب)",
-    "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/76994/logo_aoyqRn3Nuw.png",
     "genre": "genre_pop",
     "country": "country_algeria"
   },
@@ -340,14 +356,6 @@
     "name": "Radio Mostaganem - مستغانم",
     "streamUrl": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3",
     "imageUrl": "https://radiospinner.com/media/logos/180/77019/logo_ZoiKlkS82v.png",
-    "genre": "genre_info",
-    "country": "country_algeria"
-  },
-  {
-    "id": "dz44",
-    "name": "Radio M'sila - المسيلة",
-    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/77049/logo_DTiDcaLQi4.png",
     "genre": "genre_info",
     "country": "country_algeria"
   },
