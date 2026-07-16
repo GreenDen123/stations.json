@@ -862,5 +862,613 @@
     "imageUrl": "https://radiospinner.com/media/logos/180/77012/logo_h8Esd3IkIF.png",
     "genre": "genre_info",
     "country": "country_algeria"
+  },
+  {
+    "id": "tz3",
+    "name": "Abidete fm",
+    "streamUrl": "https://stream-175.surfernetwork.com/4vdczx55g18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dmRjeng1NWcxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJNVnRzODhGUlNqeUI5ODZYa28tZUxnIiwiaWF0IjoxNzg0MTkyMDEwLCJleHAiOjE3ODQxOTIwNzB9.g93395-6uwMl0U3yf3laOT2lLJfCYIzgFQgQHUvZp0M",
+    "imageUrl": "https://images.zeno.fm/1skl92eg9VB3IJoAklr7fgnOWGtosvYlYYas2s5t1_A/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3czWjMxdGdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3czWkNleEFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4ODAyNTQyMDAwMA.avif",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz6",
+    "name": "Banana FM 98.7",
+    "streamUrl": "https://bananafm.radioca.st/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/banana-fm.webp?v=1784188801",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz10",
+    "name": "BLESSED HOPE FM Radio",
+    "streamUrl": "https://stream-289.surfernetwork.com/stdnnrjd6vwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdGRubnJqZDZ2d3V2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJGQ3MxMFktYlE1ZUFUVFhPeUlIRmRnIiwiaWF0IjoxNzg0MTkyMzQ5LCJleHAiOjE3ODQxOTI0MDl9.WsY0O6mvbQqrKvE87rS3GWRLDzu9mfjI4t4Hbed54CY",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/blessed-hope-fm.webp?v=1784188801",
+    "genre": "genre_religious",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz12",
+    "name": "Bongo FM",
+    "streamUrl": "https://a7.asurahosting.com:8660/radio.mp3",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/tbc-bongo-fm.webp?v=1784192402",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz13",
+    "name": "Bongo Exclusive",
+    "streamUrl": "https://stream-176.surfernetwork.com/mkx5bg9pounvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJta3g1Ymc5cG91bnZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJYQjQwVGZtbFMzQ3JDMU9MM2JsMUpRIiwiaWF0IjoxNzg0MTkyNzE5LCJleHAiOjE3ODQxOTI3Nzl9.DgcWJysSFIechfMiFU2ps5G4ctmsdrmpzKjOclBgcn8",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/bongo-exclusive.webp?v=1784188801",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz18",
+    "name": "Bridge FM",
+    "streamUrl": "https://stream-178.surfernetwork.com/egw7ewzh0hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZ3c3ZXd6aDBoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ3US1KZE1qUFFHR0FwRGlub095SVFRIiwiaWF0IjoxNzg0MTkyNzkxLCJleHAiOjE3ODQxOTI4NTF9.gzo88kMR4S4UactvgpujQJ5xmEV3vJeJ8Exf-90nQoY",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz19",
+    "name": "Bs Radio Tanzania",
+    "streamUrl": "https://tune.tunzilla.com/http://hyades.shoutca.st:8044/;",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/bs-radio-tanzania.webp?v=1783569602",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz20",
+    "name": "Capital Radio",
+    "streamUrl": "https://capitalradio.radioca.st/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/capital-radio.webp?v=1784192402",
+    "genre": "genre_news",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz21",
+    "name": "Choice FM 1026",
+    "streamUrl": "https://usa20.fastcast4u.com:2690/;?type=http&nocache=1766324999",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/malkia-choice-fm.webp?v=1784181601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz22",
+    "name": "Clouds FM",
+    "streamUrl": "http://eu6.fastcast4u.com:5306/",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/clouds-fm.webp?v=1784192402",
+    "genre": "genre_news",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz23",
+    "name": "Dar FM Radio",
+    "streamUrl": "https://streaming.brol.tech/rtfmlounge",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz25",
+    "name": "E FM",
+    "streamUrl": "http://radioonetanzania.radioca.st/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/e-fm-radio.webp?v=1784192402",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz26",
+    "name": "East Africa Radio",
+    "streamUrl": "https://eatv.radioca.st/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/east-africa-radio.webp?v=1784192402",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz27",
+    "name": "FADECO Community Radio",
+    "streamUrl": "http://usa1-vn.mixstream.net:8088/",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/fadeco-community-radio.webp?v=1784192402",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz28",
+    "name": "Full Crossover",
+    "streamUrl": "https://fullcrossover.stream.laut.fm/full_crossover?t302=2025-12-19_00-27-30&uuid=f4adc495-a2bd-4853-a61a-8fbfc1e8708b",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz32",
+    "name": "HOME FM",
+    "streamUrl": "https://stream-175.surfernetwork.com/n1d6rh553hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMWQ2cmg1NTNoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJjc1NieGFZalFmaWZhU1VMOHQ3NlVRIiwiaWF0IjoxNzg0MTk0MjMyLCJleHAiOjE3ODQxOTQyOTJ9.F6X_GaK__AJsppj0QLJiWdkDpLswZjRQnkrAkfKB5HQ",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz35",
+    "name": "Ishizwe Fm Radio",
+    "streamUrl": "https://stream-176.surfernetwork.com/hwietfyurcvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJod2lldGZ5dXJjdnZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIteE8wMnBhM1RkLUdBWi1qaEpUeTBRIiwiaWF0IjoxNzg0MTk0Mzc4LCJleHAiOjE3ODQxOTQ0Mzh9.ujxGfrbOoPsoPZgRQHtPlddGIC-c7rB3dwO2ou6X3rI",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/ishizwe-fm-radio.webp?v=1784192402",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz36",
+    "name": "Jambo Fm Tanzania radio",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/jambocom/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/jambo-fm.webp?v=1784192402",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz37",
+    "name": "Jembe FM",
+    "streamUrl": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/jembe-fm.webp?v=1784192402",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz38",
+    "name": "JIPATE FM",
+    "streamUrl": "https://stream-176.surfernetwork.com/33kkpa2wcfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzM2trcGEyd2NmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJyRTBjdlBSMFR4T0lDbUtEaW40OGpRIiwiaWF0IjoxNzg0MTk0NTExLCJleHAiOjE3ODQxOTQ1NzF9.pZiytD51-ZcJ8ukIr7YKwLzowLECDWF67tbSGh0s_uo",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/jipate-fm.webp?v=1783742401",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz39",
+    "name": "Kakwale FM",
+    "streamUrl": "https://stream-176.surfernetwork.com/33kkpa2wcfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzM2trcGEyd2NmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJoOHpZekRCTVJQYVFETG5tS1pYZG5BIiwiaWF0IjoxNzg0MTk0NTUxLCJleHAiOjE3ODQxOTQ2MTF9._Qdx9YuscEkiOv4WFvlh7pVJfQ6Ww-R1CTpBeOPZAx0",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz40",
+    "name": "Karagwe FM",
+    "streamUrl": "https://radiotadio.co.tz/karagwe-fm-stream",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz41",
+    "name": "Kasibante FM Radio",
+    "streamUrl": "https://s26.myradiostream.com:20788/listen.mp3",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/kasibante-fm-radio.webp?v=1784192402",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz42",
+    "name": "Kiss FM Tanzania radio",
+    "streamUrl": "https://s3.radio.co/sbe50ddddb/listen",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/kiss-fm-tanzania.webp?v=1784192402",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz46",
+    "name": "Lwenge FM",
+    "streamUrl": "https://stream-177.surfernetwork.com/u5rzx6t4af9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NXJ6eDZ0NGFmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJxWEpQLW1PZlJyV1NELTVNTzBuMXJRIiwiaWF0IjoxNzg0MTk0NzU5LCJleHAiOjE3ODQxOTQ4MTl9.6Yr-3eSl32sfP0vBBMZRdwG54r01uvklE6Wwng0Cd88",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz48",
+    "name": "Moshi FM Radio",
+    "streamUrl": "http://uk22freenew.listen2myradio.com:24708/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/115135.v12.png",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz49",
+    "name": "Orange FM Radio",
+    "streamUrl": "https://stream-178.surfernetwork.com/mu3uqdukm98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdTN1cWR1a205OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJIRUR1aDM2WVRjT0ZnNHNCT25fLWpRIiwiaWF0IjoxNzg0MTk5Mjc3LCJleHAiOjE3ODQxOTkzMzd9.5GlnUguhYZ6RC6dDghJEk9vDQbF2ioQj9eRJkRpjkXY",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz54",
+    "name": "Radio Free Africa",
+    "streamUrl": "http://s3.radio.co/s8df0149e0/listen",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/radio-free-africa.webp?v=1784196002",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz55",
+    "name": "Radio Habari Njema",
+    "streamUrl": "http://uk4-vn.mixstream.net:8084/listen.mp3?_=1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/138508.v3.png",
+    "genre": "genre_religious",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz57",
+    "name": "Radio Kwizera",
+    "streamUrl": "http://uk4-vn.mixstream.net:8052/",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/radio-kwizera.webp?v=1784199601",
+    "genre": "genre_religious",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz58",
+    "name": "Radio Maria Tanzania",
+    "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/radio-maria.webp?v=1784199601",
+    "genre": "genre_religious",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz59",
+    "name": "Radio One Stereo",
+    "streamUrl": "https://radioonetanzania.radioca.st/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/radio-one.webp?v=1784199601",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz60",
+    "name": "Radio Uhai",
+    "streamUrl": "https://s2.citrus3.com:8050/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/radio-uhai.webp?v=1784199601",
+    "genre": "genre_religious",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz62",
+    "name": "Rogue FM",
+    "streamUrl": "https://stream-178.surfernetwork.com/s7zqh0mk0hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzN3pxaDBtazBoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ4Z25sT1ZTZ1J2NmRJVkxDWXFzWjJRIiwiaWF0IjoxNzg0MTk5OTE3LCJleHAiOjE3ODQxOTk5Nzd9.Lw5_9Vkt7FTK8I5KlZCWByYP_qaZ6TyvgYx7E31Ctn4",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/rogue-fm.webp?v=1783846801",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz64",
+    "name": "Safina Radio",
+    "streamUrl": "http://s9.myradiostream.com:46284/listen.mp3",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/radio-safina.webp?v=1784199601",
+    "genre": "genre_religious",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz66",
+    "name": "Standard Radio",
+    "streamUrl": "http://s26.myradiostream.com:19546/listen.m4a",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/standard-radio-tanzania.webp?v=1784199601",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz71",
+    "name": "Upendo FM",
+    "streamUrl": "https://upendofm.dhsolutions.co.tz/listen/upendo_media/upendofm.mp3",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/upendo-fm.webp?v=1784199601",
+    "genre": "genre_hits",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz73",
+    "name": "Voice FM radio",
+    "streamUrl": "http://streamlive1.hearthis.at:8080/10921035.ogg",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/voice-fm.webp?v=1784199601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz74",
+    "name": "Wide Fm",
+    "streamUrl": "https://stream-176.surfernetwork.com/ayb0ds3k9hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheWIwZHMzazloaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ6ZnBqa0lBN1FKS0NUa2pQa2pxR2ZBIiwiaWF0IjoxNzg0MjAwMzQ5LCJleHAiOjE3ODQyMDA0MDl9.nULtGx6vaH6oriSYXtl03Oga1SZeHmifjJGx7nYkoVw",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/140335.v1.png",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz75",
+    "name": "ZBC Radio",
+    "streamUrl": "https://tune.tunzilla.com/http://102.214.45.109:8000/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/zbc-radio.webp?v=1784199601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz76",
+    "name": "Zoe Fm",
+    "streamUrl": "https://stream-176.surfernetwork.com/uozuugk1essuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1b3p1dWdrMWVzc3V2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJidUt3QUtVNFQ2QzhxQUtWZnJDbHlRIiwiaWF0IjoxNzg0MjAwNDc1LCJleHAiOjE3ODQyMDA1MzV9.QD54gbQX7wEwKpyH8JU_LtCeU_NZpOOaEMcCQuhgNGA",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/zoe-fm-radio.webp?v=1784199601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz78",
+    "name": "A FM 92.9 MHz Dodoma",
+    "streamUrl": "http://198.7.62.157:10056/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/32097.v10.png",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz79",
+    "name": "abm radio 91.2 fm Dodoma",
+    "streamUrl": "https://stream-179.surfernetwork.com/frt0ofb2rrmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmcnQwb2ZiMnJybXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIzQ1RoRUtQelJpYUxWS3ZWVV9QbkNRIiwiaWF0IjoxNzg0MjAwNzIxLCJleHAiOjE3ODQyMDA3ODF9.KOtW8261GEv5457uPba7XZTMHQYsdw4aIUtgUn7sYss",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/abm-radio.webp?v=1784199601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz82",
+    "name": "Antenna Web Dodoma",
+    "streamUrl": "https://halo.streamerr.co/listen/italiavera/stream.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/134851.v1.png",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz85",
+    "name": "Bongo Bright Online Radio",
+    "streamUrl": "https://stream-175.surfernetwork.com/fzaw3bbz1ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmemF3M2JiejFlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJqd2JRME1sN1RzbXRTV1FuX2Npa29nIiwiaWF0IjoxNzg0MjAxNDUwLCJleHAiOjE3ODQyMDE1MTB9.JQ2-kGsgZR_3QismtzrAxWVffDZBYOoMHmY5HRXrEwA",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz88",
+    "name": "Bongo Vibez",
+    "streamUrl": "https://stream-179.surfernetwork.com/0vuosqvr75ltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdnVvc3F2cjc1bHR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJEYjlycTI5SlFHYUctY2o5MV9aU0Z3IiwiaWF0IjoxNzg0MjAxNTkwLCJleHAiOjE3ODQyMDE2NTB9.iSqIO2GhFnS4R7R3Hg6sJXx29CKlfOKWWUB7TFdyxbQ",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz92",
+    "name": "Crown FM",
+    "streamUrl": "https://radio.crownmedia.co.tz:8443/crown",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/crown-fm.webp?v=1784199601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz93",
+    "name": "Dar es Salaam",
+    "streamUrl": "https://a5.asurahosting.com:8210/",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz95",
+    "name": "DjmsafiTz Fm",
+    "streamUrl": "https://stream-179.surfernetwork.com/ggbveqxqsuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnZ2J2ZXF4cXN1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJJdXhoM0dUWlI2dXd2X2RxYnhyVG1nIiwiaWF0IjoxNzg0MjAyMDg2LCJleHAiOjE3ODQyMDIxNDZ9.qXRAwYKhzGImjl3KU7uT_pEnMTfBcqgTQ9IwZR81w9k",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz96",
+    "name": "Dodoma FM",
+    "streamUrl": "https://radiotadio.co.tz/dodoma-fm-stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/110225.v8.png",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz97",
+    "name": "Dream FM Mbeya Radio",
+    "streamUrl": "http://199.115.115.71:8000/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/dream-fm-mbeya.webp?v=1784199601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz98",
+    "name": "HI5TZ Radio",
+    "streamUrl": "https://stream-176.surfernetwork.com/xbp5m3mvxc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4YnA1bTNtdnhjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJBODVsT2VRVVI1NkVlTFhyQm9hMkpBIiwiaWF0IjoxNzg0MjAyMjI1LCJleHAiOjE3ODQyMDIyODV9.0yDf3K2HO06PWj_Wctb9fHlmeM519u9DJlvYsRFTX_w",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz102",
+    "name": "Kyela Fm Radio 96.1 Mhz Mbeya",
+    "streamUrl": "https://edge.mixlr.com/channel/ehipp",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/kyela-fm.webp?v=1784199601",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz104",
+    "name": "Mahubiri Swahili",
+    "streamUrl": "https://stream-177.surfernetwork.com/dn1w8t9msp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkbjF3OHQ5bXNwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJIZVUtWVRaU1J5V24yUlNCME95ZndRIiwiaWF0IjoxNzg0MjA0NDQyLCJleHAiOjE3ODQyMDQ1MDJ9.TZMK_GCYMZ05a7NdVj1dq2l0vc6JcceXhB_TSml9VFg",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz107",
+    "name": "Mazingira FM",
+    "streamUrl": "https://radiotadio.co.tz/mazingira-fm-stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/mazingira-fm.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz108",
+    "name": "Mega FM Tanzania",
+    "streamUrl": "https://stream-178.surfernetwork.com/dr0goum2tnjuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkcjBnb3VtMnRuanV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJyYVVhZ1BKWVRkU2RxX2hkaUJQaHhnIiwiaWF0IjoxNzg0MjA0ODAwLCJleHAiOjE3ODQyMDQ4NjB9.I1TGPjyG8ATN6bg3QanormgXObj4tHq9z-SqTA38Tog",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/mega-fm.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz112",
+    "name": "Musika Tz",
+    "streamUrl": "https://stream-178.surfernetwork.com/bn16fbykzhhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibjE2ZmJ5a3poaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJpVjRKNmJVM1RHYXF5OW0teGpYRW9nIiwiaWF0IjoxNzg0MjA0OTI2LCJleHAiOjE3ODQyMDQ5ODZ9.K-Ys1ci5LaCvrO7J8xqJ7KHNd5ybLFZie80tpyN6OB4",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz113",
+    "name": "Nuru FM",
+    "streamUrl": "https://radiotadio.co.tz/nuru-fm-stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/nuru-ya-watu-fm.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz114",
+    "name": "Pangani FM",
+    "streamUrl": "https://radiotadio.co.tz/pangani-fm-stream",
+    "imageUrl": "https://cdn.radio-addict.com/media/stream/d797df68-c274-483c-9cdd-48e19d4dd747_788D3A4829EFF8373532756A5BEFE7C4_257809951-6498551806885246-6509498954293695498-n-150x150.jpg",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz117",
+    "name": "radio motivetz",
+    "streamUrl": "https://stream-176.surfernetwork.com/9h6gm7u2ynhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5aDZnbTd1MnluaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJRdmFxWTJGZFFRR0hiZktDR0dscTJRIiwiaWF0IjoxNzg0MjA1MTc1LCJleHAiOjE3ODQyMDUyMzV9.LnFt9OOL-_a0DJY0dzZLtbP_V7zOYgGK2_3YRELyJwg",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz120",
+    "name": "Radiomissionaries Tanzania",
+    "streamUrl": "https://stream-179.surfernetwork.com/mx8o3lmmlnwvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteDhvM2xtbWxud3Z2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJGNTNTMkdMLVFReW96LXNvdVVyZXlnIiwiaWF0IjoxNzg0MjA1MzY0LCJleHAiOjE3ODQyMDU0MjR9.Ixjyf_P4vUGRHsGpGgcg7xhpZgFAyIblnPMSGZeu22M",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/radiomissionaries-tanzania.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz122",
+    "name": "Revival Fm Tz Radio",
+    "streamUrl": "https://stream-176.surfernetwork.com/5hvztf4o9b4uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1aHZ6dGY0bzliNHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJCU21hZ2dzNFQ4V0p4OS1aZzhqS21RIiwiaWF0IjoxNzg0MjA1NDM1LCJleHAiOjE3ODQyMDU0OTV9.cX9DRp_P_YheUdDE7RyM49jqyPxIJOFGsb6b-9brhEg",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/revival-fm-tz.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz123",
+    "name": "RFI Kiswaheli - RFI en Swahili",
+    "streamUrl": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz126",
+    "name": "Sauti Ya Watanzania",
+    "streamUrl": "https://radio.itahukamedia.com/listen/sauti_ya_watanzania/radio.mp3",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/sauti-ya-watanzania.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz128",
+    "name": "Shalom Radio Arusha",
+    "streamUrl": "http://uk3-vn.mixstream.net:8144/",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/shalom-radio-arusha.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz129",
+    "name": "Shamba Fm",
+    "streamUrl": "https://stream-177.surfernetwork.com/erdf535ywuztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlcmRmNTM1eXd1enR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJxeWgtcjFpM1RFV2I3ZDNrMWdLZ2FnIiwiaWF0IjoxNzg0MjA1ODQ0LCJleHAiOjE3ODQyMDU5MDR9.TC7CdPDwDVYGFmmcUK44UyW1r9ZULHq9bomonGEWm0w",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/shaba-fm.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz131",
+    "name": "SL RADIO TZ",
+    "streamUrl": "https://stream-177.surfernetwork.com/xzwmo8tgwmiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4endtbzh0Z3dtaXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJvdjgxYWhvSVFDLV8zVGRGa0JCUlF3IiwiaWF0IjoxNzg0MjA1OTY0LCJleHAiOjE3ODQyMDYwMjR9.IiB4kHDmIrOh86vEpLlmjC2UebLigvrqElGtlQdBnZ4",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz132",
+    "name": "Sunrise Radio Arusha",
+    "streamUrl": "https://s9.myradiostream.com:47903/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/122870.v21.png",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz133",
+    "name": "Swahili Church FM",
+    "streamUrl": "https://stream-175.surfernetwork.com/hzub902xrf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoenViOTAyeHJmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJPTmpOOHRpc1JoR0pvQ0dtemVsQ0tBIiwiaWF0IjoxNzg0MjA2MDQxLCJleHAiOjE3ODQyMDYxMDF9.poOp2876s7QlJJ5GMtIasA-44VsEFrptDNu1k9BklaM",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz136",
+    "name": "Tanzania Scouts FM",
+    "streamUrl": "https://stream-178.surfernetwork.com/5ca6saagnxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1Y2E2c2FhZ254aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJoaEt5VVYyVlNncUFYNklrVnJuQzZRIiwiaWF0IjoxNzg0MjA2MjA1LCJleHAiOjE3ODQyMDYyNjV9.cmJPykIO9kccLzimGuL_3hX99dvjyGqR-MW3KSEEC8k",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz137",
+    "name": "The Angelos Tz Radio",
+    "streamUrl": "https://stream-178.surfernetwork.com/5760ax4g21zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1NzYwYXg0ZzIxenV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJIM3FVQkN1cFRrR2thektiN2lVNGFBIiwiaWF0IjoxNzg0MjA2Mjg5LCJleHAiOjE3ODQyMDYzNDl9.BqEx6a7rBT_HxCN0JdKwG0zyBEkW7bGtnDk2wFK6xQI",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz138",
+    "name": "Tk FM 88.5 Tanga",
+    "streamUrl": "https://tune.tunzilla.com/http://109.169.15.21:17049/;stream.mp3",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/tk-fm-88-5-tanga.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz140",
+    "name": "Triple A FM",
+    "streamUrl": "https://radiotadio.co.tz/triple-a-fm-stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/triple-a-fm.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz142",
+    "name": "Uyui FM Radio",
+    "streamUrl": "https://radiotadio.co.tz/uyui-fm-stream",
+    "imageUrl": "https://cdn.radoxo.com/images/tanzania/uyui-fm-radio-ufr.webp?v=1784203201",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz146",
+    "name": "Young Men Radio TZ",
+    "streamUrl": "https://stream-177.surfernetwork.com/asdxc2pe0chvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhc2R4YzJwZTBjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ2VUhOZUxJQlJjU2xhUjdNU1hLN053IiwiaWF0IjoxNzg0MjA2NzYzLCJleHAiOjE3ODQyMDY4MjN9.MYeJZeK4o3Yc02jfEt9FjzX0yUce2smLAtGbunaheIg",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
+  },
+  {
+    "id": "tz148",
+    "name": "Zanzibar Qaswida",
+    "streamUrl": "https://node-15.zeno.fm/7z4839t7gg8uv",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_tanzania"
   }
 ]
