@@ -1,6 +1,6 @@
 [
   {
-    "id": "ken1",
+    "id": "ke62",
     "name": "Radio Citizen",
     "streamUrl": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/125622.v4.png",
@@ -8,7 +8,7 @@
     "country": "country_kenya"
   },
   {
-    "id": "ken2",
+    "id": "ke63",
     "name": "Radio Jambo",
     "streamUrl": "https://radiojambo-atunwadigital.streamguys1.com/radiojambo",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7195.v11.png",
@@ -16,7 +16,7 @@
     "country": "country_kenya"
   },
   {
-    "id": "ken3",
+    "id": "ke9",
     "name": "Classic 105",
     "streamUrl": "https://classic105-atunwadigital.streamguys1.com/classic105",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/7188.v9.png",
@@ -24,7 +24,7 @@
     "country": "country_kenya"
   },
   {
-    "id": "ken4",
+    "id": "ke41",
     "name": "Kiss 100",
     "streamUrl": "https://kiss100fm-atunwadigital.streamguys1.com/kiss100fm",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7175.v9.png",
@@ -32,11 +32,419 @@
     "country": "country_kenya"
   },
   {
-    "id": "ken5",
+    "id": "ke26",
     "name": "Jesus is Lord Radio",
     "streamUrl": "https://s3.radio.co/s97f38db97/listen",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/77895.v3.png",
     "genre": "genre_religious",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke2",
+    "name": "98.4 Capital FM",
+    "streamUrl": "https://atunwadigital.streamguys1.com/capitalfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/88890.v14.png",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke3",
+    "name": "Adventist Angels Watchman Global Radio",
+    "streamUrl": "https://a8.asurahosting.com/hls/adventist_angels_watchman_radio/aac_hifi.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/81480.v14.png",
+    "genre": "genre_religious",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke4",
+    "name": "Bahari FM radio",
+    "streamUrl": "https://baharifm-atunwadigital.streamguys1.com/baharifm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/125593.v6.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke5",
+    "name": "Baraka FM",
+    "streamUrl": "http://s2.myradiostream.com:5788/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/7180.v6.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke6",
+    "name": "Biblia Husema",
+    "streamUrl": "https://bhbradio-atunwadigital.streamguys1.com/bhbradio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/7206.v11.png",
+    "genre": "genre_religious",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke8",
+    "name": "Chamgei FM radio",
+    "streamUrl": "https://chamgeifm-atunwadigital.streamguys1.com/chamgeifm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/125591.v6.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke10",
+    "name": "DIASPORA FM",
+    "streamUrl": "https://s2.radio.co/sa399cbc39/listen",
+    "imageUrl": "https://images.zeno.fm/WRVt_RL-DrOGdPqo2ert_dcuq5a9AvO7SRx7Vt5oqrU/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E0TEx3emdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0F3TURibUFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM2MTA4MDAwMA.avif",
+    "genre": "genre_hits",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke11",
+    "name": "East Africa Radio",
+    "streamUrl": "https://eatv.radioca.st/stream",
+    "imageUrl": "https://images.zeno.fm/zep9jImlS0yS8VC0MqBGRHN3wLh54QJH1_9yBOeGKIA/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNjI3MWI5YjMtOGNkZC00ZDc2LWI4MGEtYTY5MzM3NDczMTM3L2ltYWdlLz91PTE3MzM5OTIyNDgwMDA.avif",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke12",
+    "name": "East FM",
+    "streamUrl": "https://eastfm-atunwadigital.streamguys1.com/eastfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/101613.v9.png",
+    "genre": "genre_hits",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke13",
+    "name": "Egesa FM radio",
+    "streamUrl": "https://egesafm-atunwadigital.streamguys1.com/egesafm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/125588.v6.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke14",
+    "name": "Emoo fm",
+    "streamUrl": "https://emoofm-atunwadigital.streamguys1.com/emoofm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/127796.v5.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke16",
+    "name": "Galaxy FM",
+    "streamUrl": "https://galaxyfm-atunwadigital.streamguys1.com/galaxyfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/127798.v4.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke17",
+    "name": "Ghetto Radio",
+    "streamUrl": "https://stream-289.surfernetwork.com/eghcv7h647zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZ2hjdjdoNjQ3enV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJxVE9OU3BTVVNiZV96U2JyRS1zQlNnIiwiaWF0IjoxNzg0NjM1NzU4LCJleHAiOjE3ODQ2MzU4MTh9.MJQ1TlSZOAoDGqNOnpnVU-0zwQCJa_K9HFnIHy_HoA4",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7275.v6.png",
+    "genre": "genre_hiphop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke18",
+    "name": "GUKENA",
+    "streamUrl": "http://gukenafm-atunwadigital.streamguys1.com/gukenafm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/92596.v6.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke19",
+    "name": "HOMEBOYS KENYA",
+    "streamUrl": "http://homeboyzradio-atunwadigital.streamguys1.com/homeboyzradio",
+    "imageUrl": "https://www.kenyamoja.com/sites/default/files/styles/wide/public/radio/Homeboyz%20Radio.webp.avif?itok=H9pigY4S",
+    "genre": "genre_hiphop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke21",
+    "name": "Hope FM",
+    "streamUrl": "https://a5.asurahosting.com:7530/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/7128.v19.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke22",
+    "name": "Hossana FM Radio",
+    "streamUrl": "https://servidor40-5.brlogic.com:7252/live",
+    "imageUrl": "https://images.zeno.fm/Qy_XAwVvjZop1nUZdTGNLv05qFR-xhdfQIo9Xd0srao/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOWMzMmFkODEtNjgzOC00NGMxLThlZjctZWY1NzhhYjg5OTEzL2ltYWdlLz91PTE3ODMzMTM5MTQwMDA.avif",
+    "genre": "genre_religious",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke23",
+    "name": "Hot96 FM radio",
+    "streamUrl": "https://hot96-atunwadigital.streamguys1.com/hot96",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/125619.v4.png",
+    "genre": "genre_hits",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke24",
+    "name": "Inooro FM radio",
+    "streamUrl": "https://inoorofm-atunwadigital.streamguys1.com/inoorofm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/125594.v7.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke27",
+    "name": "Kameme FM",
+    "streamUrl": "https://kamemefm-atunwadigital.streamguys1.com/kamemefm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/7127.v12.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke29",
+    "name": "KBC Coro",
+    "streamUrl": "http://node-30.zeno.fm/xv5375hfkbruv",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kbc-coro-fm.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke30",
+    "name": "KBC Eastern Service",
+    "streamUrl": "https://stream-287.surfernetwork.com/v4hkyzy2tchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2NGhreXp5MnRjaHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJUV1dLWGhiQlNaeVlkOG8waHhSUl9nIiwiaWF0IjoxNzg0NjM2NDM3LCJleHAiOjE3ODQ2MzY0OTd9.8mK14KiNjmXUyRZjA29zyMObwujSLbV6FzzoYdSoZGg",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke31",
+    "name": "KBC English",
+    "streamUrl": "http://milelefm-atunwadigital.streamguys1.com/milelefm",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke32",
+    "name": "KBC English Service",
+    "streamUrl": "https://stream-204.surfernetwork.com/mhmwnyyst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtaG13bnl5c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJsTnhsOXp6N1NxeUcyOWs4MzFaODVnIiwiaWF0IjoxNzg0NjM2MzQ5LCJleHAiOjE3ODQ2MzY0MDl9.tCMyjpxKeqgkifdx3_Y1mWBylDslXLQL7BSxJamCwmA",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/145578.v3.png",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke34",
+    "name": "KBC INGO FM",
+    "streamUrl": "https://node-14.zeno.fm/sxr6fxkgymzuv",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kbc-ingo-fm.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke35",
+    "name": "KBC Kitwek FM",
+    "streamUrl": "https://stream-281.surfernetwork.com/gh67mvp8f2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnaDY3bXZwOGYyenV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIyU1RJcGcxOVRpZU9IUl9GSDByeGl3IiwiaWF0IjoxNzg0NjM2NjMzLCJleHAiOjE3ODQ2MzY2OTN9.m6wfNWGPvO5XUAyHZTNgrFwFR19cppAqxPYI7CzJb4w",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kitwek-fm.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke36",
+    "name": "KBC Mayienga",
+    "streamUrl": "https://stream-283.surfernetwork.com/ayw9hk0st5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheXc5aGswc3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJZajlqcHZPR1FxQ0xkR3RmdnFReGp3IiwiaWF0IjoxNzg0NjM2NjcyLCJleHAiOjE3ODQ2MzY3MzJ9.-JBwu3n4pUiuWC7pNo-TLY0QznB1NIuSc9XvW6pc_6M",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kbc-mayienga-fm.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke37",
+    "name": "KBC Minto FM",
+    "streamUrl": "https://stream-281.surfernetwork.com/u3dw22zst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M2R3MjJ6c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJkOXVlQlcxQ1RzcW9aSUt3QXVJbWZBIiwiaWF0IjoxNzg0NjM2Njg1LCJleHAiOjE3ODQ2MzY3NDV9.PIxAqGJAAUzYtGfftGhHseRNkWfHknVRGRYU7Z6TQKQ",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/minto-fm.webp?v=1784631601",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke38",
+    "name": "KBC Pwani FM",
+    "streamUrl": "https://stream-281.surfernetwork.com/smhmfr1a94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWhtZnIxYTk0enV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJPLS1aSElSUVRuYXMyUkkxRmdTNFp3IiwiaWF0IjoxNzg0NjM2NzE0LCJleHAiOjE3ODQ2MzY3NzR9.QMTG5feba5PwbHiNU1kQ1c1MhaDG2op2uxR5ex66cgY",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kbc-pwani-fm.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke39",
+    "name": "KBC Radio Taifa",
+    "streamUrl": "https://stream-282.surfernetwork.com/ud2u96xst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZDJ1OTZ4c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJtR3JMRGI2VFRtQ0JYNmVXWkoxa1pRIiwiaWF0IjoxNzg0NjM2NzUwLCJleHAiOjE3ODQ2MzY4MTB9.bUjnZTVka02hOMNVUuKacfbhXUeVEvPk8IZCgkJKf4g",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kbc-radio-taifa.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke40",
+    "name": "KISS 100",
+    "streamUrl": "https://www.radiosimba.ug/stream",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kiss-100.webp?v=1784635202",
+    "genre": "genre_hits",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke42",
+    "name": "Mayian Radio",
+    "streamUrl": "https://mayianfm-atunwadigital.streamguys1.com/mayianfm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/7205.v13.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke43",
+    "name": "Mbaitu FM",
+    "streamUrl": "http://201.netromedia.com/MbaituFM001/MbaituFM001/playlist.m3u8",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/mbaitu-fm.webp?v=1784635202",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke44",
+    "name": "Meru FM",
+    "streamUrl": "https://merufm-atunwadigital.streamguys1.com/merufm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/7204.v12.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke47",
+    "name": "Milele FM",
+    "streamUrl": "https://milelefm-atunwadigital.streamguys1.com/milelefm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/7169.v13.png",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke49",
+    "name": "Msenangu FM",
+    "streamUrl": "https://msenangufm-atunwadigital.streamguys1.com/msenangufm",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/127797.v4.png",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke50",
+    "name": "Mulembe FM",
+    "streamUrl": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/mulembe-fm.webp?v=1784635202",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke51",
+    "name": "Musyi FM radio",
+    "streamUrl": "https://musyifm-atunwadigital.streamguys1.com/musyifm",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/musyi-fm.webp?v=1784635202",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke52",
+    "name": "Muuga FM radio",
+    "streamUrl": "https://muugafm-atunwadigital.streamguys1.com/muugafm",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/muuga-fm.webp?v=1784635202",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke54",
+    "name": "Nation FM",
+    "streamUrl": "https://n12.radiojar.com/3by7s8eg65quv?rj-ttl=5&rj-tok=AAABn4TB6eoAAOQL7VBumjPY7w",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/nation-fm.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke55",
+    "name": "North Rift Radio",
+    "streamUrl": "https://stream.northriftradio.fynradio.com/",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/north-rift-radio.webp?v=1784635202",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke57",
+    "name": "Osiepe FM",
+    "streamUrl": "https://osiepefm-atunwadigital.streamguys1.com/osiepefm",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/osiepe-fm.webp?v=1784635202",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke59",
+    "name": "PANTHERS RADIO 254",
+    "streamUrl": "https://stream-179.surfernetwork.com/eljhwp8icqmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlbGpod3A4aWNxbXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJGTG1URF8zTVFpeVJLb3JuNnBlQ3hnIiwiaWF0IjoxNzg0NjM4MzAxLCJleHAiOjE3ODQ2MzgzNjF9.NGfdy4npsth9GdxUOGJvjkA778YyjTau5juGC32uYCc",
+    "imageUrl": "https://images.zeno.fm/dins885_BgVxY48b8u6HPb5NJe01Dt7CEJQTqUSrEps/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTdlZDU2YmQtODRlMy00ZGMzLWE1MDgtYTUyYzAyNWRlOTE0L2ltYWdlLz91PTE2NjU5NDkyOTcwMDA.avif",
+    "genre": "genre_hits",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke60",
+    "name": "Pwani FM 103.1",
+    "streamUrl": "https://stream-281.surfernetwork.com/smhmfr1a94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWhtZnIxYTk0enV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJFZlNJdUFZOFNUYURGSnliVmNXMzNnIiwiaWF0IjoxNzg0NjM4MzYxLCJleHAiOjE3ODQ2Mzg0MjF9.8k3SL-R77qKgHAyb7XDijcCPE44CH3woYkF46mzHjpk",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/kbc-pwani-fm.webp?v=1784635202",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke61",
+    "name": "Radio 254",
+    "streamUrl": "https://s4.radio.co/sba1f00abf/listen",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/radio-254.webp?v=1784635202",
+    "genre": "genre_hits",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke64",
+    "name": "Radio Maisha radio",
+    "streamUrl": "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/radio-maisha.webp?v=1784635202",
+    "genre": "genre_news",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke65",
+    "name": "Ramogi",
+    "streamUrl": "https://ramogifm-atunwadigital.streamguys1.com/ramogifm",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/ramogi-fm.webp?v=1784635202",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke72",
+    "name": "Sauti Ya Pwani FM (SYP FM)",
+    "streamUrl": "http://servidor24.brlogic.com:7630/live",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/sauti-ya-pwani-fm-94-2.webp?v=1784638801",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke74",
+    "name": "Spice FM",
+    "streamUrl": "https://spicefm-atunwadigital.streamguys1.com/spicefm",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/spice-fm.webp?v=1784638801",
+    "genre": "genre_pop",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke75",
+    "name": "Sulwe FM radio",
+    "streamUrl": "https://sulwefm-atunwadigital.streamguys1.com/sulwefm",
+    "imageUrl": "https://cdn.radoxo.com/images/kenya/sulwe-fm.webp?v=1784638801",
+    "genre": "genre_folk",
+    "country": "country_kenya"
+  },
+  {
+    "id": "ke76",
+    "name": "TOUCH RADIO AFRICA",
+    "streamUrl": "https://stream-177.surfernetwork.com/gcntpm1dcm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY250cG0xZGNtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InJ1OFJjeGNxUzltcmN6T2I3ME1kVVEiLCJpYXQiOjE3ODQ2MzkzNDgsImV4cCI6MTc4NDYzOTQwOH0.Aoh7OKmcyynWMbF8TFvRAJRcPwEcJKGx6wNZmnv0KhU",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
     "country": "country_kenya"
   }
 ]
