@@ -1470,5 +1470,661 @@
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
     "genre": "genre_pop",
     "country": "country_tanzania"
+  },
+  {
+    "id": "au1",
+    "name": "SEN Sports 1116 AM",
+    "streamUrl": "http://13.54.221.214:8000/sen.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/rWtUyhkjKL.png",
+    "genre": "genre_sport",
+    "country": "country_australia"
+  },
+  {
+    "id": "au2",
+    "name": "2Day FM",
+    "streamUrl": "https://vistaradio.streamb.live/SB00075",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/025/cfsm-fm-1075-2day-fm.ac08af9a.png",
+    "genre": "genre_hits",
+    "country": "country_australia"
+  },
+  {
+    "id": "au3",
+    "name": "2GB Sydney",
+    "streamUrl": "http://23163.live.streamtheworld.com/2GB.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/508/radio-2gb-live.4dce1422.png",
+    "genre": "genre_news",
+    "country": "country_australia"
+  },
+  {
+    "id": "au4",
+    "name": "3AW Melbourne",
+    "streamUrl": "https://24153.live.streamtheworld.com/3AWAAC_O_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/341/3aw-693-melbourne.3b95c7bd.png",
+    "genre": "genre_sport",
+    "country": "country_australia"
+  },
+  {
+    "id": "au5",
+    "name": "3RRR Melbourne",
+    "streamUrl": "https://realtime.rrr.org.au/p1h",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/649.v4.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au7",
+    "name": "6PR Perth",
+    "streamUrl": "https://23163.live.streamtheworld.com/6PR.mp3",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/751/6pr-882-am.810e0460.png",
+    "genre": "genre_news",
+    "country": "country_australia"
+  },
+  {
+    "id": "au8",
+    "name": "WAY FM 105.3 FM",
+    "streamUrl": "https://abc.streamguys1.com/live/triplejunearthed/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/049/way-fm.3fcb6cbe.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au9",
+    "name": "96 FM",
+    "streamUrl": "https://23093.live.streamtheworld.com/ARN_96FMAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/JNGpF2nuCJ.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au10",
+    "name": "KIIS 97.3 FM",
+    "streamUrl": "https://28793.live.streamtheworld.com/ARN_973FMAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/gL6n6qF7fP.png",
+    "genre": "genre_hits",
+    "country": "country_australia"
+  },
+  {
+    "id": "au11",
+    "name": "ABC North West Queensland",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localnorthwest.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/266/abc-north-west-queensland.0cd9ec5f.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au13",
+    "name": "ABC Brisbane",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/771/612-abc-brisbane.267b7876.jpg",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au14",
+    "name": "ABC Radio Sydney",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/vtxgpryew8cb.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au15",
+    "name": "ABC Far North Queensland",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localfarnorth.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/vzuusfr7bn9z.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au16",
+    "name": "ABC A-League Live",
+    "streamUrl": "http://abc.streamguys1.com/live/aflextra/icecast.audio",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/612.v15.png",
+    "genre": "genre_sport",
+    "country": "country_australia"
+  },
+  {
+    "id": "au17",
+    "name": "ABC Central Coast",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localcentralcoast.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/830/abc-central-coast.14f2df4b.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au18",
+    "name": "ABC Classic 2",
+    "streamUrl": "https://14533.live.streamtheworld.com/NOVA_969_AAC48.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/YSVBYHwAf3.jpg",
+    "genre": "genre_clasic",
+    "country": "country_australia"
+  },
+  {
+    "id": "au19",
+    "name": "ABC Classic 2 Stream",
+    "streamUrl": "http://abc.streamguys1.com/live/classic2/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/YSVBYHwAf3.jpg",
+    "genre": "genre_clasic",
+    "country": "country_australia"
+  },
+  {
+    "id": "au20",
+    "name": "ABC Classic FM",
+    "streamUrl": "http://abc.streamguys1.com/live/classicfmnsw/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/nZMWqFYHb8.png",
+    "genre": "genre_clasic",
+    "country": "country_australia"
+  },
+  {
+    "id": "au21",
+    "name": "ABC Country",
+    "streamUrl": "http://abc.streamguys1.com/live/abccountry/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/v8qMubtXWJ.png",
+    "genre": "genre_folk",
+    "country": "country_australia"
+  },
+  {
+    "id": "au22",
+    "name": "ABC Double J",
+    "streamUrl": "http://abc.streamguys1.com/live/doublejnsw/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vhsZ2Gcf5L.png",
+    "genre": "genre_hiphop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au23",
+    "name": "ABC Extra",
+    "streamUrl": "http://abc.streamguys1.com/live/abcextra/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/202/abc-extra.ffb7db90.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au24",
+    "name": "ABC Goulburn Murray",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localgoulburnmurray.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/276/abc-goulburn-murray.fdcc5f52.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au26",
+    "name": "ABC Itinerant 1",
+    "streamUrl": "https://abc.streamguys1.com/live/afl/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/203/abc-itinerant-one.594f3bad.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au27",
+    "name": "ABC Jazz",
+    "streamUrl": "https://abc.streamguys1.com/live/abcjazz/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/792/abc-jazz.26130441.jpg",
+    "genre": "genre_jazz",
+    "country": "country_australia"
+  },
+  {
+    "id": "au28",
+    "name": "ABC Kids listen",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/abckids.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/75144.v6.png",
+    "genre": "genre_kids",
+    "country": "country_australia"
+  },
+  {
+    "id": "au29",
+    "name": "ABC Kimberley",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localkimberley.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/278/abc-kimberley.856857c5.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au30",
+    "name": "ABC Local Radio 702 North West WA",
+    "streamUrl": "https://abc.streamguys1.com/live/localpilbara/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/266/abc-north-west-queensland.0cd9ec5f.png",
+    "genre": "genre_news",
+    "country": "country_australia"
+  },
+  {
+    "id": "au31",
+    "name": "ABC Local Radio 801 Far North Queensland",
+    "streamUrl": "https://abc.streamguys1.com/live/localfarnorth/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/vzuusfr7bn9z.png",
+    "genre": "genre_news",
+    "country": "country_australia"
+  },
+  {
+    "id": "au34",
+    "name": "ABC Mid West & Wheatbelt",
+    "streamUrl": "http://abc.streamguys1.com/live/localwheatbelt/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/812/abc-mid-west-wheatbelt.67e54167.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au35",
+    "name": "ABC New England North West",
+    "streamUrl": "http://abc.streamguys1.com/live/localnewengland/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/395/abc-new-england-north-west.3f19eeeb.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au36",
+    "name": "ABC News Radio",
+    "streamUrl": "http://abc.streamguys1.com/live/newsradio/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg",
+    "genre": "genre_news",
+    "country": "country_australia"
+  },
+  {
+    "id": "au37",
+    "name": "ABC North and West SA",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localnorthandwest.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/274/639-abc-north-and-west.6e1cb441.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au39",
+    "name": "ABC Northern Tasmania",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localnorthtas.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/dvalseuv8qs6.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au40",
+    "name": "ABC Pilbara",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localpilbara.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/279/abc-pilbara.1066cbc5.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au41",
+    "name": "ABC Radio ALICE SPRINGS",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localalicesprings.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/264/783-abc-alice-springs.978c41fe.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au42",
+    "name": "ABC Radio Australia Multi-language",
+    "streamUrl": "http://abc.streamguys1.com/live/ramulti/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/769/abc-radio-australia-multi-language.ef50af5b.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au43",
+    "name": "ABC Radio BALLARAT",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localballarat.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/75162.v7.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au44",
+    "name": "ABC Radio BROKEN HILL",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localbrokenhill.m3u8",
+    "imageUrl": "https://au.radio.net/175/abcbrokenhill.png?version=41cca15c86d5166cad4a8130fa5d83de9b063f55",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au45",
+    "name": "ABC Radio CAPRICORNIA",
+    "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2109408/localcapricornia/v0-221.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/965/abc-capricornia.51ae4909.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au46",
+    "name": "ABC Radio CENTRAL VICTORIA",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localcentralvic.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/75163.v6.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au47",
+    "name": "ABC Radio CENTRAL WEST",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localcentralwest.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/75146.v8.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au48",
+    "name": "ABC Radio COFFS COAST",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localcoffscoast.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/75147.v6.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au49",
+    "name": "ABC Radio ESPERANCE",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localesperance.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/75169.v6.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au50",
+    "name": "ABC Radio EYRE PENINSULA",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localeyre.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/75159.v7.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au51",
+    "name": "ABC Radio Gippsland",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localgippsland.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/h6hwba2cz8pm.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au52",
+    "name": "ABC Radio GOLD COAST",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localgoldcoast.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/LHEYbyHWxd.png",
+    "genre": "genre_retro",
+    "country": "country_australia"
+  },
+  {
+    "id": "au53",
+    "name": "ABC Radio GOLDFIELDS",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localgoldfields.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/277/abc-goldfields.4c7bac92.png",
+    "genre": "genre_retro",
+    "country": "country_australia"
+  },
+  {
+    "id": "au54",
+    "name": "ABC Radio GREAT SOUTHERN",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localgreatsouthern.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/75170.v6.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au55",
+    "name": "ABC Radio ILLAWARRA",
+    "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2110358/localillawarra/v0-221.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/d25qkkrzmkyh.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au56",
+    "name": "ABC Radio MID NORTH COAST",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localmidnorthcoast.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/75149.v7.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au57",
+    "name": "ABC Radio MIDWEST & WHEATBELT",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localwheatbelt.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/812/abc-mid-west-wheatbelt.67e54167.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au62",
+    "name": "ABC Radio SHEPPARTON",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localshepparton.m3u8",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/75166.v6.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au64",
+    "name": "ABC Radio South West WA",
+    "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2109405/localbunbury/v0-221.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/280/abc-south-west-wa.eaf8c854.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au65",
+    "name": "ABC Radio TROPICAL NORTH",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localtropic.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/752/abc-tropical-north.7bb807f7.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au67",
+    "name": "ABC Radio WESTERN PLAINS",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localwesternplains.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/263/abc-western-plains.e8e09409.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au69",
+    "name": "ABC Radio WIMMERA",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localwimmera.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/600/abc-wimmera.87ecc46c.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au71",
+    "name": "ABC Radio National",
+    "streamUrl": "https://abc.streamguys1.com/live/rnnsw/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/787/abc-radio-national.b9d49fc9.png",
+    "genre": "genre_news",
+    "country": "country_australia"
+  },
+  {
+    "id": "au72",
+    "name": "ABC RN VIC",
+    "streamUrl": "http://abc.streamguys1.com/live/rnvic/icecast.audio",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_news",
+    "country": "country_australia"
+  },
+  {
+    "id": "au73",
+    "name": "ABC South East NSW Radio",
+    "streamUrl": "http://abc.streamguys1.com/live/localsoutheastnsw/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/171/abc-south-east-nsw.7ff6f6b4.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au74",
+    "name": "ABC Southern Queensland",
+    "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localsouthqld.m3u8",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/yktt9vvwcrrx.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au76",
+    "name": "ABC Sport Radio",
+    "streamUrl": "https://abc.streamguys1.com/live/sport/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/ymRrFyvBwL.png",
+    "genre": "genre_sport",
+    "country": "country_australia"
+  },
+  {
+    "id": "au77",
+    "name": "ABC Triple J NSW",
+    "streamUrl": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/Q82S6DFmcT.png",
+    "genre": "genre_hits",
+    "country": "country_australia"
+  },
+  {
+    "id": "au78",
+    "name": "ABC South West Victoria",
+    "streamUrl": "http://abc.streamguys1.com/live/localwimmera/icecast.audio",
+    "imageUrl": "https://cdn.radoxo.com/images/australia/abc-south-west-victoria.webp?v=1784804401",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au81",
+    "name": "Coles Radio",
+    "streamUrl": "https://14533.live.streamtheworld.com/COLES_CONSUMER.mp3?dist=mytuner",
+    "imageUrl": "https://static.mytuner.mobi/media/radios-150px/231/coles-radio-new-south-wales.2bffbd80.png",
+    "genre": "genre_pop",
+    "country": "country_australia"
+  },
+  {
+    "id": "au82",
+    "name": "FOX FM Atlanta",
+    "streamUrl": "https://ice64.securenetsystems.net/WFDR",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/246/fox-fm-atlanta.9907e17b.png",
+    "genre": "genre_hits",
+    "country": "country_australia"
+  },
+  {
+    "id": "au83",
+    "name": "hit104.7 Canberra",
+    "streamUrl": "https://28853.live.streamtheworld.com/ARN_1047HITAAC/HLS/playlist.m3u8",
+    "imageUrl": "https://cdn.radoxo.com/images/australia/hit1047-canberra.webp?v=1784808001",
+    "genre": "genre_hits",
+    "country": "country_australia"
+  },
+  {
+    "id": "au84",
+    "name": "K Rock FM 95.5",
+    "streamUrl": "http://16643.live.streamtheworld.com/GEE_KROCK_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/uCAC8vFJj8.png",
+    "genre": "genre_rock",
+    "country": "country_australia"
+  },
+  {
+    "id": "au86",
+    "name": "Mix FM 92.7",
+    "streamUrl": "https://n03-eu.rcs.revma.com/z06q4stdwhruv.m4a?rj-ttl=5&rj-tok=AAABn47xD9QAOP6C2qUvoXnmwg",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/hZPNZCWXMy.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au87",
+    "name": "Nova 100",
+    "streamUrl": "https://28803.live.streamtheworld.com/NOVA_100.mp3?dist=mytuner",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/339/nova-100.9170da37.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au88",
+    "name": "Nova 106.9",
+    "streamUrl": "https://23163.live.streamtheworld.com/NOVA_1069.mp3?dist=mytuner",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/104/nova-1069-fm.c7ea9f8d.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au89",
+    "name": "Nova 90s",
+    "streamUrl": "https://28903.live.streamtheworld.com/NOVA_90S_SC",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/881/nova-90s2.696e4b3a.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au90",
+    "name": "Nova 91.9",
+    "streamUrl": "https://23153.live.streamtheworld.com/NOVA_919_AAC48.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/744/nova-919-fm.bd1aaab5.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au92",
+    "name": "Nova 96.9",
+    "streamUrl": "https://28803.live.streamtheworld.com/NOVA_969_AAC48.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/046/nova-969-fm.a6df11d3.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au93",
+    "name": "Nova All Stars",
+    "streamUrl": "http://23203.live.streamtheworld.com/NOVA_ALL_STARS_AAC48.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/468/nova-all-stars.5bfe6c95.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au94",
+    "name": "Nova Fresh Country",
+    "streamUrl": "http://23093.live.streamtheworld.com/NOVA_POPUP1_AAC320.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/492/nova-fresh-country.33fe3b35.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au95",
+    "name": "Nova Jamz",
+    "streamUrl": "http://14533.live.streamtheworld.com/NOVA_JAMZ_AAC48.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/288/nova-jamz.c1db129c.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au96",
+    "name": "Nova Nation",
+    "streamUrl": "http://23203.live.streamtheworld.com/NOVA_NATION_SYDNEY_AAC320.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/496/nova-nation.9d3ad4f6.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au97",
+    "name": "Nova Throwbacks",
+    "streamUrl": "https://23203.live.streamtheworld.com/NOVA_THROWBACK_AAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/497/nova-throwbacks.15ed05b4.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au98",
+    "name": "Nova 106.9",
+    "streamUrl": "http://28863.live.streamtheworld.com/NOVA_1069_AAC48.aac?src=redirect",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/104/nova-1069-fm.c7ea9f8d.png",
+    "genre": "genre_dance",
+    "country": "country_australia"
+  },
+  {
+    "id": "au109",
+    "name": "Shack Radio",
+    "streamUrl": "https://usa19.fastcast4u.com/theshack",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/023/shack-radio.fd008ddf.jpg",
+    "genre": "genre_rock",
+    "country": "country_australia"
+  },
+  {
+    "id": "au110",
+    "name": "Smooth FM 91.5",
+    "streamUrl": "https://23153.live.streamtheworld.com/SMOOTH915_AAC48.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/826/smooth-fm-melbourne.27ac1f4a.png",
+    "genre": "genre_relax",
+    "country": "country_australia"
+  },
+  {
+    "id": "au119",
+    "name": "Gold 101.7 FM",
+    "streamUrl": "https://28853.live.streamtheworld.com/ARN_WSFMAAC.aac",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/026/1017-gold.78b1bc0e.png",
+    "genre": "genre_hits",
+    "country": "country_australia"
   }
 ]
