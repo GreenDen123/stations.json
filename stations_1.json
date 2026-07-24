@@ -2126,5 +2126,341 @@
     "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/026/1017-gold.78b1bc0e.png",
     "genre": "genre_hits",
     "country": "country_australia"
+  },
+  {
+    "id": "rw101",
+    "name": "Gendana n'Igihe Radio",
+    "streamUrl": "https://cast.gossdhosting.com/listen/gendana_nigihe_radio/radio.mp3",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlblVPBdd2Gsu6sqi42O_yo47xhj7wMFYrvn26tIsGLspblDSFpDQQzcPGpEMPMjet92PcrX4zW81hx-U0jrRkTt_-zL9840Uw2u4WagnLTQmqHiC8iEzWAEnkhGQ3v50KrZqqF=s1360-w1360-h1020-rw",
+    "genre": "genre_news",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw1",
+    "name": "102.3 KISS FM Rwanda",
+    "streamUrl": "https://kissfm-atunwadigital.streamguys1.com/kissfm",
+    "imageUrl": "https://cdn-radiotime-logos.tunein.com/s231046d.png",
+    "genre": "genre_hits",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw2",
+    "name": "103.5 CAPITAL FM Kigali",
+    "streamUrl": "https://stream-288.surfernetwork.com/byd8us0ysouuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJieWQ4dXMweXNvdXV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Inl0N0ItRHNjUl9hZmRHWEVvQUVHNXciLCJpYXQiOjE3ODQ4NzA1MjIsImV4cCI6MTc4NDg3MDU4Mn0.Nv2kr5ntl1XenVdBKaEZWGZcVtYdT1ybh5eN1PVDwOg",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/121244.v8.png",
+    "genre": "genre_hits",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw3",
+    "name": "104.1 Power FM",
+    "streamUrl": "https://stream.casthost.net/listen/vision_radio_ltd1/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/152265.v1.png",
+    "genre": "genre_news",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw6",
+    "name": "94.5 KEY FM",
+    "streamUrl": "https://stream-175.surfernetwork.com/xvdahws8w6rtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dmRhaHdzOHc2cnR2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImY4REpFOWJhVGJTaUM1eV90QjAwZ2ciLCJpYXQiOjE3ODQ4NzA3ODgsImV4cCI6MTc4NDg3MDg0OH0.Qz2cQQ4iJK7_9js6HiyLi4Y_YbGfh7XJO2q_LjUJLXw",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/137245.v5.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw7",
+    "name": "94.7 Voice FM",
+    "streamUrl": "https://stream3.rcast.net/73425",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/logo/2/154882.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw8",
+    "name": "B&B Kigali 89.7 FM",
+    "streamUrl": "https://eu4.fastcast4u.com/proxy/bbkigali?mp=/1",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/143176.v1.png",
+    "genre": "genre_religious",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw16",
+    "name": "Fine Fm",
+    "streamUrl": "https://a5.asurahosting.com:8210/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/98231.v13.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw18",
+    "name": "Heaven FM Radio Rwanda",
+    "streamUrl": "https://stream-176.surfernetwork.com/eequgfw72hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZXF1Z2Z3NzJoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik56MlRCRkVYVFhXbWVDSEx2TmVOcUEiLCJpYXQiOjE3ODQ4NzIyOTksImV4cCI6MTc4NDg3MjM1OX0.v_k0JUI1ptM8aJH--wln5SSSTPWdH44smVWR1BaRu3g",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78140/logo_o5qqJP9QPx.png",
+    "genre": "genre_religious",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw19",
+    "name": "Hero Radio (Rwanda)",
+    "streamUrl": "https://a2.asurahosting.com:6790/rwanda.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/138748.v4.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw22",
+    "name": "Kime Radio Isoko Muhanga",
+    "streamUrl": "https://stream-175.surfernetwork.com/e8q6wfoimhbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlOHE2d2ZvaW1oYnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Img0dDdtMW00U09tbVZzY3BNQjBLdHciLCJpYXQiOjE3ODQ4NzI0ODgsImV4cCI6MTc4NDg3MjU0OH0.YqtgclWXgDUSZCv2naEyIzrT2Yz_F2kCvtKw5Nn3JYM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/132904.v7.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw23",
+    "name": "KT Radio Rwanda",
+    "streamUrl": "https://stream-289.surfernetwork.com/uewz1vngeq8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZXd6MXZuZ2VxOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9CemlOaGRLUndDUFRnQmQyVkZWbEEiLCJpYXQiOjE3ODQ4NzI1NTAsImV4cCI6MTc4NDg3MjYxMH0.tdPO0tQ_Lpv4LCzW4j6GYixjz_XJo11Cew7WmiJQJSY",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/47649.v5.png",
+    "genre": "genre_news",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw24",
+    "name": "M.star radio rwanda",
+    "streamUrl": "https://stream-178.surfernetwork.com/0cdyc8rybg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2R5YzhyeWJnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjBFdFFQUi11VFVtZ0ttNEQtUnQ4WGciLCJpYXQiOjE3ODQ4NzI1OTgsImV4cCI6MTc4NDg3MjY1OH0.pNUxpM0YgOowCIuB7nfS0UgQlj6xEksuds97mDKyy-o",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78140/logo_o5qqJP9QPx.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw26",
+    "name": "Radio 1 Rwanda",
+    "streamUrl": "http://80.241.215.175:5000/;?type=http&nocache=17093",
+    "imageUrl": "https://images.zeno.fm/cQZPHZe0LnJ8AiljXPy0HmFc5WE0A5ts_dI3iCfryXE/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWRjM2FlNzEtYjE5YS00NmJjLThhZDUtNTRkNmRlZmRhODY3L2ltYWdlLw?u=1770045035000",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw28",
+    "name": "Radio 10 Rwanda",
+    "streamUrl": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/47495.v1.png",
+    "genre": "genre_hits",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw29",
+    "name": "Radio Flash 89.2",
+    "streamUrl": "http://80.241.215.175:7410/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/47494.v11.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw34",
+    "name": "Radio Isangano",
+    "streamUrl": "https://stream-286.surfernetwork.com/qugrdv7l2z0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxdWdyZHY3bDJ6MHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ0cjk2LXZXOFQwYUgtYVpJa1dUd2xBIiwiaWF0IjoxNzg0ODczNDE0LCJleHAiOjE3ODQ4NzM0NzR9.ct-wREumskTqswJ9rj7ynT8rVenMHncU2wjzv8H_f9o&acu-uid=1438888898769&dyn-uid=4406174531433018147&an-uid=69987459409159035&eps-uid=AQAJFvgGnuyK4gEBAQEAAQEBAQEBAQEBAQEBAQEBAJ5lyq0R&dot-uid=0cee2204001b4cbbffccff2d&triton-uid=cookie%3Ace7d183c-65f1-427c-ac44-216cae8c399b&amb-uid=7063609686959811839&cto-uid=0ec9fbcb-2091-40f3-841d-7aed7ec71e91-6968a6b6-4d44&bsw-uid=1af62ba3-8898-41b6-945b-ae952b887831&aw_0_req_lsid=be5a52a6e8758aef78d97bae01f4aea3",
+    "imageUrl": "https://images.zeno.fm/DTyotmivOReTyuk8rGdQc-mAtiwde7nM-7LFxCB-F0I/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDYwNDNjNjktNWRkNy00MjQyLThlMzEtZWE4MjE4MWIxYjY3L2ltYWdlLw?u=1765187351000",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw35",
+    "name": "Radio Isango Star",
+    "streamUrl": "http://80.241.215.175:8000/stream.mp3",
+    "imageUrl": "https://images.zeno.fm/uktDtLDIgsNN0MByNazKlos7JptCInJr0Jyruhsy3KE/rs:fill:512:512/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvODU1NGUxOTgtMmQ2ZC00ZGE4LWI0ZTAtZTc1OGJhNDFlMGE2L2ltYWdlLw?u=1769694841000",
+    "genre": "genre_news",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw37",
+    "name": "Radio Izuba",
+    "streamUrl": "https://stream-291.surfernetwork.com/vbn7vhzh2v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2Ym43dmh6aDJ2OHV2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlhTMDVEcXkwUnBDX2Jsc2xtRGVLUXciLCJpYXQiOjE3ODQ4NzM1MjksImV4cCI6MTc4NDg3MzU4OX0.4jcVjRZam1yLQrdMbRPSvTijZTz_yoq0K9SVFhR6Eyo",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/147433.v5.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw38",
+    "name": "Radio KIME Kigali",
+    "streamUrl": "https://stream-176.surfernetwork.com/hjqggrik3iutv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoanFnZ3JpazNpdXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRXX0ZDOE0zUXp5ZmxBNXpSYVYwMnciLCJpYXQiOjE3ODQ4NzM1ODEsImV4cCI6MTc4NDg3MzY0MX0.rxCaMYiSBmIuUJC9EdFfE-2qb8CvYgLebQG6qlxnR8Y",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/133534.v1.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw40",
+    "name": "RADIO MARIA RWANDA",
+    "streamUrl": "http://dreamsiteradiocp2.com:8098/stream/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/47642.v5.png",
+    "genre": "genre_religious",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw44",
+    "name": "Radio Rusizi",
+    "streamUrl": "https://listen.rba.co.rw:8009/rusizi",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/109027.v7.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw45",
+    "name": "Radio Rwanda",
+    "streamUrl": "https://listen.rba.co.rw:8008/rwanda",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/47373.v6.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw50",
+    "name": "Radio Umucyo",
+    "streamUrl": "http://80.241.215.175:4000/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/47492.v6.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw60",
+    "name": "4-RealTalk",
+    "streamUrl": "https://stream-179.surfernetwork.com/tvt4hcxafc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dnQ0aGN4YWZjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRZUm5yNGdFUVJhbGZLdk1sYkdnZEEiLCJpYXQiOjE3ODQ4NzQ0NTcsImV4cCI6MTc4NDg3NDUxN30.FwPC5kvyG052JPo-IXC7UqfsveYmzIhVlGPyjKKCtP8",
+    "imageUrl": "https://images.zeno.fm/TC6sczQrhPmvF9HAKLLGjXRYv2I_t0ammeRH2miyNf4/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHdsc1NrNXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHd6c3kwbEFvTW9nRUVlbVZ1YncvaW1hZ2Uv?u=1669225587000",
+    "genre": "genre_news",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw63",
+    "name": "ACDC",
+    "streamUrl": "https://stream-176.surfernetwork.com/u9a9x5k7138uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OWE5eDVrNzEzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlItREd6SGhaU2pDeVhiVWJ6amc3dWciLCJpYXQiOjE3ODQ4NzQ5ODAsImV4cCI6MTc4NDg3NTA0MH0.w8AhDnpzrwmWSaYVn9B8FHPJVLiqlVaY4aNHtRBQsfE",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw65",
+    "name": "Africa Today",
+    "streamUrl": "https://stream-178.surfernetwork.com/vjfztnsmsytvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2amZ6dG5zbXN5dHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjJlbG5YMTBnU2U2YW8zckszRVlyeWciLCJpYXQiOjE3ODQ4NzUwODUsImV4cCI6MTc4NDg3NTE0NX0.5YcJYb6Ik_XUHk8Zlesr1xmxi_6s6qDsVtdXL4Qms7I",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/809/africa-today-news-radio.117516ad.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw66",
+    "name": "Afrokast",
+    "streamUrl": "https://stream-177.surfernetwork.com/ph22u7qdf0ttv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaDIydTdxZGYwdHR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImdGYThFSm5GVDJ1VGRkSDN4WkRKMmciLCJpYXQiOjE3ODQ4NzUyMTAsImV4cCI6MTc4NDg3NTI3MH0.cMwbyYPC4b9H40zJK4Lrp4IeU-QEtZeXW-3x3nvRDHw",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/135248.v1.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw69",
+    "name": "Ahupa Visual",
+    "streamUrl": "https://stream-175.surfernetwork.com/mptnyfvb7ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtcHRueWZ2YjdlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtzUVA3QVUxVEdXV0xBdGF2MUxnNXciLCJpYXQiOjE3ODQ4NzUzMjQsImV4cCI6MTc4NDg3NTM4NH0.Z50q_kFeRjjaF9JVSi19RkY9ri7rxCwg3X7h-kkw59k",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/112134.v3.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw72",
+    "name": "Arrows Radio Kabuga",
+    "streamUrl": "https://stream-177.surfernetwork.com/60bew8zhymzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGJldzh6aHltenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlycnFJWjFGVDJPVEFrWlhpMUx2OXciLCJpYXQiOjE3ODQ4NzU0MTYsImV4cCI6MTc4NDg3NTQ3Nn0.-u9QS81gnweYgcdf0HoQNLN_AY8-h5b7eiVEzBATPRU",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw73",
+    "name": "B&B Kigali 89.7FM",
+    "streamUrl": "https://eu4.fastcast4u.com/proxy/bbkigali?mp=%2F1",
+    "imageUrl": "https://radiospinner.com/media/logos/180/78207/logo_BsiPDxvfwY.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw74",
+    "name": "B1",
+    "streamUrl": "https://stream-176.surfernetwork.com/nudz29p13k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudWR6MjlwMTNrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjJKcHUxMFRmUXctVS1RQXFyRXVQZHciLCJpYXQiOjE3ODQ4NzU1MjEsImV4cCI6MTc4NDg3NTU4MX0.mdFwfs8fJi8hf9e1ZJIv2fgp-XLVOCLpA0H0cD14v24",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw76",
+    "name": "Barz",
+    "streamUrl": "https://stream-178.surfernetwork.com/emk3wt4myrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlbWszd3Q0bXlyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImJCOHdVRm40VHZlZUpYTW54TW5INFEiLCJpYXQiOjE3ODQ4NzU2MjIsImV4cCI6MTc4NDg3NTY4Mn0.70KIoLxtge2uzJlBzD2ue9MCvSONlsotCIq7nfa5MVs",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw77",
+    "name": "Be You FM",
+    "streamUrl": "https://stream-177.surfernetwork.com/r4b94uptb0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyNGI5NHVwdGIwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFRVFMzeElJU1J1OXQ4ZXF0b24xYnciLCJpYXQiOjE3ODQ4NzU2NjYsImV4cCI6MTc4NDg3NTcyNn0.Zb6EQo5_Nr0sB2N7o77Wa_hfwBmYJS-rJgrLGv4iNtk",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw78",
+    "name": "Big Base",
+    "streamUrl": "https://stream-178.surfernetwork.com/r5yygpb1beftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyNXl5Z3BiMWJlZnR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlVEbllYMUo3UkFXb3N3X0RqejFydEEiLCJpYXQiOjE3ODQ4NzU3MTYsImV4cCI6MTc4NDg3NTc3Nn0.0fvRfpS3ZpA4biSCkahho1uGWoL_19E9HbYOnilQZbo",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/147213.v1.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw81",
+    "name": "Bois d’Ebene",
+    "streamUrl": "https://stream-179.surfernetwork.com/utunwpbaptzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dHVud3BiYXB0enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlBjbXVoYnEyVFBlTTVpa0I1c1ctRnciLCJpYXQiOjE3ODQ4NzU4MTEsImV4cCI6MTc4NDg3NTg3MX0.lsnpb4wNWVi_ngc5mETOzCbGori44wt4V7bP2Zh7HhM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/85933.v5.png",
+    "genre": "genre_dance",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw82",
+    "name": "BRM",
+    "streamUrl": "https://stream-178.surfernetwork.com/nq17nkuq638uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJucTE3bmt1cTYzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InNVSm9yZ3VZVEpxNGpaTUUtcmRHSFEiLCJpYXQiOjE3ODQ4NzU4NDUsImV4cCI6MTc4NDg3NTkwNX0.hg0bLVjvhElf7sN0u7xqNFapgLr0fKhzNeZxyrsP5zU",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/107211.v4.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw94",
+    "name": "CNM STATION",
+    "streamUrl": "https://stream-175.surfernetwork.com/ewcnhntrbq8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJld2NuaG50cmJxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im5FUEN3WjFzUUFXWUt4SExiUFJoS2ciLCJpYXQiOjE3ODQ4NzY0MTksImV4cCI6MTc4NDg3NjQ3OX0.Ns-8cFCAt19MUAsEwYfRdcjiCn5Fn_j2CMlUxRTyQns",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/101847.v4.png",
+    "genre": "genre_religious",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw95",
+    "name": "DAWA RWANDA",
+    "streamUrl": "https://stream-179.surfernetwork.com/axcw20advp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheGN3MjBhZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Iml5UkxCZF90U2lPWnNIVlBjYXZzbHciLCJpYXQiOjE3ODQ4NzY0NTcsImV4cCI6MTc4NDg3NjUxN30.V5q-l2WF3xY-3bYkcHOk7TVX71WiC2f0Q1aMtPYbEEg",
+    "imageUrl": "https://images.zeno.fm/4sQDsFhxbKtfRN_em61Omkv7lHn7toPLOnPEIGf33iM/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3dvSmp1amdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFfN19DMmdnTW9nRUVlbVZ1YncvaW1hZ2Uv?u=1730721094000",
+    "genre": "genre_religious",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw96",
+    "name": "Dilan",
+    "streamUrl": "https://stream-176.surfernetwork.com/vonjkamctfauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2b25qa2FtY3RmYXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhSclZ1ZFBJUThpMnMtLXZEYm5fMHciLCJpYXQiOjE3ODQ4NzY2NDcsImV4cCI6MTc4NDg3NjcwN30.sjHqE3JVu6Zk0T770PjsH44KwvURb2_Q5-ip39ILqi8",
+    "imageUrl": "https://yzfwydwirfiyaapvbacl.supabase.co/storage/v1/object/public/rasa-assets/stations/de027306-17db-4c77-8593-b7a2f860b7f9/logo.webp?v=1775518733",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw97",
+    "name": "DLRadio",
+    "streamUrl": "https://stream-178.surfernetwork.com/37gkym1kms8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzN2dreW0xa21zOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImRjVE5UYjV4VGFlc0tfNkt5aTU2UWciLCJpYXQiOjE3ODQ4NzY3NzEsImV4cCI6MTc4NDg3NjgzMX0.PXNb8U5tPx34Ot7SXKNCxU5li7sCgl_9Lqk7rqyWaso",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
+  },
+  {
+    "id": "rw99",
+    "name": "DREAMS",
+    "streamUrl": "https://stream-179.surfernetwork.com/0757mdv59ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwNzU3bWR2NTllaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik5pVUgzRURJUXQtdVNqWmF2eUFOSXciLCJpYXQiOjE3ODQ4NzY4ODUsImV4cCI6MTc4NDg3Njk0NX0.EXlrZOV38pFEPbSBcj31aH85ZYMxuAXCntcBXq3tguM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/112228.v1.png",
+    "genre": "genre_pop",
+    "country": "country_rwanda"
   }
 ]
