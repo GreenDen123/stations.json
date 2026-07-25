@@ -10,7 +10,7 @@
   {
     "id": "ru129",
     "name": "Радио Рекорд Remix",
-    "streamUrl": "https://hls-01-radiorecord.hostingradio.ru/record-rmx/112/playlist.m3u8",
+    "streamUrl": "https://radiorecord.hostingradio.ru/rmx96.aacp",
     "imageUrl": "https://top-radio.ru/assets/image/radio/180/remix-rr.png",
     "genre": "genre_pop",
     "country": "country_russia"
