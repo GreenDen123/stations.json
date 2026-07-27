@@ -2758,5 +2758,469 @@
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/112228.v1.png",
     "genre": "genre_pop",
     "country": "country_rwanda"
+  },
+  {
+    "id": "mw1",
+    "name": "Angaliba FM (AFM)",
+    "streamUrl": "https://cast4.my-control-panel.com/proxy/victori3/angaliba",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/96528.v27.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw2",
+    "name": "Balaka Community",
+    "streamUrl": "https://radio.exclusivemw.live/listen/balaka_community_radio/radio.mp3",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/131645.v2.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw3",
+    "name": "Beyond FM",
+    "streamUrl": "https://play.streamafrica.net/beyond",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79074/logo_IBQ8FAy1Gp.png",
+    "genre": "genre_hits",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw4",
+    "name": "Blantyre Synod",
+    "streamUrl": "https://play.streamafrica.net/btsynod",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/99778.v25.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw5",
+    "name": "Calvary Family",
+    "streamUrl": "https://calvaryfm-dexterity.radioca.st/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79091/logo_QFNSEBQ0Zg.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw9",
+    "name": "Capital Radio Malawi",
+    "streamUrl": "https://node.stream-africa.com:8443/CapitalFM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/43802.v11.png",
+    "genre": "genre_news",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw10",
+    "name": "Chanco Community",
+    "streamUrl": "https://live.netradio.pro/listen/chanco/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79122/logo_HmLOa3nScn.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw11",
+    "name": "Chilomoni FM Stereo",
+    "streamUrl": "https://stream-176.surfernetwork.com/ukvun8757zhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1a3Z1bjg3NTd6aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkNiZFl4ZERXVDMyTE5udUk4UllLTlEiLCJpYXQiOjE3ODUxMzIzMTgsImV4cCI6MTc4NTEzMjM3OH0.o8yAkK3upPPbRMzPEyUcXARQ0QCyD3Cp8Fc1EH39G9s",
+    "imageUrl": "https://images.zeno.fm/kbOCq5bG3p1p6kXwJHORwPpz7b-O5RbK_utmXfgAf7I/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRElxZGZTaUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREl5WnV4NkFzTW9nRUVlbVZ1YncvaW1hZ2Uv?u=1660588006000",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw12",
+    "name": "Chisomo Radio Station",
+    "streamUrl": "https://live.netradio.pro/listen/crs/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79070/logo_pAuyWsbFiP.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw13",
+    "name": "Choice FM National",
+    "streamUrl": "https://live.netradio.pro/listen/choicemw/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/154690.v1.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw15",
+    "name": "Dj's on Mlatho",
+    "streamUrl": "https://streams.radio.co/sd1bcd1376/listen",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/84347.v4.png",
+    "genre": "genre_hiphop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw16",
+    "name": "Dowa FM",
+    "streamUrl": "https://radio.exclusivemw.live/listen/dowa_fm/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/7/152307.v10.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw18",
+    "name": "Dzimwe Community",
+    "streamUrl": "https://live.netradio.pro/listen/dzimw/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79095/logo_LeDsHu9Weh.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw19",
+    "name": "Eagle FM",
+    "streamUrl": "http://eaglefm-dexterity.radioca.st/stream",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/114225.v6.png",
+    "genre": "genre_hits",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw20",
+    "name": "Extreme FM",
+    "streamUrl": "https://stream-177.surfernetwork.com/vqvxfu68f0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cXZ4ZnU2OGYwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik5UNlhiZ1FTU2t5SktOZWwyOGYwQkEiLCJpYXQiOjE3ODUxMzI4MjYsImV4cCI6MTc4NTEzMjg4Nn0.iY6hMpVrk2ZadcHGMOvUts2MEHNJgUewAyf9HPoU2PA",
+    "imageUrl": "https://radio-tune.com/wp-content/uploads/2025/10/Extreme-FM.jpg",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw21",
+    "name": "Groove FM",
+    "streamUrl": "https://play.streamafrica.net/groove",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79103/logo_XblJSn1IYM.png",
+    "genre": "genre_hiphop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw22",
+    "name": "HERO RADIO (MALAWI)",
+    "streamUrl": "https://a2.asurahosting.com:6790/malawi.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79120/logo_LfXh35U0SU.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw25",
+    "name": "Hosanna FM",
+    "streamUrl": "https://servidor40-5.brlogic.com:7252/live?source=website",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79090/logo_LRG5zHMC1I.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw26",
+    "name": "Jesus 24/7 FM",
+    "streamUrl": "https://play.streamafrica.net/jesus",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/130217.v8.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw28",
+    "name": "Kuwala FM",
+    "streamUrl": "https://host2.streamafrica.net/listen/kuwala_radio/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79088/logo_QB39x8BpTf.png",
+    "genre": "genre_news",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw30",
+    "name": "Lilanguka",
+    "streamUrl": "https://live.netradio.pro/listen/nguka/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79117/logo_gPhW2ESsD9.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw31",
+    "name": "Linga FM",
+    "streamUrl": "https://live.netradio.pro/listen/lingfm/radio.mp3",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/109967.v6.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw32",
+    "name": "Love FM",
+    "streamUrl": "https://radio.exclusivemw.live/listen/love_fm/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79078/logo_XRZkZQG0NF.png",
+    "genre": "genre_relax",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw35",
+    "name": "Magic Radio Station",
+    "streamUrl": "https://host2.streamafrica.net/listen/magic_radio/radio.mp3",
+    "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
+    "genre": "genre_hits",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw36",
+    "name": "Mangochi East",
+    "streamUrl": "https://stream-175.surfernetwork.com/bbun8687wnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiYnVuODY4N3duaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InpTU0JUd3NyUzUyNWc1c3Vnc2NUX2ciLCJpYXQiOjE3ODUxMzc1NDIsImV4cCI6MTc4NTEzNzYwMn0.4l9i3nsR7pqRYsKMlfUMGk-UstVwsG5MpTrZJ7Cy3l0",
+    "imageUrl": "https://images.zeno.fm/m2t6Rjp33xG3xaUJ0l0A1QzCrTRAmAHNfU1wulm1g2U/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lsZmZYNGdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0k1Y2ludmdvTW9nRUVlbVZ1YncvaW1hZ2Uv?u=1659767472000",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw38",
+    "name": "MBC Radio 2",
+    "streamUrl": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1",
+    "imageUrl": "https://static-media.streema.com/media/cache/a5/0f/a50f34ce556a73b7337362d66827b428.jpg",
+    "genre": "genre_news",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw40",
+    "name": "MIJ FM Malawi Institute of Journalism",
+    "streamUrl": "http://65.108.124.70:7954/mij",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/124656.v10.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw44",
+    "name": "Moyo FM",
+    "streamUrl": "https://stream-175.surfernetwork.com/8shobxsbmnuvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4c2hvYnhzYm1udXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZiRU1uX1ZiVFVTQlFvVDFrbmJzeXciLCJpYXQiOjE3ODUxMzgzODksImV4cCI6MTc4NTEzODQ0OX0.oUlBi6YWbjblOHcQiWFW45ebhfJ9mqQylzS7fQBHPN8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79104/logo_DoDZb9KCP3.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw48",
+    "name": "Nathenje Fm Radio Station",
+    "streamUrl": "https://servidor19.brlogic.com:7168/live",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/128325.v1.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw50",
+    "name": "Ngale FM",
+    "streamUrl": "https://stream-179.surfernetwork.com/tfualr61tqvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0ZnVhbHI2MXRxdnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBTQlk4RnE4VGptTmVGU0ptam5BNUEiLCJpYXQiOjE3ODUxMzg2MzEsImV4cCI6MTc4NTEzODY5MX0.RSjWk-ijMtXQaB55162EOq0rqtXme84JoQezAizoVAo",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/131263.v1.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw51",
+    "name": "Nkhoma FM",
+    "streamUrl": "http://cast1.asurahosting.com:7347/live",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79126/logo_inJdAXW9xV.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw55",
+    "name": "Nthiramanja FM",
+    "streamUrl": "https://stream-176.surfernetwork.com/iwihrrtakzrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd2locnJ0YWt6cnR2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjFwMlhyazZUUWNleDVnUXNxQzR1OHciLCJpYXQiOjE3ODUxMzg5MjAsImV4cCI6MTc4NTEzODk4MH0.7NdR8uy1o83tB7bH7VKNXdhl-C1bsPeMzOVWM0DQyb0&acu-uid=1477374671765&dyn-uid=1220680107841905499&an-uid=2798532851748588642&eps-uid=AQAEjvKD2znxKgEBAQEAAQEBAQEBAQEBAQEBAQEBAJ6PqqPl&dot-uid=0da2220400ab0587a1c69423&triton-uid=cookie%3A4c74683a-8186-4e57-b995-d9ce5949344f&amb-uid=7283169978893064238&dbm-uid=CAESEG93HcQakwUqDen9fMYzd6Y&cto-uid=cf26ea68-61b7-4a1b-86ed-797c4c2f4250-6a4e043e-4d44&bsw-uid=11d1a033-3753-49d5-8936-2e315d070517&aw_0_req_lsid=03b7b164b0266ecb5b0d83ba2ec8dd61",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79123/logo_qScTn8FEAp.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw58",
+    "name": "Police Fm",
+    "streamUrl": "http://c20.radioboss.fm:8493/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79102/logo_JLHWwoHS1O.png",
+    "genre": "genre_hits",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw59",
+    "name": "Power Global Radio 1",
+    "streamUrl": "https://a10.asurahosting.com:7270/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/145959.v8.png",
+    "genre": "genre_hits",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw60",
+    "name": "Power Global Gospel Radio",
+    "streamUrl": "https://a10.asurahosting.com:9020/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/149731.v1.png",
+    "genre": "genre_hits",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw62",
+    "name": "Radio Alinafe",
+    "streamUrl": "https://radioalinafe.live/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79072/logo_Bp6j9OTAbM.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw63",
+    "name": "Radio Alinafe Archdiocese Of Lilongwe",
+    "streamUrl": "https://radioalinafe.live/stream",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79072/logo_Bp6j9OTAbM.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw65",
+    "name": "Radio Bembeke FM",
+    "streamUrl": "https://radio.exclusivemw.live/listen/radio_bembeke_fm/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/103786.v21.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw69",
+    "name": "RADIO MARIA MALAWI",
+    "streamUrl": "http://dreamsiteradiocp.com:8040/;",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/43830.v7.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw71",
+    "name": "Radio Tigabane",
+    "streamUrl": "https://host2.streamafrica.net/listen/tigabane/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79082/logo_zdKoLqfrUb.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw73",
+    "name": "Rise FM",
+    "streamUrl": "https://stream-178.surfernetwork.com/g6cgymgea40vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnNmNneW1nZWE0MHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik85cWpwZEE1U1JpMFJqNU9VaHRLd2ciLCJpYXQiOjE3ODUxNDc4NDMsImV4cCI6MTc4NTE0NzkwM30.sF3m6xWyOIlD0k2nuwMY1rKgwaH6JazzlyXF4SCOaRc",
+    "imageUrl": "https://images.zeno.fm/Ik7mbjQpcfg654gzzrai3XyDuxLlz9qFW_LKVtumYqg/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjkzYjFlMjItZWMyMy00ZDlhLWIxNTgtM2MyMWI5YmZlNzA3L2ltYWdlLw?u=1713873237000",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw74",
+    "name": "AW Rumphi",
+    "streamUrl": "https://halo.streamerr.co/listen/italiavera/stream.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/151080.v1.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw75",
+    "name": "Story Club FM",
+    "streamUrl": "https://stream-287.surfernetwork.com/pmsyym60maauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwbXN5eW02MG1hYXV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ilo3NWFGeGNsU3hXaGxDVjB2Wi1MOUEiLCJpYXQiOjE3ODUxNDgwMTUsImV4cCI6MTc4NTE0ODA3NX0.-GuFZ0qNaLcdxQ7VOi9k2is23O7gtrJyxK4qFyEcly8",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79111/logo_F7WdCKlDzn.png",
+    "genre": "genre_dance",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw76",
+    "name": "Timveni",
+    "streamUrl": "https://strw3.openstream.co/495?aw_0_1st.collectionid%3D7374%26stationId%3D7374%26publisherId%3D519%26k%3D1785148086",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79071/logo_4hI46PEpEZ.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw77",
+    "name": "Tiwale Media",
+    "streamUrl": "https://stream-175.surfernetwork.com/3g3e4rfktuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzZzNlNHJma3R1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhJcFBJSEw0UkZDeW5oRWVmdG9NRGciLCJpYXQiOjE3ODUxNDgxMTgsImV4cCI6MTc4NTE0ODE3OH0.8tdPVQN3f1RKfXGfJxBXSRC2IkuKDtqOf7L6JUedZQQ",
+    "imageUrl": "https://cdn.radoxo.com/images/malawi/tiwale-media-radio.webp?v=1785146401",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw78",
+    "name": "Tuntufye FM",
+    "streamUrl": "https://stream-291.surfernetwork.com/ekhjwjjj0a0vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJla2hqd2pqajBhMHZ2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Inl2endtek5VU3VhSi05Q0VSc2k5cGciLCJpYXQiOjE3ODUxNDgxOTgsImV4cCI6MTc4NTE0ODI1OH0.sO7Q5rOYa_29MZPK3H216hSU4zEziaprmYbDXrZz-FM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/105403.v11.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw79",
+    "name": "TWR Malawi",
+    "streamUrl": "https://host2.streamafrica.net/listen/twr_malawi/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79081/logo_rw6PTLdfQ6.png",
+    "genre": "genre_religious",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw81",
+    "name": "Umunthu FM",
+    "streamUrl": "https://host2.streamafrica.net/listen/umunthu/radio.mp3",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/103952.v24.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw83",
+    "name": "UWALA RADIO",
+    "streamUrl": "https://servidor22.brlogic.com:7078/live",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/118585.v8.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw87",
+    "name": "ZBS Zodiak FM",
+    "streamUrl": "https://ice31.securenetsystems.net/0079",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/43831.v9.png",
+    "genre": "genre_news",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw89",
+    "name": "Angaliba FM",
+    "streamUrl": "https://cast4.my-control-panel.com/proxy/victori3/angaliba",
+    "imageUrl": "https://radiostationslive.com/uploads/2024/01/96528.v27.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw92",
+    "name": "Kasupe",
+    "streamUrl": "https://host2.streamafrica.net/listen/kasupe_radio/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79073/logo_sU5gcZnXXg.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw96",
+    "name": "Mlimi",
+    "streamUrl": "https://host2.streamafrica.net/listen/mlimi/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79092/logo_Ubiv9jq1at.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw97",
+    "name": "MobiSchool",
+    "streamUrl": "https://play.streamafrica.net/mobi",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/109951.v8.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw98",
+    "name": "Mzati",
+    "streamUrl": "https://play.streamafrica.net/mzati",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79089/logo_lDH0bvGDLr.png",
+    "genre": "genre_folk",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw100",
+    "name": "Prof K. Online",
+    "streamUrl": "https://host2.streamafrica.net/listen/prof_k_ngwira/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79125/logo_nfxIRQKcfA.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw101",
+    "name": "Times",
+    "streamUrl": "https://ice31.securenetsystems.net/TIMESFM",
+    "imageUrl": "https://cdn.onlineradiobox.com/img/l/2/76802.v12.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
+  },
+  {
+    "id": "mw102",
+    "name": "Yetu",
+    "streamUrl": "https://host2.streamafrica.net/listen/yetu_radio/radio.mp3",
+    "imageUrl": "https://radiospinner.com/media/logos/180/79087/logo_eOFTRl7Qki.png",
+    "genre": "genre_pop",
+    "country": "country_malawi"
   }
 ]
