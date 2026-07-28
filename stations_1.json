@@ -2768,14 +2768,6 @@
     "country": "country_malawi"
   },
   {
-    "id": "mw2",
-    "name": "Balaka Community",
-    "streamUrl": "https://radio.exclusivemw.live/listen/balaka_community_radio/radio.mp3",
-    "imageUrl": "https://radiostationslive.com/uploads/2024/01/131645.v2.png",
-    "genre": "genre_folk",
-    "country": "country_malawi"
-  },
-  {
     "id": "mw3",
     "name": "Beyond FM",
     "streamUrl": "https://play.streamafrica.net/beyond",
@@ -3042,14 +3034,6 @@
   {
     "id": "mw62",
     "name": "Radio Alinafe",
-    "streamUrl": "https://radioalinafe.live/stream",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79072/logo_Bp6j9OTAbM.png",
-    "genre": "genre_religious",
-    "country": "country_malawi"
-  },
-  {
-    "id": "mw63",
-    "name": "Radio Alinafe Archdiocese Of Lilongwe",
     "streamUrl": "https://radioalinafe.live/stream",
     "imageUrl": "https://radiospinner.com/media/logos/180/79072/logo_Bp6j9OTAbM.png",
     "genre": "genre_religious",
