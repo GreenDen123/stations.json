@@ -17920,6 +17920,14 @@
     "country": "country_turkey"
   },
   {
+    "id": "mex4",
+    "name": "Radio 100.7 stereo FM",
+    "streamUrl": "https://strcdn.klm99.com/8010/stream",
+    "imageUrl": "https://images.keepone.net/5629-2026-08-25.jpg",
+    "genre": "genre_hits",
+    "country": "country_mexico"
+  },
+  {
     "id": "mex1",
     "name": "Los 40",
     "streamUrl": "https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac?dist=onlineradiobox",
