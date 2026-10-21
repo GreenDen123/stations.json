@@ -106,8 +106,8 @@
   {
     "id": "ru2",
     "name": "Русское Радио",
-    "streamUrl": "https://online.garmoniyafm.com/listen/garm/256",
-    "imageUrl": "https://top-radio.ru/assets/image/radio/180/garmoniya-fm.jpg",
+    "streamUrl": "https://rusradio.hostingradio.ru/rusradio128.mp3",
+    "imageUrl": "https://topradio.me/assets/image/radio/100/rus-radio.webp",
     "genre": "genre_pop",
     "country": "country_russia"
   },
