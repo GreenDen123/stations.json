@@ -34,7 +34,7 @@
   {
     "id": "ke26",
     "name": "Jesus is Lord Radio",
-    "streamUrl": "https://s3.radio.co/s97f38db97/listen",
+    "streamUrl": "https://stream-285.surfernetwork.com/thdtw5xd9eiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0aGR0dzV4ZDllaXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJlbEtZTHFqU1RMV05KMUQ3WUNSZFBRIiwiaWF0IjoxNzk0OTAwMTU4LCJleHAiOjE3OTQ5MDAyMTh9.oaK1F8fuLoI9qZGX_jD0SiC_WhczCGVRF7meTXqNSZY&1794900158400",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/77895.v3.png",
     "genre": "genre_religious",
     "country": "country_kenya"
@@ -397,14 +397,6 @@
     "streamUrl": "https://s4.radio.co/sba1f00abf/listen",
     "imageUrl": "https://cdn.radoxo.com/images/kenya/radio-254.webp?v=1784635202",
     "genre": "genre_hits",
-    "country": "country_kenya"
-  },
-  {
-    "id": "ke64",
-    "name": "Radio Maisha radio",
-    "streamUrl": "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha",
-    "imageUrl": "https://cdn.radoxo.com/images/kenya/radio-maisha.webp?v=1784635202",
-    "genre": "genre_news",
     "country": "country_kenya"
   },
   {
