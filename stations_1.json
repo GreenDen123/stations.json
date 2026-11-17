@@ -74,7 +74,7 @@
   {
     "id": "cg16",
     "name": "Goma Webradio",
-    "streamUrl": "http://node-30.zeno.fm/4d61wprrp7zuv",
+    "streamUrl": "https://stream-176.surfernetwork.com/b5qhrprrp7zuv",
     "imageUrl": "https://static-media.streema.com/media/cache/0a/b0/0ab0079407692b582cfba2a3405ef28a.jpg",
     "genre": "genre_pop",
     "country": "country_congo"
@@ -114,17 +114,9 @@
   {
     "id": "cg28",
     "name": "OCEAN FM",
-    "streamUrl": "http://radiostation.berosat.live/listen/radio_bero/radio.mp3",
+    "streamUrl": "https://stream-175.surfernetwork.com/wnawq794tk8uv",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/156595.v2.png",
     "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg30",
-    "name": "Pana Radio",
-    "streamUrl": "https://node-04.zeno.fm/dnw3x5tqpc9uv",
-    "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/377/pana-radio.82ab7a11.jpg",
-    "genre": "genre_pop",
     "country": "country_congo"
   },
   {
@@ -304,14 +296,6 @@
     "country": "country_congo"
   },
   {
-    "id": "cg76",
-    "name": "RMCA",
-    "streamUrl": "https://rmca-1.ice.infomaniak.ch/rmca-128.mp3",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/100459.v10.png",
-    "genre": "genre_religious",
-    "country": "country_congo"
-  },
-  {
     "id": "cg79",
     "name": "Simba FM",
     "streamUrl": "https://stream-44.zeno.fm/99sw3kybt7zuv",
@@ -333,14 +317,6 @@
     "streamUrl": "https://stream.rcs.revma.com/u98b8f5q54zuv",
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
     "genre": "genre_hits",
-    "country": "country_congo"
-  },
-  {
-    "id": "cg87",
-    "name": "EDB FM",
-    "streamUrl": "https://radiostation.berosat.live/listen/edb-fm/radio.mp3",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/4/157964.v1.png",
-    "genre": "genre_pop",
     "country": "country_congo"
   },
   {
@@ -1034,7 +1010,7 @@
   {
     "id": "tz40",
     "name": "Karagwe FM",
-    "streamUrl": "https://radiotadio.co.tz/karagwe-fm-stream",
+    "streamUrl": "https://radiotadio.co.tz/karagwe-fm-stream?nocache=1794906165618",
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
     "genre": "genre_pop",
     "country": "country_tanzania"
@@ -1242,7 +1218,7 @@
   {
     "id": "tz93",
     "name": "Dar es Salaam",
-    "streamUrl": "https://a5.asurahosting.com:8210/",
+    "streamUrl": "https://a5.asurahosting.com:8210/radio.mp3?type=http&nocache=8",
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
     "genre": "genre_pop",
     "country": "country_tanzania"
@@ -2378,7 +2354,7 @@
   {
     "id": "au184",
     "name": "Radio 2ST",
-    "streamUrl": "https://17843.live.streamtheworld.com/NOW_2STAAC_SC?csegid=888&dist=triton-web&pname=StandardPlayerV4",
+    "streamUrl": "https://16643.live.streamtheworld.com/NOW_2STAAC/HLS/playlist.m3u8",
     "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/qreSUyYzdz.png",
     "genre": "genre_pop",
     "country": "country_australia"
@@ -2466,17 +2442,9 @@
   {
     "id": "rw7",
     "name": "94.7 Voice FM",
-    "streamUrl": "https://stream3.rcast.net/73425",
+    "streamUrl": "https://stream-175.surfernetwork.com/kh4b0hch5suuv",
     "imageUrl": "https://cdn.onlineradiobox.com/img/logo/2/154882.png",
     "genre": "genre_pop",
-    "country": "country_rwanda"
-  },
-  {
-    "id": "rw8",
-    "name": "B&B Kigali 89.7 FM",
-    "streamUrl": "https://eu4.fastcast4u.com/proxy/bbkigali?mp=/1",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/6/143176.v1.png",
-    "genre": "genre_religious",
     "country": "country_rwanda"
   },
   {
@@ -2512,26 +2480,10 @@
     "country": "country_rwanda"
   },
   {
-    "id": "rw23",
-    "name": "KT Radio Rwanda",
-    "streamUrl": "https://stream-289.surfernetwork.com/uewz1vngeq8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZXd6MXZuZ2VxOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9CemlOaGRLUndDUFRnQmQyVkZWbEEiLCJpYXQiOjE3ODQ4NzI1NTAsImV4cCI6MTc4NDg3MjYxMH0.tdPO0tQ_Lpv4LCzW4j6GYixjz_XJo11Cew7WmiJQJSY",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/47649.v5.png",
-    "genre": "genre_news",
-    "country": "country_rwanda"
-  },
-  {
     "id": "rw24",
     "name": "M.star radio rwanda",
     "streamUrl": "https://stream-178.surfernetwork.com/0cdyc8rybg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2R5YzhyeWJnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjBFdFFQUi11VFVtZ0ttNEQtUnQ4WGciLCJpYXQiOjE3ODQ4NzI1OTgsImV4cCI6MTc4NDg3MjY1OH0.pNUxpM0YgOowCIuB7nfS0UgQlj6xEksuds97mDKyy-o",
     "imageUrl": "https://radiospinner.com/media/logos/180/78140/logo_o5qqJP9QPx.png",
-    "genre": "genre_pop",
-    "country": "country_rwanda"
-  },
-  {
-    "id": "rw26",
-    "name": "Radio 1 Rwanda",
-    "streamUrl": "http://80.241.215.175:5000/;?type=http&nocache=17093",
-    "imageUrl": "https://images.zeno.fm/cQZPHZe0LnJ8AiljXPy0HmFc5WE0A5ts_dI3iCfryXE/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWRjM2FlNzEtYjE5YS00NmJjLThhZDUtNTRkNmRlZmRhODY3L2ltYWdlLw?u=1770045035000",
     "genre": "genre_pop",
     "country": "country_rwanda"
   },
@@ -2660,14 +2612,6 @@
     "name": "Arrows Radio Kabuga",
     "streamUrl": "https://stream-177.surfernetwork.com/60bew8zhymzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGJldzh6aHltenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlycnFJWjFGVDJPVEFrWlhpMUx2OXciLCJpYXQiOjE3ODQ4NzU0MTYsImV4cCI6MTc4NDg3NTQ3Nn0.-u9QS81gnweYgcdf0HoQNLN_AY8-h5b7eiVEzBATPRU",
     "imageUrl": "https://zeno.fm/_ipx/_/https://images.zeno.fm/lI-VtNnIhCcrf1e8cWQZaSn98J3GGFIas0C6RlJohz0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOTFhNmE3MTMtYzJmOC00OWU2LTk4OWEtN2NmNzBlYzI2YzgwL2ltYWdlLz91PTE3MDE2OTY5NDIwMDA.webp",
-    "genre": "genre_pop",
-    "country": "country_rwanda"
-  },
-  {
-    "id": "rw73",
-    "name": "B&B Kigali 89.7FM",
-    "streamUrl": "https://eu4.fastcast4u.com/proxy/bbkigali?mp=%2F1",
-    "imageUrl": "https://radiospinner.com/media/logos/180/78207/logo_BsiPDxvfwY.png",
     "genre": "genre_pop",
     "country": "country_rwanda"
   },
@@ -3056,14 +3000,6 @@
     "country": "country_malawi"
   },
   {
-    "id": "mw71",
-    "name": "Radio Tigabane",
-    "streamUrl": "https://host2.streamafrica.net/listen/tigabane/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79082/logo_zdKoLqfrUb.png",
-    "genre": "genre_pop",
-    "country": "country_malawi"
-  },
-  {
     "id": "mw73",
     "name": "Rise FM",
     "streamUrl": "https://stream-178.surfernetwork.com/g6cgymgea40vv",
@@ -3080,14 +3016,6 @@
     "country": "country_malawi"
   },
   {
-    "id": "mw75",
-    "name": "Story Club FM",
-    "streamUrl": "https://stream-287.surfernetwork.com/pmsyym60maauv",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79111/logo_F7WdCKlDzn.png",
-    "genre": "genre_dance",
-    "country": "country_malawi"
-  },
-  {
     "id": "mw76",
     "name": "Timveni",
     "streamUrl": "https://strw3.openstream.co/495?aw_0_1st.collectionid%3D7374%26stationId%3D7374%26publisherId%3D519%26k%3D1785148086",
@@ -3100,14 +3028,6 @@
     "name": "Tiwale Media",
     "streamUrl": "https://stream-175.surfernetwork.com/3g3e4rfktuhvv",
     "imageUrl": "https://cdn.radoxo.com/images/malawi/tiwale-media-radio.webp?v=1785146401",
-    "genre": "genre_pop",
-    "country": "country_malawi"
-  },
-  {
-    "id": "mw78",
-    "name": "Tuntufye FM",
-    "streamUrl": "https://stream-291.surfernetwork.com/ekhjwjjj0a0vv",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/105403.v11.png",
     "genre": "genre_pop",
     "country": "country_malawi"
   },
@@ -3184,14 +3104,6 @@
     "country": "country_malawi"
   },
   {
-    "id": "mw100",
-    "name": "Prof K. Online",
-    "streamUrl": "https://host2.streamafrica.net/listen/prof_k_ngwira/radio.mp3",
-    "imageUrl": "https://radiospinner.com/media/logos/180/79125/logo_nfxIRQKcfA.png",
-    "genre": "genre_pop",
-    "country": "country_malawi"
-  },
-  {
     "id": "mw101",
     "name": "Times",
     "streamUrl": "https://ice31.securenetsystems.net/TIMESFM",
@@ -3210,7 +3122,7 @@
   {
     "id": "ir01",
     "name": "IRIB Radio Iran",
-    "streamUrl": "https://s5.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
+    "streamUrl": "https://s1cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83697/logo_uI8AbzvriT.png",
     "genre": "genre_info",
     "country": "country_iran"
@@ -3218,7 +3130,7 @@
   {
     "id": "ir03",
     "name": "IRIB Radio Payam",
-    "streamUrl": "https://s4.cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
+    "streamUrl": "https://s1cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83694/logo_0IuZfR9Zp8.png",
     "genre": "genre_pop",
     "country": "country_iran"
@@ -3226,7 +3138,7 @@
   {
     "id": "ir04",
     "name": "IRIB Radio Quran",
-    "streamUrl": "https://s0.cdn1.iranseda.ir/liveedge/radio-quran/playlist.m3u8",
+    "streamUrl": "https://s0cdn1.iranseda.ir/liveedge/radio-quran/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83714/logo_8C7K2l3oc4.png",
     "genre": "genre_religious",
     "country": "country_iran"
@@ -3234,7 +3146,7 @@
   {
     "id": "ir08",
     "name": "IRIB Radio Salamat",
-    "streamUrl": "https://s2.cdn3.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
+    "streamUrl": "https://s3cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83701/logo_dZqPMCkHCi.png",
     "genre": "genre_info",
     "country": "country_iran"
@@ -3242,7 +3154,7 @@
   {
     "id": "ir09",
     "name": "IRIB Radio Eghtesad",
-    "streamUrl": "https://s2.cdn3.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8",
+    "streamUrl": "https://s6cdn3.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83713/logo_Nt3oIlijg0.png",
     "genre": "genre_info",
     "country": "country_iran"
@@ -3250,7 +3162,7 @@
   {
     "id": "ir10",
     "name": "IRIB Radio Ava",
-    "streamUrl": "https://s1.cdn3.iranseda.ir/liveedge/radio-avaa/playlist.m3u8",
+    "streamUrl": "https://s4cdn3.iranseda.ir/liveedge/radio-avaa/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83705/logo_xfNd74edFK.png",
     "genre": "genre_pop",
     "country": "country_iran"
@@ -3258,7 +3170,7 @@
   {
     "id": "ir11",
     "name": "IRIB Radio Goftego",
-    "streamUrl": "https://s1.cdn3.iranseda.ir/liveedge/radio-goftego/chunklist_w1816972193.m3u8",
+    "streamUrl": "https://s1cdn3.iranseda.ir/liveedge/radio-goftego/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83728/logo_OWABEFSx7x.png",
     "genre": "genre_info",
     "country": "country_iran"
@@ -3266,7 +3178,7 @@
   {
     "id": "ir12",
     "name": "IRIB Radio Saba",
-    "streamUrl": "https://s5.cdn3.iranseda.ir/liveedge/radio-saba/playlist.m3u8",
+    "streamUrl": "https://s1cdn3.iranseda.ir/liveedge/radio-saba/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83707/logo_xAi2ON0yUA.png",
     "genre": "genre_folk",
     "country": "country_iran"
@@ -3274,16 +3186,8 @@
   {
     "id": "ir18",
     "name": "IRIB Radio Tehran",
-    "streamUrl": "https://s0.cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
+    "streamUrl": "https://s1cdn3.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83702/logo_mKULtR9Umg.png",
-    "genre": "genre_info",
-    "country": "country_iran"
-  },
-  {
-    "id": "ir21",
-    "name": "IRIB Radio Gilan",
-    "streamUrl": "https://s1.cdn3.iranseda.ir/liveedgeprovincial/radio-gilan/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83718/logo_tKEEphrl7e.png",
     "genre": "genre_info",
     "country": "country_iran"
   },
@@ -3298,32 +3202,8 @@
   {
     "id": "ir31",
     "name": "IRIB Radio Golestan",
-    "streamUrl": "https://s1.cdn3.iranseda.ir/liveedgeprovincial/radio-golestan/playlist.m3u8",
+    "streamUrl": "https://s1cdn3.iranseda.ir/liveedgeprovincial/radio-golestan/playlist.m3u8",
     "imageUrl": "https://radiospinner.com/media/logos/180/83720/logo_20D6KyjXef.png",
-    "genre": "genre_info",
-    "country": "country_iran"
-  },
-  {
-    "id": "ir32",
-    "name": "IRIB Radio Zahedan",
-    "streamUrl": "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-zahedan/chunklist_w427823602.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83717/logo_xwLbnjg92p.png",
-    "genre": "genre_info",
-    "country": "country_iran"
-  },
-  {
-    "id": "ir34",
-    "name": "IRIB Radio Markazi",
-    "streamUrl": "http://s1.cdn1.iranseda.ir:1935/liveedgeProvincial/radio-markazi/chunklist_w1802563629.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83719/logo_hPOEHpKk6N.png",
-    "genre": "genre_info",
-    "country": "country_iran"
-  },
-  {
-    "id": "ir36",
-    "name": "IRIB Radio Abadan (Khuzestan)",
-    "streamUrl": "https://s1.cdn3.iranseda.ir/liveedgeprovincial/radio-abadan/playlist.m3u8",
-    "imageUrl": "https://radiospinner.com/media/logos/180/83712/logo_BIAxbWyy0f.png",
     "genre": "genre_info",
     "country": "country_iran"
   },
@@ -3418,7 +3298,7 @@
   {
     "id": "pk03",
     "name": "Radio1 FM91 Gwadar",
-    "streamUrl": "https://cc.vmakerhost.com/proxy/gwadar?mp=%2Fstream%3A",
+    "streamUrl": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
     "imageUrl": "https://radiospinner.com/media/logos/180/83758/logo_66XA57bbEW.png",
     "genre": "genre_hits",
     "country": "country_pakistan"
@@ -3436,14 +3316,6 @@
     "name": "Hot FM 105 Hyderabad",
     "streamUrl": "https://cc.vmakerhost.com/proxy/sc_hyd1?mp=/stream",
     "imageUrl": "https://cdn.onlineradiobox.com/img/l/0/67730.v10.png",
-    "genre": "genre_dance",
-    "country": "country_pakistan"
-  },
-  {
-    "id": "pk06",
-    "name": "Hot FM 98 MirpurKhas",
-    "streamUrl": "https://cc.vmakerhost.com/proxy/sc_mirp?mp=%2Fstream",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/5/67825.v6.png",
     "genre": "genre_dance",
     "country": "country_pakistan"
   },
@@ -3688,17 +3560,9 @@
     "country": "country_pakistan"
   },
   {
-    "id": "pk48",
-    "name": "Jeay FM Sukkur",
-    "streamUrl": "https://ssl.rockhost.com/proxy/sukkur?mp=%2Fstream",
-    "imageUrl": "https://cdn.radoxo.com/images/pakistan/jeay-fm-sukkur.webp?v=1786096801",
-    "genre": "genre_pop",
-    "country": "country_pakistan"
-  },
-  {
     "id": "pk49",
     "name": "Jeay FM Larkana",
-    "streamUrl": "https://ssl.rockhost.com/proxy/larkana?mp=%2Fstream",
+    "streamUrl": "https://ssl.rockhost.com/proxy/larkana?mp=/stream",
     "imageUrl": "https://cdn.radoxo.com/images/pakistan/jeay-fm-sukkur.webp?v=1786096801",
     "genre": "genre_pop",
     "country": "country_pakistan"
@@ -3722,16 +3586,8 @@
   {
     "id": "pk52",
     "name": "Spice FM 107",
-    "streamUrl": "http://s5.myradiostream.com/42724/listen.mp3",
+    "streamUrl": "https://stream-284.surfernetwork.com/7h2gbp077f8uv",
     "imageUrl": "https://cdn.radoxo.com/images/pakistan/spice-fm107.webp?v=1786096801",
-    "genre": "genre_pop",
-    "country": "country_pakistan"
-  },
-  {
-    "id": "pk55",
-    "name": "Power Radio FM 99",
-    "streamUrl": "https://isb.power99.live/stream.mp3",
-    "imageUrl": "https://cdn.radoxo.com/images/pakistan/power-radio.webp?v=1786096801",
     "genre": "genre_pop",
     "country": "country_pakistan"
   },
@@ -3740,14 +3596,6 @@
     "name": "Radio Awaz",
     "streamUrl": "http://fusion.shoutca.st:8128/stream",
     "imageUrl": "https://radiospinner.com/media/logos/180/83788/logo_ujpdLmU8GS.png",
-    "genre": "genre_pop",
-    "country": "country_pakistan"
-  },
-  {
-    "id": "pk59",
-    "name": "Aladin Radio (Magic FM)",
-    "streamUrl": "https://cc.vmakerhost.com/proxy/magic?mp=%2Flive",
-    "imageUrl": "https://cdn.radoxo.com/images/pakistan/aladin-radio.webp?v=1786096801",
     "genre": "genre_pop",
     "country": "country_pakistan"
   },
@@ -3792,17 +3640,9 @@
     "country": "country_pakistan"
   },
   {
-    "id": "pk67",
-    "name": "FM 97 Khanewal",
-    "streamUrl": "http://s7.reliastream.com:8218/Tune-In%20Links/",
-    "imageUrl": "https://cdn.onlineradiobox.com/img/l/9/67929.v6.png",
-    "genre": "genre_pop",
-    "country": "country_pakistan"
-  },
-  {
     "id": "pk68",
     "name": "FM 91 Pakistan 90s Music",
-    "streamUrl": "http://172.93.237.106:8217/stream",
+    "streamUrl": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
     "imageUrl": "https://cdn.radoxo.com/images/pakistan/radio1-fm91-islamabad.webp?v=1786096801",
     "genre": "genre_90s",
     "country": "country_pakistan"
@@ -3930,8 +3770,8 @@
   {
     "id": "pk106",
     "name": "Radio Pakistan Sialkot",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8090/stream",
-    "imageUrl": "https://cdn.radoxo.com/images/pakistan/external-service.webp?v=1786100401",
+    "streamUrl": "https://whmsonic.radio.gov.pk:8038/relay?type=http&nocache=9",
+    "imageUrl": "https://cdn.radoxo.com/images/pakistan/fm-101-sialkot.webp?v=1791194402",
     "genre": "genre_info",
     "country": "country_pakistan"
   }
